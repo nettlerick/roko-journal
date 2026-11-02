@@ -70,7 +70,56 @@
  "series": "Journal",
  "date": "2026-11-02T16:55",
  "updated": "2026-11-02T16:55",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Meehowu, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Sheffield-town-hall-staircase.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/questions-to-ask-a-wedding-venue/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Grand historic interior staircase with red carpet, marble walls, and a Christmas tree in the hall",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/cover.webp"
+  },
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Juist,_Strandhotel_Kurhaus_Juist_--_2014_--_3668.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/questions-to-ask-a-wedding-venue/1.webp",
+   "width": 1600,
+   "height": 710,
+   "alt": "Exterior view of a grand white hotel and restaurant building illuminated at dusk with bicycles parked outside.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/1.webp"
+  },
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Funchal_(Madeira,_Portugal),_Pa%C3%A7os_do_Concelho_do_Funchal_--_2025_--_1005.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/questions-to-ask-a-wedding-venue/2.webp",
+   "width": 1600,
+   "height": 1906,
+   "alt": "Exterior view of the historic Funchal City Hall building in Madeira, Portugal, featuring a flag and ornate stonework.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/2.webp"
+  },
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Cochem,_Alte_Thorschenke_--_2018_--_0002.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/questions-to-ask-a-wedding-venue/3.webp",
+   "width": 1600,
+   "height": 2000,
+   "alt": "Exterior facade of the historic Alte Thorschenke building in Cochem, Germany with a decorated wooden door.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/3.webp"
+  }
+ ],
  "categories": [
   "wedding-venues-and-accommodation",
   "wedding-venues"

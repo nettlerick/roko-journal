@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T16:53:53+00:00",
+ "generated": "2026-11-02T17:05:47+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -433,7 +433,7 @@
     "url": "/wedding-venues-and-accommodation",
     "label": "Browse wedding venues on Roko"
    },
-   "status": "waiting for photo"
+   "status": "published"
   },
   {
    "n": 24,
@@ -1745,19 +1745,380 @@
    "status": "planned"
   }
  ],
- "articles": [],
- "waiting": [
-  "questions-to-ask-a-wedding-venue",
-  "weddings-by-the-numbers-what-official-statistics-show"
+ "articles": [
+  {
+   "slug": "questions-to-ask-a-wedding-venue",
+   "roadmap": 23,
+   "title": "Questions to ask a wedding venue before you book",
+   "seo_title": "Questions to ask a wedding venue before you book",
+   "dek": "The questions that matter at every viewing, from what the price includes to music curfews, suppliers, access and cancellation, wherever in the world you marry.",
+   "type": "guide",
+   "cluster": "venues",
+   "body": "A venue viewing is the one meeting where the venue is selling and you are buying, and that balance shifts the moment you sign. The questions below are the ones worth asking while it is still in your favour. They work for a country house in England, a rooftop in New York, a hotel ballroom in Dubai or a farmhouse outside Florence, because the things that cause problems later are much the same everywhere: what is included, what is restricted, what happens on the day and what happens if plans change.\n\nTake this list to every viewing, write the answers down and ask the venue to confirm the important ones in writing. A friendly coordinator who says \"that won't be a problem\" is not the same as a clause in a contract.\n\n## Availability, dates and exclusivity\n\nStart here, because nothing else matters if the date does not work.\n\n- **Which dates are free in your season, and how quickly are they going?** If you are flexible, ask which days of the week and which months are easiest to book. Friday, Sunday and weekday weddings are often quieter, and quieter can mean more choice.\n- **Is the venue exclusive to you for the day?** Some venues host more than one wedding or event on the same day, in different rooms or at different times. Ask who else will be on site and whether any spaces, entrances or car parks are shared.\n- **What time can you get in, and what time must everyone be out?** Ask about access the day before for setting up, and the time suppliers must have packed everything away.\n- **Is there a hold on the date while you decide?** Ask how long a provisional booking lasts and whether anyone else can overtake it.\n\nPopular months differ by country, so do not assume your local peak is everyone's. Official figures show August was the most popular month for weddings in England and Wales in 2023, and for opposite-sex couples in Ireland in 2024, while Australia's busiest single date in 2024 fell in February. The [Roko report on what official statistics say about when and how people marry](/journal/weddings-by-the-numbers-what-official-statistics-show) sets the figures side by side.\n\n## What the price includes\n\nTwo quotes that look alike can describe very different days. Ask for a written breakdown and go through it line by line.\n\n- **What exactly is included in the hire fee?** Tables, chairs, linen, crockery, glassware, staff, a dance floor, a ceremony room, a bridal suite and cleaning are sometimes included and sometimes charged separately.\n- **Is there a minimum spend or a minimum number of guests?** Many venues set a minimum on food and drink, especially for Saturdays and peak months. Ask what happens if your final numbers fall below it.\n- **Which taxes and service charges are added, and are they in the quoted figure?** In some countries tax and gratuity are added on top; in others they are already included.\n- **What costs extra on the day?** Corkage, cake cutting, late-night food, overtime for staff, security and extended hours are the usual extras.\n- **Can you see the price for your exact date and numbers?** A brochure price for a winter weekday is not the price of a summer Saturday.\n\nIf you are working with a modest budget, ask which packages the venue offers for smaller weddings, off-peak days or shorter hire periods. The best venues are often happy to talk about this, and it is much easier to negotiate before you book than after.\n\n## Food, drink and suppliers\n\nThis is where restrictions usually hide.\n\n- **Must you use the venue's own caterer, or can you bring your own?** If you can bring your own, ask whether caterers need to come from an approved list and whether the venue charges a kitchen fee.\n- **Can you supply your own drinks?** Ask about corkage per bottle, whether there is a bar minimum and whether the bar can stay open until the end.\n- **Do suppliers need to be approved or insured?** Some venues ask for public liability insurance and risk assessments from every supplier. Find out early so your photographer, band and florist can send what is needed.\n- **Can the kitchen handle the menu you want?** If your wedding needs a particular cuisine, such as Indian, kosher, halal or a full vegan menu, ask whether the kitchen has done it before and whether an outside specialist can work alongside the venue's team.\n- **Are there tastings, and are they included?**\n\n## Ceremony and legal requirements\n\nWhether a venue can host your legal ceremony depends on the law where you marry, not on the venue's wishes.\n\n- **Is the venue licensed or approved for legal ceremonies?** In some countries, including England and Wales, civil ceremonies must take place in approved premises. Elsewhere, a celebrant or officiant can marry you almost anywhere. Check the rules for the country you are marrying in, with the relevant government or registration office.\n- **Where would the ceremony take place, and what is the wet-weather plan?** If the ceremony is outdoors, ask to see the indoor alternative and how quickly the room can be turned around.\n- **Are there rules about music, readings, candles or religious elements?** Some venues restrict open flames, confetti or amplified music during the ceremony.\n- **For a religious or cultural ceremony, is there space for everything it needs?** A mandap, a chuppah, a tea ceremony or a long procession all need room, time and sometimes extra permissions.\n\n## Music, noise and the end of the night\n\n- **What time must music stop?** Many venues have a licence or neighbour agreement that sets a hard finish.\n- **Is there a sound limiter?** If there is, ask your band or DJ to speak to the venue before you book them.\n- **Where can the band or DJ set up, and how much power is available?**\n- **Are fireworks, sparklers, sky lanterns or a late-night bonfire allowed?**\n\n## Guests, access and accommodation\n\n- **How many guests can you seat for dinner, and how many can attend in the evening?** The ceremony room, the dining room and the evening space often have different capacities.\n- **Is the venue accessible for every guest?** Ask about step-free routes, accessible toilets, parking close to the entrance and quiet spaces for anyone who needs a break.\n- **Are there bedrooms on site, and do you have to book them all?** Some venues include rooms; others require you to take every room for exclusive use.\n- **How do guests get there and get home?** Ask about parking, taxis, late-night transport and the nearest hotels.\n- **Are children welcome, and are there any restrictions on where they can go?**\n\n## The coordinator and the day itself\n\n- **Who will be your contact during planning, and who will be in charge on the day?** These are not always the same person.\n- **How many staff will be working at your wedding?** Ask about the ratio of serving staff to guests for the meal.\n- **Can you have a final meeting and a walk-through before the day?**\n- **What happens if something goes wrong?** Ask about back-up power, a wet-weather plan and first aid.\n\n## Contracts, payments and cancellation\n\nRead the contract slowly before you pay anything.\n\n- **What is the deposit, when are the remaining payments due and are they refundable?**\n- **What happens if you need to move the date or cancel?** Ask how much you would lose at each stage and whether the venue will try to resell the date.\n- **What happens if the venue has to cancel?** Ask what they would refund and whether they would help find an alternative.\n- **Can the prices change between booking and the wedding?** Ask whether the quote is fixed or whether food, drink and staffing can rise.\n- **Does the venue recommend wedding insurance, and does it hold its own?**\n\nAsk for every promise made at the viewing to appear in the contract, including the date, the times, the spaces, the guest numbers, the inclusions and the price.\n\n## After the viewing\n\nCompare venues on what the day will actually cost and how it will actually run, not on the brochure. Put your answers side by side, add up the real total for your numbers and note anything that would rule a venue out.\n\nWhen you are ready to shortlist, you can [browse event and wedding businesses on Roko](/wedding-vendors), compare their details and contact them directly. Once the venue is booked, the same questions about inclusions, insurance and cancellation are worth asking of every other supplier you hire.",
+   "faq": [
+    {
+     "q": "How many wedding venues should you view?",
+     "a": "View enough to compare like with like. Shortlist on date, capacity and budget first, then visit the venues that pass, with the same list of questions for each, so you can compare the answers side by side."
+    },
+    {
+     "q": "Should you get venue promises in writing?",
+     "a": "Yes. Ask for the date, times, spaces, guest numbers, inclusions and price to appear in the contract, along with anything the coordinator agreed at the viewing, such as access times or permission for your own drinks."
+    },
+    {
+     "q": "What is a minimum spend at a wedding venue?",
+     "a": "It is an amount you agree to spend on food and drink, or on the hire as a whole, regardless of your final guest numbers. Ask what the minimum is for your date and what happens if your numbers fall below it."
+    },
+    {
+     "q": "Can any venue host a legal wedding ceremony?",
+     "a": "It depends on the law where you marry. In some countries, including England and Wales, civil ceremonies must take place in approved premises, while elsewhere a celebrant can marry you almost anywhere. Check with the government or registration office for the country you are marrying in."
+    }
+   ],
+   "keywords": [
+    "questions to ask a wedding venue",
+    "wedding venue viewing",
+    "wedding venue contract"
+   ],
+   "tags": [
+    "Venues",
+    "Planning",
+    "Budget",
+    "Contracts",
+    "Checklists"
+   ],
+   "image_subjects": [
+    "wedding reception hall",
+    "banquet hall tables",
+    "wedding venue interior",
+    "country house hotel"
+   ],
+   "time_sensitive": false,
+   "sources": [
+    {
+     "title": "ONS: Marriages in England and Wales: 2023",
+     "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/bulletins/marriagesinenglandandwalesprovisional/2023",
+     "publisher": "Office for National Statistics"
+    },
+    {
+     "title": "CSO: Marriages 2024, key findings",
+     "url": "https://www.cso.ie/en/releasesandpublications/ep/p-mar/marriages2024/keyfindings",
+     "publisher": "Central Statistics Office, Ireland"
+    },
+    {
+     "title": "ABS: Marriages and Divorces, Australia, 2024",
+     "url": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/2024",
+     "publisher": "Australian Bureau of Statistics"
+    }
+   ],
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover venues and suppliers on Roko"
+   },
+   "review": false,
+   "series": "Journal",
+   "date": "2026-11-02T16:55",
+   "updated": "2026-11-02T16:55",
+   "images": [
+    {
+     "credit": "Photo: Meehowu, CC BY-SA 4.0, via Wikimedia Commons",
+     "credit_url": "https://commons.wikimedia.org/wiki/File:Sheffield-town-hall-staircase.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "file": "media/questions-to-ask-a-wedding-venue/cover.webp",
+     "width": 2000,
+     "height": 1125,
+     "alt": "Grand historic interior staircase with red carpet, marble walls, and a Christmas tree in the hall",
+     "source": "commons",
+     "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/cover.webp"
+    },
+    {
+     "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+     "credit_url": "https://commons.wikimedia.org/wiki/File:Juist,_Strandhotel_Kurhaus_Juist_--_2014_--_3668.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "file": "media/questions-to-ask-a-wedding-venue/1.webp",
+     "width": 1600,
+     "height": 710,
+     "alt": "Exterior view of a grand white hotel and restaurant building illuminated at dusk with bicycles parked outside.",
+     "source": "commons",
+     "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/1.webp"
+    },
+    {
+     "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+     "credit_url": "https://commons.wikimedia.org/wiki/File:Funchal_(Madeira,_Portugal),_Pa%C3%A7os_do_Concelho_do_Funchal_--_2025_--_1005.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "file": "media/questions-to-ask-a-wedding-venue/2.webp",
+     "width": 1600,
+     "height": 1906,
+     "alt": "Exterior view of the historic Funchal City Hall building in Madeira, Portugal, featuring a flag and ornate stonework.",
+     "source": "commons",
+     "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/2.webp"
+    },
+    {
+     "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+     "credit_url": "https://commons.wikimedia.org/wiki/File:Cochem,_Alte_Thorschenke_--_2018_--_0002.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "file": "media/questions-to-ask-a-wedding-venue/3.webp",
+     "width": 1600,
+     "height": 2000,
+     "alt": "Exterior facade of the historic Alte Thorschenke building in Cochem, Germany with a decorated wooden door.",
+     "source": "commons",
+     "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/3.webp"
+    }
+   ],
+   "categories": [
+    "wedding-venues-and-accommodation",
+    "wedding-venues"
+   ],
+   "editor_approved": true,
+   "html": "<p>A venue viewing is the one meeting where the venue is selling and you are buying, and that balance shifts the moment you sign. The questions below are the ones worth asking while it is still in your favour. They work for a country house in England, a rooftop in New York, a hotel ballroom in Dubai or a farmhouse outside Florence, because the things that cause problems later are much the same everywhere: what is included, what is restricted, what happens on the day and what happens if plans change.</p><p>Take this list to every viewing, write the answers down and ask the venue to confirm the important ones in writing. A friendly coordinator who says \"that won't be a problem\" is not the same as a clause in a contract.</p><h2 id=\"availability-dates-and-exclusivity\">Availability, dates and exclusivity</h2><p>Start here, because nothing else matters if the date does not work.</p><ul><li><strong>Which dates are free in your season, and how quickly are they going?</strong> If you are flexible, ask which days of the week and which months are easiest to book. Friday, Sunday and weekday weddings are often quieter, and quieter can mean more choice.</li><li><strong>Is the venue exclusive to you for the day?</strong> Some venues host more than one wedding or event on the same day, in different rooms or at different times. Ask who else will be on site and whether any spaces, entrances or car parks are shared.</li><li><strong>What time can you get in, and what time must everyone be out?</strong> Ask about access the day before for setting up, and the time suppliers must have packed everything away.</li><li><strong>Is there a hold on the date while you decide?</strong> Ask how long a provisional booking lasts and whether anyone else can overtake it.</li></ul><p>Popular months differ by country, so do not assume your local peak is everyone's. Official figures show August was the most popular month for weddings in England and Wales in 2023, and for opposite-sex couples in Ireland in 2024, while Australia's busiest single date in 2024 fell in February. The <a href=\"/journal/weddings-by-the-numbers-what-official-statistics-show\">Roko report on what official statistics say about when and how people marry</a> sets the figures side by side.</p><figure class=\"jr-figure\"><img src=\"https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/1.webp\" alt=\"Exterior view of a grand white hotel and restaurant building illuminated at dusk with bicycles parked outside.\" width=\"1600\" height=\"710\" loading=\"lazy\" decoding=\"async\"><figcaption><a href=\"https://commons.wikimedia.org/wiki/File:Juist,_Strandhotel_Kurhaus_Juist_--_2014_--_3668.jpg\" target=\"_blank\" rel=\"noopener\">Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption></figure><h2 id=\"what-the-price-includes\">What the price includes</h2><p>Two quotes that look alike can describe very different days. Ask for a written breakdown and go through it line by line.</p><ul><li><strong>What exactly is included in the hire fee?</strong> Tables, chairs, linen, crockery, glassware, staff, a dance floor, a ceremony room, a bridal suite and cleaning are sometimes included and sometimes charged separately.</li><li><strong>Is there a minimum spend or a minimum number of guests?</strong> Many venues set a minimum on food and drink, especially for Saturdays and peak months. Ask what happens if your final numbers fall below it.</li><li><strong>Which taxes and service charges are added, and are they in the quoted figure?</strong> In some countries tax and gratuity are added on top; in others they are already included.</li><li><strong>What costs extra on the day?</strong> Corkage, cake cutting, late-night food, overtime for staff, security and extended hours are the usual extras.</li><li><strong>Can you see the price for your exact date and numbers?</strong> A brochure price for a winter weekday is not the price of a summer Saturday.</li></ul><p>If you are working with a modest budget, ask which packages the venue offers for smaller weddings, off-peak days or shorter hire periods. The best venues are often happy to talk about this, and it is much easier to negotiate before you book than after.</p><h2 id=\"food-drink-and-suppliers\">Food, drink and suppliers</h2><p>This is where restrictions usually hide.</p><ul><li><strong>Must you use the venue's own caterer, or can you bring your own?</strong> If you can bring your own, ask whether caterers need to come from an approved list and whether the venue charges a kitchen fee.</li><li><strong>Can you supply your own drinks?</strong> Ask about corkage per bottle, whether there is a bar minimum and whether the bar can stay open until the end.</li><li><strong>Do suppliers need to be approved or insured?</strong> Some venues ask for public liability insurance and risk assessments from every supplier. Find out early so your photographer, band and florist can send what is needed.</li><li><strong>Can the kitchen handle the menu you want?</strong> If your wedding needs a particular cuisine, such as Indian, kosher, halal or a full vegan menu, ask whether the kitchen has done it before and whether an outside specialist can work alongside the venue's team.</li><li><strong>Are there tastings, and are they included?</strong></li></ul><figure class=\"jr-figure\"><img src=\"https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/2.webp\" alt=\"Exterior view of the historic Funchal City Hall building in Madeira, Portugal, featuring a flag and ornate stonework.\" width=\"1600\" height=\"1906\" loading=\"lazy\" decoding=\"async\"><figcaption><a href=\"https://commons.wikimedia.org/wiki/File:Funchal_(Madeira,_Portugal),_Pa%C3%A7os_do_Concelho_do_Funchal_--_2025_--_1005.jpg\" target=\"_blank\" rel=\"noopener\">Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption></figure><h2 id=\"ceremony-and-legal-requirements\">Ceremony and legal requirements</h2><p>Whether a venue can host your legal ceremony depends on the law where you marry, not on the venue's wishes.</p><ul><li><strong>Is the venue licensed or approved for legal ceremonies?</strong> In some countries, including England and Wales, civil ceremonies must take place in approved premises. Elsewhere, a celebrant or officiant can marry you almost anywhere. Check the rules for the country you are marrying in, with the relevant government or registration office.</li><li><strong>Where would the ceremony take place, and what is the wet-weather plan?</strong> If the ceremony is outdoors, ask to see the indoor alternative and how quickly the room can be turned around.</li><li><strong>Are there rules about music, readings, candles or religious elements?</strong> Some venues restrict open flames, confetti or amplified music during the ceremony.</li><li><strong>For a religious or cultural ceremony, is there space for everything it needs?</strong> A mandap, a chuppah, a tea ceremony or a long procession all need room, time and sometimes extra permissions.</li></ul><h2 id=\"music-noise-and-the-end-of-the-night\">Music, noise and the end of the night</h2><ul><li><strong>What time must music stop?</strong> Many venues have a licence or neighbour agreement that sets a hard finish.</li><li><strong>Is there a sound limiter?</strong> If there is, ask your band or DJ to speak to the venue before you book them.</li><li><strong>Where can the band or DJ set up, and how much power is available?</strong></li><li><strong>Are fireworks, sparklers, sky lanterns or a late-night bonfire allowed?</strong></li></ul><figure class=\"jr-figure\"><img src=\"https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/3.webp\" alt=\"Exterior facade of the historic Alte Thorschenke building in Cochem, Germany with a decorated wooden door.\" width=\"1600\" height=\"2000\" loading=\"lazy\" decoding=\"async\"><figcaption><a href=\"https://commons.wikimedia.org/wiki/File:Cochem,_Alte_Thorschenke_--_2018_--_0002.jpg\" target=\"_blank\" rel=\"noopener\">Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption></figure><h2 id=\"guests-access-and-accommodation\">Guests, access and accommodation</h2><ul><li><strong>How many guests can you seat for dinner, and how many can attend in the evening?</strong> The ceremony room, the dining room and the evening space often have different capacities.</li><li><strong>Is the venue accessible for every guest?</strong> Ask about step-free routes, accessible toilets, parking close to the entrance and quiet spaces for anyone who needs a break.</li><li><strong>Are there bedrooms on site, and do you have to book them all?</strong> Some venues include rooms; others require you to take every room for exclusive use.</li><li><strong>How do guests get there and get home?</strong> Ask about parking, taxis, late-night transport and the nearest hotels.</li><li><strong>Are children welcome, and are there any restrictions on where they can go?</strong></li></ul><h2 id=\"the-coordinator-and-the-day-itself\">The coordinator and the day itself</h2><ul><li><strong>Who will be your contact during planning, and who will be in charge on the day?</strong> These are not always the same person.</li><li><strong>How many staff will be working at your wedding?</strong> Ask about the ratio of serving staff to guests for the meal.</li><li><strong>Can you have a final meeting and a walk-through before the day?</strong></li><li><strong>What happens if something goes wrong?</strong> Ask about back-up power, a wet-weather plan and first aid.</li></ul><h2 id=\"contracts-payments-and-cancellation\">Contracts, payments and cancellation</h2><p>Read the contract slowly before you pay anything.</p><ul><li><strong>What is the deposit, when are the remaining payments due and are they refundable?</strong></li><li><strong>What happens if you need to move the date or cancel?</strong> Ask how much you would lose at each stage and whether the venue will try to resell the date.</li><li><strong>What happens if the venue has to cancel?</strong> Ask what they would refund and whether they would help find an alternative.</li><li><strong>Can the prices change between booking and the wedding?</strong> Ask whether the quote is fixed or whether food, drink and staffing can rise.</li><li><strong>Does the venue recommend wedding insurance, and does it hold its own?</strong></li></ul><p>Ask for every promise made at the viewing to appear in the contract, including the date, the times, the spaces, the guest numbers, the inclusions and the price.</p><h2 id=\"after-the-viewing\">After the viewing</h2><p>Compare venues on what the day will actually cost and how it will actually run, not on the brochure. Put your answers side by side, add up the real total for your numbers and note anything that would rule a venue out.</p><p>When you are ready to shortlist, you can <a href=\"/wedding-vendors\">browse event and wedding businesses on Roko</a>, compare their details and contact them directly. Once the venue is booked, the same questions about inclusions, insurance and cancellation are worth asking of every other supplier you hire.</p>",
+   "toc": [
+    {
+     "id": "availability-dates-and-exclusivity",
+     "title": "Availability, dates and exclusivity"
+    },
+    {
+     "id": "what-the-price-includes",
+     "title": "What the price includes"
+    },
+    {
+     "id": "food-drink-and-suppliers",
+     "title": "Food, drink and suppliers"
+    },
+    {
+     "id": "ceremony-and-legal-requirements",
+     "title": "Ceremony and legal requirements"
+    },
+    {
+     "id": "music-noise-and-the-end-of-the-night",
+     "title": "Music, noise and the end of the night"
+    },
+    {
+     "id": "guests-access-and-accommodation",
+     "title": "Guests, access and accommodation"
+    },
+    {
+     "id": "the-coordinator-and-the-day-itself",
+     "title": "The coordinator and the day itself"
+    },
+    {
+     "id": "contracts-payments-and-cancellation",
+     "title": "Contracts, payments and cancellation"
+    },
+    {
+     "id": "after-the-viewing",
+     "title": "After the viewing"
+    }
+   ],
+   "words": 1408,
+   "reading_minutes": 6,
+   "faq_html": [
+    {
+     "q": "How many wedding venues should you view?",
+     "a": "View enough to compare like with like. Shortlist on date, capacity and budget first, then visit the venues that pass, with the same list of questions for each, so you can compare the answers side by side."
+    },
+    {
+     "q": "Should you get venue promises in writing?",
+     "a": "Yes. Ask for the date, times, spaces, guest numbers, inclusions and price to appear in the contract, along with anything the coordinator agreed at the viewing, such as access times or permission for your own drinks."
+    },
+    {
+     "q": "What is a minimum spend at a wedding venue?",
+     "a": "It is an amount you agree to spend on food and drink, or on the hire as a whole, regardless of your final guest numbers. Ask what the minimum is for your date and what happens if your numbers fall below it."
+    },
+    {
+     "q": "Can any venue host a legal wedding ceremony?",
+     "a": "It depends on the law where you marry. In some countries, including England and Wales, civil ceremonies must take place in approved premises, while elsewhere a celebrant can marry you almost anywhere. Check with the government or registration office for the country you are marrying in."
+    }
+   ],
+   "cover": {
+    "credit": "Photo: Meehowu, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Sheffield-town-hall-staircase.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "media/questions-to-ask-a-wedding-venue/cover.webp",
+    "width": 2000,
+    "height": 1125,
+    "alt": "Grand historic interior staircase with red carpet, marble walls, and a Christmas tree in the hall",
+    "source": "commons",
+    "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/cover.webp"
+   }
+  },
+  {
+   "slug": "weddings-by-the-numbers-what-official-statistics-show",
+   "roadmap": null,
+   "title": "Weddings by the numbers: what official statistics show",
+   "seo_title": "Wedding statistics: what official figures show",
+   "dek": "How many people marry, when and at what age, from the latest official releases for England and Wales, the United States, Australia and Ireland.",
+   "type": "research",
+   "cluster": "suppliers",
+   "body": "Official marriage statistics are some of the most reliable data anyone has on weddings. They count every legal marriage, not a sample of survey respondents. This first Roko Reports research brief brings together the latest releases from four national statistics offices (England and Wales, the United States, Australia and Ireland) to show how many people marry, when, and at what age, and what that means for couples and for the businesses that serve them.\n\nEach country counts in its own way and publishes on its own timetable, so the figures below are the latest available from each source, and the notes explain where they cannot be compared directly.\n\n## The headline numbers\n\n| Country | Latest year | Marriages registered | Change on the previous year |\n|---|---|---|---|\n| United States | 2024 | 2,128,446 | up from 2,041,926 in 2023 |\n| England and Wales | 2023 | 231,949 marriages and civil partnerships | down 8.6% from 253,776 in 2022 |\n| Australia | 2024 | 120,844 | up 2.0% from 118,439 in 2023 |\n| Ireland | 2024 | 20,348 | down almost 4% from 21,159 in 2023 |\n\nThe picture is mixed rather than a single global trend. Marriages rose in the United States and Australia in their latest year and fell in England and Wales and in Ireland.\n\nThe United States figures, from the CDC's National Center for Health Statistics, give the longest view. The national marriage rate was 6.1 per 1,000 people in 2019, dropped to 5.1 in 2020 when the pandemic interrupted gatherings, and recovered to 6.0 in 2021, 6.2 in 2022, 6.1 in 2023 and 6.3 in 2024. In other words, the number of weddings in the United States is back above where it stood before the pandemic.\n\nIn Australia, the Australian Bureau of Statistics reports a crude marriage rate of 5.5 marriages per 1,000 people in 2024, unchanged from 2023.\n\nIn Ireland, the Central Statistics Office notes that the 2024 total was 7.7% lower than in 2014, a decade earlier.\n\n## When people marry\n\nThe calendar shapes almost everything about a wedding: venue availability, prices, flowers, travel and guest numbers.\n\n- **England and Wales:** August was the most popular month in 2023, with 14.3% (32,121) of marriages. Saturday was by far the most common day, with 41.9% (93,916) of marriages, and the single busiest date was Saturday 2 September, with 3,227 marriages.\n- **Ireland:** August was the most popular month for opposite-sex couples in 2024 and September for same-sex couples. Friday was the most popular day to marry. A separate Central Statistics Office analysis of weddings from 2011 to 2024 found that the most popular dates were all at the end of the year: 31 December averaged 189 marriages, 30 December 151, 28 December 147 and 29 December 136, with 3 August next at 115.\n- **Australia:** the most popular date in 2024 was 24 February, with 1,773 marriages. In the southern hemisphere, late summer is peak season.\n\n**What it means for couples:** the most popular dates differ by country and hemisphere, so local advice about \"peak season\" does not travel. If you are flexible, a Friday, a weekday or a month outside your country's peak can open up venues and suppliers that are booked out on the busiest Saturdays.\n\n**What it means for businesses:** demand clusters on a small number of dates. Ireland's end-of-December peak and the strength of Fridays there show that the busiest days are not always summer Saturdays, and businesses that publish availability clearly for those dates make it easier for couples to choose them.\n\n## Who is marrying, and at what age\n\nCouples are marrying later than many people assume.\n\n| Country | Measure | Men | Women |\n|---|---|---|---|\n| England and Wales (2023) | Median age, opposite-sex marriages | 34.8 | 33.0 |\n| Australia (2024) | Median age at marriage | 32.8 | 31.2 |\n| Ireland (2024) | Average age, brides and grooms | 37.7 (grooms) | 35.9 (brides) |\n\nIreland reports averages and England and Wales and Australia report medians, so the Irish figures are not directly comparable, but the direction is the same everywhere: most couples marry in their thirties.\n\nSame-sex couples are a growing and visible part of the picture. Australia registered 4,746 marriages for couples of the same or non-binary gender in 2024. Ireland registered 668 same-sex marriages, 3.4% more than in 2023, and the Central Statistics Office reports that the average age of male same-sex couples was 40.7 years and of female couples 39.7 years. In England and Wales, civil partnerships made up 3.3% of all legal partnerships formed in 2023, and opposite-sex marriages made up 93.5%.\n\n**What it means for couples and businesses:** most weddings are planned by adults with established lives, jobs and often guests travelling from far away, which rewards suppliers who are clear and upfront about what they offer, when they are available and what it costs.\n\n## How people marry\n\nCeremony type is one of the clearest shifts in the data. In Ireland in 2024, civil ceremonies (32.5%, or 6,392 weddings) were almost level with Roman Catholic ceremonies (32.6%, or 6,425) among opposite-sex couples, and 52.5% of same-sex marriages were civil ceremonies.\n\nThis matters for where weddings happen. A civil ceremony can often take place at the same venue as the reception, which shapes demand for venues that can host both and for celebrants, officiants and ceremony musicians.\n\n## Where weddings happen\n\nWithin countries, weddings are not spread evenly. In England and Wales, the South East had the highest number of marriages in 2023, with 16.1% of the total registered there. For businesses deciding where to focus, and for couples weighing up a venue's demand, regional figures like these are worth watching as each new release lands.\n\n## What to watch next\n\nThe Office for National Statistics plans to publish figures for marriages and civil partnerships in England and Wales for 2024 and 2025 between December 2026 and January 2027. Roko Reports will update this brief as new releases arrive from each statistics office, and will add Roko's own data on what couples search for and enquire about as the directory grows.\n\n## How this research was done\n\nThis brief uses only official statistics published by national statistics offices:\n\n- England and Wales: Office for National Statistics, Marriages in England and Wales: 2023, released 18 November 2025.\n- United States: CDC National Center for Health Statistics, National Vital Statistics System, national marriage and divorce rates, 2000 to 2024.\n- Australia: Australian Bureau of Statistics, Marriages and Divorces, Australia, 2024, released 23 July 2025.\n- Ireland: Central Statistics Office, Marriages 2024, released 25 April 2025, and the CSO press statement on Ireland's most popular wedding dates, released 10 March 2026.\n\nFigures are quoted as published. Years differ between countries because each office publishes on its own schedule, and where offices use different measures (for example median and average age), the brief says so.",
+   "faq": [
+    {
+     "q": "What is the most popular month to get married?",
+     "a": "It depends on the country. Official figures show August was the most popular month in England and Wales in 2023 and for opposite-sex couples in Ireland in 2024. In Australia the busiest single date in 2024 was 24 February."
+    },
+    {
+     "q": "How many weddings take place in the United States each year?",
+     "a": "The CDC's National Center for Health Statistics recorded 2,128,446 marriages in 2024, a rate of 6.3 per 1,000 people."
+    },
+    {
+     "q": "At what age do people get married?",
+     "a": "In England and Wales the median age for opposite-sex marriages in 2023 was 34.8 for men and 33.0 for women. In Australia in 2024 it was 32.8 for men and 31.2 for women. In Ireland the average age in 2024 was 37.7 for grooms and 35.9 for brides."
+    }
+   ],
+   "keywords": [
+    "wedding statistics",
+    "marriage statistics",
+    "most popular wedding month"
+   ],
+   "tags": [
+    "Research",
+    "Statistics",
+    "Wedding dates",
+    "Worldwide",
+    "Industry"
+   ],
+   "image_subjects": [
+    "wedding ceremony",
+    "wedding rings",
+    "wedding couple",
+    "wedding guests"
+   ],
+   "time_sensitive": true,
+   "sources": [
+    {
+     "title": "ONS: Marriages in England and Wales: 2023",
+     "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/bulletins/marriagesinenglandandwalesprovisional/2023",
+     "publisher": "Office for National Statistics"
+    },
+    {
+     "title": "ONS: Marriages and civil partnerships in England and Wales, 2024 and 2025 (release calendar)",
+     "url": "https://www.ons.gov.uk/releases/marriagesandcivilpartnershipsinenglandandwales2024and2025",
+     "publisher": "Office for National Statistics"
+    },
+    {
+     "title": "CDC/NCHS: National marriage and divorce rates, 2000 to 2024",
+     "url": "https://www.cdc.gov/nchs/data/dvs/marriage-divorce/national-marriage-divorce-rates-00-24.pdf",
+     "publisher": "CDC National Center for Health Statistics"
+    },
+    {
+     "title": "ABS: Marriages and Divorces, Australia, 2024",
+     "url": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/2024",
+     "publisher": "Australian Bureau of Statistics"
+    },
+    {
+     "title": "CSO: Marriages 2024, key findings",
+     "url": "https://www.cso.ie/en/releasesandpublications/ep/p-mar/marriages2024/keyfindings",
+     "publisher": "Central Statistics Office, Ireland"
+    },
+    {
+     "title": "CSO: Ireland's most popular wedding dates",
+     "url": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-irelandsmostpopularweddingdates2026",
+     "publisher": "Central Statistics Office, Ireland"
+    }
+   ],
+   "goal": {
+    "type": "register",
+    "url": "/list-your-business",
+    "label": "List your business on Roko"
+   },
+   "review": true,
+   "series": "Reports",
+   "date": "2026-11-02T16:55",
+   "updated": "2026-11-02T16:55",
+   "images": [
+    {
+     "credit": "Photo: Tobias ToMar Maier, CC BY-SA 4.0, via Wikimedia Commons",
+     "credit_url": "https://commons.wikimedia.org/wiki/File:Bodysuits_and_hosiery_for_a_wedding_and_its_night_-_model-kartei_choice.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "file": "media/weddings-by-the-numbers-what-official-statistics-show/cover.webp",
+     "width": 2000,
+     "height": 1125,
+     "alt": "Bodysuits and hosiery for a wedding and its night   model kartei choice",
+     "source": "commons",
+     "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/weddings-by-the-numbers-what-official-statistics-show/cover.webp"
+    },
+    {
+     "credit": "Photo: Tobias ToMar Maier, CC BY-SA 4.0, via Wikimedia Commons",
+     "credit_url": "https://commons.wikimedia.org/wiki/File:Bodysuits_and_hosiery_for_a_wedding_and_its_night_%E2%80%93_image_variant_showing_the_full_wedding_dress_and_a_peek_behind_the_curtain_so_to_say.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "file": "media/weddings-by-the-numbers-what-official-statistics-show/1.webp",
+     "width": 1600,
+     "height": 2000,
+     "alt": "Bodysuits and hosiery for a wedding and its night – image variant showing the full wedding dress and a peek be",
+     "source": "commons",
+     "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/weddings-by-the-numbers-what-official-statistics-show/1.webp"
+    }
+   ],
+   "period": "2026-11",
+   "editor_approved": true,
+   "html": "<p>Official marriage statistics are some of the most reliable data anyone has on weddings. They count every legal marriage, not a sample of survey respondents. This first Roko Reports research brief brings together the latest releases from four national statistics offices (England and Wales, the United States, Australia and Ireland) to show how many people marry, when, and at what age, and what that means for couples and for the businesses that serve them.</p><p>Each country counts in its own way and publishes on its own timetable, so the figures below are the latest available from each source, and the notes explain where they cannot be compared directly.</p><h2 id=\"the-headline-numbers\">The headline numbers</h2><div class=\"jr-table\"><table><thead><tr><th>Country</th><th>Latest year</th><th>Marriages registered</th><th>Change on the previous year</th></tr></thead><tbody><tr><td>United States</td><td>2024</td><td>2,128,446</td><td>up from 2,041,926 in 2023</td></tr><tr><td>England and Wales</td><td>2023</td><td>231,949 marriages and civil partnerships</td><td>down 8.6% from 253,776 in 2022</td></tr><tr><td>Australia</td><td>2024</td><td>120,844</td><td>up 2.0% from 118,439 in 2023</td></tr><tr><td>Ireland</td><td>2024</td><td>20,348</td><td>down almost 4% from 21,159 in 2023</td></tr></tbody></table></div><p>The picture is mixed rather than a single global trend. Marriages rose in the United States and Australia in their latest year and fell in England and Wales and in Ireland.</p><p>The United States figures, from the CDC's National Center for Health Statistics, give the longest view. The national marriage rate was 6.1 per 1,000 people in 2019, dropped to 5.1 in 2020 when the pandemic interrupted gatherings, and recovered to 6.0 in 2021, 6.2 in 2022, 6.1 in 2023 and 6.3 in 2024. In other words, the number of weddings in the United States is back above where it stood before the pandemic.</p><p>In Australia, the Australian Bureau of Statistics reports a crude marriage rate of 5.5 marriages per 1,000 people in 2024, unchanged from 2023.</p><p>In Ireland, the Central Statistics Office notes that the 2024 total was 7.7% lower than in 2014, a decade earlier.</p><figure class=\"jr-figure\"><img src=\"https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/weddings-by-the-numbers-what-official-statistics-show/1.webp\" alt=\"Bodysuits and hosiery for a wedding and its night – image variant showing the full wedding dress and a peek be\" width=\"1600\" height=\"2000\" loading=\"lazy\" decoding=\"async\"><figcaption><a href=\"https://commons.wikimedia.org/wiki/File:Bodysuits_and_hosiery_for_a_wedding_and_its_night_%E2%80%93_image_variant_showing_the_full_wedding_dress_and_a_peek_behind_the_curtain_so_to_say.jpg\" target=\"_blank\" rel=\"noopener\">Photo: Tobias ToMar Maier, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption></figure><h2 id=\"when-people-marry\">When people marry</h2><p>The calendar shapes almost everything about a wedding: venue availability, prices, flowers, travel and guest numbers.</p><ul><li><strong>England and Wales:</strong> August was the most popular month in 2023, with 14.3% (32,121) of marriages. Saturday was by far the most common day, with 41.9% (93,916) of marriages, and the single busiest date was Saturday 2 September, with 3,227 marriages.</li><li><strong>Ireland:</strong> August was the most popular month for opposite-sex couples in 2024 and September for same-sex couples. Friday was the most popular day to marry. A separate Central Statistics Office analysis of weddings from 2011 to 2024 found that the most popular dates were all at the end of the year: 31 December averaged 189 marriages, 30 December 151, 28 December 147 and 29 December 136, with 3 August next at 115.</li><li><strong>Australia:</strong> the most popular date in 2024 was 24 February, with 1,773 marriages. In the southern hemisphere, late summer is peak season.</li></ul><p><strong>What it means for couples:</strong> the most popular dates differ by country and hemisphere, so local advice about \"peak season\" does not travel. If you are flexible, a Friday, a weekday or a month outside your country's peak can open up venues and suppliers that are booked out on the busiest Saturdays.</p><p><strong>What it means for businesses:</strong> demand clusters on a small number of dates. Ireland's end-of-December peak and the strength of Fridays there show that the busiest days are not always summer Saturdays, and businesses that publish availability clearly for those dates make it easier for couples to choose them.</p><h2 id=\"who-is-marrying-and-at-what-age\">Who is marrying, and at what age</h2><p>Couples are marrying later than many people assume.</p><div class=\"jr-table\"><table><thead><tr><th>Country</th><th>Measure</th><th>Men</th><th>Women</th></tr></thead><tbody><tr><td>England and Wales (2023)</td><td>Median age, opposite-sex marriages</td><td>34.8</td><td>33.0</td></tr><tr><td>Australia (2024)</td><td>Median age at marriage</td><td>32.8</td><td>31.2</td></tr><tr><td>Ireland (2024)</td><td>Average age, brides and grooms</td><td>37.7 (grooms)</td><td>35.9 (brides)</td></tr></tbody></table></div><p>Ireland reports averages and England and Wales and Australia report medians, so the Irish figures are not directly comparable, but the direction is the same everywhere: most couples marry in their thirties.</p><p>Same-sex couples are a growing and visible part of the picture. Australia registered 4,746 marriages for couples of the same or non-binary gender in 2024. Ireland registered 668 same-sex marriages, 3.4% more than in 2023, and the Central Statistics Office reports that the average age of male same-sex couples was 40.7 years and of female couples 39.7 years. In England and Wales, civil partnerships made up 3.3% of all legal partnerships formed in 2023, and opposite-sex marriages made up 93.5%.</p><p><strong>What it means for couples and businesses:</strong> most weddings are planned by adults with established lives, jobs and often guests travelling from far away, which rewards suppliers who are clear and upfront about what they offer, when they are available and what it costs.</p><h2 id=\"how-people-marry\">How people marry</h2><p>Ceremony type is one of the clearest shifts in the data. In Ireland in 2024, civil ceremonies (32.5%, or 6,392 weddings) were almost level with Roman Catholic ceremonies (32.6%, or 6,425) among opposite-sex couples, and 52.5% of same-sex marriages were civil ceremonies.</p><p>This matters for where weddings happen. A civil ceremony can often take place at the same venue as the reception, which shapes demand for venues that can host both and for celebrants, officiants and ceremony musicians.</p><h2 id=\"where-weddings-happen\">Where weddings happen</h2><p>Within countries, weddings are not spread evenly. In England and Wales, the South East had the highest number of marriages in 2023, with 16.1% of the total registered there. For businesses deciding where to focus, and for couples weighing up a venue's demand, regional figures like these are worth watching as each new release lands.</p><h2 id=\"what-to-watch-next\">What to watch next</h2><p>The Office for National Statistics plans to publish figures for marriages and civil partnerships in England and Wales for 2024 and 2025 between December 2026 and January 2027. Roko Reports will update this brief as new releases arrive from each statistics office, and will add Roko's own data on what couples search for and enquire about as the directory grows.</p><h2 id=\"how-this-research-was-done\">How this research was done</h2><p>This brief uses only official statistics published by national statistics offices:</p><ul><li>England and Wales: Office for National Statistics, Marriages in England and Wales: 2023, released 18 November 2025.</li><li>United States: CDC National Center for Health Statistics, National Vital Statistics System, national marriage and divorce rates, 2000 to 2024.</li><li>Australia: Australian Bureau of Statistics, Marriages and Divorces, Australia, 2024, released 23 July 2025.</li><li>Ireland: Central Statistics Office, Marriages 2024, released 25 April 2025, and the CSO press statement on Ireland's most popular wedding dates, released 10 March 2026.</li></ul><p>Figures are quoted as published. Years differ between countries because each office publishes on its own schedule, and where offices use different measures (for example median and average age), the brief says so.</p>",
+   "toc": [
+    {
+     "id": "the-headline-numbers",
+     "title": "The headline numbers"
+    },
+    {
+     "id": "when-people-marry",
+     "title": "When people marry"
+    },
+    {
+     "id": "who-is-marrying-and-at-what-age",
+     "title": "Who is marrying, and at what age"
+    },
+    {
+     "id": "how-people-marry",
+     "title": "How people marry"
+    },
+    {
+     "id": "where-weddings-happen",
+     "title": "Where weddings happen"
+    },
+    {
+     "id": "what-to-watch-next",
+     "title": "What to watch next"
+    },
+    {
+     "id": "how-this-research-was-done",
+     "title": "How this research was done"
+    }
+   ],
+   "words": 1156,
+   "reading_minutes": 5,
+   "faq_html": [
+    {
+     "q": "What is the most popular month to get married?",
+     "a": "It depends on the country. Official figures show August was the most popular month in England and Wales in 2023 and for opposite-sex couples in Ireland in 2024. In Australia the busiest single date in 2024 was 24 February."
+    },
+    {
+     "q": "How many weddings take place in the United States each year?",
+     "a": "The CDC's National Center for Health Statistics recorded 2,128,446 marriages in 2024, a rate of 6.3 per 1,000 people."
+    },
+    {
+     "q": "At what age do people get married?",
+     "a": "In England and Wales the median age for opposite-sex marriages in 2023 was 34.8 for men and 33.0 for women. In Australia in 2024 it was 32.8 for men and 31.2 for women. In Ireland the average age in 2024 was 37.7 for grooms and 35.9 for brides."
+    }
+   ],
+   "cover": {
+    "credit": "Photo: Tobias ToMar Maier, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Bodysuits_and_hosiery_for_a_wedding_and_its_night_-_model-kartei_choice.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "media/weddings-by-the-numbers-what-official-statistics-show/cover.webp",
+    "width": 2000,
+    "height": 1125,
+    "alt": "Bodysuits and hosiery for a wedding and its night   model kartei choice",
+    "source": "commons",
+    "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/weddings-by-the-numbers-what-official-statistics-show/cover.webp"
+   }
+  }
  ],
- "problems": {
-  "questions-to-ask-a-wedding-venue": [
-   "needs a cover image"
-  ],
-  "weddings-by-the-numbers-what-official-statistics-show": [
-   "needs a cover image"
-  ]
- },
+ "waiting": [],
+ "problems": {},
  "attempts": {
   "luxury-wedding-venues-in-the-uk": {
    "date": "2026-11-02T15:03+00:00",
@@ -1768,7 +2129,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-02T16:43+00:00",
+  "generated": "2026-11-02T17:00+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -1778,6 +2139,14 @@
   "trending": [],
   "page_changes": [],
   "feed_items": [
+   {
+    "url": "https://www.townandcountrymag.com/the-scene/weddings/a74312664/andrew-shue-marilee-fiebig-new-jersey-wedding/",
+    "title": "Andrew Shue Marries Marilee Fiebig in New Jersey Wedding",
+    "summary": "T&C ’s November cover star tied the knot in an intimate family celebration.",
+    "date": "2026-11-02T16:59:36+00:00",
+    "publisher": "Town & Country",
+    "kind": "luxury"
+   },
    {
     "url": "https://www.hospitalitynet.org/opinion/4135227/better-hotel-reviews-start-before-the-guest-checks-out",
     "title": "Better Hotel Reviews Start Before the Guest Checks Out.",
@@ -2145,6 +2514,15 @@
     "query": "wedding season India"
    },
    {
+    "url": "https://travelindustrytoday.com/in-focus-iberostar-celebrations-in-paradise-group-trips-and-destination-weddings/",
+    "title": "IN-FOCUS IBEROSTAR: Celebrations in paradise – group trips and destination weddings",
+    "summary": "Across the spectacular Iberostar coastal portfolio in Mexico – available through Sunwing Vacations – the resorts have perfected the art of group hospitality, combining customized event coordination, ...",
+    "date": "2026-10-28T15:55:00+00:00",
+    "publisher": "travelindustrytoday.com",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
     "url": "https://www.msn.com/en-gb/lifestyle/other/the-chicest-wedding-dress-trends-for-2027-as-told-by-designers/ar-AA2ggy0E",
     "title": "The chicest wedding dress trends for 2027, as told by designers",
     "summary": "When it comes to wedding planning, no singular decision is quite as day-defining as choosing the dress. Many brides dream of their perfect dress long before the wedding, while others might need a ...",
@@ -2170,6 +2548,15 @@
     "publisher": "in.eventfaqs",
     "kind": "news",
     "query": "luxury wedding venue"
+   },
+   {
+    "url": "https://www.republicworld.com/lifestyle/fashion/how-ethnix-by-raymond-is-redefining-menswear-for-the-modern-groom-this-wedding-season-exclusive-2026-10-28-139833",
+    "title": "How Ethnix By Raymond Is Redefining Menswear For The Modern Groom This Wedding Season",
+    "summary": "In a segment historically dominated by legacy regional players and unorganised markets, Ethnix by Raymond relies on its core heritage to differentiate itself.",
+    "date": "2026-10-28T00:03:00+00:00",
+    "publisher": "Republic World",
+    "kind": "news",
+    "query": "wedding season India"
    },
    {
     "url": "https://www.firstpost.com/lifestyle/how-do-celebrity-weddings-stay-private-heres-what-happens-behind-the-scenes-14055654.html",
@@ -2277,33 +2664,6 @@
     "publisher": "The Sacramento Bee",
     "kind": "news",
     "query": "wedding costs"
-   },
-   {
-    "url": "https://www.nytimes.com/2026/10/22/style/plaza-hotel-weddings-canceled.html",
-    "title": "‘Blindsided’: Plaza Weddings Abruptly Canceled Amid Renovation",
-    "summary": "As the hotel announced it would close for at least four years, some couples with events next year were left scrambling to find new venues.",
-    "date": "2026-10-22T05:22:00+00:00",
-    "publisher": "The New York Times",
-    "kind": "news",
-    "query": "hospitality weddings"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/news/other/how-to-plan-a-whimsical-wedding/ar-AA2fNYFu",
-    "title": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
-    "summary": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day - From dreamy floral arrangements to flowing fabrics and playful colours, an expert shares how to bring a little ...",
-    "date": "2026-10-22T03:18:10+00:00",
-    "publisher": "The Independent on MSN",
-    "kind": "news",
-    "query": "TikTok wedding trend"
-   },
-   {
-    "url": "https://www.msn.com/en-au/news/other/whimsical-weddings-are-huge-on-tiktok-right-now-how-to-do-the-trend-for-your-big-day/ar-AA2fNVZQ",
-    "title": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
-    "summary": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day - From dreamy floral arrangements to flowing fabrics and playful colours, an expert shares how to bring a little ...",
-    "date": "2026-10-22T03:18:10+00:00",
-    "publisher": "The Independent on MSN",
-    "kind": "news",
-    "query": "TikTok wedding trend"
    }
   ],
   "headlines": [
@@ -2312,6 +2672,12 @@
     "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
     "publisher": "Seen in The City",
     "date": "2026-10-05T21:07:54+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
+    "publisher": "ELLE",
+    "date": "2026-10-26T20:17:21+00:00"
    },
    {
     "query": "wedding trends",
@@ -2330,12 +2696,6 @@
     "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
     "publisher": "Who What Wear",
     "date": "2026-10-29T11:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "publisher": "ELLE",
-    "date": "2026-10-29T10:49:25+00:00"
    },
    {
     "query": "wedding trends",
@@ -2375,9 +2735,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
-    "publisher": "Country and Town House",
-    "date": "2026-10-28T17:03:17+00:00"
+    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
+    "publisher": "The Irish News",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2455,19 +2815,13 @@
     "query": "viral wedding TikTok",
     "headline": "How Ashe's real life inspired her TikTok hit Stop The Wedding",
     "publisher": "BBC",
-    "date": "2026-10-09T07:00:00+00:00"
+    "date": "2026-10-10T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
     "headline": "Groom Makes an Unthinkable Mistake While Repeating His Wedding Vows & the Backstory Is Even Worse",
     "publisher": "CafeMom.com",
     "date": "2026-10-05T07:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "“I Hope He Divorced Her”: Bride Sparks Outrage Over Wedding Vows",
-    "publisher": "AOL.com",
-    "date": "2026-10-11T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2483,27 +2837,21 @@
    },
    {
     "query": "viral wedding TikTok",
+    "headline": "《Official Website |watchflick.net》The Groom Ran: I Choose His Dad – Watch the Viral Wedding Video for Free",
+    "publisher": "白鲸出海",
+    "date": "2026-10-30T16:26:25+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
     "headline": "Did the groom really call someone else in the viral WedTok?",
     "publisher": "The Mary Sue",
     "date": "2026-10-08T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "‘How selfish can you be?’: Bride’s aunt causes outrage by digging into the wedding cake before the married couple in bizarre power play",
-    "publisher": "Yahoo",
-    "date": "2026-10-20T07:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "《Official Website |watchflick.net》Divorced at the Wedding Day: Full Video, Story, and What Really Happened",
-    "publisher": "白鲸出海",
-    "date": "2026-10-30T18:08:37+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Love, backed by RTX 5090: Groom burst into tears right at the wedding",
-    "publisher": "iXBT.games",
-    "date": "2026-10-21T04:18:22+00:00"
+    "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
+    "publisher": "People.com",
+    "date": "2026-10-14T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2519,9 +2867,21 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Sorry gentlemen, this one’s for the bride",
-    "publisher": "Free Malaysia Today",
-    "date": "2026-11-01T01:30:00+00:00"
+    "headline": "Marching Band Blasting ‘Ghostbusters’ Interupts a Couple's Wedding",
+    "publisher": "Wide Open Country",
+    "date": "2026-11-02T16:44:09+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "The woman found happiness again at age 67, getting married at an ancient castle.",
+    "publisher": "Vietnam.vn",
+    "date": "2026-11-01T09:41:50+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
+    "publisher": "VnExpress International",
+    "date": "2026-11-02T08:52:19+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2615,12 +2975,6 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "The best luxury wedding planners",
-    "publisher": "The Times",
-    "date": "2026-10-28T06:05:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
     "headline": "18 of the most beautiful barn wedding venues in the UK",
     "publisher": "SquareMeal",
     "date": "2026-10-06T07:00:00+00:00"
@@ -2633,15 +2987,21 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
-    "publisher": "The Isle of Thanet News",
-    "date": "2026-10-06T07:00:00+00:00"
+    "headline": "Ciliau Aeron venue nominated for wedding industry award",
+    "publisher": "Cambrian News",
+    "date": "2026-10-12T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
     "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
     "publisher": "Yahoo News UK",
     "date": "2026-10-27T16:06:18+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
+    "publisher": "Seen in The City",
+    "date": "2026-10-05T21:07:54+00:00"
    },
    {
     "query": "luxury wedding venue opening",
