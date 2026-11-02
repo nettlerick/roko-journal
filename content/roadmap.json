@@ -1,0 +1,2568 @@
+{
+ "clusters": {
+  "planning": {
+   "name": "Wedding planning",
+   "cornerstone": 35
+  },
+  "venues": {
+   "name": "Wedding venues",
+   "cornerstone": 16
+  },
+  "photography": {
+   "name": "Wedding photography",
+   "cornerstone": 59
+  },
+  "destination": {
+   "name": "Destination weddings",
+   "cornerstone": 29
+  },
+  "flowers-styling": {
+   "name": "Flowers and styling",
+   "cornerstone": 48
+  },
+  "catering": {
+   "name": "Wedding catering",
+   "cornerstone": 67
+  },
+  "entertainment": {
+   "name": "Wedding entertainment",
+   "cornerstone": 63
+  },
+  "luxury": {
+   "name": "Luxury weddings",
+   "cornerstone": 78
+  },
+  "private-events": {
+   "name": "Private events",
+   "cornerstone": 87
+  },
+  "suppliers": {
+   "name": "Wedding suppliers and professionals",
+   "cornerstone": 94
+  }
+ },
+ "first_90_days": [
+  35,
+  13,
+  1,
+  16,
+  38,
+  25,
+  36,
+  48,
+  75,
+  29,
+  39,
+  57,
+  17,
+  3,
+  67,
+  26,
+  5,
+  41,
+  2,
+  58,
+  85,
+  14,
+  62,
+  76,
+  37,
+  31,
+  69,
+  93,
+  77,
+  86
+ ],
+ "items": [
+  {
+   "n": 1,
+   "title": "Luxury wedding ideas for every budget",
+   "slug": "luxury-wedding-ideas-for-every-budget",
+   "cluster": "luxury",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "luxury wedding ideas",
+   "categories": [
+    "wedding-castles-and-estates",
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_trends",
+    "pinterest_wedding_2026",
+    "bridebook_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover exceptional wedding businesses on Roko"
+   },
+   "priority": 3,
+   "week": 1,
+   "why": "Strong editorial introduction"
+  },
+  {
+   "n": 2,
+   "title": "Wedding colour palettes that work in every season",
+   "slug": "wedding-colour-palettes-that-work-in-every-season",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "wedding colour palettes",
+   "categories": [
+    "wedding-flowers-and-decor",
+    "wedding-stationery"
+   ],
+   "refs": [
+    "pinterest_wedding_2026",
+    "bridebook_trends"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": 19,
+   "week": 7,
+   "why": "Evergreen inspiration"
+  },
+  {
+   "n": 3,
+   "title": "Autumn wedding ideas",
+   "slug": "autumn-wedding-ideas",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "autumn wedding ideas",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "bridebook_trends",
+    "pinterest_wedding_2026"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": 14,
+   "week": 5,
+   "why": "Seasonal content"
+  },
+  {
+   "n": 4,
+   "title": "Winter wedding ideas",
+   "slug": "winter-wedding-ideas",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "winter wedding ideas",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "bridebook_trends"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 5,
+   "title": "Wedding tablescape ideas",
+   "slug": "wedding-tablescape-ideas",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "wedding tablescape ideas",
+   "categories": [
+    "wedding-flowers-and-decor",
+    "wedding-rentals-and-production"
+   ],
+   "refs": [
+    "pinterest_wedding_2026",
+    "bridebook_trends"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": 17,
+   "week": 6,
+   "why": "Pinterest-friendly"
+  },
+  {
+   "n": 6,
+   "title": "Spring wedding ideas",
+   "slug": "spring-wedding-ideas",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "spring wedding ideas",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "bridebook_trends"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 7,
+   "title": "Summer wedding ideas",
+   "slug": "summer-wedding-ideas",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "summer wedding ideas",
+   "categories": [
+    "wedding-flowers-and-decor",
+    "wedding-gardens-and-outdoor-venues"
+   ],
+   "refs": [
+    "bridebook_trends"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 8,
+   "title": "Wedding lighting ideas",
+   "slug": "wedding-lighting-ideas",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "wedding lighting ideas",
+   "categories": [
+    "wedding-rentals-and-production"
+   ],
+   "refs": [
+    "pinterest_wedding_2026"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 9,
+   "title": "Wedding ceremony backdrop ideas",
+   "slug": "wedding-ceremony-backdrop-ideas",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "wedding ceremony backdrop",
+   "categories": [
+    "wedding-flowers-and-decor",
+    "wedding-ceremony"
+   ],
+   "refs": [
+    "pinterest_wedding_2026"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 10,
+   "title": "Wedding stationery ideas and etiquette",
+   "slug": "wedding-stationery-ideas-and-etiquette",
+   "cluster": "planning",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding stationery",
+   "categories": [
+    "wedding-stationery"
+   ],
+   "refs": [
+    "bridebook_checklist"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-stationery",
+    "label": "Discover stationery on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 11,
+   "title": "Wedding dessert table ideas",
+   "slug": "wedding-dessert-table-ideas",
+   "cluster": "catering",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "wedding dessert table",
+   "categories": [
+    "wedding-desserts",
+    "wedding-cakes"
+   ],
+   "refs": [
+    "bridebook_cake_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-desserts",
+    "label": "Discover dessert table on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 12,
+   "title": "Micro wedding ideas",
+   "slug": "micro-wedding-ideas",
+   "cluster": "planning",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "micro wedding ideas",
+   "categories": [
+    "wedding-venues"
+   ],
+   "refs": [
+    "ons_marriages_2024_2025",
+    "bridebook_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Find wedding planners on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 13,
+   "title": "Luxury wedding venues in the UK",
+   "slug": "luxury-wedding-venues-in-the-uk",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "luxury wedding venues UK",
+   "categories": [
+    "wedding-castles-and-estates",
+    "wedding-hotels-and-resorts",
+    "wedding-venues"
+   ],
+   "refs": [
+    "bridebook_venue_cost",
+    "bridebook_report"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-venues-and-accommodation/united-kingdom",
+    "label": "Discover luxury venues UK on Roko"
+   },
+   "priority": 2,
+   "week": 1,
+   "why": "Direct directory relevance"
+  },
+  {
+   "n": 14,
+   "title": "Country house wedding venues",
+   "slug": "country-house-wedding-venues",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "country house wedding venues",
+   "categories": [
+    "wedding-castles-and-estates"
+   ],
+   "refs": [
+    "bridebook_venue_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-castles-and-estates",
+    "label": "Discover country house venues on Roko"
+   },
+   "priority": 22,
+   "week": 8,
+   "why": "Venue cluster"
+  },
+  {
+   "n": 15,
+   "title": "Barn wedding venues",
+   "slug": "barn-wedding-venues",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "barn wedding venues",
+   "categories": [
+    "wedding-barns-and-farms"
+   ],
+   "refs": [
+    "bridebook_venue_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-barns-and-farms",
+    "label": "Discover barn venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 16,
+   "title": "How to choose a wedding venue: the complete guide",
+   "slug": "how-to-choose-a-wedding-venue-the-complete-guide",
+   "cluster": "venues",
+   "type": "cornerstone",
+   "cornerstone": true,
+   "keyword": "how to choose a wedding venue",
+   "categories": [
+    "wedding-venues-and-accommodation",
+    "wedding-venues"
+   ],
+   "refs": [
+    "bridebook_venue_cost",
+    "bridebook_report",
+    "hitched_average",
+    "gov_marriage_uk"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-venues-and-accommodation",
+    "label": "Browse wedding venues on Roko"
+   },
+   "priority": 4,
+   "week": 2,
+   "why": "High-intent planning"
+  },
+  {
+   "n": 17,
+   "title": "Wedding venue costs in the UK",
+   "slug": "wedding-venue-costs-in-the-uk",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding venue costs UK",
+   "categories": [
+    "wedding-venues-and-accommodation",
+    "wedding-venues"
+   ],
+   "refs": [
+    "bridebook_venue_cost",
+    "bridebook_cost",
+    "hitched_cost_2026"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-venues-and-accommodation",
+    "label": "Browse wedding venues on Roko"
+   },
+   "priority": 13,
+   "week": 5,
+   "why": "Venue conversion"
+  },
+  {
+   "n": 18,
+   "title": "Castle wedding venues",
+   "slug": "castle-wedding-venues",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "castle wedding venues",
+   "categories": [
+    "wedding-castles-and-estates"
+   ],
+   "refs": [
+    "bridebook_venue_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-castles-and-estates",
+    "label": "Discover castle venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 19,
+   "title": "Small wedding venues",
+   "slug": "small-wedding-venues",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "small wedding venues",
+   "categories": [
+    "wedding-venues",
+    "wedding-restaurants"
+   ],
+   "refs": [
+    "bridebook_venue_cost",
+    "ons_marriages_2024_2025"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-venues-and-accommodation",
+    "label": "Browse wedding venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 20,
+   "title": "Outdoor wedding venues",
+   "slug": "outdoor-wedding-venues",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "outdoor wedding venues",
+   "categories": [
+    "wedding-gardens-and-outdoor-venues"
+   ],
+   "refs": [
+    "bridebook_venue_cost",
+    "gov_marriage_uk"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-gardens-and-outdoor-venues",
+    "label": "Discover outdoor venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 21,
+   "title": "Exclusive-use wedding venues explained",
+   "slug": "exclusive-use-wedding-venues-explained",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "exclusive use wedding venues",
+   "categories": [
+    "wedding-castles-and-estates",
+    "wedding-hotels-and-resorts"
+   ],
+   "refs": [
+    "bridebook_venue_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-venues-and-accommodation",
+    "label": "Browse wedding venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 22,
+   "title": "London wedding venues",
+   "slug": "london-wedding-venues",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "London wedding venues",
+   "categories": [
+    "wedding-venues"
+   ],
+   "refs": [
+    "bridebook_venue_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-venues/united-kingdom/london",
+    "label": "Discover London venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 23,
+   "title": "Questions to ask a wedding venue",
+   "slug": "questions-to-ask-a-wedding-venue",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "questions to ask a wedding venue",
+   "categories": [
+    "wedding-venues-and-accommodation",
+    "wedding-venues"
+   ],
+   "refs": [
+    "bridebook_venue_cost",
+    "bridebook_checklist"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-venues-and-accommodation",
+    "label": "Browse wedding venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 24,
+   "title": "Wedding venue contracts explained",
+   "slug": "wedding-venue-contracts-explained",
+   "cluster": "venues",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding venue contract",
+   "categories": [
+    "wedding-venues-and-accommodation",
+    "wedding-venues"
+   ],
+   "refs": [
+    "bridebook_venue_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-venues-and-accommodation",
+    "label": "Browse wedding venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 25,
+   "title": "The best destination wedding countries",
+   "slug": "the-best-destination-wedding-countries",
+   "cluster": "destination",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "best destination wedding countries",
+   "categories": [
+    "wedding-destination-venues",
+    "wedding-villas"
+   ],
+   "refs": [
+    "gov_marriage_abroad",
+    "bridebook_report",
+    "knot_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-destination-venues",
+    "label": "Explore destination venues on Roko"
+   },
+   "priority": 6,
+   "week": 2,
+   "why": "International positioning"
+  },
+  {
+   "n": 26,
+   "title": "Getting married in Italy",
+   "slug": "getting-married-in-italy",
+   "cluster": "destination",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "getting married in Italy",
+   "categories": [
+    "wedding-destination-venues",
+    "wedding-villas"
+   ],
+   "refs": [
+    "gov_italy",
+    "gov_italy_nulla_osta",
+    "visititaly_weddings"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors/italy",
+    "label": "Discover getting married in Italy on Roko"
+   },
+   "priority": 16,
+   "week": 6,
+   "why": "International SEO"
+  },
+  {
+   "n": 27,
+   "title": "Getting married in France",
+   "slug": "getting-married-in-france",
+   "cluster": "destination",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "getting married in France",
+   "categories": [
+    "wedding-destination-venues"
+   ],
+   "refs": [
+    "gov_france"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors/france",
+    "label": "Discover getting married in France on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 28,
+   "title": "Getting married in Greece",
+   "slug": "getting-married-in-greece",
+   "cluster": "destination",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "getting married in Greece",
+   "categories": [
+    "wedding-destination-venues"
+   ],
+   "refs": [
+    "gov_greece"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors/greece",
+    "label": "Discover getting married in Greece on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 29,
+   "title": "Destination wedding guide",
+   "slug": "destination-wedding-guide",
+   "cluster": "destination",
+   "type": "cornerstone",
+   "cornerstone": true,
+   "keyword": "destination wedding guide",
+   "categories": [
+    "wedding-destination-venues",
+    "wedding-villas"
+   ],
+   "refs": [
+    "gov_marriage_abroad",
+    "bridebook_report",
+    "knot_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-destination-venues",
+    "label": "Explore destination venues on Roko"
+   },
+   "priority": 10,
+   "week": 4,
+   "why": "Destination cluster"
+  },
+  {
+   "n": 30,
+   "title": "Getting married in Portugal",
+   "slug": "getting-married-in-portugal",
+   "cluster": "destination",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "getting married in Portugal",
+   "categories": [
+    "wedding-destination-venues"
+   ],
+   "refs": [
+    "gov_portugal"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors/portugal",
+    "label": "Discover getting married in Portugal on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 31,
+   "title": "Dubai wedding venues",
+   "slug": "dubai-wedding-venues",
+   "cluster": "destination",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "Dubai wedding venues",
+   "categories": [
+    "wedding-hotels-and-resorts",
+    "wedding-venues"
+   ],
+   "refs": [
+    "visitdubai_weddings",
+    "gov_uae"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-venues-and-accommodation/united-arab-emirates/dubai",
+    "label": "Discover Dubai venues on Roko"
+   },
+   "priority": 26,
+   "week": 9,
+   "why": "International growth"
+  },
+  {
+   "n": 32,
+   "title": "Getting married in Spain",
+   "slug": "getting-married-in-spain",
+   "cluster": "destination",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "getting married in Spain",
+   "categories": [
+    "wedding-destination-venues"
+   ],
+   "refs": [
+    "gov_spain"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors/spain",
+    "label": "Discover getting married in Spain on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 33,
+   "title": "Destination wedding costs",
+   "slug": "destination-wedding-costs",
+   "cluster": "destination",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "destination wedding cost",
+   "categories": [
+    "wedding-destination-venues",
+    "wedding-villas"
+   ],
+   "refs": [
+    "knot_cost",
+    "bridebook_report",
+    "gov_marriage_abroad"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-destination-venues",
+    "label": "Explore destination venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 34,
+   "title": "Legal requirements for getting married abroad",
+   "slug": "legal-requirements-for-getting-married-abroad",
+   "cluster": "destination",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "legal requirements getting married abroad",
+   "categories": [
+    "wedding-destination-venues",
+    "wedding-villas"
+   ],
+   "refs": [
+    "gov_marriage_abroad",
+    "gov_italy",
+    "gov_france",
+    "gov_spain"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-destination-venues",
+    "label": "Explore destination venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 35,
+   "title": "The complete wedding planning checklist",
+   "slug": "the-complete-wedding-planning-checklist",
+   "cluster": "planning",
+   "type": "cornerstone",
+   "cornerstone": true,
+   "keyword": "wedding planning checklist",
+   "categories": [
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_checklist",
+    "knot_checklist",
+    "gov_marriage_uk",
+    "bridebook_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Find wedding planners on Roko"
+   },
+   "priority": 1,
+   "week": 1,
+   "why": "Broad evergreen search"
+  },
+  {
+   "n": 36,
+   "title": "UK wedding budget breakdown",
+   "slug": "uk-wedding-budget-breakdown",
+   "cluster": "planning",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "UK wedding budget breakdown",
+   "categories": [
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_cost",
+    "hitched_cost_2026",
+    "hitched_average",
+    "bridebook_report"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Find wedding planners on Roko"
+   },
+   "priority": 7,
+   "week": 3,
+   "why": "Practical search demand"
+  },
+  {
+   "n": 37,
+   "title": "When to book every wedding supplier",
+   "slug": "when-to-book-every-wedding-supplier",
+   "cluster": "planning",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding supplier booking timeline",
+   "categories": [
+    "wedding-vendors"
+   ],
+   "refs": [
+    "bridebook_checklist",
+    "knot_checklist"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover supplier booking timeline on Roko"
+   },
+   "priority": 25,
+   "week": 9,
+   "why": "Practical evergreen"
+  },
+  {
+   "n": 38,
+   "title": "How to choose a wedding photographer",
+   "slug": "how-to-choose-a-wedding-photographer",
+   "cluster": "photography",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "choosing a wedding photographer",
+   "categories": [
+    "wedding-photographers"
+   ],
+   "refs": [
+    "bridebook_photo_cost",
+    "knot_vendor_costs"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-photographers",
+    "label": "Discover choosing a photographer on Roko"
+   },
+   "priority": 5,
+   "week": 2,
+   "why": "Supplier discovery"
+  },
+  {
+   "n": 39,
+   "title": "What does a wedding planner do?",
+   "slug": "what-does-a-wedding-planner-do",
+   "cluster": "suppliers",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "what does a wedding planner do",
+   "categories": [
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_planner_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Discover what does a planner do on Roko"
+   },
+   "priority": 11,
+   "week": 4,
+   "why": "Planner discovery"
+  },
+  {
+   "n": 40,
+   "title": "How to write your wedding guest list",
+   "slug": "how-to-write-your-wedding-guest-list",
+   "cluster": "planning",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding guest list",
+   "categories": [
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_cost",
+    "hitched_average"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Find wedding planners on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 41,
+   "title": "Questions to ask wedding suppliers before you book",
+   "slug": "questions-to-ask-wedding-suppliers-before-you-book",
+   "cluster": "suppliers",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "questions to ask wedding suppliers",
+   "categories": [
+    "wedding-vendors"
+   ],
+   "refs": [
+    "bridebook_checklist"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover questions to ask suppliers on Roko"
+   },
+   "priority": 18,
+   "week": 6,
+   "why": "Decision-stage content"
+  },
+  {
+   "n": 42,
+   "title": "How to plan your wedding day timeline",
+   "slug": "how-to-plan-your-wedding-day-timeline",
+   "cluster": "planning",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding day timeline",
+   "categories": [
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_checklist"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Find wedding planners on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 43,
+   "title": "How to plan a wedding in six months",
+   "slug": "how-to-plan-a-wedding-in-six-months",
+   "cluster": "planning",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "plan a wedding in 6 months",
+   "categories": [
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_checklist",
+    "gov_marriage_uk"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Find wedding planners on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 44,
+   "title": "Wedding insurance explained",
+   "slug": "wedding-insurance-explained",
+   "cluster": "planning",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding insurance",
+   "categories": [
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Find wedding planners on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 45,
+   "title": "Planning a multicultural wedding",
+   "slug": "planning-a-multicultural-wedding",
+   "cluster": "planning",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "multicultural wedding",
+   "categories": [
+    "wedding-ceremony",
+    "wedding-indian-catering"
+   ],
+   "refs": [
+    "ons_marriages_2024_2025"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Find wedding planners on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 46,
+   "title": "Wedding guest etiquette for couples and guests",
+   "slug": "wedding-guest-etiquette-for-couples-and-guests",
+   "cluster": "planning",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding guest etiquette",
+   "categories": [
+    "wedding-planning"
+   ],
+   "refs": [
+    "hitched_average"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Find wedding planners on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 47,
+   "title": "Wedding styling on any budget",
+   "slug": "wedding-styling-on-any-budget",
+   "cluster": "flowers-styling",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding styling",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "bridebook_flower_cost",
+    "bridebook_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 48,
+   "title": "The complete guide to wedding flowers",
+   "slug": "the-complete-guide-to-wedding-flowers",
+   "cluster": "flowers-styling",
+   "type": "cornerstone",
+   "cornerstone": true,
+   "keyword": "wedding flowers guide",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "bridebook_flower_cost",
+    "pinterest_wedding_2026",
+    "bridebook_trends"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": 8,
+   "week": 3,
+   "why": "Strong visual content"
+  },
+  {
+   "n": 49,
+   "title": "Seasonal wedding flowers in the UK",
+   "slug": "seasonal-wedding-flowers-in-the-uk",
+   "cluster": "flowers-styling",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "seasonal wedding flowers UK",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "bridebook_flower_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 50,
+   "title": "Wedding flower costs",
+   "slug": "wedding-flower-costs",
+   "cluster": "flowers-styling",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding flower costs",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "bridebook_flower_cost",
+    "knot_vendor_costs"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 51,
+   "title": "Bridal bouquet styles",
+   "slug": "bridal-bouquet-styles",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "bridal bouquet styles",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "pinterest_wedding_2026"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 52,
+   "title": "Sustainable wedding flowers",
+   "slug": "sustainable-wedding-flowers",
+   "cluster": "flowers-styling",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "sustainable wedding flowers",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "bridebook_flower_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 53,
+   "title": "Wedding centrepiece ideas",
+   "slug": "wedding-centrepiece-ideas",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "wedding centrepiece ideas",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "pinterest_wedding_2026"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 54,
+   "title": "Wedding arch and floral installation ideas",
+   "slug": "wedding-arch-and-floral-installation-ideas",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "wedding arch ideas",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "pinterest_wedding_2026"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 55,
+   "title": "How to choose a wedding florist",
+   "slug": "how-to-choose-a-wedding-florist",
+   "cluster": "flowers-styling",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "choosing a wedding florist",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "bridebook_flower_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 56,
+   "title": "Dried and preserved wedding flowers",
+   "slug": "dried-and-preserved-wedding-flowers",
+   "cluster": "flowers-styling",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "dried wedding flowers",
+   "categories": [
+    "wedding-flowers-and-decor"
+   ],
+   "refs": [
+    "pinterest_wedding_2026"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-flowers-and-decor",
+    "label": "Find florists and stylists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 57,
+   "title": "Editorial vs documentary wedding photography",
+   "slug": "editorial-vs-documentary-wedding-photography",
+   "cluster": "photography",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "editorial vs documentary wedding photography",
+   "categories": [
+    "wedding-photographers"
+   ],
+   "refs": [
+    "bridebook_photo_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-photographers",
+    "label": "Discover editorial vs documentary photography on Roko"
+   },
+   "priority": 12,
+   "week": 4,
+   "why": "Specific search intent"
+  },
+  {
+   "n": 58,
+   "title": "Wedding photographer costs",
+   "slug": "wedding-photographer-costs",
+   "cluster": "photography",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding photographer cost",
+   "categories": [
+    "wedding-photographers"
+   ],
+   "refs": [
+    "bridebook_photo_cost",
+    "knot_vendor_costs"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-photographers",
+    "label": "Discover photographer cost on Roko"
+   },
+   "priority": 20,
+   "week": 7,
+   "why": "Commercial research"
+  },
+  {
+   "n": 59,
+   "title": "The complete guide to wedding photography and film",
+   "slug": "the-complete-guide-to-wedding-photography-and-film",
+   "cluster": "photography",
+   "type": "cornerstone",
+   "cornerstone": true,
+   "keyword": "wedding photography guide",
+   "categories": [
+    "wedding-photographers",
+    "wedding-videographers"
+   ],
+   "refs": [
+    "bridebook_photo_cost",
+    "bridebook_video_cost",
+    "knot_vendor_costs"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-photographers",
+    "label": "Discover photography guide on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 60,
+   "title": "Wedding videography guide",
+   "slug": "wedding-videography-guide",
+   "cluster": "photography",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding videographer",
+   "categories": [
+    "wedding-videographers"
+   ],
+   "refs": [
+    "bridebook_video_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-videographers",
+    "label": "Discover videographer on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 61,
+   "title": "Wedding photo shot list",
+   "slug": "wedding-photo-shot-list",
+   "cluster": "photography",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding photo shot list",
+   "categories": [
+    "wedding-photographers"
+   ],
+   "refs": [
+    "bridebook_photo_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-photographers",
+    "label": "Discover photo shot list on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 62,
+   "title": "Wedding band or DJ: how to decide",
+   "slug": "wedding-band-or-dj-how-to-decide",
+   "cluster": "entertainment",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding band vs DJ",
+   "categories": [
+    "wedding-bands",
+    "wedding-djs"
+   ],
+   "refs": [
+    "bridebook_band_cost",
+    "bridebook_dj_cost",
+    "knot_vendor_costs"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-entertainment",
+    "label": "Discover band vs DJ on Roko"
+   },
+   "priority": 23,
+   "week": 8,
+   "why": "Supplier comparison"
+  },
+  {
+   "n": 63,
+   "title": "The complete guide to wedding entertainment",
+   "slug": "the-complete-guide-to-wedding-entertainment",
+   "cluster": "entertainment",
+   "type": "cornerstone",
+   "cornerstone": true,
+   "keyword": "wedding entertainment ideas",
+   "categories": [
+    "wedding-entertainment"
+   ],
+   "refs": [
+    "bridebook_band_cost",
+    "bridebook_dj_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-entertainment",
+    "label": "Find wedding entertainment on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 64,
+   "title": "Wedding ceremony music",
+   "slug": "wedding-ceremony-music",
+   "cluster": "entertainment",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding ceremony music",
+   "categories": [
+    "wedding-entertainment",
+    "wedding-ceremony"
+   ],
+   "refs": [
+    "bridebook_band_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-entertainment",
+    "label": "Find wedding entertainment on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 65,
+   "title": "Film wedding photography",
+   "slug": "film-wedding-photography",
+   "cluster": "photography",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "film wedding photography",
+   "categories": [
+    "wedding-photographers"
+   ],
+   "refs": [
+    "bridebook_photo_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-photographers",
+    "label": "Discover film photography on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 66,
+   "title": "Engagement shoot guide",
+   "slug": "engagement-shoot-guide",
+   "cluster": "photography",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "engagement shoot",
+   "categories": [
+    "wedding-engagement-and-pre-wedding-shoots"
+   ],
+   "refs": [
+    "bridebook_photo_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-engagement-and-pre-wedding-shoots",
+    "label": "Discover engagement shoot on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 67,
+   "title": "The complete guide to wedding catering",
+   "slug": "the-complete-guide-to-wedding-catering",
+   "cluster": "catering",
+   "type": "cornerstone",
+   "cornerstone": true,
+   "keyword": "wedding catering guide",
+   "categories": [
+    "wedding-caterers"
+   ],
+   "refs": [
+    "bridebook_catering_cost",
+    "knot_vendor_costs"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-caterers",
+    "label": "Find wedding caterers on Roko"
+   },
+   "priority": 15,
+   "week": 5,
+   "why": "Caterer discovery"
+  },
+  {
+   "n": 68,
+   "title": "Wedding catering costs",
+   "slug": "wedding-catering-costs",
+   "cluster": "catering",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding catering cost",
+   "categories": [
+    "wedding-caterers"
+   ],
+   "refs": [
+    "bridebook_catering_cost",
+    "knot_vendor_costs"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-caterers",
+    "label": "Find wedding caterers on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 69,
+   "title": "Wedding menu ideas",
+   "slug": "wedding-menu-ideas",
+   "cluster": "catering",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "wedding menu ideas",
+   "categories": [
+    "wedding-caterers"
+   ],
+   "refs": [
+    "bridebook_catering_cost",
+    "pinterest_wedding_2026"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-caterers",
+    "label": "Find wedding caterers on Roko"
+   },
+   "priority": 27,
+   "week": 9,
+   "why": "Catering discovery"
+  },
+  {
+   "n": 70,
+   "title": "Wedding cake guide",
+   "slug": "wedding-cake-guide",
+   "cluster": "catering",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding cake guide",
+   "categories": [
+    "wedding-cakes"
+   ],
+   "refs": [
+    "bridebook_cake_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-cakes",
+    "label": "Discover cake guide on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 71,
+   "title": "Sharing, family-style or plated wedding menus",
+   "slug": "sharing-family-style-or-plated-wedding-menus",
+   "cluster": "catering",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "family style wedding menu",
+   "categories": [
+    "wedding-caterers"
+   ],
+   "refs": [
+    "bridebook_catering_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-caterers",
+    "label": "Find wedding caterers on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 72,
+   "title": "Wedding drinks and bar guide",
+   "slug": "wedding-drinks-and-bar-guide",
+   "cluster": "catering",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding drinks guide",
+   "categories": [
+    "wedding-bars",
+    "wedding-mobile-bars",
+    "wedding-drinks-suppliers"
+   ],
+   "refs": [
+    "bridebook_catering_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-bars",
+    "label": "Discover drinks guide on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 73,
+   "title": "Late-night wedding food ideas",
+   "slug": "late-night-wedding-food-ideas",
+   "cluster": "catering",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "late night wedding food",
+   "categories": [
+    "wedding-late-night-food",
+    "wedding-food-trucks"
+   ],
+   "refs": [
+    "bridebook_catering_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-late-night-food",
+    "label": "Discover late night food on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 74,
+   "title": "Dietary requirements at weddings",
+   "slug": "dietary-requirements-at-weddings",
+   "cluster": "catering",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding dietary requirements",
+   "categories": [
+    "wedding-caterers",
+    "wedding-gluten-free-and-allergy-catering"
+   ],
+   "refs": [
+    "bridebook_catering_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-caterers",
+    "label": "Find wedding caterers on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 75,
+   "title": "Luxury wedding trends for 2027",
+   "slug": "luxury-wedding-trends-for-2027",
+   "cluster": "luxury",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "luxury wedding trends 2027",
+   "categories": [
+    "wedding-castles-and-estates",
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_trends",
+    "pinterest_wedding_2026",
+    "bridebook_report"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover exceptional wedding businesses on Roko"
+   },
+   "priority": 9,
+   "week": 3,
+   "why": "Timely editorial"
+  },
+  {
+   "n": 76,
+   "title": "What makes a wedding feel luxurious?",
+   "slug": "what-makes-a-wedding-feel-luxurious",
+   "cluster": "luxury",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "what makes a wedding luxurious",
+   "categories": [
+    "wedding-castles-and-estates",
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_report",
+    "bridebook_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover exceptional wedding businesses on Roko"
+   },
+   "priority": 24,
+   "week": 8,
+   "why": "Brand positioning"
+  },
+  {
+   "n": 77,
+   "title": "The State of Weddings 2027",
+   "slug": "the-state-of-weddings-2027",
+   "cluster": "luxury",
+   "type": "report",
+   "cornerstone": false,
+   "keyword": "wedding industry report 2027",
+   "categories": [
+    "wedding-castles-and-estates",
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_report",
+    "hitched_cost_2026",
+    "knot_cost",
+    "ons_marriages_2024_2025",
+    "savills_weddings"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover exceptional wedding businesses on Roko"
+   },
+   "priority": 29,
+   "week": 11,
+   "why": "Original research"
+  },
+  {
+   "n": 78,
+   "title": "The luxury wedding guide",
+   "slug": "the-luxury-wedding-guide",
+   "cluster": "luxury",
+   "type": "cornerstone",
+   "cornerstone": true,
+   "keyword": "luxury wedding guide",
+   "categories": [
+    "wedding-planning",
+    "wedding-castles-and-estates"
+   ],
+   "refs": [
+    "bridebook_report",
+    "bridebook_cost",
+    "bridebook_planner_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover exceptional wedding businesses on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 79,
+   "title": "Working with a luxury wedding planner",
+   "slug": "working-with-a-luxury-wedding-planner",
+   "cluster": "luxury",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "luxury wedding planner",
+   "categories": [
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_planner_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-planning",
+    "label": "Discover luxury planner on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 80,
+   "title": "How to plan a luxury wedding budget",
+   "slug": "how-to-plan-a-luxury-wedding-budget",
+   "cluster": "luxury",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "luxury wedding budget",
+   "categories": [
+    "wedding-castles-and-estates",
+    "wedding-planning"
+   ],
+   "refs": [
+    "bridebook_cost",
+    "bridebook_report",
+    "knot_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover exceptional wedding businesses on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 81,
+   "title": "Luxury wedding stationery",
+   "slug": "luxury-wedding-stationery",
+   "cluster": "luxury",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "luxury wedding stationery",
+   "categories": [
+    "wedding-stationery"
+   ],
+   "refs": [
+    "pinterest_wedding_2026"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-stationery",
+    "label": "Discover luxury stationery on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 82,
+   "title": "Couture and designer wedding dresses",
+   "slug": "couture-and-designer-wedding-dresses",
+   "cluster": "luxury",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "designer wedding dresses",
+   "categories": [
+    "wedding-bridal-and-groom"
+   ],
+   "refs": [
+    "bridebook_cost"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-bridal-and-groom",
+    "label": "Discover designer dresses on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 83,
+   "title": "Luxury honeymoon destinations",
+   "slug": "luxury-honeymoon-destinations",
+   "cluster": "destination",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "luxury honeymoon destinations",
+   "categories": [
+    "wedding-destination-venues",
+    "wedding-villas"
+   ],
+   "refs": [
+    "gov_marriage_abroad"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-destination-venues",
+    "label": "Explore destination venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 84,
+   "title": "Wedding guest experience ideas",
+   "slug": "wedding-guest-experience-ideas",
+   "cluster": "luxury",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "wedding guest experience ideas",
+   "categories": [
+    "wedding-parties-and-experiences"
+   ],
+   "refs": [
+    "pinterest_wedding_2026"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover exceptional wedding businesses on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 85,
+   "title": "Luxury birthday party ideas",
+   "slug": "luxury-birthday-party-ideas",
+   "cluster": "private-events",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "luxury birthday party ideas",
+   "categories": [
+    "wedding-parties-and-experiences",
+    "wedding-party-venues"
+   ],
+   "refs": [],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-parties-and-experiences",
+    "label": "Find party and event specialists on Roko"
+   },
+   "priority": 21,
+   "week": 7,
+   "why": "Expand beyond weddings"
+  },
+  {
+   "n": 86,
+   "title": "How to plan a private dinner party",
+   "slug": "how-to-plan-a-private-dinner-party",
+   "cluster": "private-events",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "private dinner party planning",
+   "categories": [
+    "wedding-private-chefs",
+    "wedding-caterers"
+   ],
+   "refs": [],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-private-chefs",
+    "label": "Discover private dinner party planning on Roko"
+   },
+   "priority": 30,
+   "week": 12,
+   "why": "Broader event market"
+  },
+  {
+   "n": 87,
+   "title": "The complete guide to planning a private event",
+   "slug": "the-complete-guide-to-planning-a-private-event",
+   "cluster": "private-events",
+   "type": "cornerstone",
+   "cornerstone": true,
+   "keyword": "private event planning",
+   "categories": [
+    "wedding-parties-and-experiences",
+    "wedding-party-venues"
+   ],
+   "refs": [],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-parties-and-experiences",
+    "label": "Find party and event specialists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 88,
+   "title": "Engagement party ideas",
+   "slug": "engagement-party-ideas",
+   "cluster": "private-events",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "engagement party ideas",
+   "categories": [
+    "wedding-parties-and-experiences",
+    "wedding-party-venues"
+   ],
+   "refs": [],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-parties-and-experiences",
+    "label": "Find party and event specialists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 89,
+   "title": "Anniversary celebration ideas",
+   "slug": "anniversary-celebration-ideas",
+   "cluster": "private-events",
+   "type": "inspiration",
+   "cornerstone": false,
+   "keyword": "anniversary celebration ideas",
+   "categories": [
+    "wedding-parties-and-experiences"
+   ],
+   "refs": [],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-parties-and-experiences",
+    "label": "Find party and event specialists on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 90,
+   "title": "How to choose a corporate event venue",
+   "slug": "how-to-choose-a-corporate-event-venue",
+   "cluster": "private-events",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "corporate event venues",
+   "categories": [
+    "wedding-corporate-and-conferences",
+    "wedding-conference-centres"
+   ],
+   "refs": [],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-corporate-and-conferences",
+    "label": "Discover corporate event venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 91,
+   "title": "Hiring a private chef for an event",
+   "slug": "hiring-a-private-chef-for-an-event",
+   "cluster": "private-events",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "hire a private chef",
+   "categories": [
+    "wedding-private-chefs"
+   ],
+   "refs": [],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-private-chefs",
+    "label": "Discover hire a private chef on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 92,
+   "title": "Milestone birthday venues",
+   "slug": "milestone-birthday-venues",
+   "cluster": "private-events",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "milestone birthday venues",
+   "categories": [
+    "wedding-party-venues",
+    "wedding-private-members-clubs"
+   ],
+   "refs": [],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-party-venues",
+    "label": "Discover milestone birthday venues on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 93,
+   "title": "Meet the Makers",
+   "slug": "meet-the-makers",
+   "cluster": "suppliers",
+   "type": "feature",
+   "cornerstone": false,
+   "keyword": "wedding suppliers interview",
+   "categories": [
+    "wedding-vendors"
+   ],
+   "refs": [],
+   "time_sensitive": false,
+   "goal": {
+    "type": "register",
+    "url": "/list-your-business",
+    "label": "List your business on Roko"
+   },
+   "priority": 28,
+   "week": 10,
+   "why": "Vendor acquisition"
+  },
+  {
+   "n": 94,
+   "title": "Wedding suppliers: who you need and when to book them",
+   "slug": "wedding-suppliers-who-you-need-and-when-to-book-them",
+   "cluster": "suppliers",
+   "type": "cornerstone",
+   "cornerstone": true,
+   "keyword": "wedding suppliers list",
+   "categories": [
+    "wedding-vendors"
+   ],
+   "refs": [
+    "bridebook_cost",
+    "knot_vendor_costs",
+    "bridebook_checklist"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover wedding suppliers on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 95,
+   "title": "Wedding hair and makeup guide",
+   "slug": "wedding-hair-and-makeup-guide",
+   "cluster": "suppliers",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding hair and makeup",
+   "categories": [
+    "wedding-beauty"
+   ],
+   "refs": [
+    "bridebook_hair_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-beauty",
+    "label": "Discover hair and makeup on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 96,
+   "title": "What a wedding stationer does",
+   "slug": "what-a-wedding-stationer-does",
+   "cluster": "suppliers",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding stationer",
+   "categories": [
+    "wedding-stationery"
+   ],
+   "refs": [
+    "bridebook_checklist"
+   ],
+   "time_sensitive": false,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-stationery",
+    "label": "Discover stationer on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 97,
+   "title": "How wedding suppliers price their services",
+   "slug": "how-wedding-suppliers-price-their-services",
+   "cluster": "suppliers",
+   "type": "guide",
+   "cornerstone": false,
+   "keyword": "wedding supplier pricing",
+   "categories": [
+    "wedding-vendors"
+   ],
+   "refs": [
+    "bridebook_report",
+    "knot_vendor_costs"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "register",
+    "url": "/list-your-business",
+    "label": "List your business on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 98,
+   "title": "Wedding industry insights from Roko",
+   "slug": "wedding-industry-insights-from-roko",
+   "cluster": "suppliers",
+   "type": "research",
+   "cornerstone": false,
+   "keyword": "wedding industry insights",
+   "categories": [
+    "wedding-vendors"
+   ],
+   "refs": [
+    "bridebook_report",
+    "hitched_cost_2026",
+    "knot_cost"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "register",
+    "url": "/list-your-business",
+    "label": "List your business on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 99,
+   "title": "UK wedding market snapshot",
+   "slug": "uk-wedding-market-snapshot",
+   "cluster": "suppliers",
+   "type": "research",
+   "cornerstone": false,
+   "keyword": "UK wedding market",
+   "categories": [
+    "wedding-vendors"
+   ],
+   "refs": [
+    "bridebook_report",
+    "ons_marriages_2024_2025",
+    "hitched_cost_2026"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover wedding suppliers on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  },
+  {
+   "n": 100,
+   "title": "What couples search for on Roko",
+   "slug": "what-couples-search-for-on-roko",
+   "cluster": "suppliers",
+   "type": "research",
+   "cornerstone": false,
+   "keyword": "wedding search trends",
+   "categories": [
+    "wedding-vendors"
+   ],
+   "refs": [
+    "bridebook_trends"
+   ],
+   "time_sensitive": true,
+   "goal": {
+    "type": "category",
+    "url": "/wedding-vendors",
+    "label": "Discover wedding suppliers on Roko"
+   },
+   "priority": null,
+   "week": null,
+   "why": ""
+  }
+ ]
+}

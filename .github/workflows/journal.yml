@@ -1,0 +1,95 @@
+name: Journal
+
+# Roko Journal: research, writing (Gemini free tier, no Claude credits), real photos and publishing.
+# Started by the Roko website itself (Admin > Journal, through the workflow_dispatch API) about four times a day,
+# with GitHub's own schedule below as a backup. Most runs find nothing due and finish quickly.
+# Secrets: GEMINI_API_KEY (required), ROKO_JOURNAL_KEY (from Roko > Admin > Journal > Settings).
+# Variable (optional): ROKO_URL, default https://withroko.com.
+on:
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "Leave empty for a normal run. Or: next, a roadmap number (e.g. 26), feature, research, report, refresh:<slug>"
+        default: ""
+      check:
+        description: "Leave empty. 'feeds' only checks which research feeds answer."
+        default: ""
+  schedule:
+    - cron: "41 7,13,19 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: journal
+  cancel-in-progress: false
+
+env:
+  PYTHONUNBUFFERED: "1"
+  ROKO_URL: ${{ vars.ROKO_URL || 'https://withroko.com' }}
+
+jobs:
+  journal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check research feeds
+        if: ${{ inputs.check == 'feeds' }}
+        run: python3 scripts/research.py --diag
+
+      - run: pip install pillow
+        if: ${{ !inputs.check }}
+
+      - name: Configure git
+        if: ${{ !inputs.check }}
+        run: |
+          git config user.name "Roko Journal"
+          git config user.email "journal@withroko.com"
+
+      - name: Research monitor
+        if: ${{ !inputs.check }}
+        continue-on-error: true
+        env:
+          ROKO_JOURNAL_KEY: ${{ secrets.ROKO_JOURNAL_KEY }}
+        run: python3 scripts/research.py
+
+      - name: Write anything due
+        if: ${{ !inputs.check }}
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_TEXT_MODEL: ${{ vars.GEMINI_TEXT_MODEL }}
+          ROKO_JOURNAL_KEY: ${{ secrets.ROKO_JOURNAL_KEY }}
+          TASK: ${{ inputs.task }}
+        run: python3 scripts/write.py
+
+      - name: Save progress
+        if: ${{ !inputs.check }}
+        run: |
+          git add -A content research
+          git diff --cached --quiet || git commit -q -m "Journal: research and drafts"
+          git pull -q --rebase origin main && git push -q origin HEAD:main
+
+      - name: Real photos
+        if: ${{ !inputs.check }}
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_TEXT_MODEL: ${{ vars.GEMINI_TEXT_MODEL }}
+        run: python3 scripts/images.py
+
+      - name: Build and publish
+        if: ${{ !inputs.check }}
+        run: |
+          python3 build.py
+          git add -A content research dist
+          git diff --cached --quiet || git commit -q -m "Journal: publish"
+          git pull -q --rebase origin main && git push -q origin HEAD:main
