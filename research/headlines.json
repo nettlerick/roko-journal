@@ -115,12 +115,6 @@
  },
  {
   "query": "wedding industry",
-  "headline": "Wedding content creator from Dorset says new industry is booming",
-  "publisher": "BBC",
-  "date": "2026-10-18T07:00:00+00:00"
- },
- {
-  "query": "wedding industry",
   "headline": "Over Barn recognised as Gloucestershire's best wedding barn",
   "publisher": "SoGlos",
   "date": "2026-10-14T07:00:00+00:00"
@@ -133,15 +127,21 @@
  },
  {
   "query": "wedding industry",
-  "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
-  "publisher": "Stroud News and Journal",
-  "date": "2026-10-22T04:02:00+00:00"
+  "headline": "How 15,000 free T-shirts helped build a £15m bridal fashion brand",
+  "publisher": "BusinessCloud",
+  "date": "2026-10-27T06:21:48+00:00"
  },
  {
   "query": "wedding industry",
-  "headline": "Wedding photographer supporting Lake District romance nominated for award",
-  "publisher": "NW Mail",
-  "date": "2026-10-19T07:00:00+00:00"
+  "headline": "Wedding content creator from Dorset says new industry is booming",
+  "publisher": "BBC",
+  "date": "2026-10-18T07:00:00+00:00"
+ },
+ {
+  "query": "wedding industry",
+  "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
+  "publisher": "Stroud News and Journal",
+  "date": "2026-10-22T04:02:00+00:00"
  },
  {
   "query": "Bridebook wedding report",
@@ -162,10 +162,28 @@
   "date": "2026-10-24T07:23:47+00:00"
  },
  {
-  "query": "Hitched wedding survey",
-  "headline": "Photos: Actress Christine Kuo gets hitched in fairy-tale wedding, Entertainment News",
-  "publisher": "AsiaOne.com",
-  "date": "2026-10-26T07:00:00+00:00"
+  "query": "The Knot wedding study",
+  "headline": "Your Wedding Guests Have Questions. There’s a Concierge for That.",
+  "publisher": "The New York Times",
+  "date": "2026-10-08T07:00:00+00:00"
+ },
+ {
+  "query": "The Knot wedding study",
+  "headline": "Pauline Ferrand-Prévôt and Dylan Van Baarle marry - All-star cycling couple tie the knot weeks after Van Baarle's serious crash",
+  "publisher": "CyclingUpToDate.com",
+  "date": "2026-10-26T16:00:00+00:00"
+ },
+ {
+  "query": "The Knot wedding study",
+  "headline": "This couple ran out of date night ideas, so they built a site for crashing strangers’ weddings",
+  "publisher": "Fortune",
+  "date": "2026-10-20T07:00:00+00:00"
+ },
+ {
+  "query": "The Knot wedding study",
+  "headline": "From Sketch to Setting: The Craft Behind the Modern Engagement Ring",
+  "publisher": "New Wave Magazine",
+  "date": "2026-10-20T07:00:00+00:00"
  },
  {
   "query": "The Knot wedding study",
@@ -181,51 +199,39 @@
  },
  {
   "query": "The Knot wedding study",
+  "headline": "Can secondhand engagement rings actually become a thing? MyGemma thinks so.",
+  "publisher": "Retail Brew",
+  "date": "2026-10-23T07:00:00+00:00"
+ },
+ {
+  "query": "The Knot wedding study",
   "headline": "The new wedding budget: Where couples are spending more, and less",
   "publisher": "The Pantagraph",
   "date": "2026-10-23T14:30:05+00:00"
  },
  {
   "query": "The Knot wedding study",
+  "headline": "10 Things That Just Aren’t Worth Your Money Anymore in 2026",
+  "publisher": "Gadget Review",
+  "date": "2026-10-06T07:00:00+00:00"
+ },
+ {
+  "query": "The Knot wedding study",
+  "headline": "Older couples getting married but reluctant to hold ceremonies",
+  "publisher": "朝日新聞",
+  "date": "2026-10-17T22:20:32+00:00"
+ },
+ {
+  "query": "The Knot wedding study",
+  "headline": "Weddings find their joy again as industry embraces change and optimism for 2027",
+  "publisher": "Gulf News",
+  "date": "2026-10-09T07:00:00+00:00"
+ },
+ {
+  "query": "The Knot wedding study",
   "headline": "The ‘American Dream’ Now Costs More Than $5.3 Million",
   "publisher": "Investopedia",
   "date": "2026-10-07T07:00:00+00:00"
- },
- {
-  "query": "The Knot wedding study",
-  "headline": "Why Travelers Are Turning Someone Else’s Big Event Into Their Own Vacation",
-  "publisher": "Travel Noire",
-  "date": "2026-10-07T07:00:00+00:00"
- },
- {
-  "query": "The Knot wedding study",
-  "headline": "Sylvester Stallone Jokes His Daughter’s Wedding Means He ‘Can’t Retire.’ I’m a CPA — for Many Parents, It’s No Joke",
-  "publisher": "Money Talks News",
-  "date": "2026-10-29T13:02:44+00:00"
- },
- {
-  "query": "The Knot wedding study",
-  "headline": "Holiday proposals put custom engagement rings in Chicagoland on a fall timeline",
-  "publisher": "nwitimes.com",
-  "date": "2026-10-30T14:15:00+00:00"
- },
- {
-  "query": "The Knot wedding study",
-  "headline": "Here’s What the American Dream Costs in Every State",
-  "publisher": "Investopedia",
-  "date": "2026-10-20T07:00:00+00:00"
- },
- {
-  "query": "The Knot wedding study",
-  "headline": "U.S., Western Europe & APAC Fake Wedding Party Market Is Going to Boom |• David's Bridal • The Knot",
-  "publisher": "openPR.com",
-  "date": "2026-11-02T08:17:56+00:00"
- },
- {
-  "query": "The Knot wedding study",
-  "headline": "Keith Miller Counseling offers premarital counseling in Bethesda as engagement season begins",
-  "publisher": "openPR.com",
-  "date": "2026-11-01T09:02:04+00:00"
  },
  {
   "query": "viral wedding TikTok",
@@ -379,27 +385,15 @@
  },
  {
   "query": "Pinterest wedding trends",
-  "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
-  "publisher": "ELLE Australia",
-  "date": "2026-10-12T07:00:00+00:00"
- },
- {
-  "query": "Pinterest wedding trends",
-  "headline": "Pinterest Beauty Trends 2026: Hair, Nails & Makeup | style",
-  "publisher": "stylemagazines.com.au",
-  "date": "2026-10-09T07:00:00+00:00"
+  "headline": "Inside a Bridal Designer’s Dream Wedding: Andrea Tetangco Takes Us Through Its Creative Process",
+  "publisher": "Metro.Style",
+  "date": "2026-10-28T19:55:44+00:00"
  },
  {
   "query": "Pinterest wedding trends",
   "headline": "5 Must-Have Lipstick Shades For The Festive-Cum-Bridal Season",
   "publisher": "Herzindagi",
   "date": "2026-10-08T07:00:00+00:00"
- },
- {
-  "query": "luxury wedding venue opening",
-  "headline": "The best luxury wedding planners",
-  "publisher": "The Times",
-  "date": "2026-10-28T06:05:00+00:00"
  },
  {
   "query": "luxury wedding venue opening",
@@ -415,15 +409,21 @@
  },
  {
   "query": "luxury wedding venue opening",
-  "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
-  "publisher": "The Isle of Thanet News",
-  "date": "2026-10-06T07:00:00+00:00"
+  "headline": "Ciliau Aeron venue nominated for wedding industry award",
+  "publisher": "Cambrian News",
+  "date": "2026-10-12T07:00:00+00:00"
  },
  {
   "query": "luxury wedding venue opening",
   "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
   "publisher": "Yahoo News UK",
   "date": "2026-10-27T16:06:18+00:00"
+ },
+ {
+  "query": "luxury wedding venue opening",
+  "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
+  "publisher": "Seen in The City",
+  "date": "2026-10-05T21:07:54+00:00"
  },
  {
   "query": "luxury wedding venue opening",
@@ -451,12 +451,6 @@
  },
  {
   "query": "luxury wedding venue opening",
-  "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
-  "publisher": "巴士的報",
-  "date": "2026-10-19T07:00:00+00:00"
- },
- {
-  "query": "luxury wedding venue opening",
   "headline": "Dubai’s Top Luxury Wedding Venues: From beachfront elegance to desert charm",
   "publisher": "Gulf News",
   "date": "2026-10-09T07:00:00+00:00"
@@ -466,6 +460,12 @@
   "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
   "publisher": "vietnamnews.vn",
   "date": "2026-10-19T07:00:00+00:00"
+ },
+ {
+  "query": "luxury wedding venue opening",
+  "headline": "Inside historic Darlington hotel and spa put on the market for £1.25 million",
+  "publisher": "The Northern Echo",
+  "date": "2026-10-05T07:00:00+00:00"
  },
  {
   "query": "destination wedding trend",
@@ -547,9 +547,9 @@
  },
  {
   "query": "wedding venue hotel opening",
-  "headline": "Chelsea Old Town Hall x The Chelsea Harbour Hotel Wedding Showcase",
-  "publisher": "King's Road London",
-  "date": "2026-10-06T10:27:23+00:00"
+  "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
+  "publisher": "The Impartial Reporter",
+  "date": "2026-10-27T16:24:29+00:00"
  },
  {
   "query": "wedding venue hotel opening",
@@ -559,15 +559,21 @@
  },
  {
   "query": "wedding venue hotel opening",
-  "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
-  "publisher": "The Impartial Reporter",
-  "date": "2026-10-27T16:24:29+00:00"
- },
- {
-  "query": "wedding venue hotel opening",
   "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
   "publisher": "The Isle of Thanet News",
   "date": "2026-10-06T07:00:00+00:00"
+ },
+ {
+  "query": "wedding venue hotel opening",
+  "headline": "Chelsea Old Town Hall x The Chelsea Harbour Hotel Wedding Showcase",
+  "publisher": "King's Road London",
+  "date": "2026-10-06T10:27:23+00:00"
+ },
+ {
+  "query": "wedding venue hotel opening",
+  "headline": "Larchfield Estate at 20: how Northern Ireland’s first non-hotel wedding venue grew into an events and accommodation destination",
+  "publisher": "Business First Online",
+  "date": "2026-10-08T15:37:08+00:00"
  },
  {
   "query": "wedding venue hotel opening",
@@ -589,27 +595,21 @@
  },
  {
   "query": "wedding venue hotel opening",
-  "headline": "Larchfield Estate at 20: how Northern Ireland’s first non-hotel wedding venue grew into an events and accommodation destination",
-  "publisher": "Business First Online",
-  "date": "2026-10-08T15:37:08+00:00"
- },
- {
-  "query": "wedding venue hotel opening",
-  "headline": "The public-private partnerships behind the UK’s regional hotels",
-  "publisher": "Hospitality Investor",
-  "date": "2026-10-12T07:00:00+00:00"
- },
- {
-  "query": "wedding venue hotel opening",
-  "headline": "Former council-owned mansion set to become ‘hotel, spa and wedding venue’",
-  "publisher": "Wakefield Express",
-  "date": "2026-10-12T07:00:00+00:00"
+  "headline": "Former council-owned mansion set to become 'hotel, spa and wedding venue'",
+  "publisher": "Yorkshire Post",
+  "date": "2026-10-13T07:00:00+00:00"
  },
  {
   "query": "wedding venue hotel opening",
   "headline": "This new Times Square hotel will have a free-fall thrill ride, an observation deck and a rooftop pool",
   "publisher": "AOL.co.uk",
   "date": "2026-10-30T13:12:39+00:00"
+ },
+ {
+  "query": "wedding venue hotel opening",
+  "headline": "Famed wedding venue of Michael Douglas, others closing for years, leaving brides scrambling",
+  "publisher": "Fox News",
+  "date": "2026-10-19T07:00:00+00:00"
  },
  {
   "query": "events industry UK",
