@@ -36,7 +36,7 @@ Knowledgeable, stylish, approachable and never overly sales-driven. Think of a w
 - **Honest trade-offs.** Say what something costs you (time, money, flexibility) as well as what it gives you.
 - **Rhythm.** Mix longer explanatory sentences with short ones that land a point. Cut words that do no work.
 - **Plain words.** "Use", not "utilise". "Buy", not "purchase". "Help", not "facilitate".
-- **UK English** spelling and punctuation (colour, organise, programme, licence as a noun, favourite). Prices in the currency of the market the source describes.
+- **UK English** spelling and punctuation (colour, organise, programme, licence as a noun, favourite). Prices in the currency of the market the source describes, written with the symbol and digits (£20,604, $33,000, 51%), never spelled out as "pounds" or "per cent".
 - **Sentence case** headings.
 
 ## Accuracy rules (non-negotiable)

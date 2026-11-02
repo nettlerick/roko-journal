@@ -171,7 +171,7 @@ def look(a, c):
             "people_identifiable: true if a person's face is clearly identifiable and central.\n"
             'Reply with JSON only: {"quality": n, "relevance": n, "real": true, "stock": false, "people_identifiable": false, '
             '"alt": "plain description of the photo for alt text, under 120 characters"}',
-            "You judge photographs for a magazine. Be strict.", images=[jpeg], temperature=0.1, tokens=300)
+            "You judge photographs for a magazine. Be strict.", images=[jpeg], temperature=0.1, tokens=4096)
     except Exception as e:
         log(f"vision unavailable: {str(e)[:80]}")
         return None
