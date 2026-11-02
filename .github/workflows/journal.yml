@@ -45,6 +45,10 @@ jobs:
         if: ${{ inputs.check == 'feeds' }}
         run: python3 scripts/research.py --diag
 
+      - name: Check photo libraries
+        if: ${{ inputs.check == 'photos' }}
+        run: python3 scripts/images.py --probe
+
       - run: pip install pillow
         if: ${{ !inputs.check }}
 

@@ -308,5 +308,16 @@ def main():
             log(f"images added to {a['slug']}")
 
 
+def probe():
+    """Diagnostics: how many usable candidates each library returns for a few searches."""
+    for q in ["wedding reception", "wedding ceremony", "banquet hall"]:
+        for name, fn in (("commons-qi", lambda x: commons(x, "qi")), ("commons", commons), ("openverse", openverse)):
+            t = time.time()
+            try:
+                r = fn(q); log(f"::notice::{name} {q!r}: {len(r)} usable in {time.time() - t:.1f}s")
+            except Exception as e:
+                log(f"::warning::{name} {q!r}: FAIL {type(e).__name__} {str(e)[:100]} after {time.time() - t:.1f}s")
+
+
 if __name__ == "__main__":
-    main()
+    probe() if "--probe" in sys.argv else main()
