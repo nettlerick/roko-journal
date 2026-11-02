@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T14:59:19+00:00",
+ "generated": "2026-11-02T15:03:54+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -263,7 +263,7 @@
     "url": "/wedding-venues-and-accommodation/united-kingdom",
     "label": "Discover luxury venues UK on Roko"
    },
-   "status": "planned"
+   "status": "failed 1x"
   },
   {
    "n": 14,
@@ -1899,10 +1899,17 @@
     "no JSON object in model output"
    ],
    "count": 1
+  },
+  "luxury-wedding-venues-in-the-uk": {
+   "date": "2026-11-02T15:03+00:00",
+   "errors": [
+    "plan had only 0 sections"
+   ],
+   "count": 1
   }
  },
  "research": {
-  "generated": "2026-11-02T14:55+00:00",
+  "generated": "2026-11-02T15:03+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2149,6 +2156,15 @@
     "kind": "luxury"
    },
    {
+    "url": "https://uk.finance.yahoo.com/news/global-wedding-services-market-size-151500413.html",
+    "title": "Global Wedding Services Market Size, Share, Trends, and Forecast, 2026-2033 | Destination Weddings and Digital Planning Propel Market to USD 2.65 Trillion at 12.8% CAGR",
+    "summary": "Capitalize on premium, personalized and destination weddings through digital planning, vendor matching and comprehensive service coordination.Dublin, Oct. 29, 2026 (GLOBE NEWSWIRE) -- \"Wedding ...",
+    "date": "2026-10-29T04:15:00+00:00",
+    "publisher": "Yahoo Finance UK",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
     "url": "https://www.msn.com/en-gb/lifestyle/other/getting-married-these-are-the-5-wedding-flower-trends-set-to-take-over-in-2027/ar-AA2gkbdb",
     "title": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
     "summary": "You might not have Maddison Square Garden as your venue, but you can have a tremendous flower arrangement ...",
@@ -2158,7 +2174,25 @@
     "query": "wedding trends"
    },
    {
+    "url": "https://www.msn.com/en-gb/news/other/getting-married-these-are-the-5-wedding-flower-trends-set-to-take-over-in-2027/ar-AA2gkbdb",
+    "title": "Getting married? These are the 5 wedding flower trends set to take over in 2027",
+    "summary": "You might not have Maddison Square Garden as your venue, but you can have a tremendous flower arrangement ...",
+    "date": "2026-10-29T03:48:59+00:00",
+    "publisher": "ELLE on MSN",
+    "kind": "news",
+    "query": "wedding trends"
+   },
+   {
     "url": "https://www.msn.com/en-in/money/general/the-business-of-destination-weddings-how-hotel-buyouts-rising-wedding-budgets-and-multi-day-celebrations-are-changing-luxury-hospitality-in-india/ar-AA2gjWvg",
+    "title": "The business of destination weddings: How hotel buyouts, rising wedding budgets, and multi-day celebrations are changing luxury hospitality in India",
+    "summary": "Destination weddings are big business for luxury hotels, driving revenue through room bookings, banquets, and exclusive resort buyouts. But rising wedding costs, operational challenges, and restricted ...",
+    "date": "2026-10-29T00:46:25+00:00",
+    "publisher": "ET Now on MSN",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://www.msn.com/en-in/money/other/the-business-of-destination-weddings-how-hotel-buyouts-rising-wedding-budgets-and-multi-day-celebrations-are-changing-luxury-hospitality-in-india/ar-AA2gjWvg",
     "title": "The business of destination weddings: How hotel buyouts, rising wedding budgets, and multi-day celebrations are changing luxury hospitality in India",
     "summary": "Destination weddings are big business for luxury hotels, driving revenue through room bookings, banquets, and exclusive resort buyouts. But rising wedding costs, operational challenges, and restricted ...",
     "date": "2026-10-29T00:46:25+00:00",
@@ -2182,6 +2216,15 @@
     "publisher": "Country and Town House on MSN",
     "kind": "news",
     "query": "wedding trends"
+   },
+   {
+    "url": "https://www.impartialreporter.com/news/26675086.killyhevlin-announces-1-5m-loughview-wedding-venue/",
+    "title": "Killyhevlin announces £1.5m Loughview wedding venue",
+    "summary": "The Killyhevlin Lakeside Hotel & Lodges has announced a new wedding venue in its offerings after a £1.5million investment.",
+    "date": "2026-10-27T09:06:00+00:00",
+    "publisher": "The Impartial Reporter",
+    "kind": "news",
+    "query": "wedding venue opening hotel"
    },
    {
     "url": "https://www.lovemydress.net/blog/2026/10/dalton-old-pump-house-wedding-disco-old-hollywood-glamour.html",
@@ -2322,6 +2365,15 @@
     "query": "The Knot Worldwide wedding"
    },
    {
+    "url": "https://www.aol.com/articles/wedding-planning-giant-knot-worldwide-191432000.html",
+    "title": "Wedding planning giant The Knot Worldwide acquires rival site Zola",
+    "summary": "Wedding planning giant The Knot Worldwide has acquired top rival Zola in a deal announced Wednesday – even as the company faces scrutiny on Capitol Hill over its alleged mistreatment of mom-and-pop ...",
+    "date": "2026-10-14T12:15:00+00:00",
+    "publisher": "AOL",
+    "kind": "news",
+    "query": "The Knot Worldwide wedding"
+   },
+   {
     "url": "https://www.msn.com/en-us/money/general/wedding-planning-giant-the-knot-worldwide-acquires-rival-site-zola/ar-AA2ef2Fo",
     "title": "Wedding planning giant The Knot Worldwide acquires rival site Zola",
     "summary": "Wedding planning giant The Knot Worldwide has acquired top rival Zola in a deal announced Wednesday – even as the company faces scrutiny on Capitol Hill over its alleged mistreatment of mom-and-pop ...",
@@ -2374,24 +2426,6 @@
     "publisher": "Mena FN",
     "kind": "news",
     "query": "ONS marriages"
-   },
-   {
-    "url": "https://smallbusiness.co.uk/start-business-in-the-wedding-industry-2-2549050/",
-    "title": "Starting a business in the wedding industry",
-    "summary": "So, you want to be in the wedding industry? It’s a strong sector of the economy, worth over £10 billion a year. The ‘Bridebook Wedding Report‘ estimated that the average cost of a wedding was over £30 ...",
-    "date": "2026-07-20T07:47:00+00:00",
-    "publisher": "Small Business",
-    "kind": "news",
-    "query": "Bridebook wedding"
-   },
-   {
-    "url": "https://www.msn.com/en-us/lifestyle/weddings/the-average-wedding-cost-is-a-myth-here-s-what-most-couples-actually-spend/ar-AA27ESSp",
-    "title": "The 'average' wedding cost is a myth: Here's what most couples actually spend",
-    "summary": "In recent years, the average cost of weddings has been a hot topic, often cited in major nationwide media outlets and wedding industry websites alike. However, these figures can be highly misleading ...",
-    "date": "2026-07-10T10:57:00+00:00",
-    "publisher": "MSN",
-    "kind": "news",
-    "query": "wedding costs"
    }
   ],
   "headlines": [
@@ -2400,6 +2434,12 @@
     "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
     "publisher": "Seen in The City",
     "date": "2026-10-05T21:07:54+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
+    "publisher": "ELLE",
+    "date": "2026-10-26T20:17:21+00:00"
    },
    {
     "query": "wedding trends",
@@ -2418,12 +2458,6 @@
     "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
     "publisher": "Who What Wear",
     "date": "2026-10-29T11:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "publisher": "ELLE",
-    "date": "2026-10-29T10:49:25+00:00"
    },
    {
     "query": "wedding trends",
@@ -2463,9 +2497,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
-    "publisher": "Country and Town House",
-    "date": "2026-10-28T20:00:01+00:00"
+    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
+    "publisher": "The Irish News",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2541,12 +2575,6 @@
    },
    {
     "query": "Bridebook wedding report",
-    "headline": "Marriage material: How to get your site ready for new wedding laws",
-    "publisher": "The Caterer",
-    "date": "2026-11-02T07:41:15+00:00"
-   },
-   {
-    "query": "Bridebook wedding report",
     "headline": "A New Chapter for Barts North Wing as Historic Venue Secures Wedding Licence",
     "publisher": "Event Industry News",
     "date": "2026-10-09T07:00:00+00:00"
@@ -2558,28 +2586,10 @@
     "date": "2026-10-24T07:23:47+00:00"
    },
    {
-    "query": "The Knot wedding study",
-    "headline": "Your Wedding Guests Have Questions. There’s a Concierge for That.",
-    "publisher": "The New York Times",
-    "date": "2026-10-08T07:00:00+00:00"
-   },
-   {
-    "query": "The Knot wedding study",
-    "headline": "Pauline Ferrand-Prévôt and Dylan Van Baarle marry - All-star cycling couple tie the knot weeks after Van Baarle's serious crash",
-    "publisher": "CyclingUpToDate.com",
-    "date": "2026-10-26T16:00:00+00:00"
-   },
-   {
-    "query": "The Knot wedding study",
-    "headline": "This couple ran out of date night ideas, so they built a site for crashing strangers’ weddings",
-    "publisher": "Fortune",
-    "date": "2026-10-20T07:00:00+00:00"
-   },
-   {
-    "query": "The Knot wedding study",
-    "headline": "From Sketch to Setting: The Craft Behind the Modern Engagement Ring",
-    "publisher": "New Wave Magazine",
-    "date": "2026-10-20T07:00:00+00:00"
+    "query": "Hitched wedding survey",
+    "headline": "Photos: Actress Christine Kuo gets hitched in fairy-tale wedding, Entertainment News",
+    "publisher": "AsiaOne.com",
+    "date": "2026-10-26T07:00:00+00:00"
    },
    {
     "query": "The Knot wedding study",
@@ -2595,39 +2605,51 @@
    },
    {
     "query": "The Knot wedding study",
-    "headline": "Can secondhand engagement rings actually become a thing? MyGemma thinks so.",
-    "publisher": "Retail Brew",
-    "date": "2026-10-23T07:00:00+00:00"
-   },
-   {
-    "query": "The Knot wedding study",
     "headline": "The new wedding budget: Where couples are spending more, and less",
     "publisher": "The Pantagraph",
     "date": "2026-10-23T14:30:05+00:00"
    },
    {
     "query": "The Knot wedding study",
-    "headline": "10 Things That Just Aren’t Worth Your Money Anymore in 2026",
-    "publisher": "Gadget Review",
-    "date": "2026-10-06T07:00:00+00:00"
-   },
-   {
-    "query": "The Knot wedding study",
-    "headline": "Older couples getting married but reluctant to hold ceremonies",
-    "publisher": "朝日新聞",
-    "date": "2026-10-17T22:20:32+00:00"
-   },
-   {
-    "query": "The Knot wedding study",
-    "headline": "Weddings find their joy again as industry embraces change and optimism for 2027",
-    "publisher": "Gulf News",
-    "date": "2026-10-09T07:00:00+00:00"
-   },
-   {
-    "query": "The Knot wedding study",
     "headline": "The ‘American Dream’ Now Costs More Than $5.3 Million",
     "publisher": "Investopedia",
     "date": "2026-10-07T07:00:00+00:00"
+   },
+   {
+    "query": "The Knot wedding study",
+    "headline": "Sylvester Stallone Jokes His Daughter’s Wedding Means He ‘Can’t Retire.’ I’m a CPA — for Many Parents, It’s No Joke",
+    "publisher": "Money Talks News",
+    "date": "2026-10-29T13:02:44+00:00"
+   },
+   {
+    "query": "The Knot wedding study",
+    "headline": "Why Travelers Are Turning Someone Else’s Big Event Into Their Own Vacation",
+    "publisher": "Travel Noire",
+    "date": "2026-10-07T07:00:00+00:00"
+   },
+   {
+    "query": "The Knot wedding study",
+    "headline": "Holiday proposals put custom engagement rings in Chicagoland on a fall timeline",
+    "publisher": "nwitimes.com",
+    "date": "2026-10-30T14:15:00+00:00"
+   },
+   {
+    "query": "The Knot wedding study",
+    "headline": "Here’s What the American Dream Costs in Every State",
+    "publisher": "Investopedia",
+    "date": "2026-10-20T07:00:00+00:00"
+   },
+   {
+    "query": "The Knot wedding study",
+    "headline": "U.S., Western Europe & APAC Fake Wedding Party Market Is Going to Boom |• David's Bridal • The Knot",
+    "publisher": "openPR.com",
+    "date": "2026-11-02T08:17:56+00:00"
+   },
+   {
+    "query": "The Knot wedding study",
+    "headline": "Keith Miller Counseling offers premarital counseling in Bethesda as engagement season begins",
+    "publisher": "openPR.com",
+    "date": "2026-11-01T09:02:04+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2703,27 +2725,9 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Five 2027 wedding trend predictions",
-    "publisher": "www.stylenest.co.uk",
-    "date": "2026-10-17T15:40:02+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "6 bridal trends for 2027 brides, from bows to basque waists",
     "publisher": "RTE.ie",
     "date": "2026-10-15T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "publisher": "ELLE",
-    "date": "2026-10-29T10:49:25+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
-    "publisher": "AOL.co.uk",
-    "date": "2026-10-25T14:12:21+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2733,15 +2737,27 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "+++VIDEO EXCLUSIVE~ Acquired Style Wedding Dress Trending Viral Video – Popular Searches",
-    "publisher": "Port of Rotterdam",
-    "date": "2026-10-29T21:08:46+00:00"
+    "headline": "Short Nails Are Trending For Autumn 2026: 13 Designs To Bookmark, From ‘Merlot Noir’ To Glossy Silk",
+    "publisher": "ELLE",
+    "date": "2026-10-16T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Mindy Weiss On Current Wedding Trends and Her Fun New Project",
-    "publisher": "Daily Front Row",
-    "date": "2026-10-08T07:00:00+00:00"
+    "headline": "Gogglebox's Baasit Siddiqui celebrates 14th wedding anniversary with rarely-seen wife",
+    "publisher": "Female First",
+    "date": "2026-10-07T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "I Asked Fashion Brides-to-Be What They're Putting on Their Wedding Registries—Here’s What They Said",
+    "publisher": "Who What Wear",
+    "date": "2026-10-24T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Forget Tradition — This Unexpected Bridal Trend Is Changing The Game",
+    "publisher": "The Zoe Report",
+    "date": "2026-10-19T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2751,9 +2767,27 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
-    "publisher": "L'OFFICIEL USA",
-    "date": "2026-10-19T05:42:22+00:00"
+    "headline": "New York Bridal Fashion Week showcased Fall 2027 collections blending timeless femininity with modern design. From hand embroidery to sculptural silhouettes, designers embraced more personalized bridal wear, reinterpreting traditional wedding fashion.",
+    "publisher": "Facebook",
+    "date": "2026-10-16T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Meet Emily Markus, who just married Rob Lowe’s son Matthew",
+    "publisher": "South China Morning Post",
+    "date": "2026-10-12T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "13 of the Most Secretive Celebrity Weddings",
+    "publisher": "People.com",
+    "date": "2026-10-28T11:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Savannah Chrisley reveals details of her secret wedding to Jason Galanis",
+    "publisher": "The News International",
+    "date": "2026-11-02T04:29:00+00:00"
    }
   ],
   "pages": {
