@@ -283,3 +283,44 @@ def roadmap():
 
 def sources():
     return load_json(CONTENT / "sources.json", {"references": {}, "feeds": []})
+
+
+# ------------------------------------------------------------------ competitors (never read, cited, linked, named or used for photos)
+
+_BL = None
+
+
+def blocked():
+    global _BL
+    if _BL is None:
+        b = sources().get("blocked", {})
+        names = []
+        for n in b.get("names", []):
+            if n == "The Knot":
+                names.append(r"(?<![Tt]ie )\bThe Knot\b")            # "tie the knot" is an ordinary phrase
+            elif n == "Hitched":
+                names.append(r"(?<=[a-z,;:] )Hitched\b|^Hitched\b|Hitched\.co\.uk")   # the company, not "got hitched"
+            else:
+                names.append(r"\b" + re.escape(n) + r"\b")
+        _BL = (re.compile("|".join(names), re.M) if names else None, [x.lower() for x in b.get("domains", [])])
+    return _BL
+
+
+def blocked_url(url):
+    host = urllib.parse.urlparse(url or "").netloc.lower().replace("www.", "")
+    return any(host == d or host.endswith("." + d) for d in blocked()[1])
+
+
+def blocked_name(text):
+    rx = blocked()[0]
+    m = rx.search(text or "") if rx else None
+    return m.group(0) if m else ""
+
+
+def scrub(text):
+    """Remove every sentence that names a competitor, so nothing from them reaches the writer."""
+    rx = blocked()[0]
+    if not rx or not text:
+        return text
+    parts = re.split(r"(?<=[.!?])\s+|\n", text)
+    return "\n".join(p for p in parts if p.strip() and not rx.search(p) and not any(d in p.lower() for d in blocked()[1]))

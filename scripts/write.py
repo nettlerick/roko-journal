@@ -23,7 +23,7 @@ does build.py publish it.
 """
 import datetime, json, os, re, sys
 from pathlib import Path
-from common import (ARTICLES, CONTENT, RESEARCH, clean, directory, gemini_json, load_json, log, now, readable, roadmap,
+from common import (blocked_url, scrub, ARTICLES, CONTENT, RESEARCH, clean, directory, gemini_json, load_json, log, now, readable, roadmap,
                     save_json, slugify, sources, articles, ROKO_KEY, roko)
 from check import check_article, fix_links
 
@@ -142,7 +142,8 @@ def ref_material(keys):
         except Exception as e:
             log(f"reference {k} unavailable: {str(e)[:80]}")
             continue
-        if len(text) < 300:
+        text = scrub(text)
+        if len(text) < 300 or blocked_url(final):
             continue
         out.append({"kind": "reference", "title": r["title"], "url": final, "publisher": r["publisher"], "text": text})
     return out
@@ -157,6 +158,8 @@ def feed_material(topic, n=4):
     kw = words_of(topic)
     scored = []
     for it in d.get("feed_items", []):
+        if blocked_url(it["url"]):
+            continue
         s = len(kw & words_of(it["title"] + " " + it["summary"]))
         if s:
             scored.append((s, it["date"], it))
@@ -168,7 +171,8 @@ def feed_material(topic, n=4):
             final, title, text, _ = readable(it["url"], limit=6000)
         except Exception:
             continue
-        if len(text) > 400:
+        text = scrub(text)
+        if len(text) > 400 and not blocked_url(final):
             out.append({"kind": "publication", "title": it["title"], "url": final, "publisher": it["publisher"], "text": text})
     return out
 
@@ -221,7 +225,7 @@ def links_for(item_cluster, cats, self_slug, vendors):
 
 
 def material_block(mat):
-    return "\n\n".join(f"[{i}] {m['title']} | {m.get('publisher', '')} | {m.get('url') or 'no link'}\n{m['text']}" for i, m in enumerate(mat))
+    return "\n\n".join(f"[{i}] {m['title']} | {m.get('publisher', '')} | {m.get('url') or 'no link'}\n{scrub(m['text'])}" for i, m in enumerate(mat))
 
 
 # ------------------------------------------------------------------ writing
@@ -455,7 +459,7 @@ def digest_material():
 def do_research():
     t = now()
     month = t.strftime("%B %Y")
-    mat = stats_material() + digest_material() + feed_material("wedding trends industry couples venues", n=5) + ref_material(["bridebook_report", "hitched_cost_2026", "knot_cost", "ons_marriages_2024_2025"])
+    mat = stats_material() + digest_material() + feed_material("wedding trends industry couples venues", n=5) + ref_material(["maps_guests_2026", "ons_marriages_2024_2025", "savills_weddings", "which_wedding_tips"])
     if len(mat) < 3:
         log("not enough research material this month")
         return None
@@ -479,7 +483,7 @@ def do_report():
     year = t.year
     snaps = sorted((RESEARCH / "roko").glob(f"{year - 1}-*.json"))
     yearly = [{"kind": "roko", "title": f"Roko platform data, {s.stem}", "url": "", "publisher": "Roko", "text": s.read_text()[:6000]} for s in snaps]
-    mat = yearly + stats_material() + digest_material() + ref_material(["bridebook_report", "hitched_cost_2026", "knot_cost", "ons_marriages_2024_2025", "savills_weddings", "pinterest_wedding_2026"])
+    mat = yearly + stats_material() + digest_material() + ref_material(["maps_guests_2026", "maps_guests_2025", "ons_marriages_2024_2025", "savills_weddings", "which_wedding_tips", "pinterest_wedding_2026"])
     item = next((i for i in roadmap()["items"] if i["type"] == "report"), None)
     links, internal_ok, n_links, _ = links_for("luxury", ["wedding-vendors"], "", [])
     brief = (f"The State of Weddings {year}: Roko's flagship annual report. A reference document that journalists, planners and "

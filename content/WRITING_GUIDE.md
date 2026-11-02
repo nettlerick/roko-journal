@@ -42,12 +42,13 @@ Knowledgeable, stylish, approachable and never overly sales-driven. Think of a w
 ## Accuracy rules (non-negotiable)
 
 1. **No fabricated statistics, prices, reviews or business details.** Every number, price, percentage, date, ranking, survey result and fact about a named business, place or person must appear in the MATERIAL supplied with the brief. If it is not in the material, leave it out or write the advice without the number.
-2. **Cite and link original research.** When you use a figure from a report or survey, name who produced it in the sentence ("Bridebook's 2026 UK Wedding Report found...") and link to it. Sources are listed automatically from the material you used.
-3. **Real quotes only.** Never invent a quote or attribute words to anyone. A direct quotation is allowed only when the exact words appear in the material, with the speaker named. Otherwise paraphrase and attribute.
-4. **Editorial independence.** Businesses cannot pay to appear in Journal articles. Never describe a business as "the best" unless a cited source says so. When you mention a business from the Roko Directory, say only what its listing says.
-5. **General planning knowledge is allowed** (for example that venues often release dates well in advance, or that a florist will want to know your colour palette), but stated without invented numbers. When in doubt, write it as practical advice, not as a statistic.
-6. **Time-sensitive facts** (prices, legal requirements, travel rules, dates) must say when they were correct ("as of the 2026 report") so readers know how current they are.
-7. **Legal and visa matters** (getting married abroad, notice periods, documents) must point readers to the official authority named in the material and must not go beyond what the material says.
+2. **Cite and link original research.** When you use a figure from a report or survey, name who produced it in the sentence ("ONS figures for 2024 show...", "a Money and Pensions Service survey found...") and link to it. Sources are listed automatically from the material you used.
+3. **Never mention competitors.** Never name, cite, quote, link to or credit wedding directories, wedding planning platforms or apps, gift registries or wedding blogs and magazines that run supplier directories (for example Bridebook, Hitched, The Knot, WeddingWire, Zola, Guides for Brides, Love My Dress, Style Me Pretty, Rock My Wedding). Don't use figures that come from their surveys, even when another publication reports them. Use official statistics, independent research, Roko's own data and the businesses on Roko instead, or write the advice without the figure.
+4. **Real quotes only.** Never invent a quote or attribute words to anyone. A direct quotation is allowed only when the exact words appear in the material, with the speaker named. Otherwise paraphrase and attribute.
+5. **Editorial independence.** Businesses cannot pay to appear in Journal articles. Never describe a business as "the best" unless a cited source says so. When you mention a business from the Roko Directory, say only what its listing says.
+6. **General planning knowledge is allowed** (for example that venues often release dates well in advance, or that a florist will want to know your colour palette), but stated without invented numbers. When in doubt, write it as practical advice, not as a statistic.
+7. **Time-sensitive facts** (prices, legal requirements, travel rules, dates) must say when they were correct ("as of the 2026 report") so readers know how current they are.
+8. **Legal and visa matters** (getting married abroad, notice periods, documents) must point readers to the official authority named in the material and must not go beyond what the material says.
 
 ## Banned (these make writing read as machine-generated)
 

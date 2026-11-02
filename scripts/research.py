@@ -2,14 +2,14 @@
 """Research monitor for the Roko Journal. Free sources only, no API keys.
 
 What it watches, and how:
-  - Wedding, luxury, travel and hospitality publications, Bridebook, Hitched, The Knot, ONS: their RSS feeds
+  - Luxury, travel and hospitality publications and ONS: their RSS feeds, plus Bing News searches
     (content/sources.json "feeds"), every run. Items are kept for 120 days.
   - What couples search for: Google's public search suggestions for each seed term (UK and US), weekly.
     Suggestions that are new compared with the previous snapshot are the "rising searches".
   - Google Trends: the public daily trending-searches feeds (UK and US), kept when they mention weddings or events.
   - Instagram, TikTok and Pinterest trends: there are no free APIs, so these come from news coverage (Google News RSS
     headlines for content/sources.json "news_queries") plus any links the Roko team adds in Admin > Journal > Research.
-  - Market research pages (Bridebook, Hitched, The Knot, Savills, ONS, Pinterest Predicts): checked monthly; a change
+  - Market research pages (ONS, GOV.UK, Money and Pensions Service, Savills, Which?, Pinterest Predicts): checked monthly; a change
     in the page text is recorded so the team can see when a new report lands.
   - Roko's own anonymised data (searches, enquiries, polls, vendor answers): monthly snapshot from the Roko API.
 
@@ -19,7 +19,7 @@ Writes research/digest.json (read by write.py and shown in Roko's admin) and the
   python3 scripts/research.py --diag    report which feeds answer
 """
 import datetime, hashlib, html, json, re, sys, time, urllib.parse
-from common import (RESEARCH, BROWSER, log, now, load_json, save_json, fetch, parse_feed, readable, roko, sources, text_of, ROKO_KEY)
+from common import (blocked_url, blocked_name, RESEARCH, BROWSER, log, now, load_json, save_json, fetch, parse_feed, readable, roko, sources, text_of, ROKO_KEY)
 
 WEDDING = re.compile(r"\b(wedding|weddings|bride|bridal|groom|engage(d|ment)|marri(age|ed|y)|elope|honeymoon|venue|reception|ceremony|"
                      r"bouquet|florist|caterer|celebration|party|parties|event planner|events industry)\b", re.I)
@@ -44,6 +44,8 @@ def feeds(diag=False):
                 continue
             if not must.search(it["title"] + " " + it["summary"]):
                 continue
+            if blocked_url(it["url"]) or blocked_name(it["title"] + " " + it["summary"]):
+                continue                                   # competitors are never used
             kept += 1
             if it["url"] in known:
                 continue
@@ -82,7 +84,7 @@ def bing_news(diag=False):
             from common import parse_date
             when = parse_date(text_of(g("pubDate")))
             title = text_of(html.unescape(g("title")))
-            if not real.startswith("http") or not when or "bing.com" in urllib.parse.urlparse(real).netloc:
+            if not real.startswith("http") or not when or "bing.com" in urllib.parse.urlparse(real).netloc or blocked_url(real) or blocked_name(title):
                 continue
             n += 1
             out.append({"url": real, "title": title, "summary": text_of(html.unescape(g("description")))[:400], "date": when.isoformat(),
@@ -152,11 +154,15 @@ def trends():
 def news():
     out = []
     for q in sources().get("news_queries", []):
+        if blocked_name(q):
+            continue
         url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q + " when:30d", "hl": "en-GB", "gl": "GB", "ceid": "GB:en"})
         try:
             _, raw = fetch(url, timeout=15)
             for it in parse_feed(raw)[:12]:
                 pub = it["title"].rsplit(" - ", 1)[-1] if " - " in it["title"] else ""
+                if blocked_name(it["title"]):
+                    continue
                 out.append({"query": q, "headline": it["title"].rsplit(" - ", 1)[0], "publisher": pub,
                             "date": it["date"].isoformat() if it["date"] else ""})
         except Exception as e:

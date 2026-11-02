@@ -1,101 +1,6 @@
 {
- "_about": "Reference pages are read as MATERIAL for articles whose roadmap entry lists them, and every reference page is checked once a month for changes (research.py). Feeds are read every run for the research digest. Only facts found in pages that were actually fetched can be used in an article. bing_news: Bing News searches (free RSS) whose results carry the publisher's real article link, so they can be read as material; this is how Bridebook, Hitched, The Knot, ONS and social-media trend coverage are followed, as those sites have no working feeds.",
+ "_about": "Reference pages are read as MATERIAL for articles whose roadmap entry lists them, and every reference page is checked once a month for changes (research.py). Feeds and Bing News searches are read every run for the research digest. Only facts found in pages that were actually fetched can be used in an article. Wedding directories, planning platforms, gift registries and wedding blogs that run supplier directories (the 'blocked' list) are never read, cited, linked, named or used for photos.",
  "references": {
-  "bridebook_cost": {
-   "title": "Bridebook: The average cost of a UK wedding",
-   "url": "https://bridebook.com/uk/article/how-much-does-a-wedding-cost-the-uk-average",
-   "publisher": "Bridebook"
-  },
-  "bridebook_report": {
-   "title": "Bridebook UK Wedding Report 2026",
-   "url": "https://partners.bridebook.com/uk/wedding-report-2026",
-   "publisher": "Bridebook"
-  },
-  "bridebook_trends": {
-   "title": "Bridebook: Wedding trends",
-   "url": "https://bridebook.com/uk/article/wedding-trends",
-   "publisher": "Bridebook"
-  },
-  "bridebook_checklist": {
-   "title": "Bridebook: The ultimate wedding planning checklist",
-   "url": "https://bridebook.com/uk/article/the-ultimate-wedding-planning-checklist-every-step",
-   "publisher": "Bridebook"
-  },
-  "bridebook_venue_cost": {
-   "title": "Bridebook: How much does a wedding venue cost in the UK?",
-   "url": "https://bridebook.com/uk/article/wedding-prices-venue",
-   "publisher": "Bridebook"
-  },
-  "bridebook_photo_cost": {
-   "title": "Bridebook: Wedding photography prices UK",
-   "url": "https://bridebook.com/uk/article/wedding-prices-photography",
-   "publisher": "Bridebook"
-  },
-  "bridebook_flower_cost": {
-   "title": "Bridebook: Wedding flower prices UK",
-   "url": "https://bridebook.com/uk/article/wedding-prices-flowers",
-   "publisher": "Bridebook"
-  },
-  "bridebook_catering_cost": {
-   "title": "Bridebook: Wedding catering prices UK",
-   "url": "https://bridebook.com/uk/article/wedding-prices-catering",
-   "publisher": "Bridebook"
-  },
-  "bridebook_band_cost": {
-   "title": "Bridebook: Wedding band prices UK",
-   "url": "https://bridebook.com/uk/article/wedding-prices-band",
-   "publisher": "Bridebook"
-  },
-  "bridebook_dj_cost": {
-   "title": "Bridebook: Wedding DJ prices UK",
-   "url": "https://bridebook.com/uk/article/wedding-prices-dj",
-   "publisher": "Bridebook"
-  },
-  "bridebook_planner_cost": {
-   "title": "Bridebook: Wedding planner prices UK",
-   "url": "https://bridebook.com/uk/article/wedding-prices-planner",
-   "publisher": "Bridebook"
-  },
-  "bridebook_cake_cost": {
-   "title": "Bridebook: Wedding cake prices UK",
-   "url": "https://bridebook.com/uk/article/wedding-prices-cake",
-   "publisher": "Bridebook"
-  },
-  "bridebook_video_cost": {
-   "title": "Bridebook: Wedding videography prices UK",
-   "url": "https://bridebook.com/uk/article/wedding-prices-videography",
-   "publisher": "Bridebook"
-  },
-  "bridebook_hair_cost": {
-   "title": "Bridebook: Wedding hair and makeup prices UK",
-   "url": "https://bridebook.com/uk/article/wedding-prices-hair-and-makeup",
-   "publisher": "Bridebook"
-  },
-  "hitched_cost_2026": {
-   "title": "Hitched: The average cost of a wedding in 2026",
-   "url": "https://www.theknotww.com/press-releases/the-average-cost-of-a-wedding-in-2026-around-21990-according-to-hitched",
-   "publisher": "Hitched (The Knot Worldwide)"
-  },
-  "hitched_average": {
-   "title": "Hitched: The average UK wedding",
-   "url": "https://www.hitched.co.uk/wedding-planning/organising-and-planning/average-uk-wedding/",
-   "publisher": "Hitched"
-  },
-  "knot_cost": {
-   "title": "The Knot: The average wedding cost",
-   "url": "https://www.theknot.com/content/average-wedding-cost",
-   "publisher": "The Knot"
-  },
-  "knot_vendor_costs": {
-   "title": "The Knot: Average wedding vendor costs",
-   "url": "https://www.theknot.com/content/average-wedding-vendor-costs",
-   "publisher": "The Knot"
-  },
-  "knot_checklist": {
-   "title": "The Knot: Wedding checklist",
-   "url": "https://www.theknot.com/content/wedding-checklist",
-   "publisher": "The Knot"
-  },
   "ons_marriages": {
    "title": "ONS: Marriages in England and Wales",
    "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/bulletins/marriagesinenglandandwalesprovisional/previousReleases",
@@ -175,6 +80,21 @@
    "title": "Italia.it: Weddings in Italy",
    "url": "https://www.italia.it/en/italy/things-to-do/wedding-in-italy",
    "publisher": "Italia.it (Italian National Tourist Board)"
+  },
+  "maps_guests_2026": {
+   "title": "Money and Pensions Service: A third of people decline wedding events as guests cut costs",
+   "url": "https://maps.org.uk/en/media-centre/press-releases/2026/a-third-of-people-decline-wedding-events-as-guests-cut-costs-on-celebrations",
+   "publisher": "Money and Pensions Service"
+  },
+  "maps_guests_2025": {
+   "title": "Money and Pensions Service: UK adults spend £2,000 a year attending weddings and civil partnerships",
+   "url": "https://maps.org.uk/en/media-centre/press-releases/2025/uk-adults-spend-2000-a-year-attending-weddings-civil-partnerships",
+   "publisher": "Money and Pensions Service"
+  },
+  "which_wedding_tips": {
+   "title": "Which?: Tips on how to save money on weddings",
+   "url": "https://www.which.co.uk/news/article/tips-on-how-to-save-money-on-weddings-from-which-experts-aTCUy8u5Xbpy",
+   "publisher": "Which?"
   }
  },
  "feeds": [
@@ -203,21 +123,6 @@
    "must": "wedding|bride|bridal|engagement|party"
   },
   {
-   "url": "https://www.lovemydress.net/feed",
-   "publisher": "Love My Dress",
-   "kind": "luxury"
-  },
-  {
-   "url": "https://www.rocknrollbride.com/feed/",
-   "publisher": "Rock n Roll Bride",
-   "kind": "luxury"
-  },
-  {
-   "url": "https://www.stylemepretty.com/feed/",
-   "publisher": "Style Me Pretty",
-   "kind": "luxury"
-  },
-  {
    "url": "https://www.cntraveller.com/feed/rss",
    "publisher": "Conde Nast Traveller",
    "kind": "travel"
@@ -244,16 +149,15 @@
  "news_queries": [
   "wedding trends",
   "wedding industry",
-  "Bridebook wedding report",
-  "Hitched wedding survey",
-  "The Knot wedding study",
   "viral wedding TikTok",
   "wedding Instagram trend",
   "Pinterest wedding trends",
   "luxury wedding venue opening",
   "destination wedding trend",
   "wedding venue hotel opening",
-  "events industry UK"
+  "events industry UK",
+  "wedding survey UK",
+  "wedding costs"
  ],
  "search_seeds": [
   "wedding ideas",
@@ -282,12 +186,10 @@
   "wedding hair"
  ],
  "bing_news": [
-  "Bridebook wedding",
-  "Hitched wedding survey",
-  "The Knot wedding study",
-  "The Knot Worldwide wedding",
   "wedding trends",
   "wedding industry UK",
+  "wedding costs UK",
+  "wedding survey UK",
   "TikTok wedding trend",
   "Instagram wedding trend",
   "Pinterest wedding trends",
@@ -295,6 +197,115 @@
   "luxury wedding venue",
   "destination wedding",
   "wedding venue opening hotel",
-  "wedding costs"
- ]
+  "wedding guests cost",
+  "events industry UK",
+  "hospitality weddings"
+ ],
+ "blocked": {
+  "names": [
+   "Bridebook",
+   "Hitched",
+   "The Knot",
+   "The Knot Worldwide",
+   "WeddingWire",
+   "Wedding Wire",
+   "Zola",
+   "Joy wedding",
+   "Guides for Brides",
+   "Wedinspire",
+   "Wedissimo",
+   "Love My Dress",
+   "Style Me Pretty",
+   "Rock My Wedding",
+   "Rock n Roll Bride",
+   "Junebug",
+   "Easy Weddings",
+   "Arabia Weddings",
+   "weddingsonline",
+   "Confetti.co.uk",
+   "UKbride",
+   "Bridestory",
+   "WedMeGood",
+   "WeddingBazaar",
+   "Wedding Ideas Magazine",
+   "Brides magazine",
+   "Brides.com",
+   "Prezola",
+   "Honeyfund",
+   "Bespoke Wedding Registry",
+   "The Wedding Shop",
+   "Wedded Wonderland",
+   "Over the Moon",
+   "Green Wedding Shoes",
+   "Carats & Cake",
+   "Ruffled",
+   "Martha Stewart Weddings",
+   "Together Journal",
+   "WedVibes",
+   "Tie the Knot Scotland",
+   "Bark.com",
+   "Tagvenue",
+   "Hire Space",
+   "Hitched.co.uk",
+   "Wedding Planner app",
+   "Planning Pod",
+   "Aisle Planner",
+   "Appy Couple",
+   "Minted weddings",
+   "Paperless Post"
+  ],
+  "domains": [
+   "bridebook.com",
+   "hitched.co.uk",
+   "theknot.com",
+   "theknotww.com",
+   "weddingwire.com",
+   "weddingwire.in",
+   "weddingwire.co.uk",
+   "zola.com",
+   "withjoy.com",
+   "guidesforbrides.co.uk",
+   "wedinspire.com",
+   "wedissimo.com",
+   "lovemydress.net",
+   "stylemepretty.com",
+   "rockmywedding.co.uk",
+   "rocknrollbride.com",
+   "junebugweddings.com",
+   "easyweddings.com.au",
+   "arabiaweddings.com",
+   "weddingsonline.ie",
+   "confetti.co.uk",
+   "ukbride.co.uk",
+   "bridestory.com",
+   "wedmegood.com",
+   "weddingbazaar.com",
+   "weddingideasmag.com",
+   "brides.com",
+   "prezola.com",
+   "honeyfund.com",
+   "bespokeweddingregistry.com",
+   "theweddingshop.com",
+   "weddedwonderland.com",
+   "overthemoon.com",
+   "greenweddingshoes.com",
+   "caratsandcake.com",
+   "ruffledblog.com",
+   "marthastewart.com",
+   "togetherjournal.com",
+   "wedvibes.media",
+   "tietheknot.scot",
+   "thewed.com",
+   "bark.com",
+   "tagvenue.com",
+   "hirespace.com",
+   "weddingsabroadguide.com",
+   "perspectives.stylemepretty.com",
+   "aisleplanner.com",
+   "planningpod.com",
+   "appycouple.com",
+   "minted.com",
+   "paperlesspost.com"
+  ]
+ }
 }

@@ -1,3 +1,4 @@
+"""Generated content/roadmap.json once. Edit content/roadmap.json directly (its sources were updated there after competitor references were removed)."""
 #!/usr/bin/env python3
 """Generates content/roadmap.json (run once; edit roadmap.json directly afterwards)."""
 import json, re

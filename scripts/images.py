@@ -18,7 +18,7 @@ so nothing is stored on the website's own server. An article is published only o
   python3 scripts/images.py --dry-run  list candidates only
 """
 import base64, io, json, os, re, subprocess, sys, time, urllib.parse, urllib.request
-from common import (ARTICLES, MEDIA, REPO, ROKO_URL, ROOT, articles, directory, gemini_json, log, og_images, page, save_json, text_of)
+from common import (blocked_url, ARTICLES, MEDIA, REPO, ROKO_URL, ROOT, articles, directory, gemini_json, log, og_images, page, save_json, text_of)
 
 DRY = "--dry-run" in sys.argv
 UA = "RokoJournal/1.0 (https://withroko.com/journal; photo credits are shown with every image)"
@@ -248,7 +248,7 @@ def process(a):
         for c in pool:
             if len(chosen) >= want or time.time() - START > TIME_BUDGET:
                 break
-            if c["download"] in used or STOCK.search(c["download"] + " " + c.get("page", "")):
+            if c["download"] in used or STOCK.search(c["download"] + " " + c.get("page", "")) or blocked_url(c["download"]) or blocked_url(c.get("page", "")):
                 continue
             used.add(c["download"])
             c = look(a, c)

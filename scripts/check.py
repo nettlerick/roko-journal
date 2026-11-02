@@ -105,6 +105,7 @@ def check_article(a, material_text=None, journal_links_available=0, require_imag
     fp = [w for w in fp if w != "US"]
     if fp:
         errs.append(f"first person in Roko's voice ({', '.join(sorted(set(fp))[:5])}): write as Roko, not I or we")
+    errs += competitor_errors(everything + "\n" + " ".join(str(s.get("url", "")) + " " + str(s.get("title", "")) for s in a.get("sources") or [] if isinstance(s, dict)))
     first_para = next((p.strip() for p in body.split("\n\n") if p.strip() and not p.strip().startswith(("#", ">", "-", "|", "!"))), "")
     if OPENERS.match(first_para):
         errs.append("generic opening: start with something specific")
@@ -156,9 +157,26 @@ def check_article(a, material_text=None, journal_links_available=0, require_imag
     return errs
 
 
-def check_prose(text, material_text=None):
-    """Checks for one section of an article: characters, banned phrases, first person, figures and quotes."""
+def competitor_errors(text):
+    try:
+        from common import blocked_name, blocked
+    except Exception:
+        return []
     errs = []
+    n = blocked_name(text)
+    if n:
+        errs.append(f"names a competitor ({n}): never mention wedding directories, planning platforms, registries or wedding blogs; use another source or leave the point out")
+    for u in re.findall(r"\]\((https?://[^)\s]+)\)", text):
+        from common import blocked_url
+        if blocked_url(u):
+            errs.append("links to a competitor's website")
+            break
+    return errs
+
+
+def check_prose(text, material_text=None):
+    """Checks for one section of an article: characters, banned phrases, first person, figures, quotes and competitors."""
+    errs = competitor_errors(text)
     for ch, name in BANNED_CHARS.items():
         if ch in text:
             errs.append(f"{name} found")
