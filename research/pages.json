@@ -98,5 +98,35 @@
  "visititaly_weddings": {
   "checked": "2026-11-02T14:41:56.517645+00:00",
   "error": "HTTP Error 404: Not Found"
+ },
+ "maps_guests_2026": {
+  "checked": "2026-11-02T16:43:49.331241+00:00",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ "maps_guests_2025": {
+  "checked": "2026-11-02T16:43:49.357365+00:00",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ "which_wedding_tips": {
+  "checked": "2026-11-02T16:43:49.766483+00:00",
+  "hash": "e6ad2885008b4a115b0824a7ea64a684a6681649",
+  "title": "Tips on how to save money on weddings from Which? experts - Which?",
+  "chars": 12000,
+  "error": ""
+ },
+ "us_marriage_abroad": {
+  "checked": "2026-11-02T16:43:50.322302+00:00",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ "cdc_marriage": {
+  "checked": "2026-11-02T16:43:50.353092+00:00",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ "abs_marriages": {
+  "checked": "2026-11-02T16:43:50.684842+00:00",
+  "hash": "ba5ef2dbc7f576d6b9983140618331e757b002ca",
+  "title": "Marriages and Divorces, Australia, 2025 | Australian Bureau of Statistics",
+  "chars": 12000,
+  "error": ""
  }
 }
