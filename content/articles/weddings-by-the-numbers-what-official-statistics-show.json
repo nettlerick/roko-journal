@@ -81,7 +81,32 @@
  "series": "Reports",
  "date": "2026-11-02T16:55",
  "updated": "2026-11-02T16:55",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_St.-Viktor-Kirche,_Innenansicht,_Altar_--_2018_--_0587-91.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/weddings-by-the-numbers-what-official-statistics-show/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Interior view of St. Viktor Church in Dülmen, featuring the altar, stained glass windows, and lit candles.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@cf9ad30fea7163bbdaeb3e202aaa3b0da8caba0a/media/weddings-by-the-numbers-what-official-statistics-show/cover.webp"
+  },
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Heiliggrabkapelle_--_2017_--_9998.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/weddings-by-the-numbers-what-official-statistics-show/1.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "An altar in a historic chapel decorated with flowers, candles, a cross, and an open book.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@cf9ad30fea7163bbdaeb3e202aaa3b0da8caba0a/media/weddings-by-the-numbers-what-official-statistics-show/1.webp"
+  }
+ ],
  "period": "2026-11",
  "editor_approved": true
 }
