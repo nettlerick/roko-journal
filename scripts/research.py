@@ -18,8 +18,8 @@ Writes research/digest.json (read by write.py and shown in Roko's admin) and the
   python3 scripts/research.py           normal run
   python3 scripts/research.py --diag    report which feeds answer
 """
-import datetime, hashlib, json, re, sys, time, urllib.parse
-from common import (RESEARCH, log, now, load_json, save_json, fetch, parse_feed, readable, roko, sources, text_of, ROKO_KEY)
+import datetime, hashlib, html, json, re, sys, time, urllib.parse
+from common import (RESEARCH, BROWSER, log, now, load_json, save_json, fetch, parse_feed, readable, roko, sources, text_of, ROKO_KEY)
 
 WEDDING = re.compile(r"\b(wedding|weddings|bride|bridal|groom|engage(d|ment)|marri(age|ed|y)|elope|honeymoon|venue|reception|ceremony|"
                      r"bouquet|florist|caterer|celebration|party|parties|event planner|events industry)\b", re.I)
@@ -32,7 +32,7 @@ def feeds(diag=False):
     added = 0
     for f in sources().get("feeds", []):
         try:
-            _, raw = fetch(f["url"], timeout=20)
+            _, raw = fetch(f["url"], timeout=20, headers=dict(BROWSER, Accept="application/rss+xml, application/xml, text/xml, */*"))
             items = parse_feed(raw)
         except Exception as e:
             log(f"::warning::feed FAIL {f['url']}: {str(e)[:90]}" if diag else f"feed failed {f['url']}: {str(e)[:90]}")
@@ -52,11 +52,45 @@ def feeds(diag=False):
                           "publisher": f["publisher"], "kind": f.get("kind", "")})
         if diag:
             log(f"::notice::feed OK {len(items)} items, {kept} relevant: {f['url']}")
+    for it in bing_news(diag):
+        if it["url"] in known or it["date"] < since.isoformat():
+            continue
+        known.add(it["url"]); added += 1; store.append(it)
     store = [x for x in store if x["date"] >= since.isoformat()]
     store.sort(key=lambda x: x["date"], reverse=True)
     save_json(RESEARCH / "feed_items.json", store[:1500])
     log(f"feeds: {added} new items, {len(store)} kept")
     return store
+
+
+def bing_news(diag=False):
+    """Bing News RSS searches. Each result's link carries the publisher's real article URL (url=...), which is kept."""
+    out = []
+    for q in sources().get("bing_news", []):
+        url = "https://www.bing.com/news/search?" + urllib.parse.urlencode({"q": q, "format": "rss", "setlang": "en-gb", "cc": "GB"})
+        try:
+            _, raw = fetch(url, timeout=20, headers=dict(BROWSER, Accept="application/rss+xml, application/xml, */*"))
+            text = raw.decode("utf-8", "ignore")
+        except Exception as e:
+            log(f"::warning::bing news FAIL {q}: {str(e)[:80]}" if diag else f"bing news {q!r}: {str(e)[:80]}")
+            continue
+        n = 0
+        for block in re.findall(r"<item>(.*?)</item>", text, re.S):
+            g = lambda t: (re.search(rf"<{t}[^>]*>(.*?)</{t}>", block, re.S) or [None, ""])[1]
+            link = html.unescape(text_of(g("link")))
+            real = urllib.parse.parse_qs(urllib.parse.urlparse(link).query).get("url", [link])[0]
+            from common import parse_date
+            when = parse_date(text_of(g("pubDate")))
+            title = text_of(html.unescape(g("title")))
+            if not real.startswith("http") or not when or "bing.com" in urllib.parse.urlparse(real).netloc:
+                continue
+            n += 1
+            out.append({"url": real, "title": title, "summary": text_of(html.unescape(g("description")))[:400], "date": when.isoformat(),
+                        "publisher": text_of(g("News:Source")) or urllib.parse.urlparse(real).netloc.replace("www.", ""), "kind": "news", "query": q})
+        if diag:
+            log(f"::notice::bing news OK {n} items: {q}")
+        time.sleep(0.4)
+    return out
 
 
 def suggestions(seed, gl):
