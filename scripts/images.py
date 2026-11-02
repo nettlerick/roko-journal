@@ -32,7 +32,7 @@ TIME_BUDGET = int(os.environ.get("PHOTO_SECONDS", "900"))
 START = time.time()
 
 
-def get_json(url, timeout=15):
+def get_json(url, timeout=35):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return json.load(r)
@@ -130,7 +130,9 @@ def openverse(query):
 
 def library_candidates(a):
     out, seen = [], set()
-    queries = [q for q in (a.get("image_subjects") or []) if isinstance(q, str)][:5] or [a.get("keywords", [a["title"]])[0]]
+    stop = {"a", "an", "the", "of", "with", "and", "in", "on", "at", "for", "to", "or", "during", "showing", "close", "up", "their", "its", "around"}
+    short = lambda q: " ".join([w for w in re.findall(r"[A-Za-z'-]+", q) if w.lower() not in stop][:4])   # libraries match short subject phrases best
+    queries = [short(q) for q in (a.get("image_subjects") or []) if isinstance(q, str)][:5] or [a.get("keywords", [a["title"]])[0]]
     for q in queries:
         for fn in (lambda x: commons(x, "qi"), commons, openverse):
             try:
