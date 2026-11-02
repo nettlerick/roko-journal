@@ -156,6 +156,37 @@ def check_article(a, material_text=None, journal_links_available=0, require_imag
     return errs
 
 
+def check_prose(text, material_text=None):
+    """Checks for one section of an article: characters, banned phrases, first person, figures and quotes."""
+    errs = []
+    for ch, name in BANNED_CHARS.items():
+        if ch in text:
+            errs.append(f"{name} found")
+    if EMOJI_RE.search(text):
+        errs.append("emoji found")
+    prose = strip_quotes(prose_of(text))
+    for pat in BANNED:
+        m = re.search(pat, prose, re.I)
+        if m:
+            errs.append(f"banned phrase: '{m.group(0)}'")
+    fp = [w for w in FIRST_PERSON.findall(prose) if w != "US"]
+    if fp:
+        errs.append(f"first person ({', '.join(sorted(set(fp))[:5])}): write as Roko or address the reader as 'you', never I, me, my, we, us or our")
+    if material_text is not None:
+        mnums = material_numbers(material_text)
+        bad = [shown for shown, num in numbers_in(prose_of(text)) if num not in mnums]
+        if bad:
+            errs.append("figures not in the material (remove them, or write the advice without numbers): " + ", ".join(sorted(set(bad))[:8]))
+        mn = norm(material_text)
+        quotes = re.findall(r'"([^"\n]{20,600})"', text) + [l.lstrip("> ").strip() for l in text.splitlines() if l.lstrip().startswith(">") and not l.lstrip("> ").startswith("**")]
+        for q in quotes:
+            q = q.strip().strip('"')
+            if len(q.split()) >= 6 and norm(q)[:120] not in mn:
+                errs.append(f"quote not found word for word in the material: \"{q[:60]}...\" (paraphrase it instead)")
+                break
+    return errs
+
+
 def fix_links(body, internal_ok, external_ok):
     """Unwrap any link whose target is not allowed (invented paths, external pages that were not read)."""
     def repl(m):

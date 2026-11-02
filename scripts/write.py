@@ -226,33 +226,92 @@ def material_block(mat):
 
 # ------------------------------------------------------------------ writing
 
+TARGET_WORDS = {"cornerstone": 3000, "guide": 1700, "inspiration": 1400, "feature": 1200, "research": 1400, "report": 3600}
+SECTIONS = {"cornerstone": (7, 10), "guide": (5, 7), "inspiration": (5, 8), "feature": (4, 6), "research": (4, 6), "report": (7, 10)}
+
+
 def write(kind, brief, mat, links, internal_ok, n_links, typ, extra_rules=""):
+    """Plan, then write section by section (long articles come out complete and on length), then check everything."""
+    from check import check_prose
     mat_text = "\n".join(m["text"] for m in mat)
     external_ok = {m["url"] for m in mat if m.get("url")}
-    prompt = (f"BRIEF\n{brief}\n\nLINKS (the only internal paths you may link to)\n{links}\n\n"
-              f"MATERIAL (the only source of facts, figures, quotes and business details)\n{material_block(mat)}\n\n{extra_rules}"
-              "Write the article now. Reply with the JSON object described in the guide.")
-    errs, d = [], None
+    target = TARGET_WORDS[typ]
+    lo, hi = SECTIONS[typ]
+    context = (f"BRIEF\n{brief}\n\nLINKS (the only internal paths you may link to)\n{links}\n\n"
+               f"MATERIAL (the only source of facts, figures, quotes and business details)\n{material_block(mat)}\n\n{extra_rules}")
+    # 1. the plan
+    plan = None
     for attempt in range(3):
-        p = prompt if attempt == 0 else (prompt + "\n\nYOUR PREVIOUS DRAFT FAILED THESE CHECKS. Fix every one and reply with the full corrected JSON:\n- "
-                                         + "\n- ".join(errs) + "\n\nPREVIOUS DRAFT:\n" + json.dumps(d, ensure_ascii=False)[:30000])
         try:
-            d = gemini_json(p, SYSTEM, temperature=0.65 if attempt == 0 else 0.4)
+            plan = gemini_json(context + f"\nPLAN the article first. It will be about {target} words in total, in {lo} to {hi} sections. Reply with ONE JSON object only:\n"
+                               '{"title": "...", "seo_title": "...", "dek": "...", "intro": "the opening paragraph(s), 2 to 4 sentences, no heading", '
+                               '"sections": [{"heading": "sentence-case heading", "covers": "what this section answers and which material numbers it draws on", "words": 300}], '
+                               '"faq": [{"q": "...", "a": "..."}], "keywords": ["..."], "image_subjects": ["3 to 6 concrete photo subjects"], '
+                               '"time_sensitive": true, "used_material": [0, 1]}\n'
+                               'If the material is not enough for an accurate, genuinely useful article, reply {"skip": "reason"}.', SYSTEM, temperature=0.6, tokens=8192)
+            break
         except Exception as e:
-            log(f"writer error: {e}")
-            return None, [str(e)]
-        if d.get("skip"):
-            return None, ["writer skipped: " + str(d["skip"])]
-        for k in ("title", "seo_title", "dek", "body"):
-            d[k] = clean(str(d.get(k, "")))
-        d["faq"] = [{"q": clean(str(x.get("q", ""))), "a": clean(str(x.get("a", "")))} for x in (d.get("faq") or []) if isinstance(x, dict)]
-        d["body"] = fix_links(d["body"], internal_ok, external_ok)
-        test = dict(d, slug="x", type=typ, cluster="x", date="2000-01-01T00:00", sources=[1])
-        errs = check_article(test, material_text=mat_text, journal_links_available=n_links if typ != "feature" else 0)
-        if not errs:
-            return d, []
-        log(f"attempt {attempt + 1} failed: {errs}")
-    return None, errs
+            log(f"plan attempt {attempt + 1}: {str(e)[:120]}")
+    if not plan:
+        return None, ["the writer did not return a plan"]
+    if plan.get("skip"):
+        return None, ["writer skipped: " + str(plan["skip"])]
+    secs = [x for x in plan.get("sections") or [] if isinstance(x, dict) and x.get("heading")][:hi]
+    if len(secs) < lo - 1:
+        return None, [f"plan had only {len(secs)} sections"]
+    # 2. each section
+    out_secs = []
+    for i, sec in enumerate(secs):
+        words = max(150, int(sec.get("words") or target / len(secs)))
+        done = [x["heading"] for x in secs[:i]]
+        later = [x["heading"] for x in secs[i + 1:]]
+        text, errs = "", []
+        for attempt in range(3):
+            fix = "" if not errs else ("\n\nYOUR LAST VERSION OF THIS SECTION FAILED THESE CHECKS, fix every one:\n- " + "\n- ".join(errs) + "\n\nLAST VERSION:\n" + text)
+            try:
+                d = gemini_json(context + f"\nARTICLE: {plan['title']}\nINTRO ALREADY WRITTEN: {plan.get('intro', '')}\nSECTIONS BEFORE THIS ONE: {'; '.join(done) or 'none'}\n"
+                                f"SECTIONS AFTER THIS ONE: {'; '.join(later) or 'none'}\n\nWrite ONLY the section '## {sec['heading']}' ({sec.get('covers', '')}), about {words} words, "
+                                "in Markdown, starting with that '## ' heading line. ### sub-headings, lists and tables are fine where they help. Don't repeat what other "
+                                "sections cover, don't summarise the article, and don't write a conclusion. Never write I, me, my, we, us or our: write as Roko or to 'you'. "
+                                "Any number, price or quote must be in the MATERIAL. Link to internal paths from LINKS only where it genuinely helps. "
+                                'Reply with JSON only: {"markdown": "..."}' + fix, SYSTEM, temperature=0.65 if attempt == 0 else 0.4, tokens=8192)
+                text = clean(str(d.get("markdown", "")))
+            except Exception as e:
+                errs = [f"no usable reply ({str(e)[:60]})"]
+                continue
+            if not text.lstrip().startswith("## "):
+                text = f"## {sec['heading']}\n\n" + text
+            text = fix_links(text, internal_ok, external_ok)
+            errs = check_prose(text, mat_text)
+            if len(re.findall(r"[A-Za-z0-9'%£$€]+", text)) < words * 0.6:
+                errs.append(f"too short: write about {words} words")
+            if not errs:
+                break
+            log(f"section {i + 1} attempt {attempt + 1}: {errs}")
+        if errs:
+            log(f"section '{sec['heading']}' dropped: {errs}")
+            continue
+        out_secs.append(text.strip())
+    intro = clean(str(plan.get("intro", "")))
+    intro_errs = check_prose(intro, mat_text)
+    if intro_errs:
+        return None, ["intro: " + e for e in intro_errs]
+    d = {k: plan.get(k) for k in ("title", "seo_title", "dek", "keywords", "image_subjects", "time_sensitive", "used_material")}
+    for k in ("title", "seo_title", "dek"):
+        d[k] = clean(str(d.get(k) or ""))
+    d["body"] = fix_links(intro + "\n\n" + "\n\n".join(out_secs), internal_ok, external_ok)
+    d["faq"] = []
+    for x in plan.get("faq") or []:
+        if isinstance(x, dict):
+            q, a = clean(str(x.get("q", ""))), clean(str(x.get("a", "")))
+            if q and a and not check_prose(q + "\n" + a, mat_text):
+                d["faq"].append({"q": q, "a": a})
+    test = dict(d, slug="x", type=typ, cluster="x", date="2000-01-01T00:00", sources=[1])
+    errs = check_article(test, material_text=mat_text, journal_links_available=n_links if typ != "feature" else 0)
+    if errs:
+        log(f"article checks failed: {errs}")
+        return None, errs
+    return d, []
 
 
 def sources_from(d, mat):

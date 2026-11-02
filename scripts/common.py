@@ -100,7 +100,10 @@ def parse_json(text):
     m = re.search(r"\{.*\}", t, re.S)
     if not m:
         raise ValueError("no JSON object in model output")
-    return json.loads(m.group(0))
+    try:
+        return json.loads(m.group(0))
+    except json.JSONDecodeError:
+        return json.loads(m.group(0), strict=False)     # raw newlines inside strings
 
 
 def gemini_json(prompt, system, **kw):
