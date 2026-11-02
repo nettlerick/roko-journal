@@ -62,7 +62,19 @@
  "series": "Journal",
  "date": "2026-11-02T14:52",
  "updated": "2026-11-02T14:52",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Love My Dress",
+   "credit_url": "https://www.lovemydress.net/blog/2026/10/getting-married-mallorca-from-uk-part-2.html",
+   "license": "Image from the cited website",
+   "file": "media/the-complete-wedding-planning-checklist/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Bride and groom standing on a stone terrace overlooking the sea surrounded by palm trees",
+   "source": "website",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3aaa536871b1964f98c5996730050f4820832bf0/media/the-complete-wedding-planning-checklist/cover.webp"
+  }
+ ],
  "categories": [
   "wedding-planning"
  ]
