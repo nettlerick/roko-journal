@@ -373,7 +373,7 @@ def do_roadmap(item):
     mat += dmat
     links, internal_ok, n_links, corner = links_for(item["cluster"], item["categories"], item["slug"], vendors)
     rising = load_json(RESEARCH / "rising.json", {})
-    signals = [r["search"] for gl in ("gb", "us") for r in rising.get(gl, []) if words_of(r["search"]) & words_of(item["keyword"])][:15]
+    signals = [r["search"] + f" ({gl.upper()})" for gl in sources().get("markets", {"gb": "", "us": ""}) for r in rising.get(gl, []) if words_of(r["search"]) & words_of(item["keyword"])][:20]
     brief = (f"Title to use (you may refine the wording, keep the meaning): {item['title']}\n"
              f"Article type: {item['type']}{' (the CORNERSTONE guide of its cluster: broad, definitive, links out to supporting articles)' if item['cornerstone'] else ''}\n"
              f"Topic cluster: {roadmap()['clusters'][item['cluster']]['name']}\n"
@@ -381,7 +381,8 @@ def do_roadmap(item):
              f"Searches people are making around this topic right now (context only, not facts): {'; '.join(signals) or 'none recorded'}\n"
              f"Conversion goal: the article's natural next step for the reader is '{item['goal']['label']}' ({item['goal']['url']}). "
              "Work one contextual invitation to discover suppliers on Roko into the text, without a sales pitch.\n"
-             "Write for readers on any budget; luxury is a standard of quality, not a price tag.")
+             "Write for readers on any budget; luxury is a standard of quality, not a price tag. Write for a worldwide audience: never assume the UK, "
+             "say which country a fact or rule applies to, and use examples from more than one market where the material allows.")
     typ = "cornerstone" if item["cornerstone"] else item["type"]
     d, errs = write("roadmap", brief, mat, links, internal_ok, n_links, typ)
     if not d:
@@ -444,10 +445,10 @@ def stats_material(months=1):
 def digest_material():
     d = load_json(RESEARCH / "digest.json", {})
     lines = []
-    for r in (d.get("rising_searches", {}).get("gb", [])[:25]):
-        lines.append(f"- New Google search suggestion in the UK (since {d['rising_searches'].get('compared_with')}): {r['search']}")
-    for r in (d.get("rising_searches", {}).get("us", [])[:15]):
-        lines.append(f"- New Google search suggestion in the US (since {d['rising_searches'].get('compared_with')}): {r['search']}")
+    rs = d.get("rising_searches", {})
+    for gl, name in (rs.get("markets") or {"gb": "the UK", "us": "the US"}).items():
+        for r in rs.get(gl, [])[:12]:
+            lines.append(f"- New Google search suggestion in {name} (since {rs.get('compared_with')}): {r['search']}")
     for h in d.get("headlines", [])[:40]:
         lines.append(f"- Headline ({h.get('publisher', '')}, {h.get('date', '')[:10]}): {h['headline']}")
     if not lines:

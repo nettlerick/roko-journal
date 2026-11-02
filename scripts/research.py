@@ -4,7 +4,7 @@
 What it watches, and how:
   - Luxury, travel and hospitality publications and ONS: their RSS feeds, plus Bing News searches
     (content/sources.json "feeds"), every run. Items are kept for 120 days.
-  - What couples search for: Google's public search suggestions for each seed term (UK and US), weekly.
+  - What couples search for: Google's public search suggestions for each seed term in every market in sources.json, weekly.
     Suggestions that are new compared with the previous snapshot are the "rising searches".
   - Google Trends: the public daily trending-searches feeds (UK and US), kept when they mention weddings or events.
   - Instagram, TikTok and Pinterest trends: there are no free APIs, so these come from news coverage (Google News RSS
@@ -68,8 +68,8 @@ def feeds(diag=False):
 def bing_news(diag=False):
     """Bing News RSS searches. Each result's link carries the publisher's real article URL (url=...), which is kept."""
     out = []
-    for q in sources().get("bing_news", []):
-        url = "https://www.bing.com/news/search?" + urllib.parse.urlencode({"q": q, "format": "rss", "setlang": "en-gb", "cc": "GB"})
+    for q, mkt in [(q, m) for q in sources().get("bing_news", []) for m in sources().get("bing_news_markets", ["en-GB"])]:
+        url = "https://www.bing.com/news/search?" + urllib.parse.urlencode({"q": q, "format": "rss", "mkt": mkt})
         try:
             _, raw = fetch(url, timeout=20, headers=dict(BROWSER, Accept="application/rss+xml, application/xml, */*"))
             text = raw.decode("utf-8", "ignore")
@@ -90,13 +90,13 @@ def bing_news(diag=False):
             out.append({"url": real, "title": title, "summary": text_of(html.unescape(g("description")))[:400], "date": when.isoformat(),
                         "publisher": text_of(g("News:Source")) or urllib.parse.urlparse(real).netloc.replace("www.", ""), "kind": "news", "query": q})
         if diag:
-            log(f"::notice::bing news OK {n} items: {q}")
+            log(f"::notice::bing news OK {n} items: {q} ({mkt})")
         time.sleep(0.4)
     return out
 
 
 def suggestions(seed, gl):
-    url = "https://suggestqueries.google.com/complete/search?" + urllib.parse.urlencode({"client": "firefox", "hl": "en-" + gl.upper() if gl == "gb" else "en", "gl": gl, "q": seed})
+    url = "https://suggestqueries.google.com/complete/search?" + urllib.parse.urlencode({"client": "firefox", "hl": "en-" + gl.upper(), "gl": gl, "q": seed})
     _, raw = fetch(url, timeout=15)
     data = json.loads(raw.decode("utf-8", "ignore"))
     return [s for s in data[1] if isinstance(s, str)]
@@ -109,7 +109,7 @@ def searches():
     if snaps and (now().date() - datetime.date.fromisoformat(snaps[-1].stem)).days < 7:
         return load_json(RESEARCH / "rising.json", {})
     snap = {}
-    for gl in ("gb", "us"):
+    for gl in list(sources().get("markets", {"gb": "", "us": ""})):
         for seed in sources().get("search_seeds", []):
             out = set()
             for q in (seed, seed + " ", seed + " for", seed + " ideas" if "ideas" not in seed else seed + " 2027"):
@@ -120,7 +120,9 @@ def searches():
                 time.sleep(0.4)
             snap[f"{gl}:{seed}"] = sorted(out)
     save_json(RESEARCH / "searches" / f"{now().date().isoformat()}.json", snap)
-    rising = {"date": now().date().isoformat(), "compared_with": snaps[-1].stem if snaps else None, "gb": [], "us": []}
+    rising = {"date": now().date().isoformat(), "compared_with": snaps[-1].stem if snaps else None, "markets": sources().get("markets", {})}
+    for gl in sources().get("markets", {"gb": "", "us": ""}):
+        rising[gl] = []
     for key, vals in snap.items():
         gl, seed = key.split(":", 1)
         before = set(last.get(key, []))
@@ -130,13 +132,13 @@ def searches():
             if v not in before:
                 rising[gl].append({"seed": seed, "search": v})
     save_json(RESEARCH / "rising.json", rising)
-    log(f"searches: {sum(len(v) for v in snap.values())} suggestions, rising gb={len(rising['gb'])} us={len(rising['us'])}")
+    log(f"searches: {sum(len(v) for v in snap.values())} suggestions, rising " + ", ".join(f"{gl}={len(rising[gl])}" for gl in sources().get("markets", {})))
     return rising
 
 
 def trends():
     out = []
-    for geo in ("GB", "US"):
+    for geo in [m.upper() for m in sources().get("markets", {"gb": "", "us": ""})]:
         try:
             _, raw = fetch(f"https://trends.google.com/trending/rss?geo={geo}", timeout=15)
             for it in parse_feed(raw):

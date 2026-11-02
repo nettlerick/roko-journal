@@ -92,7 +92,9 @@
     "which_wedding_tips",
     "maps_guests_2026",
     "maps_guests_2025",
-    "ons_marriages_2024_2025"
+    "ons_marriages_2024_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": false,
    "goal": {
@@ -370,7 +372,9 @@
     "ons_marriages_2024_2025",
     "which_wedding_tips",
     "maps_guests_2026",
-    "maps_guests_2025"
+    "maps_guests_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": false,
    "goal": {
@@ -384,12 +388,12 @@
   },
   {
    "n": 13,
-   "title": "Luxury wedding venues in the UK",
-   "slug": "luxury-wedding-venues-in-the-uk",
+   "title": "Luxury wedding venues around the world",
+   "slug": "luxury-wedding-venues-around-the-world",
    "cluster": "venues",
    "type": "guide",
    "cornerstone": false,
-   "keyword": "luxury wedding venues UK",
+   "keyword": "luxury wedding venues",
    "categories": [
     "wedding-castles-and-estates",
     "wedding-hotels-and-resorts",
@@ -399,13 +403,15 @@
     "which_wedding_tips",
     "savills_weddings",
     "ons_marriages_2024_2025",
-    "maps_guests_2026"
+    "maps_guests_2026",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
     "type": "category",
-    "url": "/wedding-venues-and-accommodation/united-kingdom",
-    "label": "Discover luxury venues UK on Roko"
+    "url": "/wedding-venues-and-accommodation",
+    "label": "Discover venues on Roko"
    },
    "priority": 2,
    "week": 1,
@@ -476,7 +482,9 @@
     "savills_weddings",
     "ons_marriages_2024_2025",
     "maps_guests_2026",
-    "gov_marriage_uk"
+    "gov_marriage_uk",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -490,12 +498,12 @@
   },
   {
    "n": 17,
-   "title": "Wedding venue costs in the UK",
-   "slug": "wedding-venue-costs-in-the-uk",
+   "title": "Wedding venue costs: what sets the price",
+   "slug": "wedding-venue-costs-what-sets-the-price",
    "cluster": "venues",
    "type": "guide",
    "cornerstone": false,
-   "keyword": "wedding venue costs UK",
+   "keyword": "wedding venue costs",
    "categories": [
     "wedding-venues-and-accommodation",
     "wedding-venues"
@@ -504,7 +512,9 @@
     "which_wedding_tips",
     "maps_guests_2026",
     "maps_guests_2025",
-    "ons_marriages_2024_2025"
+    "ons_marriages_2024_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -554,7 +564,9 @@
    ],
    "refs": [
     "which_wedding_tips",
-    "ons_marriages_2024_2025"
+    "ons_marriages_2024_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -618,12 +630,12 @@
   },
   {
    "n": 22,
-   "title": "London wedding venues",
-   "slug": "london-wedding-venues",
+   "title": "Wedding venues in the world's great cities",
+   "slug": "wedding-venues-in-the-worlds-great-cities",
    "cluster": "venues",
    "type": "guide",
    "cornerstone": false,
-   "keyword": "London wedding venues",
+   "keyword": "city wedding venues",
    "categories": [
     "wedding-venues"
    ],
@@ -633,8 +645,8 @@
    "time_sensitive": true,
    "goal": {
     "type": "category",
-    "url": "/wedding-venues/united-kingdom/london",
-    "label": "Discover London venues on Roko"
+    "url": "/wedding-city-and-industrial-venues",
+    "label": "Discover venues on Roko"
    },
    "priority": null,
    "week": null,
@@ -709,7 +721,10 @@
     "ons_marriages_2024_2025",
     "maps_guests_2026",
     "which_wedding_tips",
-    "maps_guests_2025"
+    "maps_guests_2025",
+    "us_marriage_abroad",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -736,7 +751,8 @@
    "refs": [
     "gov_italy",
     "gov_italy_nulla_osta",
-    "visititaly_weddings"
+    "visititaly_weddings",
+    "us_marriage_abroad"
    ],
    "time_sensitive": true,
    "goal": {
@@ -760,7 +776,8 @@
     "wedding-destination-venues"
    ],
    "refs": [
-    "gov_france"
+    "gov_france",
+    "us_marriage_abroad"
    ],
    "time_sensitive": true,
    "goal": {
@@ -784,7 +801,8 @@
     "wedding-destination-venues"
    ],
    "refs": [
-    "gov_greece"
+    "gov_greece",
+    "us_marriage_abroad"
    ],
    "time_sensitive": true,
    "goal": {
@@ -814,7 +832,10 @@
     "ons_marriages_2024_2025",
     "maps_guests_2026",
     "which_wedding_tips",
-    "maps_guests_2025"
+    "maps_guests_2025",
+    "us_marriage_abroad",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -838,7 +859,8 @@
     "wedding-destination-venues"
    ],
    "refs": [
-    "gov_portugal"
+    "gov_portugal",
+    "us_marriage_abroad"
    ],
    "time_sensitive": true,
    "goal": {
@@ -864,7 +886,8 @@
    ],
    "refs": [
     "visitdubai_weddings",
-    "gov_uae"
+    "gov_uae",
+    "us_marriage_abroad"
    ],
    "time_sensitive": true,
    "goal": {
@@ -888,7 +911,8 @@
     "wedding-destination-venues"
    ],
    "refs": [
-    "gov_spain"
+    "gov_spain",
+    "us_marriage_abroad"
    ],
    "time_sensitive": true,
    "goal": {
@@ -918,7 +942,10 @@
     "maps_guests_2025",
     "ons_marriages_2024_2025",
     "savills_weddings",
-    "gov_marriage_abroad"
+    "gov_marriage_abroad",
+    "us_marriage_abroad",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -946,7 +973,8 @@
     "gov_marriage_abroad",
     "gov_italy",
     "gov_france",
-    "gov_spain"
+    "gov_spain",
+    "us_marriage_abroad"
    ],
    "time_sensitive": true,
    "goal": {
@@ -974,7 +1002,9 @@
     "which_wedding_tips",
     "maps_guests_2026",
     "maps_guests_2025",
-    "ons_marriages_2024_2025"
+    "ons_marriages_2024_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": false,
    "goal": {
@@ -988,12 +1018,12 @@
   },
   {
    "n": 36,
-   "title": "UK wedding budget breakdown",
-   "slug": "uk-wedding-budget-breakdown",
+   "title": "How to break down a wedding budget",
+   "slug": "how-to-break-down-a-wedding-budget",
    "cluster": "planning",
    "type": "guide",
    "cornerstone": false,
-   "keyword": "UK wedding budget breakdown",
+   "keyword": "wedding budget breakdown",
    "categories": [
     "wedding-planning"
    ],
@@ -1002,7 +1032,9 @@
     "maps_guests_2026",
     "maps_guests_2025",
     "ons_marriages_2024_2025",
-    "savills_weddings"
+    "savills_weddings",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -1101,7 +1133,9 @@
     "which_wedding_tips",
     "maps_guests_2026",
     "maps_guests_2025",
-    "ons_marriages_2024_2025"
+    "ons_marriages_2024_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": false,
    "goal": {
@@ -1200,7 +1234,9 @@
     "which_wedding_tips",
     "maps_guests_2026",
     "maps_guests_2025",
-    "ons_marriages_2024_2025"
+    "ons_marriages_2024_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -1225,7 +1261,9 @@
     "wedding-indian-catering"
    ],
    "refs": [
-    "ons_marriages_2024_2025"
+    "ons_marriages_2024_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": false,
    "goal": {
@@ -1250,7 +1288,9 @@
    ],
    "refs": [
     "maps_guests_2026",
-    "ons_marriages_2024_2025"
+    "ons_marriages_2024_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": false,
    "goal": {
@@ -1277,7 +1317,9 @@
     "which_wedding_tips",
     "maps_guests_2026",
     "maps_guests_2025",
-    "ons_marriages_2024_2025"
+    "ons_marriages_2024_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -1317,12 +1359,12 @@
   },
   {
    "n": 49,
-   "title": "Seasonal wedding flowers in the UK",
-   "slug": "seasonal-wedding-flowers-in-the-uk",
+   "title": "Seasonal wedding flowers by month, in both hemispheres",
+   "slug": "seasonal-wedding-flowers-by-month-in-both-hemispheres",
    "cluster": "flowers-styling",
    "type": "guide",
    "cornerstone": false,
-   "keyword": "seasonal wedding flowers UK",
+   "keyword": "seasonal wedding flowers",
    "categories": [
     "wedding-flowers-and-decor"
    ],
@@ -1964,7 +2006,9 @@
     "pinterest_predicts",
     "savills_weddings",
     "ons_marriages_2024_2025",
-    "maps_guests_2026"
+    "maps_guests_2026",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -1993,7 +2037,9 @@
     "ons_marriages_2024_2025",
     "maps_guests_2026",
     "which_wedding_tips",
-    "maps_guests_2025"
+    "maps_guests_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": false,
    "goal": {
@@ -2022,7 +2068,9 @@
     "ons_marriages_2024_2025",
     "maps_guests_2026",
     "which_wedding_tips",
-    "maps_guests_2025"
+    "maps_guests_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -2051,7 +2099,9 @@
     "ons_marriages_2024_2025",
     "maps_guests_2026",
     "which_wedding_tips",
-    "maps_guests_2025"
+    "maps_guests_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -2104,7 +2154,9 @@
     "maps_guests_2026",
     "maps_guests_2025",
     "ons_marriages_2024_2025",
-    "savills_weddings"
+    "savills_weddings",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -2155,7 +2207,9 @@
     "which_wedding_tips",
     "maps_guests_2026",
     "maps_guests_2025",
-    "ons_marriages_2024_2025"
+    "ons_marriages_2024_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": false,
    "goal": {
@@ -2180,7 +2234,8 @@
     "wedding-villas"
    ],
    "refs": [
-    "gov_marriage_abroad"
+    "gov_marriage_abroad",
+    "us_marriage_abroad"
    ],
    "time_sensitive": true,
    "goal": {
@@ -2436,7 +2491,9 @@
     "maps_guests_2026",
     "maps_guests_2025",
     "ons_marriages_2024_2025",
-    "gov_marriage_uk"
+    "gov_marriage_uk",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -2511,7 +2568,9 @@
     "savills_weddings",
     "ons_marriages_2024_2025",
     "maps_guests_2026",
-    "which_wedding_tips"
+    "which_wedding_tips",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -2539,7 +2598,9 @@
     "ons_marriages_2024_2025",
     "maps_guests_2026",
     "which_wedding_tips",
-    "maps_guests_2025"
+    "maps_guests_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {
@@ -2553,12 +2614,12 @@
   },
   {
    "n": 99,
-   "title": "UK wedding market snapshot",
-   "slug": "uk-wedding-market-snapshot",
+   "title": "Wedding market snapshot",
+   "slug": "wedding-market-snapshot",
    "cluster": "suppliers",
    "type": "research",
    "cornerstone": false,
-   "keyword": "UK wedding market",
+   "keyword": "wedding market",
    "categories": [
     "wedding-vendors"
    ],
@@ -2567,7 +2628,9 @@
     "ons_marriages_2024_2025",
     "maps_guests_2026",
     "which_wedding_tips",
-    "maps_guests_2025"
+    "maps_guests_2025",
+    "cdc_marriage",
+    "abs_marriages"
    ],
    "time_sensitive": true,
    "goal": {

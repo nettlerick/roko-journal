@@ -95,6 +95,21 @@
    "title": "Which?: Tips on how to save money on weddings",
    "url": "https://www.which.co.uk/news/article/tips-on-how-to-save-money-on-weddings-from-which-experts-aTCUy8u5Xbpy",
    "publisher": "Which?"
+  },
+  "us_marriage_abroad": {
+   "title": "U.S. Department of State: Marriage abroad",
+   "url": "https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/abroad/marriage-abroad.html",
+   "publisher": "U.S. Department of State"
+  },
+  "cdc_marriage": {
+   "title": "CDC National Center for Health Statistics: Marriage and divorce",
+   "url": "https://www.cdc.gov/nchs/fastats/marriage-divorce.htm",
+   "publisher": "CDC / NCHS"
+  },
+  "abs_marriages": {
+   "title": "Australian Bureau of Statistics: Marriages and divorces, Australia",
+   "url": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/latest-release",
+   "publisher": "Australian Bureau of Statistics"
   }
  },
  "feeds": [
@@ -186,20 +201,26 @@
   "wedding hair"
  ],
  "bing_news": [
-  "wedding trends",
-  "wedding industry UK",
-  "wedding costs UK",
-  "wedding survey UK",
-  "TikTok wedding trend",
+  "Dubai wedding",
   "Instagram wedding trend",
-  "Pinterest wedding trends",
+  "Italy wedding destination",
   "ONS marriages",
-  "luxury wedding venue",
+  "Pinterest wedding trends",
+  "TikTok wedding trend",
   "destination wedding",
-  "wedding venue opening hotel",
-  "wedding guests cost",
+  "destination wedding trend",
   "events industry UK",
-  "hospitality weddings"
+  "hospitality weddings",
+  "luxury wedding venue",
+  "wedding costs UK",
+  "wedding guests cost",
+  "wedding industry UK",
+  "wedding season India",
+  "wedding survey UK",
+  "wedding trends",
+  "wedding trends Australia",
+  "wedding trends US",
+  "wedding venue opening hotel"
  ],
  "blocked": {
   "names": [
@@ -307,5 +328,22 @@
    "minted.com",
    "paperlesspost.com"
   ]
- }
+ },
+ "markets": {
+  "gb": "United Kingdom",
+  "us": "United States",
+  "au": "Australia",
+  "ca": "Canada",
+  "ae": "United Arab Emirates",
+  "in": "India",
+  "ie": "Ireland",
+  "za": "South Africa"
+ },
+ "bing_news_markets": [
+  "en-GB",
+  "en-US",
+  "en-AU",
+  "en-IN",
+  "en-AE"
+ ]
 }
