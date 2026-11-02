@@ -182,9 +182,13 @@ def look(a, c):
             "You judge photographs for a magazine. Be strict.", images=[jpeg], temperature=0.1, tokens=4096, rounds=1)
     except Exception as e:
         log(f"vision unavailable: {str(e)[:80]}")
-        # Without the picture check, only photos already reviewed by people are used: Wikimedia Commons
-        # "Quality images" (peer-reviewed for technical quality) that match the search, and businesses' own Roko photos.
-        if c.get("qi") or c["src"] == "roko":
+        # Without the picture check, only businesses' own Roko photos, or Wikimedia Commons "Quality images" (peer-reviewed
+        # for technical quality) whose title matches the search and that show no people, are used.
+        title = (c.get("title") or "") + " " + (c.get("desc") or "")
+        words = [w for w in re.findall(r"[a-z]{4,}", (c.get("query") or "").lower())]
+        unsafe = re.search(r"lingerie|underwear|bodysuit|hosiery|stocking|bikini|swimsuit|nude|naked|erotic|boudoir|sexy|model|fashion|glamour|"
+                           r"woman|women|\bman\b|\bmen\b|girl|boy|child|portrait|people|person|bride|groom|couple|guests?\b", title, re.I)
+        if c["src"] == "roko" or (c.get("qi") and not unsafe and any(w in title.lower() for w in words)):
             c.update({"quality": 7.5, "relevance": 6, "real": True, "stock": False, "people_identifiable": False,
                       "alt": re.sub(r"\.(jpe?g|png|webp)$", "", re.sub(r"[_-]+", " ", c.get("title") or ""), flags=re.I)[:110] or a["title"]})
             return c
