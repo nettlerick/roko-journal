@@ -5,5 +5,12 @@
    "no JSON object in model output"
   ],
   "count": 1
+ },
+ "luxury-wedding-venues-in-the-uk": {
+  "date": "2026-11-02T15:03+00:00",
+  "errors": [
+   "plan had only 0 sections"
+  ],
+  "count": 1
  }
 }
