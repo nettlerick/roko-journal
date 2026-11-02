@@ -179,11 +179,6 @@
  },
  "feeds": [
   {
-   "url": "https://www.brides.com/rss",
-   "publisher": "Brides",
-   "kind": "luxury"
-  },
-  {
    "url": "https://www.vogue.com/feed/rss",
    "publisher": "Vogue",
    "kind": "luxury",
@@ -208,16 +203,6 @@
    "must": "wedding|bride|bridal|engagement|party"
   },
   {
-   "url": "https://junebugweddings.com/wedding-blog/feed/",
-   "publisher": "Junebug Weddings",
-   "kind": "luxury"
-  },
-  {
-   "url": "https://www.rockmywedding.co.uk/feed/",
-   "publisher": "Rock My Wedding",
-   "kind": "luxury"
-  },
-  {
    "url": "https://www.lovemydress.net/feed",
    "publisher": "Love My Dress",
    "kind": "luxury"
@@ -235,11 +220,6 @@
   {
    "url": "https://www.cntraveller.com/feed/rss",
    "publisher": "Conde Nast Traveller",
-   "kind": "travel"
-  },
-  {
-   "url": "https://www.travelandleisure.com/feeds/all",
-   "publisher": "Travel + Leisure",
    "kind": "travel"
   },
   {
