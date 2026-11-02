@@ -81,32 +81,7 @@
  "series": "Reports",
  "date": "2026-11-02T16:55",
  "updated": "2026-11-02T16:55",
- "images": [
-  {
-   "credit": "Photo: Tobias ToMar Maier, CC BY-SA 4.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:Bodysuits_and_hosiery_for_a_wedding_and_its_night_-_model-kartei_choice.jpg",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "file": "media/weddings-by-the-numbers-what-official-statistics-show/cover.webp",
-   "width": 2000,
-   "height": 1125,
-   "alt": "Bodysuits and hosiery for a wedding and its night   model kartei choice",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/weddings-by-the-numbers-what-official-statistics-show/cover.webp"
-  },
-  {
-   "credit": "Photo: Tobias ToMar Maier, CC BY-SA 4.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:Bodysuits_and_hosiery_for_a_wedding_and_its_night_%E2%80%93_image_variant_showing_the_full_wedding_dress_and_a_peek_behind_the_curtain_so_to_say.jpg",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "file": "media/weddings-by-the-numbers-what-official-statistics-show/1.webp",
-   "width": 1600,
-   "height": 2000,
-   "alt": "Bodysuits and hosiery for a wedding and its night – image variant showing the full wedding dress and a peek be",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/weddings-by-the-numbers-what-official-statistics-show/1.webp"
-  }
- ],
+ "images": [],
  "period": "2026-11",
  "editor_approved": true
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T17:05:47+00:00",
+ "generated": "2026-11-02T17:06:33+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -1944,181 +1944,16 @@
     "source": "commons",
     "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/questions-to-ask-a-wedding-venue/cover.webp"
    }
-  },
-  {
-   "slug": "weddings-by-the-numbers-what-official-statistics-show",
-   "roadmap": null,
-   "title": "Weddings by the numbers: what official statistics show",
-   "seo_title": "Wedding statistics: what official figures show",
-   "dek": "How many people marry, when and at what age, from the latest official releases for England and Wales, the United States, Australia and Ireland.",
-   "type": "research",
-   "cluster": "suppliers",
-   "body": "Official marriage statistics are some of the most reliable data anyone has on weddings. They count every legal marriage, not a sample of survey respondents. This first Roko Reports research brief brings together the latest releases from four national statistics offices (England and Wales, the United States, Australia and Ireland) to show how many people marry, when, and at what age, and what that means for couples and for the businesses that serve them.\n\nEach country counts in its own way and publishes on its own timetable, so the figures below are the latest available from each source, and the notes explain where they cannot be compared directly.\n\n## The headline numbers\n\n| Country | Latest year | Marriages registered | Change on the previous year |\n|---|---|---|---|\n| United States | 2024 | 2,128,446 | up from 2,041,926 in 2023 |\n| England and Wales | 2023 | 231,949 marriages and civil partnerships | down 8.6% from 253,776 in 2022 |\n| Australia | 2024 | 120,844 | up 2.0% from 118,439 in 2023 |\n| Ireland | 2024 | 20,348 | down almost 4% from 21,159 in 2023 |\n\nThe picture is mixed rather than a single global trend. Marriages rose in the United States and Australia in their latest year and fell in England and Wales and in Ireland.\n\nThe United States figures, from the CDC's National Center for Health Statistics, give the longest view. The national marriage rate was 6.1 per 1,000 people in 2019, dropped to 5.1 in 2020 when the pandemic interrupted gatherings, and recovered to 6.0 in 2021, 6.2 in 2022, 6.1 in 2023 and 6.3 in 2024. In other words, the number of weddings in the United States is back above where it stood before the pandemic.\n\nIn Australia, the Australian Bureau of Statistics reports a crude marriage rate of 5.5 marriages per 1,000 people in 2024, unchanged from 2023.\n\nIn Ireland, the Central Statistics Office notes that the 2024 total was 7.7% lower than in 2014, a decade earlier.\n\n## When people marry\n\nThe calendar shapes almost everything about a wedding: venue availability, prices, flowers, travel and guest numbers.\n\n- **England and Wales:** August was the most popular month in 2023, with 14.3% (32,121) of marriages. Saturday was by far the most common day, with 41.9% (93,916) of marriages, and the single busiest date was Saturday 2 September, with 3,227 marriages.\n- **Ireland:** August was the most popular month for opposite-sex couples in 2024 and September for same-sex couples. Friday was the most popular day to marry. A separate Central Statistics Office analysis of weddings from 2011 to 2024 found that the most popular dates were all at the end of the year: 31 December averaged 189 marriages, 30 December 151, 28 December 147 and 29 December 136, with 3 August next at 115.\n- **Australia:** the most popular date in 2024 was 24 February, with 1,773 marriages. In the southern hemisphere, late summer is peak season.\n\n**What it means for couples:** the most popular dates differ by country and hemisphere, so local advice about \"peak season\" does not travel. If you are flexible, a Friday, a weekday or a month outside your country's peak can open up venues and suppliers that are booked out on the busiest Saturdays.\n\n**What it means for businesses:** demand clusters on a small number of dates. Ireland's end-of-December peak and the strength of Fridays there show that the busiest days are not always summer Saturdays, and businesses that publish availability clearly for those dates make it easier for couples to choose them.\n\n## Who is marrying, and at what age\n\nCouples are marrying later than many people assume.\n\n| Country | Measure | Men | Women |\n|---|---|---|---|\n| England and Wales (2023) | Median age, opposite-sex marriages | 34.8 | 33.0 |\n| Australia (2024) | Median age at marriage | 32.8 | 31.2 |\n| Ireland (2024) | Average age, brides and grooms | 37.7 (grooms) | 35.9 (brides) |\n\nIreland reports averages and England and Wales and Australia report medians, so the Irish figures are not directly comparable, but the direction is the same everywhere: most couples marry in their thirties.\n\nSame-sex couples are a growing and visible part of the picture. Australia registered 4,746 marriages for couples of the same or non-binary gender in 2024. Ireland registered 668 same-sex marriages, 3.4% more than in 2023, and the Central Statistics Office reports that the average age of male same-sex couples was 40.7 years and of female couples 39.7 years. In England and Wales, civil partnerships made up 3.3% of all legal partnerships formed in 2023, and opposite-sex marriages made up 93.5%.\n\n**What it means for couples and businesses:** most weddings are planned by adults with established lives, jobs and often guests travelling from far away, which rewards suppliers who are clear and upfront about what they offer, when they are available and what it costs.\n\n## How people marry\n\nCeremony type is one of the clearest shifts in the data. In Ireland in 2024, civil ceremonies (32.5%, or 6,392 weddings) were almost level with Roman Catholic ceremonies (32.6%, or 6,425) among opposite-sex couples, and 52.5% of same-sex marriages were civil ceremonies.\n\nThis matters for where weddings happen. A civil ceremony can often take place at the same venue as the reception, which shapes demand for venues that can host both and for celebrants, officiants and ceremony musicians.\n\n## Where weddings happen\n\nWithin countries, weddings are not spread evenly. In England and Wales, the South East had the highest number of marriages in 2023, with 16.1% of the total registered there. For businesses deciding where to focus, and for couples weighing up a venue's demand, regional figures like these are worth watching as each new release lands.\n\n## What to watch next\n\nThe Office for National Statistics plans to publish figures for marriages and civil partnerships in England and Wales for 2024 and 2025 between December 2026 and January 2027. Roko Reports will update this brief as new releases arrive from each statistics office, and will add Roko's own data on what couples search for and enquire about as the directory grows.\n\n## How this research was done\n\nThis brief uses only official statistics published by national statistics offices:\n\n- England and Wales: Office for National Statistics, Marriages in England and Wales: 2023, released 18 November 2025.\n- United States: CDC National Center for Health Statistics, National Vital Statistics System, national marriage and divorce rates, 2000 to 2024.\n- Australia: Australian Bureau of Statistics, Marriages and Divorces, Australia, 2024, released 23 July 2025.\n- Ireland: Central Statistics Office, Marriages 2024, released 25 April 2025, and the CSO press statement on Ireland's most popular wedding dates, released 10 March 2026.\n\nFigures are quoted as published. Years differ between countries because each office publishes on its own schedule, and where offices use different measures (for example median and average age), the brief says so.",
-   "faq": [
-    {
-     "q": "What is the most popular month to get married?",
-     "a": "It depends on the country. Official figures show August was the most popular month in England and Wales in 2023 and for opposite-sex couples in Ireland in 2024. In Australia the busiest single date in 2024 was 24 February."
-    },
-    {
-     "q": "How many weddings take place in the United States each year?",
-     "a": "The CDC's National Center for Health Statistics recorded 2,128,446 marriages in 2024, a rate of 6.3 per 1,000 people."
-    },
-    {
-     "q": "At what age do people get married?",
-     "a": "In England and Wales the median age for opposite-sex marriages in 2023 was 34.8 for men and 33.0 for women. In Australia in 2024 it was 32.8 for men and 31.2 for women. In Ireland the average age in 2024 was 37.7 for grooms and 35.9 for brides."
-    }
-   ],
-   "keywords": [
-    "wedding statistics",
-    "marriage statistics",
-    "most popular wedding month"
-   ],
-   "tags": [
-    "Research",
-    "Statistics",
-    "Wedding dates",
-    "Worldwide",
-    "Industry"
-   ],
-   "image_subjects": [
-    "wedding ceremony",
-    "wedding rings",
-    "wedding couple",
-    "wedding guests"
-   ],
-   "time_sensitive": true,
-   "sources": [
-    {
-     "title": "ONS: Marriages in England and Wales: 2023",
-     "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/bulletins/marriagesinenglandandwalesprovisional/2023",
-     "publisher": "Office for National Statistics"
-    },
-    {
-     "title": "ONS: Marriages and civil partnerships in England and Wales, 2024 and 2025 (release calendar)",
-     "url": "https://www.ons.gov.uk/releases/marriagesandcivilpartnershipsinenglandandwales2024and2025",
-     "publisher": "Office for National Statistics"
-    },
-    {
-     "title": "CDC/NCHS: National marriage and divorce rates, 2000 to 2024",
-     "url": "https://www.cdc.gov/nchs/data/dvs/marriage-divorce/national-marriage-divorce-rates-00-24.pdf",
-     "publisher": "CDC National Center for Health Statistics"
-    },
-    {
-     "title": "ABS: Marriages and Divorces, Australia, 2024",
-     "url": "https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia/2024",
-     "publisher": "Australian Bureau of Statistics"
-    },
-    {
-     "title": "CSO: Marriages 2024, key findings",
-     "url": "https://www.cso.ie/en/releasesandpublications/ep/p-mar/marriages2024/keyfindings",
-     "publisher": "Central Statistics Office, Ireland"
-    },
-    {
-     "title": "CSO: Ireland's most popular wedding dates",
-     "url": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-irelandsmostpopularweddingdates2026",
-     "publisher": "Central Statistics Office, Ireland"
-    }
-   ],
-   "goal": {
-    "type": "register",
-    "url": "/list-your-business",
-    "label": "List your business on Roko"
-   },
-   "review": true,
-   "series": "Reports",
-   "date": "2026-11-02T16:55",
-   "updated": "2026-11-02T16:55",
-   "images": [
-    {
-     "credit": "Photo: Tobias ToMar Maier, CC BY-SA 4.0, via Wikimedia Commons",
-     "credit_url": "https://commons.wikimedia.org/wiki/File:Bodysuits_and_hosiery_for_a_wedding_and_its_night_-_model-kartei_choice.jpg",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "file": "media/weddings-by-the-numbers-what-official-statistics-show/cover.webp",
-     "width": 2000,
-     "height": 1125,
-     "alt": "Bodysuits and hosiery for a wedding and its night   model kartei choice",
-     "source": "commons",
-     "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/weddings-by-the-numbers-what-official-statistics-show/cover.webp"
-    },
-    {
-     "credit": "Photo: Tobias ToMar Maier, CC BY-SA 4.0, via Wikimedia Commons",
-     "credit_url": "https://commons.wikimedia.org/wiki/File:Bodysuits_and_hosiery_for_a_wedding_and_its_night_%E2%80%93_image_variant_showing_the_full_wedding_dress_and_a_peek_behind_the_curtain_so_to_say.jpg",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "file": "media/weddings-by-the-numbers-what-official-statistics-show/1.webp",
-     "width": 1600,
-     "height": 2000,
-     "alt": "Bodysuits and hosiery for a wedding and its night – image variant showing the full wedding dress and a peek be",
-     "source": "commons",
-     "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/weddings-by-the-numbers-what-official-statistics-show/1.webp"
-    }
-   ],
-   "period": "2026-11",
-   "editor_approved": true,
-   "html": "<p>Official marriage statistics are some of the most reliable data anyone has on weddings. They count every legal marriage, not a sample of survey respondents. This first Roko Reports research brief brings together the latest releases from four national statistics offices (England and Wales, the United States, Australia and Ireland) to show how many people marry, when, and at what age, and what that means for couples and for the businesses that serve them.</p><p>Each country counts in its own way and publishes on its own timetable, so the figures below are the latest available from each source, and the notes explain where they cannot be compared directly.</p><h2 id=\"the-headline-numbers\">The headline numbers</h2><div class=\"jr-table\"><table><thead><tr><th>Country</th><th>Latest year</th><th>Marriages registered</th><th>Change on the previous year</th></tr></thead><tbody><tr><td>United States</td><td>2024</td><td>2,128,446</td><td>up from 2,041,926 in 2023</td></tr><tr><td>England and Wales</td><td>2023</td><td>231,949 marriages and civil partnerships</td><td>down 8.6% from 253,776 in 2022</td></tr><tr><td>Australia</td><td>2024</td><td>120,844</td><td>up 2.0% from 118,439 in 2023</td></tr><tr><td>Ireland</td><td>2024</td><td>20,348</td><td>down almost 4% from 21,159 in 2023</td></tr></tbody></table></div><p>The picture is mixed rather than a single global trend. Marriages rose in the United States and Australia in their latest year and fell in England and Wales and in Ireland.</p><p>The United States figures, from the CDC's National Center for Health Statistics, give the longest view. The national marriage rate was 6.1 per 1,000 people in 2019, dropped to 5.1 in 2020 when the pandemic interrupted gatherings, and recovered to 6.0 in 2021, 6.2 in 2022, 6.1 in 2023 and 6.3 in 2024. In other words, the number of weddings in the United States is back above where it stood before the pandemic.</p><p>In Australia, the Australian Bureau of Statistics reports a crude marriage rate of 5.5 marriages per 1,000 people in 2024, unchanged from 2023.</p><p>In Ireland, the Central Statistics Office notes that the 2024 total was 7.7% lower than in 2014, a decade earlier.</p><figure class=\"jr-figure\"><img src=\"https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/weddings-by-the-numbers-what-official-statistics-show/1.webp\" alt=\"Bodysuits and hosiery for a wedding and its night – image variant showing the full wedding dress and a peek be\" width=\"1600\" height=\"2000\" loading=\"lazy\" decoding=\"async\"><figcaption><a href=\"https://commons.wikimedia.org/wiki/File:Bodysuits_and_hosiery_for_a_wedding_and_its_night_%E2%80%93_image_variant_showing_the_full_wedding_dress_and_a_peek_behind_the_curtain_so_to_say.jpg\" target=\"_blank\" rel=\"noopener\">Photo: Tobias ToMar Maier, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption></figure><h2 id=\"when-people-marry\">When people marry</h2><p>The calendar shapes almost everything about a wedding: venue availability, prices, flowers, travel and guest numbers.</p><ul><li><strong>England and Wales:</strong> August was the most popular month in 2023, with 14.3% (32,121) of marriages. Saturday was by far the most common day, with 41.9% (93,916) of marriages, and the single busiest date was Saturday 2 September, with 3,227 marriages.</li><li><strong>Ireland:</strong> August was the most popular month for opposite-sex couples in 2024 and September for same-sex couples. Friday was the most popular day to marry. A separate Central Statistics Office analysis of weddings from 2011 to 2024 found that the most popular dates were all at the end of the year: 31 December averaged 189 marriages, 30 December 151, 28 December 147 and 29 December 136, with 3 August next at 115.</li><li><strong>Australia:</strong> the most popular date in 2024 was 24 February, with 1,773 marriages. In the southern hemisphere, late summer is peak season.</li></ul><p><strong>What it means for couples:</strong> the most popular dates differ by country and hemisphere, so local advice about \"peak season\" does not travel. If you are flexible, a Friday, a weekday or a month outside your country's peak can open up venues and suppliers that are booked out on the busiest Saturdays.</p><p><strong>What it means for businesses:</strong> demand clusters on a small number of dates. Ireland's end-of-December peak and the strength of Fridays there show that the busiest days are not always summer Saturdays, and businesses that publish availability clearly for those dates make it easier for couples to choose them.</p><h2 id=\"who-is-marrying-and-at-what-age\">Who is marrying, and at what age</h2><p>Couples are marrying later than many people assume.</p><div class=\"jr-table\"><table><thead><tr><th>Country</th><th>Measure</th><th>Men</th><th>Women</th></tr></thead><tbody><tr><td>England and Wales (2023)</td><td>Median age, opposite-sex marriages</td><td>34.8</td><td>33.0</td></tr><tr><td>Australia (2024)</td><td>Median age at marriage</td><td>32.8</td><td>31.2</td></tr><tr><td>Ireland (2024)</td><td>Average age, brides and grooms</td><td>37.7 (grooms)</td><td>35.9 (brides)</td></tr></tbody></table></div><p>Ireland reports averages and England and Wales and Australia report medians, so the Irish figures are not directly comparable, but the direction is the same everywhere: most couples marry in their thirties.</p><p>Same-sex couples are a growing and visible part of the picture. Australia registered 4,746 marriages for couples of the same or non-binary gender in 2024. Ireland registered 668 same-sex marriages, 3.4% more than in 2023, and the Central Statistics Office reports that the average age of male same-sex couples was 40.7 years and of female couples 39.7 years. In England and Wales, civil partnerships made up 3.3% of all legal partnerships formed in 2023, and opposite-sex marriages made up 93.5%.</p><p><strong>What it means for couples and businesses:</strong> most weddings are planned by adults with established lives, jobs and often guests travelling from far away, which rewards suppliers who are clear and upfront about what they offer, when they are available and what it costs.</p><h2 id=\"how-people-marry\">How people marry</h2><p>Ceremony type is one of the clearest shifts in the data. In Ireland in 2024, civil ceremonies (32.5%, or 6,392 weddings) were almost level with Roman Catholic ceremonies (32.6%, or 6,425) among opposite-sex couples, and 52.5% of same-sex marriages were civil ceremonies.</p><p>This matters for where weddings happen. A civil ceremony can often take place at the same venue as the reception, which shapes demand for venues that can host both and for celebrants, officiants and ceremony musicians.</p><h2 id=\"where-weddings-happen\">Where weddings happen</h2><p>Within countries, weddings are not spread evenly. In England and Wales, the South East had the highest number of marriages in 2023, with 16.1% of the total registered there. For businesses deciding where to focus, and for couples weighing up a venue's demand, regional figures like these are worth watching as each new release lands.</p><h2 id=\"what-to-watch-next\">What to watch next</h2><p>The Office for National Statistics plans to publish figures for marriages and civil partnerships in England and Wales for 2024 and 2025 between December 2026 and January 2027. Roko Reports will update this brief as new releases arrive from each statistics office, and will add Roko's own data on what couples search for and enquire about as the directory grows.</p><h2 id=\"how-this-research-was-done\">How this research was done</h2><p>This brief uses only official statistics published by national statistics offices:</p><ul><li>England and Wales: Office for National Statistics, Marriages in England and Wales: 2023, released 18 November 2025.</li><li>United States: CDC National Center for Health Statistics, National Vital Statistics System, national marriage and divorce rates, 2000 to 2024.</li><li>Australia: Australian Bureau of Statistics, Marriages and Divorces, Australia, 2024, released 23 July 2025.</li><li>Ireland: Central Statistics Office, Marriages 2024, released 25 April 2025, and the CSO press statement on Ireland's most popular wedding dates, released 10 March 2026.</li></ul><p>Figures are quoted as published. Years differ between countries because each office publishes on its own schedule, and where offices use different measures (for example median and average age), the brief says so.</p>",
-   "toc": [
-    {
-     "id": "the-headline-numbers",
-     "title": "The headline numbers"
-    },
-    {
-     "id": "when-people-marry",
-     "title": "When people marry"
-    },
-    {
-     "id": "who-is-marrying-and-at-what-age",
-     "title": "Who is marrying, and at what age"
-    },
-    {
-     "id": "how-people-marry",
-     "title": "How people marry"
-    },
-    {
-     "id": "where-weddings-happen",
-     "title": "Where weddings happen"
-    },
-    {
-     "id": "what-to-watch-next",
-     "title": "What to watch next"
-    },
-    {
-     "id": "how-this-research-was-done",
-     "title": "How this research was done"
-    }
-   ],
-   "words": 1156,
-   "reading_minutes": 5,
-   "faq_html": [
-    {
-     "q": "What is the most popular month to get married?",
-     "a": "It depends on the country. Official figures show August was the most popular month in England and Wales in 2023 and for opposite-sex couples in Ireland in 2024. In Australia the busiest single date in 2024 was 24 February."
-    },
-    {
-     "q": "How many weddings take place in the United States each year?",
-     "a": "The CDC's National Center for Health Statistics recorded 2,128,446 marriages in 2024, a rate of 6.3 per 1,000 people."
-    },
-    {
-     "q": "At what age do people get married?",
-     "a": "In England and Wales the median age for opposite-sex marriages in 2023 was 34.8 for men and 33.0 for women. In Australia in 2024 it was 32.8 for men and 31.2 for women. In Ireland the average age in 2024 was 37.7 for grooms and 35.9 for brides."
-    }
-   ],
-   "cover": {
-    "credit": "Photo: Tobias ToMar Maier, CC BY-SA 4.0, via Wikimedia Commons",
-    "credit_url": "https://commons.wikimedia.org/wiki/File:Bodysuits_and_hosiery_for_a_wedding_and_its_night_-_model-kartei_choice.jpg",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "media/weddings-by-the-numbers-what-official-statistics-show/cover.webp",
-    "width": 2000,
-    "height": 1125,
-    "alt": "Bodysuits and hosiery for a wedding and its night   model kartei choice",
-    "source": "commons",
-    "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a918d87fe5b7054b909f1326180f250639018e1e/media/weddings-by-the-numbers-what-official-statistics-show/cover.webp"
-   }
   }
  ],
- "waiting": [],
- "problems": {},
+ "waiting": [
+  "weddings-by-the-numbers-what-official-statistics-show"
+ ],
+ "problems": {
+  "weddings-by-the-numbers-what-official-statistics-show": [
+   "needs a cover image"
+  ]
+ },
  "attempts": {
   "luxury-wedding-venues-in-the-uk": {
    "date": "2026-11-02T15:03+00:00",
