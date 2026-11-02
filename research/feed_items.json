@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.vogue.com/slideshow/susan-alexandra-korn-and-andy-nahman-wedding",
+  "title": "Designer Susan Alexandra Made Her Dream Butter Yellow Gown for Her Wedding at a Historic French Villa",
+  "summary": "Featuring a butter Chihuahua, a communal pavlova, and colorful beaded place settings, the accessories designer’s wedding to Andy Nahman in Biarritz was full of crafty details.",
+  "date": "2026-11-02T19:30:12+00:00",
+  "publisher": "Vogue",
+  "kind": "luxury"
+ },
+ {
+  "url": "https://www.harpersbazaar.com/fashion/a74313531/wedding-guest-style-bloomingdales/",
+  "title": "The Best-Dressed Guest’s Guide to the Holiday Wedding Season",
+  "summary": "Great dresses, fabulous accessories, and plenty of reasons to RSVP yes.",
+  "date": "2026-11-02T18:30:00+00:00",
+  "publisher": "Harper's Bazaar",
+  "kind": "luxury"
+ },
+ {
   "url": "https://www.townandcountrymag.com/the-scene/weddings/a74312664/andrew-shue-marilee-fiebig-new-jersey-wedding/",
   "title": "Andrew Shue Marries Marilee Fiebig in New Jersey Wedding",
   "summary": "T&C ’s November cover star tied the knot in an intimate family celebration.",
@@ -54,6 +70,15 @@
   "date": "2026-11-02T11:19:47+00:00",
   "publisher": "Hospitality Net",
   "kind": "travel"
+ },
+ {
+  "url": "https://www.travelsdubai.com/02-Nov-2026/wynn-al-marjan-island-unveils-grand-wedding-plans-venues-1-260-guests",
+  "title": "Wynn Al Marjan Island unveils grand wedding plans with venues for 1,260 guests",
+  "summary": "Wynn Al Marjan Island in Ras Al Khaimah unveils luxury wedding facilities, including a ballroom for 1,260 guests, private preparation suites and multi-day ...",
+  "date": "2026-11-02T05:23:00+00:00",
+  "publisher": "travelsdubai",
+  "kind": "news",
+  "query": "destination wedding"
  },
  {
   "url": "https://www.eventindustrynews.com/news/wedding-pros-are-excellent-at-collaboration-so-why-is-the-industry-so-bad-at-it",
@@ -115,6 +140,15 @@
   "summary": "The India International Travel Mart (IITM) concluded at the Bombay Exhibition Centre, Mumbai, bringing together over 150 exhibitors from across India and IITM Mumbai was a two-day event focusing on ...",
   "date": "2026-11-01T16:01:00+00:00",
   "publisher": "TravelBiz Monitor",
+  "kind": "news",
+  "query": "destination wedding"
+ },
+ {
+  "url": "https://www.ttnworldwide.com/ArticleTA/489038/wynn-al-marjan-island-unveils-multi-day-wedding-experience-ahead-of-2027-opening",
+  "title": "Wynn Al Marjan Island unveils multi-day wedding experience ahead of 2027 opening",
+  "summary": "Wynn Al Marjan Island has unveiled details of its wedding and celebrations offering, positioning the upcoming UAE destination resort as a venue for multi-day weddings, with dedicated event facilities, ...",
+  "date": "2026-11-01T16:01:00+00:00",
+  "publisher": "TTN Worldwide",
   "kind": "news",
   "query": "destination wedding"
  },
@@ -390,6 +424,15 @@
   "publisher": "The Kit",
   "kind": "news",
   "query": "wedding trends"
+ },
+ {
+  "url": "https://www.news18.com/india/baraat-vs-badebandi-why-rajasthans-winning-netas-have-nowhere-to-hide-this-wedding-season-ws-eklr-10401539.html",
+  "title": "Baraat Vs Badebandi: Why Rajasthan's Winning Netas Have Nowhere To Hide This Wedding Season",
+  "summary": "Rajasthan local elections clash with peak wedding season. Parties face trouble securing hotels for political corralling. Anti-defection law does not apply to panchayat polls. Political parties will be ...",
+  "date": "2026-10-28T04:01:00+00:00",
+  "publisher": "News18",
+  "kind": "news",
+  "query": "wedding season India"
  },
  {
   "url": "https://in.eventfaqs.com/2026/10/28/the-art-of-celebrating-well-monil-shah-on-the-kkings-events-approach-to-luxury-weddings/",
@@ -974,6 +1017,15 @@
   "publisher": "nytimes.com",
   "kind": "news",
   "query": "Italy wedding destination"
+ },
+ {
+  "url": "https://www.yahoo.com/lifestyle/articles/6-wedding-trends-way-154314163.html",
+  "title": "6 wedding trends that are on the way out",
+  "summary": "Sage green bridesmaid dresses and bridal parties that feel more like small conventions have become wedding staples, but some redditors think they won't last. A redditor asked the community on ...",
+  "date": "2026-07-30T08:42:00+00:00",
+  "publisher": "Yahoo",
+  "kind": "news",
+  "query": "Instagram wedding trend"
  },
  {
   "url": "https://www.scotsman.com/scotsman-money/scots-weddings-cost-guest-rising-8814832",
