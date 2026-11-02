@@ -1,0 +1,71 @@
+{
+ "generated": "2026-11-02T14:41:56+00:00",
+ "stats": {
+  "period": "October 2026",
+  "searches": 101,
+  "searches_by_category": [
+   {
+    "category": "Photographers",
+    "searches": 28
+   },
+   {
+    "category": "Castles & Estates",
+    "searches": 21
+   },
+   {
+    "category": "Venues & Accommodation",
+    "searches": 11
+   },
+   {
+    "category": "Jewellery",
+    "searches": 5
+   },
+   {
+    "category": "Photography & Video",
+    "searches": 5
+   }
+  ],
+  "searches_by_place": [
+   {
+    "place": "London",
+    "searches": 30
+   },
+   {
+    "place": "Paris",
+    "searches": 17
+   }
+  ],
+  "searches_by_guest_count": [
+   {
+    "band": "30 to 59",
+    "searches": 5
+   }
+  ],
+  "searches_by_event_month": [],
+  "enquiries": 0,
+  "enquiries_by_category": [],
+  "enquiries_by_guest_count": [],
+  "public_listings": 0,
+  "new_listings_by_category": [],
+  "listings_by_country": [],
+  "note": "Counts of searches, enquiries and listings on withroko.com. Groups smaller than 5 are left out."
+ },
+ "current_month": {
+  "period": "November 2026",
+  "searches": 0,
+  "searches_by_category": [],
+  "searches_by_place": [],
+  "searches_by_guest_count": [],
+  "searches_by_event_month": [],
+  "enquiries": 0,
+  "enquiries_by_category": [],
+  "enquiries_by_guest_count": [],
+  "public_listings": 0,
+  "new_listings_by_category": [],
+  "listings_by_country": [],
+  "note": "Counts of searches, enquiries and listings on withroko.com. Groups smaller than 5 are left out."
+ },
+ "polls": [],
+ "contributions": [],
+ "notes": []
+}
