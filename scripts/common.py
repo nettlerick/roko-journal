@@ -67,7 +67,7 @@ def clean(s):
 EXHAUSTED = set()
 
 
-def gemini(prompt, system, temperature=0.6, tokens=16384, json_mode=True, images=None):
+def gemini(prompt, system, temperature=0.6, tokens=16384, json_mode=True, images=None, rounds=3):
     """Gemini (free tier). Tries each model; a busy model moves on quickly. Returns text."""
     if not KEY:
         raise RuntimeError("GEMINI_API_KEY is not set")
@@ -77,7 +77,7 @@ def gemini(prompt, system, temperature=0.6, tokens=16384, json_mode=True, images
         cfg["responseMimeType"] = "application/json"
     body = {"systemInstruction": {"parts": [{"text": system}]}, "contents": [{"role": "user", "parts": parts}], "generationConfig": cfg}
     last = None
-    for rnd in range(3):
+    for rnd in range(rounds):
         if all(m in EXHAUSTED for m in MODELS):
             raise RuntimeError("Gemini free-tier quota used up for today on every model")
         for model in MODELS:
@@ -101,7 +101,8 @@ def gemini(prompt, system, temperature=0.6, tokens=16384, json_mode=True, images
             except Exception as e:
                 last = f"{model}: {e}"
             log(last)
-        time.sleep(30 * (rnd + 1))
+        if rnd + 1 < rounds:
+            time.sleep(30 * (rnd + 1))
     raise RuntimeError("Gemini unavailable: " + str(last))
 
 

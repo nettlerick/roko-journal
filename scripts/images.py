@@ -30,16 +30,18 @@ MAX_INLINE = {"cornerstone": 4, "guide": 3, "inspiration": 4, "feature": 4, "res
 COVER = (2000, 1125)
 TIME_BUDGET = int(os.environ.get("PHOTO_SECONDS", "900"))
 START = time.time()
+FAILED = {}
 
 
-def get_json(url, timeout=35):
+def get_json(url, timeout=20):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return json.load(r)
 
 
 def download(url, limit=25_000_000):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; RokoJournal/1.0)", "Accept": "image/*"})
+    # Wikimedia asks for a descriptive User-Agent with contact details; generic ones are rate limited.
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "image/*"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read(limit)
 
@@ -135,6 +137,8 @@ def library_candidates(a):
     queries = [short(q) for q in (a.get("image_subjects") or []) if isinstance(q, str)][:5] or [a.get("keywords", [a["title"]])[0]]
     for q in queries:
         for name, fn in (("qi", lambda x: commons(x, "qi")), ("commons", commons), ("openverse", openverse)):
+            if FAILED.get(name, 0) >= 1:
+                continue                                   # a library that timed out is skipped for the rest of the run
             try:
                 for c in fn(q):
                     c["qi"] = name == "qi"
@@ -142,7 +146,8 @@ def library_candidates(a):
                         continue
                     seen.add(c["page"]); c["query"] = q; out.append(c)
             except Exception as e:
-                log(f"library search {q!r}: {str(e)[:100]}")
+                FAILED[name] = FAILED.get(name, 0) + 1
+                log(f"library search {name} {q!r}: {str(e)[:100]}")
             time.sleep(0.3)
     return out
 
@@ -174,7 +179,7 @@ def look(a, c):
             "people_identifiable: true if a person's face is clearly identifiable and central.\n"
             'Reply with JSON only: {"quality": n, "relevance": n, "real": true, "stock": false, "people_identifiable": false, '
             '"alt": "plain description of the photo for alt text, under 120 characters"}',
-            "You judge photographs for a magazine. Be strict.", images=[jpeg], temperature=0.1, tokens=4096)
+            "You judge photographs for a magazine. Be strict.", images=[jpeg], temperature=0.1, tokens=4096, rounds=1)
     except Exception as e:
         log(f"vision unavailable: {str(e)[:80]}")
         # Without the picture check, only photos already reviewed by people are used: Wikimedia Commons
