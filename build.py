@@ -134,6 +134,7 @@ def main():
         a["reading_minutes"] = max(1, round(a["words"] / 230))
         a["faq_html"] = [{"q": html.escape(x["q"]), "a": inline(x["a"])} for x in a.get("faq") or []]
         a["cover"] = a["images"][0]
+        a["tags"] = [t for t in (a.get("tags") or a.get("keywords") or []) if isinstance(t, str) and t.strip()][:8]
         pub.append(a)
     pub.sort(key=lambda a: a["date"], reverse=True)
     status = {a.get("roadmap"): "published" for a in pub if a.get("roadmap")}

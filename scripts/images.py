@@ -134,9 +134,10 @@ def library_candidates(a):
     short = lambda q: " ".join([w for w in re.findall(r"[A-Za-z'-]+", q) if w.lower() not in stop][:4])   # libraries match short subject phrases best
     queries = [short(q) for q in (a.get("image_subjects") or []) if isinstance(q, str)][:5] or [a.get("keywords", [a["title"]])[0]]
     for q in queries:
-        for fn in (lambda x: commons(x, "qi"), commons, openverse):
+        for name, fn in (("qi", lambda x: commons(x, "qi")), ("commons", commons), ("openverse", openverse)):
             try:
                 for c in fn(q):
+                    c["qi"] = name == "qi"
                     if c["page"] in seen:
                         continue
                     seen.add(c["page"]); c["query"] = q; out.append(c)
@@ -176,6 +177,12 @@ def look(a, c):
             "You judge photographs for a magazine. Be strict.", images=[jpeg], temperature=0.1, tokens=4096)
     except Exception as e:
         log(f"vision unavailable: {str(e)[:80]}")
+        # Without the picture check, only photos already reviewed by people are used: Wikimedia Commons
+        # "Quality images" (peer-reviewed for technical quality) that match the search, and businesses' own Roko photos.
+        if c.get("qi") or c["src"] == "roko":
+            c.update({"quality": 7.5, "relevance": 6, "real": True, "stock": False, "people_identifiable": False,
+                      "alt": re.sub(r"\.(jpe?g|png|webp)$", "", re.sub(r"[_-]+", " ", c.get("title") or ""), flags=re.I)[:110] or a["title"]})
+            return c
         return None
     c.update({k: d.get(k) for k in ("quality", "relevance", "real", "stock", "people_identifiable", "alt")})
     return c

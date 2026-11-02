@@ -64,6 +64,9 @@ def clean(s):
 
 # ------------------------------------------------------------------ Gemini
 
+EXHAUSTED = set()
+
+
 def gemini(prompt, system, temperature=0.6, tokens=16384, json_mode=True, images=None):
     """Gemini (free tier). Tries each model; a busy model moves on quickly. Returns text."""
     if not KEY:
@@ -75,7 +78,11 @@ def gemini(prompt, system, temperature=0.6, tokens=16384, json_mode=True, images
     body = {"systemInstruction": {"parts": [{"text": system}]}, "contents": [{"role": "user", "parts": parts}], "generationConfig": cfg}
     last = None
     for rnd in range(3):
+        if all(m in EXHAUSTED for m in MODELS):
+            raise RuntimeError("Gemini free-tier quota used up for today on every model")
         for model in MODELS:
+            if model in EXHAUSTED:
+                continue
             req = urllib.request.Request(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                                          data=json.dumps(body).encode(), headers={"Content-Type": "application/json", "x-goog-api-key": KEY})
             try:
@@ -87,7 +94,10 @@ def gemini(prompt, system, temperature=0.6, tokens=16384, json_mode=True, images
                     return text
                 last = f"{model}: empty response ({cand.get('finishReason')})"
             except urllib.error.HTTPError as e:
-                last = f"{model} HTTP {e.code}: {e.read().decode(errors='ignore')[:200]}"
+                msg = e.read().decode(errors="ignore")
+                last = f"{model} HTTP {e.code}: {msg[:200]}"
+                if e.code == 429 and re.search(r"PerDay|per day|daily", msg, re.I):
+                    EXHAUSTED.add(model)                # this model's daily allowance is gone: don't keep waiting on it
             except Exception as e:
                 last = f"{model}: {e}"
             log(last)

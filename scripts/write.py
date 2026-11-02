@@ -250,7 +250,7 @@ def write(kind, brief, mat, links, internal_ok, n_links, typ, extra_rules=""):
             plan = gemini_json(context + f"\nPLAN the article first. It will be about {target} words in total, in {lo} to {hi} sections. Reply with ONE JSON object only:\n"
                                '{"title": "...", "seo_title": "...", "dek": "...", "intro": "the opening paragraph(s), 2 to 4 sentences, no heading", '
                                '"sections": [{"heading": "sentence-case heading", "covers": "what this section answers and which material numbers it draws on", "words": 300}], '
-                               '"faq": [{"q": "...", "a": "..."}], "keywords": ["..."], "image_subjects": ["3 to 6 concrete photo subjects"], '
+                               '"faq": [{"q": "...", "a": "..."}], "keywords": ["..."], "tags": ["4 to 8 short topic tags readers would browse by, e.g. Venues, Budget, Destination weddings"], "image_subjects": ["3 to 6 concrete photo subjects"], '
                                '"time_sensitive": true, "used_material": [0, 1]}\n'
                                'If the material is not enough for an accurate, genuinely useful article, reply {"skip": "reason"}.', SYSTEM, temperature=0.6, tokens=8192)
             break
@@ -300,7 +300,7 @@ def write(kind, brief, mat, links, internal_ok, n_links, typ, extra_rules=""):
     intro_errs = check_prose(intro, mat_text)
     if intro_errs:
         return None, ["intro: " + e for e in intro_errs]
-    d = {k: plan.get(k) for k in ("title", "seo_title", "dek", "keywords", "image_subjects", "time_sensitive", "used_material")}
+    d = {k: plan.get(k) for k in ("title", "seo_title", "dek", "keywords", "tags", "image_subjects", "time_sensitive", "used_material")}
     for k in ("title", "seo_title", "dek"):
         d[k] = clean(str(d.get(k) or ""))
     d["body"] = fix_links(intro + "\n\n" + "\n\n".join(out_secs), internal_ok, external_ok)
@@ -337,7 +337,7 @@ def save_article(d, *, slug, typ, cluster, mat, roadmap_n=None, goal=None, extra
     a.update({
         "slug": slug, "roadmap": roadmap_n, "title": d["title"], "seo_title": d.get("seo_title") or d["title"][:60],
         "dek": d["dek"], "type": typ, "cluster": cluster, "body": d["body"], "faq": d.get("faq", []),
-        "keywords": d.get("keywords", [])[:8], "image_subjects": d.get("image_subjects", [])[:6],
+        "keywords": d.get("keywords", [])[:8], "tags": [clean(str(t))[:40] for t in (d.get("tags") or d.get("keywords") or [])][:8], "image_subjects": d.get("image_subjects", [])[:6],
         "time_sensitive": bool(d.get("time_sensitive")), "sources": sources_from(d, mat),
         "goal": goal or a.get("goal") or {"type": "category", "url": "/wedding-vendors", "label": "Discover businesses on Roko"},
         "review": typ in REVIEW_TYPES, "series": "Reports" if typ in ("research", "report") else "Journal",
