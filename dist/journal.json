@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T11:12:56+00:00",
+ "generated": "2026-11-03T15:22:54+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2117,7 +2117,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-03T11:12+00:00",
+  "generated": "2026-11-03T15:22+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2127,6 +2127,30 @@
   "trending": [],
   "page_changes": [],
   "feed_items": [
+   {
+    "url": "https://www.hospitalitynet.org/news/4135245/avalora-introduces-cross-platform-guest-intelligence",
+    "title": "Avalora Introduces Cross-Platform Guest Intelligence™",
+    "summary": "Avalora launched Cross-Platform Guest Intelligence (CPGI) at The Hospitality Show in Miami Beach, an AI platform that aggregates guest interaction data across hotel systems to surface revenue and service insights.",
+    "date": "2026-11-03T13:35:05+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/news/4135243/proof-not-promises-updated-guide-helps-tourism-and-events-industry-navigate-new-eu-greenwashing-rules",
+    "title": "Proof, not promises: Updated guide helps tourism and events industry navigate new EU greenwashing rules",
+    "summary": "ETC, GDS-Movement and NECSTouR updated their practical guide on the EU EmpCo Directive, helping destinations, DMOs and event organisers make credible, evidence-based sustainability claims.",
+    "date": "2026-11-03T13:03:29+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.vogue.com/slideshow/brittany-howard-and-anna-maria-babcock-wedding",
+    "title": "Brittany Howard and Anna-Maria Babcock’s Tennessee Wedding Was a Celebration of Their Mexican and Southern Roots",
+    "summary": "The Alabama Shakes singer and record label executive gathered friends and family in Franklin for a weekend of mariachi, custom red gowns, and queer joy.",
+    "date": "2026-11-03T13:00:00+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
    {
     "url": "https://www.hospitalitynet.org/opinion/4135232/have-hospitality-trade-shows-gone-the-way-of-the-dodo",
     "title": "Have Hospitality Trade Shows Gone the Way of the Dodo?",
@@ -2322,6 +2346,15 @@
     "publisher": "Mirror Now on MSN",
     "kind": "news",
     "query": "destination wedding"
+   },
+   {
+    "url": "https://www.wam.ae/en/article/c31bwtr-cda-dubai-health-join-forces-strengthen-health",
+    "title": "CDA, Dubai Health join forces to strengthen health, social support for couples preparing for marriage",
+    "summary": "In a move aimed at strengthening the integrated health and social support system available to Emirati families, the Community Development Authority (CDA) in Dubai and Dubai Health have signed a ...",
+    "date": "2026-11-01T07:03:00+00:00",
+    "publisher": "Emirates News Agency",
+    "kind": "news",
+    "query": "Dubai wedding"
    },
    {
     "url": "https://www.heraldgoa.in/goa/goa-makes-marriage-registration-easier-to-attract-destination-weddings/494137/",
@@ -2597,6 +2630,15 @@
     "query": "destination wedding"
    },
    {
+    "url": "https://www.impactonnet.com/more-from-impact/etude-launches-first-ever-wedding-campaign-introduces-two-new-foundations-17328.html",
+    "title": "ETUDE Launches First-Ever Wedding Campaign, Introduces Two New Foundations",
+    "summary": "ETUDE India, the South Korean skincare & beauty brand, has launched its first-ever wedding campaign, featuring actor and brand ambassador Palak Tiwari. The campaign also introduces two new foundation ...",
+    "date": "2026-10-28T11:06:00+00:00",
+    "publisher": "IMPACT Magazine",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
     "url": "https://www.msn.com/en-gb/lifestyle/other/the-chicest-wedding-dress-trends-for-2027-as-told-by-designers/ar-AA2ggy0E",
     "title": "The chicest wedding dress trends for 2027, as told by designers",
     "summary": "When it comes to wedding planning, no singular decision is quite as day-defining as choosing the dress. Many brides dream of their perfect dress long before the wedding, while others might need a ...",
@@ -2604,51 +2646,6 @@
     "publisher": "Country and Town House on MSN",
     "kind": "news",
     "query": "wedding trends"
-   },
-   {
-    "url": "https://thekit.ca/weddings/wedding-trends/2027-wedding-dress-trends-2/",
-    "title": "These Are Biggest Trends Influencing 2027 Bridal Style",
-    "summary": "Getting married in 2027? Say 'I do' to graphic polka dots, balletcore-coded gowns, artful veils and Grace Kelly-inspired necklines.",
-    "date": "2026-10-28T08:51:00+00:00",
-    "publisher": "The Kit",
-    "kind": "news",
-    "query": "wedding trends"
-   },
-   {
-    "url": "https://www.news18.com/india/baraat-vs-badebandi-why-rajasthans-winning-netas-have-nowhere-to-hide-this-wedding-season-ws-eklr-10401539.html",
-    "title": "Baraat Vs Badebandi: Why Rajasthan's Winning Netas Have Nowhere To Hide This Wedding Season",
-    "summary": "Rajasthan local elections clash with peak wedding season. Parties face trouble securing hotels for political corralling. Anti-defection law does not apply to panchayat polls. Political parties will be ...",
-    "date": "2026-10-28T04:01:00+00:00",
-    "publisher": "News18",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://in.eventfaqs.com/2026/10/28/the-art-of-celebrating-well-monil-shah-on-the-kkings-events-approach-to-luxury-weddings/",
-    "title": "The Art of Celebrating Well: Monil Shah on the KKings Events Approach to Luxury Weddings",
-    "summary": "A spectacular setting can make a wedding impressive. Making it feel unmistakably personal requires a different kind of judgement. For Monil Shah, that distinction sits at the heart of luxury wedding ...",
-    "date": "2026-10-28T04:00:00+00:00",
-    "publisher": "in.eventfaqs",
-    "kind": "news",
-    "query": "luxury wedding venue"
-   },
-   {
-    "url": "https://www.republicworld.com/lifestyle/fashion/how-ethnix-by-raymond-is-redefining-menswear-for-the-modern-groom-this-wedding-season-exclusive-2026-10-28-139833",
-    "title": "How Ethnix By Raymond Is Redefining Menswear For The Modern Groom This Wedding Season",
-    "summary": "In a segment historically dominated by legacy regional players and unorganised markets, Ethnix by Raymond relies on its core heritage to differentiate itself.",
-    "date": "2026-10-28T00:03:00+00:00",
-    "publisher": "Republic World",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.firstpost.com/lifestyle/how-do-celebrity-weddings-stay-private-heres-what-happens-behind-the-scenes-14055654.html",
-    "title": "How do celebrity weddings stay private? Here's what happens behind the scenes",
-    "summary": "Ever wondered how do celebrity weddings stay private? Expert explains the planning, confidentiality measures and logistics behind discreet luxury weddings ...",
-    "date": "2026-10-27T20:33:00+00:00",
-    "publisher": "Firstpost",
-    "kind": "news",
-    "query": "luxury wedding venue"
    }
   ],
   "headlines": [
@@ -2657,12 +2654,6 @@
     "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
     "publisher": "Seen in The City",
     "date": "2026-10-05T21:07:54+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
-    "publisher": "ELLE",
-    "date": "2026-10-26T20:17:21+00:00"
    },
    {
     "query": "wedding trends",
@@ -2681,6 +2672,12 @@
     "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
     "publisher": "Who What Wear",
     "date": "2026-10-29T11:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
+    "publisher": "ELLE",
+    "date": "2026-10-29T10:49:25+00:00"
    },
    {
     "query": "wedding trends",
@@ -2720,9 +2717,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
-    "publisher": "The Irish News",
-    "date": "2026-10-22T07:00:00+00:00"
+    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
+    "publisher": "Country and Town House",
+    "date": "2026-10-28T17:03:17+00:00"
    },
    {
     "query": "wedding industry",
@@ -2756,12 +2753,6 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Wedding content creator from Dorset says new industry is booming",
-    "publisher": "BBC",
-    "date": "2026-10-18T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Wirral civil celebrant named regional finalist in prestigious wedding industry awards",
     "publisher": "Wirral Globe",
     "date": "2026-10-20T07:00:00+00:00"
@@ -2780,15 +2771,21 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
-    "publisher": "Stroud News and Journal",
-    "date": "2026-10-22T04:02:00+00:00"
+    "headline": "How 15,000 free T-shirts helped build a £15m bridal fashion brand",
+    "publisher": "BusinessCloud",
+    "date": "2026-10-27T06:21:48+00:00"
    },
    {
     "query": "wedding industry",
-    "headline": "Wedding photographer supporting Lake District romance nominated for award",
-    "publisher": "NW Mail",
-    "date": "2026-10-19T07:00:00+00:00"
+    "headline": "Wedding content creator from Dorset says new industry is booming",
+    "publisher": "BBC",
+    "date": "2026-10-18T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
+    "publisher": "Stroud News and Journal",
+    "date": "2026-10-22T04:02:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2870,9 +2867,27 @@
    },
    {
     "query": "wedding Instagram trend",
+    "headline": "Five 2027 wedding trend predictions",
+    "publisher": "www.stylenest.co.uk",
+    "date": "2026-10-17T15:40:02+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
     "headline": "6 bridal trends for 2027 brides, from bows to basque waists",
     "publisher": "RTE.ie",
     "date": "2026-10-15T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
+    "publisher": "ELLE",
+    "date": "2026-10-29T10:49:25+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
+    "publisher": "AOL.co.uk",
+    "date": "2026-10-25T14:12:21+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2882,33 +2897,21 @@
    },
    {
     "query": "wedding Instagram trend",
+    "headline": "+++VIDEO EXCLUSIVE~ Acquired Style Wedding Dress Trending Viral Video – Popular Searches",
+    "publisher": "Port of Rotterdam",
+    "date": "2026-10-29T21:08:46+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Mindy Weiss On Current Wedding Trends and Her Fun New Project",
+    "publisher": "Daily Front Row",
+    "date": "2026-10-08T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
     "headline": "Your guide through October social media trends",
     "publisher": "Vogue Adria",
     "date": "2026-11-02T18:00:12+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Gogglebox's Baasit Siddiqui celebrates 14th wedding anniversary with rarely-seen wife",
-    "publisher": "Female First",
-    "date": "2026-10-07T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Short Nails Are Trending For Autumn 2026: 13 Designs To Bookmark, From ‘Merlot Noir’ To Glossy Silk",
-    "publisher": "ELLE",
-    "date": "2026-10-16T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "I Asked Fashion Brides-to-Be What They're Putting on Their Wedding Registries—Here’s What They Said",
-    "publisher": "Who What Wear",
-    "date": "2026-10-24T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Forget Tradition — This Unexpected Bridal Trend Is Changing The Game",
-    "publisher": "The Zoe Report",
-    "date": "2026-10-19T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2918,32 +2921,20 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "New York Bridal Fashion Week showcased Fall 2027 collections blending timeless femininity with modern design. From hand embroidery to sculptural silhouettes, designers embraced more personalized bridal wear, reinterpreting traditional wedding fashion.",
-    "publisher": "Facebook",
-    "date": "2026-10-16T07:00:00+00:00"
+    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
+    "publisher": "L'OFFICIEL USA",
+    "date": "2026-10-19T05:42:22+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
+    "publisher": "WWD",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
     "headline": "Meet Emily Markus, who just married Rob Lowe’s son Matthew",
     "publisher": "South China Morning Post",
-    "date": "2026-10-12T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "13 of the Most Secretive Celebrity Weddings",
-    "publisher": "People.com",
-    "date": "2026-10-28T11:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Savannah Chrisley reveals details of her secret wedding to Jason Galanis",
-    "publisher": "The News International",
-    "date": "2026-11-02T04:29:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
-    "publisher": "ELLE Australia",
     "date": "2026-10-12T07:00:00+00:00"
    },
    {
@@ -2954,9 +2945,9 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "Pinterest Beauty Trends 2026: Hair, Nails & Makeup | style",
-    "publisher": "stylemagazines.com.au",
-    "date": "2026-10-09T07:00:00+00:00"
+    "headline": "Inside a Bridal Designer’s Dream Wedding: Andrea Tetangco Takes Us Through Its Creative Process",
+    "publisher": "Metro.Style",
+    "date": "2026-10-28T19:55:44+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -3011,6 +3002,12 @@
     "headline": "York venue opened by King Charles could host more events amid 'significant pressure'",
     "publisher": "The York Press",
     "date": "2026-10-06T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "27 best weekend wedding venues in the UK for a multi-day celebration",
+    "publisher": "SquareMeal",
+    "date": "2026-10-08T07:00:00+00:00"
    }
   ],
   "pages": {
