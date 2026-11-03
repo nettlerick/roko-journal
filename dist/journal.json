@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T01:46:52+00:00",
+ "generated": "2026-11-03T07:02:28+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2117,7 +2117,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-03T01:46+00:00",
+  "generated": "2026-11-03T07:02+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2269,6 +2269,15 @@
     "publisher": "Times Now on MSN",
     "kind": "news",
     "query": "Dubai wedding"
+   },
+   {
+    "url": "https://navhindtimes.in/goanews/registration-for-destination-weddings-to-be-simplified-cm/",
+    "title": "Registration for destination weddings to be simplified: CM",
+    "summary": "The state government will simplify the process of obtaining marriage registration certificates and make registration services more ...",
+    "date": "2026-11-01T17:58:00+00:00",
+    "publisher": "The Navhind Times",
+    "kind": "news",
+    "query": "destination wedding"
    },
    {
     "url": "https://travelbizmonitor.com/top-stories/iitm-mumbai-puts-the-spolight-on-tourism-weddings/",
@@ -2641,15 +2650,6 @@
     "publisher": "bollywoodkibaten",
     "kind": "news",
     "query": "wedding season India"
-   },
-   {
-    "url": "https://www.cinebuster.in/wedding-season-arrives-7-artists-and-music-bands-elevating-big-fat-indian-weddings/",
-    "title": "Wedding Season Arrives: 7 Artists and Music Bands Elevating Big Fat Indian Weddings!",
-    "summary": "From high-octane Punjabi tracks and chart-topping Bollywood hits to dynamic live bands and soulful romantic numbers, these performers bring their distinct energy to grand Indian wedding festivities.",
-    "date": "2026-10-27T00:19:00+00:00",
-    "publisher": "CineBuster",
-    "kind": "news",
-    "query": "wedding season India"
    }
   ],
   "headlines": [
@@ -2658,6 +2658,12 @@
     "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
     "publisher": "Seen in The City",
     "date": "2026-10-05T21:07:54+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
+    "publisher": "ELLE",
+    "date": "2026-10-26T20:17:21+00:00"
    },
    {
     "query": "wedding trends",
@@ -2676,12 +2682,6 @@
     "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
     "publisher": "Who What Wear",
     "date": "2026-10-29T11:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "publisher": "ELLE",
-    "date": "2026-10-29T10:49:25+00:00"
    },
    {
     "query": "wedding trends",
@@ -2721,9 +2721,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
-    "publisher": "Country and Town House",
-    "date": "2026-10-28T17:03:17+00:00"
+    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
+    "publisher": "The Irish News",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2751,15 +2751,15 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Milton Keynes celebrant shortlisted at The Wedding Industry Awards",
-    "publisher": "MKFM",
-    "date": "2026-10-27T08:22:20+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Ciliau Aeron venue nominated for wedding industry award",
     "publisher": "Cambrian News",
     "date": "2026-10-12T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Wedding content creator from Dorset says new industry is booming",
+    "publisher": "BBC",
+    "date": "2026-10-18T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2781,39 +2781,33 @@
    },
    {
     "query": "wedding industry",
-    "headline": "How 15,000 free T-shirts helped build a £15m bridal fashion brand",
-    "publisher": "BusinessCloud",
-    "date": "2026-10-27T06:21:48+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Wedding content creator from Dorset says new industry is booming",
-    "publisher": "BBC",
-    "date": "2026-10-18T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
     "publisher": "Stroud News and Journal",
     "date": "2026-10-22T04:02:00+00:00"
    },
    {
+    "query": "wedding industry",
+    "headline": "Wedding photographer supporting Lake District romance nominated for award",
+    "publisher": "NW Mail",
+    "date": "2026-10-19T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Country pub named one of the region's best wedding venues",
+    "publisher": "Gazetteherald.co.uk",
+    "date": "2026-10-19T07:00:00+00:00"
+   },
+   {
     "query": "viral wedding TikTok",
     "headline": "How Ashe's real life inspired her TikTok hit Stop The Wedding",
     "publisher": "BBC",
-    "date": "2026-10-09T07:00:00+00:00"
+    "date": "2026-10-10T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
     "headline": "Groom Makes an Unthinkable Mistake While Repeating His Wedding Vows & the Backstory Is Even Worse",
     "publisher": "CafeMom.com",
     "date": "2026-10-05T07:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "“I Hope He Divorced Her”: Bride Sparks Outrage Over Wedding Vows",
-    "publisher": "AOL.com",
-    "date": "2026-10-11T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2829,27 +2823,21 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "‘How selfish can you be?’: Bride’s aunt causes outrage by digging into the wedding cake before the married couple in bizarre power play",
-    "publisher": "Yahoo",
-    "date": "2026-10-20T07:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "Did the groom really call someone else in the viral WedTok?",
     "publisher": "The Mary Sue",
     "date": "2026-10-08T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "《Official Website |watchflick.net》Divorced at the Wedding Day: Full Video, Story, and What Really Happened",
+    "headline": "《Official Website |watchflick.net》The Groom Ran: I Choose His Dad – Watch the Viral Wedding Video for Free",
     "publisher": "白鲸出海",
-    "date": "2026-10-30T18:08:37+00:00"
+    "date": "2026-10-30T16:26:25+00:00"
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Love, backed by RTX 5090: Groom burst into tears right at the wedding",
-    "publisher": "iXBT.games",
-    "date": "2026-10-21T04:18:22+00:00"
+    "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
+    "publisher": "People.com",
+    "date": "2026-10-14T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2859,15 +2847,27 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Ashe Strips Back Viral Hit \"Stop The Wedding!\" With Intimate Piano Demo as 'The Girl Of Your Dreams' Climbs the Charts",
-    "publisher": "That Eric Alper",
-    "date": "2026-11-02T23:06:19+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "Couple’s wedding vows interrupted by marching band blasting ‘Ghostbusters’ theme",
     "publisher": "New York Post",
     "date": "2026-11-02T00:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Marching Band Blasting ‘Ghostbusters’ Interupts a Couple's Wedding",
+    "publisher": "Wide Open Country",
+    "date": "2026-11-02T16:44:09+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
+    "publisher": "VnExpress International",
+    "date": "2026-11-02T08:52:19+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Bride Threatens To Sue Her Wedding Videographer After Months of Excuses & What She Finally Gets Is Ridiculous",
+    "publisher": "CafeMom.com",
+    "date": "2026-10-09T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2949,9 +2949,15 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "Inside a Bridal Designer’s Dream Wedding: Andrea Tetangco Takes Us Through Its Creative Process",
-    "publisher": "Metro.Style",
-    "date": "2026-10-28T19:55:44+00:00"
+    "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
+    "publisher": "ELLE Australia",
+    "date": "2026-10-12T07:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "Pinterest Beauty Trends 2026: Hair, Nails & Makeup | style",
+    "publisher": "stylemagazines.com.au",
+    "date": "2026-10-09T07:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -2979,6 +2985,12 @@
    },
    {
     "query": "luxury wedding venue opening",
+    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
+    "publisher": "pan african visions",
+    "date": "2026-10-19T01:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
     "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
     "publisher": "The Isle of Thanet News",
     "date": "2026-10-06T07:00:00+00:00"
@@ -3000,18 +3012,6 @@
     "headline": "York venue opened by King Charles could host more events amid 'significant pressure'",
     "publisher": "The York Press",
     "date": "2026-10-06T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "27 best weekend wedding venues in the UK for a multi-day celebration",
-    "publisher": "SquareMeal",
-    "date": "2026-10-08T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
-    "publisher": "巴士的報",
-    "date": "2026-10-19T07:00:00+00:00"
    }
   ],
   "pages": {
