@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T15:22:54+00:00",
+ "generated": "2026-11-03T15:28:35+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2117,7 +2117,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-03T15:22+00:00",
+  "generated": "2026-11-03T15:28+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2657,6 +2657,12 @@
    },
    {
     "query": "wedding trends",
+    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
+    "publisher": "ELLE",
+    "date": "2026-10-26T20:17:21+00:00"
+   },
+   {
+    "query": "wedding trends",
     "headline": "Five 2027 wedding trend predictions",
     "publisher": "www.stylenest.co.uk",
     "date": "2026-10-17T15:40:02+00:00"
@@ -2672,12 +2678,6 @@
     "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
     "publisher": "Who What Wear",
     "date": "2026-10-29T11:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "publisher": "ELLE",
-    "date": "2026-10-29T10:49:25+00:00"
    },
    {
     "query": "wedding trends",
@@ -2717,9 +2717,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
-    "publisher": "Country and Town House",
-    "date": "2026-10-28T17:03:17+00:00"
+    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
+    "publisher": "The Irish News",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2753,6 +2753,12 @@
    },
    {
     "query": "wedding industry",
+    "headline": "Wedding content creator from Dorset says new industry is booming",
+    "publisher": "BBC",
+    "date": "2026-10-18T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
     "headline": "Wirral civil celebrant named regional finalist in prestigious wedding industry awards",
     "publisher": "Wirral Globe",
     "date": "2026-10-20T07:00:00+00:00"
@@ -2771,18 +2777,6 @@
    },
    {
     "query": "wedding industry",
-    "headline": "How 15,000 free T-shirts helped build a £15m bridal fashion brand",
-    "publisher": "BusinessCloud",
-    "date": "2026-10-27T06:21:48+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Wedding content creator from Dorset says new industry is booming",
-    "publisher": "BBC",
-    "date": "2026-10-18T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
     "publisher": "Stroud News and Journal",
     "date": "2026-10-22T04:02:00+00:00"
@@ -2792,6 +2786,12 @@
     "headline": "Country pub named one of the region's best wedding venues",
     "publisher": "Gazetteherald.co.uk",
     "date": "2026-10-19T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Singer wins prestigious award just 18 months after launching wedding business",
+    "publisher": "News & Star",
+    "date": "2026-10-17T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2957,6 +2957,12 @@
    },
    {
     "query": "luxury wedding venue opening",
+    "headline": "The best luxury wedding planners",
+    "publisher": "The Times",
+    "date": "2026-10-28T06:05:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
     "headline": "18 of the most beautiful barn wedding venues in the UK",
     "publisher": "SquareMeal",
     "date": "2026-10-06T07:00:00+00:00"
@@ -2969,27 +2975,21 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Ciliau Aeron venue nominated for wedding industry award",
-    "publisher": "Cambrian News",
-    "date": "2026-10-12T07:00:00+00:00"
+    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
+    "publisher": "pan african visions",
+    "date": "2026-10-19T01:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
-    "publisher": "Seen in The City",
-    "date": "2026-10-05T21:07:54+00:00"
+    "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
+    "publisher": "The Isle of Thanet News",
+    "date": "2026-10-06T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
     "headline": "Bath Rugby loses permission to hold weddings at Somerset headquarters",
     "publisher": "Somerset County Gazette",
     "date": "2026-10-07T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "10 stunning North East wedding venue that are leaving brides and grooms in awe",
-    "publisher": "The Northern Echo",
-    "date": "2026-11-02T08:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
