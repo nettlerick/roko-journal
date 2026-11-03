@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T07:02:28+00:00",
+ "generated": "2026-11-03T11:12:56+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2117,7 +2117,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-03T07:02+00:00",
+  "generated": "2026-11-03T11:12+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2127,6 +2127,14 @@
   "trending": [],
   "page_changes": [],
   "feed_items": [
+   {
+    "url": "https://www.hospitalitynet.org/opinion/4135232/have-hospitality-trade-shows-gone-the-way-of-the-dodo",
+    "title": "Have Hospitality Trade Shows Gone the Way of the Dodo?",
+    "summary": "A hospitality technology veteran argues that large exhibit-hall trade shows are declining as AI-driven vendor research changes buyer behavior, and that customer events and focused conferences offer better ROI.",
+    "date": "2026-11-03T08:49:41+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
    {
     "url": "https://skift.com/2026/11/02/choice-hotels-narrows-its-revenue-gap-but-its-upscale-brands-still-trail/",
     "title": "Choice Hotels Narrows Its Revenue Gap, but Its Upscale Brands Still Trail",
@@ -2150,6 +2158,15 @@
     "date": "2026-11-02T18:30:00+00:00",
     "publisher": "Harper's Bazaar",
     "kind": "luxury"
+   },
+   {
+    "url": "https://timesofindia.indiatimes.com/city/raipur/from-selling-juice-in-bhilai-to-a-rs-200cr-dubai-wedding-the-rise-fall-of-mahadev-app-kingpin-sourabh-chandrakar/articleshow/135472327.cms",
+    "title": "From selling juice in Bhilai to a Rs 200cr Dubai wedding: The rise & fall of Mahadev app kingpin Sourabh Chandrakar",
+    "summary": "Not long ago, Sourabh Chandrakar was an ordinary young man from Bhilai, working at a juice shop and earning around Rs 15,000 a month.",
+    "date": "2026-11-02T18:07:00+00:00",
+    "publisher": "The Times of India",
+    "kind": "news",
+    "query": "Dubai wedding"
    },
    {
     "url": "https://www.townandcountrymag.com/the-scene/weddings/a74312664/andrew-shue-marilee-fiebig-new-jersey-wedding/",
@@ -2384,6 +2401,15 @@
     "publisher": "Voyagers World",
     "kind": "news",
     "query": "hospitality weddings"
+   },
+   {
+    "url": "https://businessnewsweek.in/news/iitm-mumbai-2026-opens-spotlighting-tourism-and-destination-weddings/",
+    "title": "IITM Mumbai 2026 Opens, Spotlighting Tourism and Destination Weddings",
+    "summary": "The India International Travel Mart, India's premier travel and tourism exhibition, was inaugurated today at the Bombay Exhibition Centre, Mumbai, bringing together over 150 exhibitors from across ...",
+    "date": "2026-10-30T01:48:00+00:00",
+    "publisher": "Business News Week",
+    "kind": "news",
+    "query": "destination wedding"
    },
    {
     "url": "https://www.socialmediatoday.com/news/pinterest-reports-solid-user-growth-in-q3/873274/",
@@ -2623,33 +2649,6 @@
     "publisher": "Firstpost",
     "kind": "news",
     "query": "luxury wedding venue"
-   },
-   {
-    "url": "https://www.otsnews.co.uk/the-rising-cost-of-getting-married-where-couples-are-choosing-to-spend-and-save/",
-    "title": "The rising cost of getting married: Where couples are choosing to spend and save",
-    "summary": "Weddings have always been a significant financial commitment, both for the couple and the guests, but rising living costs have encouraged many couples to rethink how they plan their ...",
-    "date": "2026-10-27T14:23:00+00:00",
-    "publisher": "OTS News",
-    "kind": "news",
-    "query": "wedding costs UK"
-   },
-   {
-    "url": "https://www.impartialreporter.com/news/26675086.killyhevlin-announces-1-5m-loughview-wedding-venue/",
-    "title": "Killyhevlin announces £1.5m Loughview wedding venue",
-    "summary": "The Killyhevlin Lakeside Hotel & Lodges has announced a new wedding venue in its offerings after a £1.5million investment.",
-    "date": "2026-10-27T09:06:00+00:00",
-    "publisher": "The Impartial Reporter",
-    "kind": "news",
-    "query": "wedding venue opening hotel"
-   },
-   {
-    "url": "https://www.bollywoodkibaten.in/celebrity-life/wedding-season-is-here-7-artists-and-bands-bringing-the-big-fat-indian-wedding-to-life/63414",
-    "title": "Wedding Season Is Here: 7 Artists and Bands Bringing the Big Fat Indian Wedding to Life",
-    "summary": "Mumbai: From Punjabi party anthems and Bollywood favourites to live bands and romantic melodies, these artists bring their own flavour to India’s grand ...",
-    "date": "2026-10-27T04:17:00+00:00",
-    "publisher": "bollywoodkibaten",
-    "kind": "news",
-    "query": "wedding season India"
    }
   ],
   "headlines": [
@@ -2943,15 +2942,15 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "Weddings Shed Perfection for Personal Meaning",
-    "publisher": "Deccan Chronicle",
-    "date": "2026-10-31T16:56:57+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
     "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
     "publisher": "ELLE Australia",
     "date": "2026-10-12T07:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "Weddings Shed Perfection for Personal Meaning",
+    "publisher": "Deccan Chronicle",
+    "date": "2026-10-31T16:56:57+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -2967,12 +2966,6 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "The best luxury wedding planners",
-    "publisher": "The Times",
-    "date": "2026-10-28T06:05:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
     "headline": "18 of the most beautiful barn wedding venues in the UK",
     "publisher": "SquareMeal",
     "date": "2026-10-06T07:00:00+00:00"
@@ -2985,21 +2978,27 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
-    "publisher": "pan african visions",
-    "date": "2026-10-19T01:00:00+00:00"
+    "headline": "Ciliau Aeron venue nominated for wedding industry award",
+    "publisher": "Cambrian News",
+    "date": "2026-10-12T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
-    "publisher": "The Isle of Thanet News",
-    "date": "2026-10-06T07:00:00+00:00"
+    "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
+    "publisher": "Seen in The City",
+    "date": "2026-10-05T21:07:54+00:00"
    },
    {
     "query": "luxury wedding venue opening",
     "headline": "Bath Rugby loses permission to hold weddings at Somerset headquarters",
     "publisher": "Somerset County Gazette",
     "date": "2026-10-07T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "10 stunning North East wedding venue that are leaving brides and grooms in awe",
+    "publisher": "The Northern Echo",
+    "date": "2026-11-02T08:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
