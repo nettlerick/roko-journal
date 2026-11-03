@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T15:28:35+00:00",
+ "generated": "2026-11-03T19:34:21+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2117,16 +2117,31 @@
   }
  },
  "research": {
-  "generated": "2026-11-03T15:28+00:00",
+  "generated": "2026-11-03T19:34+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
    "gb": [],
    "us": []
   },
-  "trending": [],
+  "trending": [
+   {
+    "geo": "AE",
+    "search": "republican party",
+    "date": "2026-11-03T11:00:00-08:00",
+    "context": ""
+   }
+  ],
   "page_changes": [],
   "feed_items": [
+   {
+    "url": "https://www.hospitalitynet.org/news/4135249/roompricegenie-launches-portfolio-calendar-to-give-hotel-groups-clearer-control-of-revenue-performance",
+    "title": "RoomPriceGenie launches Portfolio Calendar to give hotel groups clearer control of revenue performance",
+    "summary": "RoomPriceGenie's Portfolio Calendar gives multi-property hotel groups a single dashboard view of occupancy, ADR, RevPAR, and pricing across all properties to streamline revenue oversight.",
+    "date": "2026-11-03T16:11:25+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
    {
     "url": "https://www.hospitalitynet.org/news/4135245/avalora-introduces-cross-platform-guest-intelligence",
     "title": "Avalora Introduces Cross-Platform Guest Intelligence™",
@@ -2292,6 +2307,15 @@
     "publisher": "The Indian Express",
     "kind": "news",
     "query": "Dubai wedding"
+   },
+   {
+    "url": "https://www.msn.com/en-in/news/other/wedding-season-pressure-drives-rise-in-off-label-weight-loss-drug-use/ar-AA2gz4N9",
+    "title": "Wedding season pressure drives rise in off-label weight-loss drug use",
+    "summary": "Prospective brides and grooms are increasingly seeking prescription weight-loss injections like Mounjaro to shed kilos before their weddings, prompting medical experts to warn against using these ...",
+    "date": "2026-11-01T22:41:34+00:00",
+    "publisher": "Mirror Now on MSN",
+    "kind": "news",
+    "query": "wedding season India"
    },
    {
     "url": "https://www.cnbctv18.com/india/mahadev-betting-case-from-a-juice-shop-to-rs-200-crore-dubai-wedding-ed-probe-traces-alleged-betting-empire-20024649.htm",
@@ -2628,24 +2652,6 @@
     "publisher": "travelindustrytoday.com",
     "kind": "news",
     "query": "destination wedding"
-   },
-   {
-    "url": "https://www.impactonnet.com/more-from-impact/etude-launches-first-ever-wedding-campaign-introduces-two-new-foundations-17328.html",
-    "title": "ETUDE Launches First-Ever Wedding Campaign, Introduces Two New Foundations",
-    "summary": "ETUDE India, the South Korean skincare & beauty brand, has launched its first-ever wedding campaign, featuring actor and brand ambassador Palak Tiwari. The campaign also introduces two new foundation ...",
-    "date": "2026-10-28T11:06:00+00:00",
-    "publisher": "IMPACT Magazine",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/lifestyle/other/the-chicest-wedding-dress-trends-for-2027-as-told-by-designers/ar-AA2ggy0E",
-    "title": "The chicest wedding dress trends for 2027, as told by designers",
-    "summary": "When it comes to wedding planning, no singular decision is quite as day-defining as choosing the dress. Many brides dream of their perfect dress long before the wedding, while others might need a ...",
-    "date": "2026-10-28T09:59:18+00:00",
-    "publisher": "Country and Town House on MSN",
-    "kind": "news",
-    "query": "wedding trends"
    }
   ],
   "headlines": [
@@ -2654,12 +2660,6 @@
     "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
     "publisher": "Seen in The City",
     "date": "2026-10-05T21:07:54+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
-    "publisher": "ELLE",
-    "date": "2026-10-26T20:17:21+00:00"
    },
    {
     "query": "wedding trends",
@@ -2678,6 +2678,12 @@
     "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
     "publisher": "Who What Wear",
     "date": "2026-10-29T11:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
+    "publisher": "ELLE",
+    "date": "2026-10-29T10:49:25+00:00"
    },
    {
     "query": "wedding trends",
@@ -2717,9 +2723,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
-    "publisher": "The Irish News",
-    "date": "2026-10-22T07:00:00+00:00"
+    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
+    "publisher": "Country and Town House",
+    "date": "2026-10-28T17:03:17+00:00"
    },
    {
     "query": "wedding industry",
@@ -2783,15 +2789,15 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Country pub named one of the region's best wedding venues",
-    "publisher": "Gazetteherald.co.uk",
+    "headline": "Wedding photographer supporting Lake District romance nominated for award",
+    "publisher": "NW Mail",
     "date": "2026-10-19T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
-    "headline": "Singer wins prestigious award just 18 months after launching wedding business",
-    "publisher": "News & Star",
-    "date": "2026-10-17T07:00:00+00:00"
+    "headline": "Country pub named one of the region's best wedding venues",
+    "publisher": "Gazetteherald.co.uk",
+    "date": "2026-10-19T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2933,8 +2939,14 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Meet Emily Markus, who just married Rob Lowe’s son Matthew",
-    "publisher": "South China Morning Post",
+    "headline": "Wedding crashers wanted! Couples are charging strangers to attend their big day",
+    "publisher": "KLAS 8 News Now",
+    "date": "2026-10-09T07:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
+    "publisher": "ELLE Australia",
     "date": "2026-10-12T07:00:00+00:00"
    },
    {
@@ -2945,9 +2957,9 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "Inside a Bridal Designer’s Dream Wedding: Andrea Tetangco Takes Us Through Its Creative Process",
-    "publisher": "Metro.Style",
-    "date": "2026-10-28T19:55:44+00:00"
+    "headline": "Pinterest Beauty Trends 2026: Hair, Nails & Makeup | style",
+    "publisher": "stylemagazines.com.au",
+    "date": "2026-10-09T07:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -2963,7 +2975,7 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "18 of the most beautiful barn wedding venues in the UK",
+    "headline": "17 of the most beautiful barn wedding venues in the UK",
     "publisher": "SquareMeal",
     "date": "2026-10-06T07:00:00+00:00"
    },
@@ -3002,12 +3014,6 @@
     "headline": "York venue opened by King Charles could host more events amid 'significant pressure'",
     "publisher": "The York Press",
     "date": "2026-10-06T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "27 best weekend wedding venues in the UK for a multi-day celebration",
-    "publisher": "SquareMeal",
-    "date": "2026-10-08T07:00:00+00:00"
    }
   ],
   "pages": {
