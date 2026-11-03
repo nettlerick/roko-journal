@@ -7,12 +7,6 @@
  },
  {
   "query": "wedding trends",
-  "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
-  "publisher": "ELLE",
-  "date": "2026-10-26T20:17:21+00:00"
- },
- {
-  "query": "wedding trends",
   "headline": "Five 2027 wedding trend predictions",
   "publisher": "www.stylenest.co.uk",
   "date": "2026-10-17T15:40:02+00:00"
@@ -28,6 +22,12 @@
   "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
   "publisher": "Who What Wear",
   "date": "2026-10-29T11:00:00+00:00"
+ },
+ {
+  "query": "wedding trends",
+  "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
+  "publisher": "ELLE",
+  "date": "2026-10-29T10:49:25+00:00"
  },
  {
   "query": "wedding trends",
@@ -67,9 +67,9 @@
  },
  {
   "query": "wedding trends",
-  "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
-  "publisher": "The Irish News",
-  "date": "2026-10-22T07:00:00+00:00"
+  "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
+  "publisher": "Country and Town House",
+  "date": "2026-10-28T17:03:17+00:00"
  },
  {
   "query": "wedding industry",
@@ -103,12 +103,6 @@
  },
  {
   "query": "wedding industry",
-  "headline": "Wedding content creator from Dorset says new industry is booming",
-  "publisher": "BBC",
-  "date": "2026-10-18T07:00:00+00:00"
- },
- {
-  "query": "wedding industry",
   "headline": "Wirral civil celebrant named regional finalist in prestigious wedding industry awards",
   "publisher": "Wirral Globe",
   "date": "2026-10-20T07:00:00+00:00"
@@ -127,15 +121,21 @@
  },
  {
   "query": "wedding industry",
-  "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
-  "publisher": "Stroud News and Journal",
-  "date": "2026-10-22T04:02:00+00:00"
+  "headline": "How 15,000 free T-shirts helped build a £15m bridal fashion brand",
+  "publisher": "BusinessCloud",
+  "date": "2026-10-27T06:21:48+00:00"
  },
  {
   "query": "wedding industry",
-  "headline": "Wedding photographer supporting Lake District romance nominated for award",
-  "publisher": "NW Mail",
-  "date": "2026-10-19T07:00:00+00:00"
+  "headline": "Wedding content creator from Dorset says new industry is booming",
+  "publisher": "BBC",
+  "date": "2026-10-18T07:00:00+00:00"
+ },
+ {
+  "query": "wedding industry",
+  "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
+  "publisher": "Stroud News and Journal",
+  "date": "2026-10-22T04:02:00+00:00"
  },
  {
   "query": "wedding industry",
@@ -217,9 +217,27 @@
  },
  {
   "query": "wedding Instagram trend",
+  "headline": "Five 2027 wedding trend predictions",
+  "publisher": "www.stylenest.co.uk",
+  "date": "2026-10-17T15:40:02+00:00"
+ },
+ {
+  "query": "wedding Instagram trend",
   "headline": "6 bridal trends for 2027 brides, from bows to basque waists",
   "publisher": "RTE.ie",
   "date": "2026-10-15T07:00:00+00:00"
+ },
+ {
+  "query": "wedding Instagram trend",
+  "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
+  "publisher": "ELLE",
+  "date": "2026-10-29T10:49:25+00:00"
+ },
+ {
+  "query": "wedding Instagram trend",
+  "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
+  "publisher": "AOL.co.uk",
+  "date": "2026-10-25T14:12:21+00:00"
  },
  {
   "query": "wedding Instagram trend",
@@ -229,33 +247,21 @@
  },
  {
   "query": "wedding Instagram trend",
+  "headline": "+++VIDEO EXCLUSIVE~ Acquired Style Wedding Dress Trending Viral Video – Popular Searches",
+  "publisher": "Port of Rotterdam",
+  "date": "2026-10-29T21:08:46+00:00"
+ },
+ {
+  "query": "wedding Instagram trend",
+  "headline": "Mindy Weiss On Current Wedding Trends and Her Fun New Project",
+  "publisher": "Daily Front Row",
+  "date": "2026-10-08T07:00:00+00:00"
+ },
+ {
+  "query": "wedding Instagram trend",
   "headline": "Your guide through October social media trends",
   "publisher": "Vogue Adria",
   "date": "2026-11-02T18:00:12+00:00"
- },
- {
-  "query": "wedding Instagram trend",
-  "headline": "Gogglebox's Baasit Siddiqui celebrates 14th wedding anniversary with rarely-seen wife",
-  "publisher": "Female First",
-  "date": "2026-10-07T07:00:00+00:00"
- },
- {
-  "query": "wedding Instagram trend",
-  "headline": "Short Nails Are Trending For Autumn 2026: 13 Designs To Bookmark, From ‘Merlot Noir’ To Glossy Silk",
-  "publisher": "ELLE",
-  "date": "2026-10-16T07:00:00+00:00"
- },
- {
-  "query": "wedding Instagram trend",
-  "headline": "I Asked Fashion Brides-to-Be What They're Putting on Their Wedding Registries—Here’s What They Said",
-  "publisher": "Who What Wear",
-  "date": "2026-10-24T07:00:00+00:00"
- },
- {
-  "query": "wedding Instagram trend",
-  "headline": "Forget Tradition — This Unexpected Bridal Trend Is Changing The Game",
-  "publisher": "The Zoe Report",
-  "date": "2026-10-19T07:00:00+00:00"
  },
  {
   "query": "wedding Instagram trend",
@@ -265,32 +271,20 @@
  },
  {
   "query": "wedding Instagram trend",
-  "headline": "New York Bridal Fashion Week showcased Fall 2027 collections blending timeless femininity with modern design. From hand embroidery to sculptural silhouettes, designers embraced more personalized bridal wear, reinterpreting traditional wedding fashion.",
-  "publisher": "Facebook",
-  "date": "2026-10-16T07:00:00+00:00"
+  "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
+  "publisher": "L'OFFICIEL USA",
+  "date": "2026-10-19T05:42:22+00:00"
+ },
+ {
+  "query": "wedding Instagram trend",
+  "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
+  "publisher": "WWD",
+  "date": "2026-10-22T07:00:00+00:00"
  },
  {
   "query": "wedding Instagram trend",
   "headline": "Meet Emily Markus, who just married Rob Lowe’s son Matthew",
   "publisher": "South China Morning Post",
-  "date": "2026-10-12T07:00:00+00:00"
- },
- {
-  "query": "wedding Instagram trend",
-  "headline": "13 of the Most Secretive Celebrity Weddings",
-  "publisher": "People.com",
-  "date": "2026-10-28T11:00:00+00:00"
- },
- {
-  "query": "wedding Instagram trend",
-  "headline": "Savannah Chrisley reveals details of her secret wedding to Jason Galanis",
-  "publisher": "The News International",
-  "date": "2026-11-02T04:29:00+00:00"
- },
- {
-  "query": "Pinterest wedding trends",
-  "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
-  "publisher": "ELLE Australia",
   "date": "2026-10-12T07:00:00+00:00"
  },
  {
@@ -301,9 +295,9 @@
  },
  {
   "query": "Pinterest wedding trends",
-  "headline": "Pinterest Beauty Trends 2026: Hair, Nails & Makeup | style",
-  "publisher": "stylemagazines.com.au",
-  "date": "2026-10-09T07:00:00+00:00"
+  "headline": "Inside a Bridal Designer’s Dream Wedding: Andrea Tetangco Takes Us Through Its Creative Process",
+  "publisher": "Metro.Style",
+  "date": "2026-10-28T19:55:44+00:00"
  },
  {
   "query": "Pinterest wedding trends",
@@ -511,21 +505,21 @@
  },
  {
   "query": "wedding venue hotel opening",
-  "headline": "The public-private partnerships behind the UK’s regional hotels",
-  "publisher": "Hospitality Investor",
-  "date": "2026-10-12T07:00:00+00:00"
+  "headline": "Former council-owned mansion set to become 'hotel, spa and wedding venue'",
+  "publisher": "Yorkshire Post",
+  "date": "2026-10-13T07:00:00+00:00"
  },
  {
   "query": "wedding venue hotel opening",
-  "headline": "Former council-owned mansion set to become ‘hotel, spa and wedding venue’",
-  "publisher": "Wakefield Express",
-  "date": "2026-10-12T07:00:00+00:00"
+  "headline": "Titanic Hotel Belfast invites couples to discover its iconic wedding venue at autumn showcase",
+  "publisher": "LoveBelfast",
+  "date": "2026-10-22T07:00:00+00:00"
  },
  {
   "query": "wedding venue hotel opening",
-  "headline": "Killyhevlin Lakeside Hotel & Lodges: Co Fermanagh hotel announces £1.5m investment in new wedding facilities",
-  "publisher": "Belfast Telegraph",
-  "date": "2026-10-28T06:45:00+00:00"
+  "headline": "10 stunning North East wedding venue that are leaving brides and grooms in awe",
+  "publisher": "The Northern Echo",
+  "date": "2026-11-02T08:00:00+00:00"
  },
  {
   "query": "events industry UK",
@@ -571,6 +565,18 @@
  },
  {
   "query": "events industry UK",
+  "headline": "Event leaders in the UK, Germany and the US reveal the hidden barrier to proving event ROI",
+  "publisher": "Event Industry News",
+  "date": "2026-11-03T11:56:44+00:00"
+ },
+ {
+  "query": "events industry UK",
+  "headline": "Cardiff and Swansea universities unite behind vision for national compound semiconductor pilot foundry capabilities",
+  "publisher": "Swansea University",
+  "date": "2026-11-02T11:52:00+00:00"
+ },
+ {
+  "query": "events industry UK",
   "headline": "UK Industry Fast Facts",
   "publisher": "IBISWorld",
   "date": "2026-10-28T07:00:00+00:00"
@@ -585,18 +591,6 @@
   "query": "events industry UK",
   "headline": "Venture Builder: Turn your idea into reality | Study at UCL",
   "publisher": "UCL | University College London",
-  "date": "2026-10-12T07:00:00+00:00"
- },
- {
-  "query": "events industry UK",
-  "headline": "Sheffield hosts UK debut of world’s leading structural control and monitoring conference",
-  "publisher": "University of Sheffield",
-  "date": "2026-10-20T07:00:00+00:00"
- },
- {
-  "query": "events industry UK",
-  "headline": "eXp announces major London event as global bosses head to UK",
-  "publisher": "Property Industry Eye",
   "date": "2026-10-12T07:00:00+00:00"
  },
  {
@@ -625,9 +619,9 @@
  },
  {
   "query": "wedding survey UK",
-  "headline": "Forget the seven-year itch: opposite-sex marriages more likely to end after two decades | Divorce",
-  "publisher": "The Guardian",
-  "date": "2026-10-18T07:00:00+00:00"
+  "headline": "Does Marriage Matter More Than We Thought? Challenging the Selection Narrative",
+  "publisher": "Institute for Family Studies",
+  "date": "2026-10-29T10:30:00+00:00"
  },
  {
   "query": "wedding survey UK",
@@ -637,21 +631,9 @@
  },
  {
   "query": "wedding survey UK",
-  "headline": "Catholic Marriage Is Declining, but Devout Couples Are Thriving",
-  "publisher": "EWTN Great Britain",
-  "date": "2026-10-08T07:00:00+00:00"
- },
- {
-  "query": "wedding survey UK",
   "headline": "Best wedding gifts 2026: top present ideas for newlywed couples",
   "publisher": "www.which.co.uk",
   "date": "2026-10-28T07:00:00+00:00"
- },
- {
-  "query": "wedding survey UK",
-  "headline": "What is Britain’s national dish?",
-  "publisher": "YouGov",
-  "date": "2026-10-23T07:00:00+00:00"
  },
  {
   "query": "wedding survey UK",
@@ -661,15 +643,27 @@
  },
  {
   "query": "wedding survey UK",
-  "headline": "How Women Work Now: We’d Like To Hear From You",
-  "publisher": "ELLE",
-  "date": "2026-10-20T07:00:00+00:00"
- },
- {
-  "query": "wedding survey UK",
   "headline": "Unwed couples considering marriage to reduce IHT",
   "publisher": "Financial Planning Today",
   "date": "2026-11-03T08:22:54+00:00"
+ },
+ {
+  "query": "wedding survey UK",
+  "headline": "Most popular British royals, according to polls",
+  "publisher": "qz.com",
+  "date": "2026-10-14T07:00:00+00:00"
+ },
+ {
+  "query": "wedding survey UK",
+  "headline": "POLL: Should Princess Beatrice and Princess Eugenie join the royal family at Sandringham this Christmas?",
+  "publisher": "HELLO!",
+  "date": "2026-10-29T16:05:07+00:00"
+ },
+ {
+  "query": "wedding survey UK",
+  "headline": "Vogue Retail: Bridal. 22 Wedding Must-Haves For All Brides-to-Be",
+  "publisher": "British Vogue",
+  "date": "2026-10-20T07:00:00+00:00"
  },
  {
   "query": "wedding costs",
