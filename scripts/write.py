@@ -303,6 +303,14 @@ def write(kind, brief, mat, links, internal_ok, n_links, typ, extra_rules=""):
                 d["faq"].append({"q": q, "a": a})
     test = dict(d, slug="x", type=typ, cluster="x", date="2000-01-01T00:00", sources=[1])
     errs = check_article(test, material_text=mat_text, journal_links_available=n_links if typ != "feature" else 0)
+    if errs and all(e.startswith("link to at least") for e in errs):
+        # Too few links to other Journal articles: add a short related-reading line from the LINKS list.
+        have = set(re.findall(r"\]\((/journal/[a-z0-9-]+)\)", d["body"]))
+        extra = [(m.group(2), m.group(1)) for m in re.finditer(r"^- (/journal/[a-z0-9-]+) : (.+?)(?: \(CORNERSTONE.*\))?$", links, re.M) if m.group(1) not in have][:max(0, 2 - len(have))]
+        if extra:
+            d["body"] += "\n\nMore from the Roko Journal: " + " and ".join(f"[{t}]({u})" for t, u in extra) + "."
+            test["body"] = d["body"]
+            errs = check_article(test, material_text=mat_text, journal_links_available=n_links)
     if errs:
         log(f"article checks failed: {errs}")
         return None, errs
