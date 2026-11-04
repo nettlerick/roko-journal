@@ -513,6 +513,9 @@ def do_refresh(a):
 def log_failure(key, errs):
     f = CONTENT / "attempts.json"
     data = load_json(f, {})
+    if any(re.search(r"Gemini unavailable|quota|did not return a plan|no usable reply", str(e), re.I) for e in errs):
+        log(f"{key}: Gemini was unavailable; not counted as a failed attempt (it is tried again on the next run)")
+        return
     data[key] = {"date": now().isoformat(timespec="minutes"), "errors": errs[:10], "count": data.get(key, {}).get("count", 0) + 1}
     save_json(f, data)
     log(f"could not write {key}: {errs[:5]}")
