@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T00:12:50+00:00",
+ "generated": "2026-11-04T07:02:08+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2117,7 +2117,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-04T00:12+00:00",
+  "generated": "2026-11-04T07:02+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2125,6 +2125,18 @@
    "us": []
   },
   "trending": [
+   {
+    "geo": "CA",
+    "search": "is james talarico married",
+    "date": "2026-11-03T21:30:00-08:00",
+    "context": ""
+   },
+   {
+    "geo": "ZA",
+    "search": "mk party",
+    "date": "2026-11-03T22:10:00-08:00",
+    "context": ""
+   },
    {
     "geo": "AE",
     "search": "republican party",
@@ -2134,6 +2146,15 @@
   ],
   "page_changes": [],
   "feed_items": [
+   {
+    "url": "https://www.msn.com/en-ae/news/featured/diwali-bridal-2026-collection-festive-affair-with-fine-jewellery/ar-AA2gHYDu",
+    "title": "Diwali Bridal 2026 Collection : Festive affair with fine jewellery",
+    "summary": "This festive season, Meena Jewellers invites customers to celebrate in style with the launch of its Diwali Bridal 2026 Collection — an exquisite showcase that brings together timeless elegance, ...",
+    "date": "2026-11-03T21:30:00+00:00",
+    "publisher": "Khaleej Times on MSN",
+    "kind": "news",
+    "query": "Dubai wedding"
+   },
    {
     "url": "https://www.hospitalitynet.org/news/4135249/roompricegenie-launches-portfolio-calendar-to-give-hotel-groups-clearer-control-of-revenue-performance",
     "title": "RoomPriceGenie launches Portfolio Calendar to give hotel groups clearer control of revenue performance",
@@ -2643,15 +2664,6 @@
     "publisher": "Agency Reporter",
     "kind": "news",
     "query": "wedding season India"
-   },
-   {
-    "url": "https://www.avinteractive.com/news/industry-events-news/",
-    "title": "Industry events",
-    "summary": "Integrated Systems Events, producer of ISE, has provided a first look at the content programme for Spark, the creative technology event hosted alongside the world's biggest AV trade show. Spark will ...",
-    "date": "2026-10-28T17:00:00+00:00",
-    "publisher": "AV Magazine",
-    "kind": "news",
-    "query": "events industry UK"
    }
   ],
   "headlines": [
@@ -2723,9 +2735,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
-    "publisher": "Country and Town House",
-    "date": "2026-10-28T17:03:17+00:00"
+    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
+    "publisher": "The Irish News",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2785,19 +2797,19 @@
     "query": "wedding industry",
     "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
     "publisher": "Stroud News and Journal",
-    "date": "2026-10-22T04:02:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Wedding photographer supporting Lake District romance nominated for award",
-    "publisher": "NW Mail",
-    "date": "2026-10-19T07:00:00+00:00"
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
     "headline": "Country pub named one of the region's best wedding venues",
     "publisher": "Gazetteherald.co.uk",
     "date": "2026-10-19T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Singer wins prestigious award just 18 months after launching wedding business",
+    "publisher": "News & Star",
+    "date": "2026-10-17T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2837,9 +2849,15 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "‘Humans have lost empathy’: Unsympathetic bride complains after her wedding photographer died before sending her the photos",
-    "publisher": "Yahoo",
-    "date": "2026-10-13T07:00:00+00:00"
+    "headline": "A bride's search for her mother's missing wedding dress goes viral",
+    "publisher": "NBC 5 Chicago",
+    "date": "2026-10-28T20:30:14+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "How sponsored wedding events really work",
+    "publisher": "Mashable",
+    "date": "2026-11-01T09:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2857,13 +2875,7 @@
     "query": "viral wedding TikTok",
     "headline": "Love, backed by RTX 5090: Groom burst into tears right at the wedding",
     "publisher": "iXBT.games",
-    "date": "2026-10-21T04:18:22+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "A bride's search for her mother's missing wedding dress goes viral",
-    "publisher": "NBC Chicago",
-    "date": "2026-10-28T20:30:14+00:00"
+    "date": "2026-10-21T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2891,15 +2903,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Short Nails Are Trending For Autumn 2026: 13 Designs To Bookmark, From ‘Merlot Noir’ To Glossy Silk",
-    "publisher": "ELLE",
-    "date": "2026-10-16T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "Gogglebox's Baasit Siddiqui celebrates 14th wedding anniversary with rarely-seen wife",
     "publisher": "Female First",
     "date": "2026-10-07T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Short Nails Are Trending For Autumn 2026: 13 Designs To Bookmark, From ‘Merlot Noir’ To Glossy Silk",
+    "publisher": "ELLE",
+    "date": "2026-10-16T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2933,21 +2945,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "13 of the Most Secretive Celebrity Weddings",
-    "publisher": "People.com",
-    "date": "2026-10-28T11:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "Savannah Chrisley reveals details of her secret wedding to Jason Galanis",
     "publisher": "The News International",
     "date": "2026-11-02T04:29:00+00:00"
    },
    {
-    "query": "Pinterest wedding trends",
-    "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
-    "publisher": "ELLE Australia",
-    "date": "2026-10-12T07:00:00+00:00"
+    "query": "wedding Instagram trend",
+    "headline": "13 of the Most Secretive Celebrity Weddings",
+    "publisher": "People.com",
+    "date": "2026-10-28T11:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -2957,15 +2963,9 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "Pinterest Beauty Trends 2026: Hair, Nails & Makeup | style",
-    "publisher": "stylemagazines.com.au",
-    "date": "2026-10-09T07:00:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "Short Nails Are Trending For Autumn 2026: 13 Designs To Bookmark, From ‘Merlot Noir’ To Glossy Silk",
-    "publisher": "ELLE",
-    "date": "2026-10-16T07:00:00+00:00"
+    "headline": "Inside a Bridal Designer’s Dream Wedding: Andrea Tetangco Takes Us Through Its Creative Process",
+    "publisher": "Metro.Style",
+    "date": "2026-10-28T19:55:44+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -2975,33 +2975,21 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "The best luxury wedding planners",
-    "publisher": "The Times",
-    "date": "2026-10-28T06:05:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
     "headline": "17 of the most beautiful barn wedding venues in the UK",
     "publisher": "SquareMeal",
     "date": "2026-10-06T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
-    "publisher": "Business Eye Magazine",
-    "date": "2026-10-30T09:35:01+00:00"
+    "headline": "Ciliau Aeron venue nominated for wedding industry award",
+    "publisher": "Cambrian News",
+    "date": "2026-10-12T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
-    "publisher": "pan african visions",
-    "date": "2026-10-19T01:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
-    "publisher": "The Isle of Thanet News",
-    "date": "2026-10-06T07:00:00+00:00"
+    "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
+    "publisher": "Seen in The City",
+    "date": "2026-10-05T21:07:54+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -3012,8 +3000,32 @@
    {
     "query": "luxury wedding venue opening",
     "headline": "10 stunning North East wedding venue that are leaving brides and grooms in awe",
-    "publisher": "Yahoo News UK",
+    "publisher": "The Northern Echo",
     "date": "2026-11-02T08:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Destination weddings in 2027: 6 things to consider before booking a venue",
+    "publisher": "Firstpost",
+    "date": "2026-10-31T05:34:23+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "York venue opened by King Charles could host more events amid 'significant pressure'",
+    "publisher": "The York Press",
+    "date": "2026-10-06T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "27 best weekend wedding venues in the UK for a multi-day celebration",
+    "publisher": "SquareMeal",
+    "date": "2026-10-08T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
+    "publisher": "vietnamnews.vn",
+    "date": "2026-10-19T07:00:00+00:00"
    }
   ],
   "pages": {
