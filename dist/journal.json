@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T07:02:08+00:00",
+ "generated": "2026-11-04T11:36:18+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -637,7 +637,7 @@
     "url": "/wedding-planning",
     "label": "Find wedding planners on Roko"
    },
-   "status": "planned"
+   "status": "failed 1x"
   },
   {
    "n": 36,
@@ -2114,10 +2114,18 @@
     "plan had only 0 sections"
    ],
    "count": 1
+  },
+  "the-complete-wedding-planning-checklist": {
+   "date": "2026-11-04T11:36+00:00",
+   "errors": [
+    "body is 1902 words (want 2200 to 4200 for a cornerstone)",
+    "need at least 6 '## ' sections (has 4)"
+   ],
+   "count": 1
   }
  },
  "research": {
-  "generated": "2026-11-04T07:02+00:00",
+  "generated": "2026-11-04T11:22+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2146,6 +2154,22 @@
   ],
   "page_changes": [],
   "feed_items": [
+   {
+    "url": "https://skift.com/2026/11/04/regional-visitors-keep-omans-arrivals-steady-but-cant-fill-its-hotels/",
+    "title": "Regional Visitors Keep Oman’s Arrivals Steady but Can’t Fill Its Hotels",
+    "summary": "Oman’s arrivals have held up this year, but its hotels lost more than a tenth of their guests and revenue as Europeans stayed away. Regional travelers are still arriving but make shorter visits at lower rates.",
+    "date": "2026-11-04T10:52:51+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
+   {
+    "url": "https://skift.com/2026/11/04/thailands-2032-tourism-plan-chases-spending-not-arrivals/",
+    "title": "Thailand’s 2032 Tourism Plan Chases Spending, Not Arrivals",
+    "summary": "Thailand’s $118 billion goal targets spending rather than arrivals, which have stalled at about 33 million. Rising prices will surely lift revenue regardless, but higher rates aren’t the same as higher value, and the plan has no budget yet for the terminals, marinas and guides needed to attract bigger spenders.",
+    "date": "2026-11-04T09:55:42+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
    {
     "url": "https://www.msn.com/en-ae/news/featured/diwali-bridal-2026-collection-festive-affair-with-fine-jewellery/ar-AA2gHYDu",
     "title": "Diwali Bridal 2026 Collection : Festive affair with fine jewellery",
@@ -2402,6 +2426,15 @@
     "query": "Dubai wedding"
    },
    {
+    "url": "https://digitalgoa.com/goa-govt-to-ease-marriage-registration-for-destination-weddings-cm/",
+    "title": "Goa govt to ease marriage registration for destination weddings: CM",
+    "summary": "CM Pramod Sawant announced simplified marriage registration facilities for couples choosing Goa for destination weddings, while addressing the Registration Day celebration in the capital. At the event ...",
+    "date": "2026-11-01T05:04:00+00:00",
+    "publisher": "Digital Goa",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
     "url": "https://www.heraldgoa.in/goa/goa-makes-marriage-registration-easier-to-attract-destination-weddings/494137/",
     "title": "Goa makes marriage registration easier to attract destination weddings",
     "summary": "Goa Chief Minister Pramod Sawant has announced that the state's Registration Department will facilitate easier issuance of marriage registration certificates ...",
@@ -2637,33 +2670,6 @@
     "publisher": "ET Now on MSN",
     "kind": "news",
     "query": "hospitality weddings"
-   },
-   {
-    "url": "https://www.socialsamosa.com/experts-speak/search-social-dominate-wedding-season-travel-budgets-12757349",
-    "title": "Search and social dominate wedding-season travel budgets",
-    "summary": "Travel brands are targeting engaged and newly married Indian couples through early, digital-first marketing campaigns, as honeymoon planning and experience-led destination weddings become increasingly ...",
-    "date": "2026-10-28T20:37:00+00:00",
-    "publisher": "Social Samosa",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.adgully.com/post/23010/etude-taps-wedding-season-with-palak-tiwari-to-unveil-foundation-line",
-    "title": "ETUDE taps wedding season with Palak Tiwari to unveil foundation line",
-    "summary": "ETUDE India has launched its first-ever wedding campaign, featuring actor and brand ambassador Palak Tiwari. Built around the experience of being ...",
-    "date": "2026-10-28T17:00:00+00:00",
-    "publisher": "Adgully",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://agencyreporter.com/wedding-season-marketing-strategy-jewellery-apparel-travel/",
-    "title": "Wedding Season Playbook: How jewellery, apparel and travel brands plan the winter rush",
-    "summary": "Explore how jewellery, apparel and travel brands plan for India's winter wedding season through consumer insights, digital media, creator marketing and targeted campaigns.",
-    "date": "2026-10-28T17:00:00+00:00",
-    "publisher": "Agency Reporter",
-    "kind": "news",
-    "query": "wedding season India"
    }
   ],
   "headlines": [
@@ -2723,21 +2729,21 @@
    },
    {
     "query": "wedding trends",
+    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
+    "publisher": "L'OFFICIEL USA",
+    "date": "2026-10-18T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
     "headline": "Almost two thirds of Brighton would opt for a ‘phone-free’ wedding",
     "publisher": "The Argus",
     "date": "2026-10-09T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
-    "publisher": "L'OFFICIEL USA",
-    "date": "2026-10-19T05:42:22+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
-    "publisher": "The Irish News",
-    "date": "2026-10-22T07:00:00+00:00"
+    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
+    "publisher": "Country and Town House",
+    "date": "2026-10-28T17:03:17+00:00"
    },
    {
     "query": "wedding industry",
@@ -2783,9 +2789,9 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Wedding content creator from Dorset says new industry is booming",
-    "publisher": "BBC",
-    "date": "2026-10-18T07:00:00+00:00"
+    "headline": "How 15,000 free T-shirts helped build a £15m bridal fashion brand",
+    "publisher": "BusinessCloud",
+    "date": "2026-10-27T06:21:48+00:00"
    },
    {
     "query": "wedding industry",
@@ -2801,27 +2807,21 @@
    },
    {
     "query": "wedding industry",
+    "headline": "Wedding content creator from Dorset says new industry is booming",
+    "publisher": "BBC",
+    "date": "2026-10-18T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
     "headline": "Country pub named one of the region's best wedding venues",
     "publisher": "Gazetteherald.co.uk",
     "date": "2026-10-19T07:00:00+00:00"
    },
    {
-    "query": "wedding industry",
-    "headline": "Singer wins prestigious award just 18 months after launching wedding business",
-    "publisher": "News & Star",
-    "date": "2026-10-17T07:00:00+00:00"
-   },
-   {
     "query": "viral wedding TikTok",
     "headline": "How Ashe's real life inspired her TikTok hit Stop The Wedding",
     "publisher": "BBC",
-    "date": "2026-10-09T07:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Groom Makes an Unthinkable Mistake While Repeating His Wedding Vows & the Backstory Is Even Worse",
-    "publisher": "CafeMom.com",
-    "date": "2026-10-05T07:00:00+00:00"
+    "date": "2026-10-10T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2849,39 +2849,45 @@
    },
    {
     "query": "viral wedding TikTok",
+    "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
+    "publisher": "People.com",
+    "date": "2026-10-14T07:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "《Official Website |watchflick.net》The Groom Ran: I Choose His Dad – Watch the Viral Wedding Video for Free",
+    "publisher": "白鲸出海",
+    "date": "2026-10-30T16:26:25+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
     "headline": "A bride's search for her mother's missing wedding dress goes viral",
     "publisher": "NBC 5 Chicago",
     "date": "2026-10-28T20:30:14+00:00"
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "How sponsored wedding events really work",
-    "publisher": "Mashable",
-    "date": "2026-11-01T09:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "《Official Website |watchflick.net》Divorced at the Wedding Day: Full Video, Story, and What Really Happened",
-    "publisher": "白鲸出海",
-    "date": "2026-10-30T18:08:37+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Ashe Strips Back Viral Hit \"Stop The Wedding!\" With Intimate Piano Demo as 'The Girl Of Your Dreams' Climbs the Charts",
-    "publisher": "That Eric Alper",
-    "date": "2026-11-02T23:06:19+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Love, backed by RTX 5090: Groom burst into tears right at the wedding",
-    "publisher": "iXBT.games",
-    "date": "2026-10-21T07:00:00+00:00"
+    "headline": "Bride Threatens To Sue Her Wedding Videographer After Months of Excuses & What She Finally Gets Is Ridiculous",
+    "publisher": "CafeMom.com",
+    "date": "2026-10-09T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
     "headline": "Couple’s wedding vows interrupted by marching band blasting ‘Ghostbusters’ theme",
     "publisher": "New York Post",
     "date": "2026-11-02T00:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Marching Band Blasting ‘Ghostbusters’ Interupts a Couple's Wedding",
+    "publisher": "Wide Open Country",
+    "date": "2026-11-02T16:44:09+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
+    "publisher": "VnExpress International",
+    "date": "2026-11-02T08:52:19+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2927,15 +2933,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "New York Bridal Fashion Week showcased Fall 2027 collections blending timeless femininity with modern design. From hand embroidery to sculptural silhouettes, designers embraced more personalized bridal wear, reinterpreting traditional wedding fashion.",
-    "publisher": "Facebook",
-    "date": "2026-10-16T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "Chinese man invites internet strangers to his wedding. Watch as hundreds show up",
     "publisher": "The Indian Express",
     "date": "2026-10-31T11:58:21+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "New York Bridal Fashion Week showcased Fall 2027 collections blending timeless femininity with modern design. From hand embroidery to sculptural silhouettes, designers embraced more personalized bridal wear, reinterpreting traditional wedding fashion.",
+    "publisher": "Facebook",
+    "date": "2026-10-16T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2957,15 +2963,21 @@
    },
    {
     "query": "Pinterest wedding trends",
+    "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
+    "publisher": "ELLE Australia",
+    "date": "2026-10-12T07:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
     "headline": "Weddings Shed Perfection for Personal Meaning",
     "publisher": "Deccan Chronicle",
     "date": "2026-10-31T16:56:57+00:00"
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "Inside a Bridal Designer’s Dream Wedding: Andrea Tetangco Takes Us Through Its Creative Process",
-    "publisher": "Metro.Style",
-    "date": "2026-10-28T19:55:44+00:00"
+    "headline": "Pinterest Beauty Trends 2026: Hair, Nails & Makeup | style",
+    "publisher": "stylemagazines.com.au",
+    "date": "2026-10-09T07:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -2975,21 +2987,27 @@
    },
    {
     "query": "luxury wedding venue opening",
+    "headline": "The best luxury wedding planners",
+    "publisher": "The Times",
+    "date": "2026-10-28T06:05:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
     "headline": "17 of the most beautiful barn wedding venues in the UK",
     "publisher": "SquareMeal",
     "date": "2026-10-06T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Ciliau Aeron venue nominated for wedding industry award",
-    "publisher": "Cambrian News",
-    "date": "2026-10-12T07:00:00+00:00"
+    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
+    "publisher": "pan african visions",
+    "date": "2026-10-19T01:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
-    "publisher": "Seen in The City",
-    "date": "2026-10-05T21:07:54+00:00"
+    "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
+    "publisher": "The Isle of Thanet News",
+    "date": "2026-10-06T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -3000,7 +3018,7 @@
    {
     "query": "luxury wedding venue opening",
     "headline": "10 stunning North East wedding venue that are leaving brides and grooms in awe",
-    "publisher": "The Northern Echo",
+    "publisher": "Yahoo News UK",
     "date": "2026-11-02T08:00:00+00:00"
    },
    {
@@ -3014,18 +3032,6 @@
     "headline": "York venue opened by King Charles could host more events amid 'significant pressure'",
     "publisher": "The York Press",
     "date": "2026-10-06T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "27 best weekend wedding venues in the UK for a multi-day celebration",
-    "publisher": "SquareMeal",
-    "date": "2026-10-08T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
-    "publisher": "vietnamnews.vn",
-    "date": "2026-10-19T07:00:00+00:00"
    }
   ],
   "pages": {
