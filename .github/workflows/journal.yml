@@ -1,8 +1,8 @@
 name: Journal
 
 # Roko Journal: research, writing (Gemini free tier, no Claude credits), real photos and publishing.
-# Started by the Roko website itself (Admin > Journal, through the workflow_dispatch API) about four times a day,
-# with GitHub's own schedule below as a backup. Most runs find nothing due and finish quickly.
+# One new article a day: GitHub's schedule runs it at 02:07 UTC (2am UK time in winter, 3am in summer), with a
+# backup run at 05:07 that only writes if the first one failed. Admin > Journal in Roko can also start it by hand.
 # Secrets: GEMINI_API_KEY (required), ROKO_JOURNAL_KEY (from Roko > Admin > Journal > Settings).
 # Variable (optional): ROKO_URL, default https://withroko.com.
 on:
@@ -15,7 +15,8 @@ on:
         description: "Leave empty. 'feeds' only checks which research feeds answer."
         default: ""
   schedule:
-    - cron: "41 7,13,19 * * *"
+    - cron: "7 2 * * *"
+    - cron: "7 5 * * *"
 
 permissions:
   contents: write
@@ -30,14 +31,14 @@ env:
 
 jobs:
   journal:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 50
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -80,7 +81,7 @@ jobs:
         run: |
           git add -A content research
           git diff --cached --quiet || git commit -q -m "Journal: research and drafts"
-          git pull -q --rebase origin main && git push -q origin HEAD:main
+          bash scripts/push.sh
 
       - name: Real photos
         if: ${{ !inputs.check }}
@@ -96,4 +97,4 @@ jobs:
           python3 build.py
           git add -A content research dist
           git diff --cached --quiet || git commit -q -m "Journal: publish"
-          git pull -q --rebase origin main && git push -q origin HEAD:main
+          bash scripts/push.sh

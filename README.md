@@ -7,8 +7,8 @@ Everything runs on GitHub Actions with Gemini's free tier, so it uses no Claude 
 ## How it works
 
 1. **Research** (`scripts/research.py`, every run). Monitors luxury, travel and hospitality publications, ONS and Bing News; Google's search suggestions in the UK and US (weekly, so new searches show up); Google Trends; news coverage of Instagram, TikTok and Pinterest trends; market research pages (monthly, so new reports are spotted); and Roko's own anonymised data, reader polls, approved business answers and the team's research notes. Output: `research/digest.json`.
-2. **Writing** (`scripts/write.py`). Decides what is due and writes at most one article per run:
-   - 2 substantial articles a week from `content/roadmap.json` (the first-90-days order, then the rest of the 100);
+2. **Writing** (`scripts/write.py`). One new article a day, written at 02:07 UTC (backup run 05:07). Each day's article is, in order:
+   - the next article from `content/roadmap.json` (the first-90-days order, then the rest of the 100), unless one of these is due:
    - 1 Meet the Makers business feature a fortnight, only from a business's own approved answers;
    - 1 original research feature a month;
    - the State of Weddings report every January;
@@ -16,7 +16,7 @@ Everything runs on GitHub Actions with Gemini's free tier, so it uses no Claude 
    Gemini gets the editorial guide (`content/WRITING_GUIDE.md`), the brief, the only internal links it may use, and the MATERIAL it may take facts from. `scripts/check.py` then rejects any draft with figures or quotes that are not in the material, first-person writing, AI phrasing, dashes, missing links or the wrong length, and Gemini corrects it (up to three attempts).
 3. **Photos** (`scripts/images.py`). Real photographs only, never stock libraries or AI images: photos from businesses' Roko profiles (where the owner allows it), the lead images of the websites the article cites, then Wikimedia Commons and Openverse (commercial-use licences only). Gemini checks each one for quality, relevance and signs of AI or stock. Every photo is credited. An article is published only once it has a cover photo.
 4. **Build** (`build.py`). Validates every article and writes `dist/journal.json`.
-5. **Roko** syncs every 30 minutes. Guides go live automatically; features, research and reports wait for approval in Admin > Journal.
+5. **Roko** syncs every 30 minutes (and can start a run by hand from Admin > Journal). Guides go live automatically; features, research and reports wait for approval in Admin > Journal.
 
 ## Competitors
 

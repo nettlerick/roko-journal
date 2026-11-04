@@ -306,8 +306,16 @@ def main():
         return
     git("add", "media")
     git("commit", "-m", "Journal photos: " + ", ".join(done))
-    git("pull", "--rebase", "origin", "main")
-    git("push", "origin", "HEAD:main")
+    for attempt in range(5):                       # GitHub sometimes answers a push with a temporary error
+        try:
+            git("pull", "--rebase", "origin", "main")
+            git("push", "origin", "HEAD:main")
+            break
+        except RuntimeError as e:
+            if attempt == 4:
+                raise
+            log(f"push attempt {attempt + 1} failed ({str(e)[:80]}); retrying")
+            time.sleep(20 * (attempt + 1))
     sha = git("rev-parse", "HEAD")
     for a in articles():
         if a["slug"] in done:

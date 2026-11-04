@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Decide what is due, research it and write it with Gemini (free tier). Uses no Claude credits.
 
-Publishing rhythm (content/WRITING_GUIDE.md has the editorial rules):
-  - 2 substantial articles a week from the roadmap (the first-90-days order first, then the rest by number):
-    the first from Tuesday, the second from Thursday.
+Publishing rhythm (content/WRITING_GUIDE.md has the editorial rules): one new article a day, written at about 02:00
+UK time. Each day's article is, in order of priority:
   - 1 vendor interview or business feature ("Meet the Makers") every fortnight, written only from a business's own
     answers sent through its Roko dashboard and approved in Roko's admin. No answers, no feature.
   - 1 original research feature a month (from the 8th), from Roko's anonymised data and cited industry research.
@@ -69,31 +68,23 @@ def plan():
         return (None, f"unknown TASK {TASK!r}")
 
     ws = week_start(t)
-    this_week = [a for a in arts if a["type"] in EDITORIAL and pub_date(a).date() >= ws]
-    # yearly flagship report (January)
-    year = t.year
-    if t.month == 1 and t.day >= 12 and not any(a["type"] == "report" and str(year) in a["title"] for a in arts):
-        return ("report", None)
-    # monthly research
-    if t.day >= 8 and not any(a["type"] == "research" and pub_date(a).strftime("%Y-%m") == t.strftime("%Y-%m") for a in arts):
-        if research_has_material():
-            return ("research", None)
-    # fortnightly feature
-    last_feature = max([pub_date(a) for a in arts if a["type"] == "feature"], default=None)
-    if (not last_feature or (t - last_feature).days >= 13) and unused_interviews():
-        return ("feature", None)
-    # two editorial articles a week: Tuesday onwards, then Thursday onwards; spread across the day
-    due = 0
-    if t.weekday() >= 1:
-        due = 1
-    if t.weekday() >= 3:
-        due = 2
-    if len(this_week) < due and queue and 8 <= t.hour <= 20:
-        return ("roadmap", queue[0])
-    # refresh one time-sensitive guide a week
+    today = [a for a in arts if pub_date(a).date() == t.date()]
+    # One new article a day, written in the early hours (the 02:07 run; the 05:07 run is a backup if that one failed).
+    if not today:
+        year = t.year
+        if t.month == 1 and t.day >= 12 and not any(a["type"] == "report" and str(year) in a["title"] for a in arts):
+            return ("report", None)                                        # yearly flagship report (January)
+        if t.day >= 8 and not any(a["type"] == "research" and pub_date(a).strftime("%Y-%m") == t.strftime("%Y-%m") for a in arts) and research_has_material():
+            return ("research", None)                                      # monthly research
+        last_feature = max([pub_date(a) for a in arts if a["type"] == "feature"], default=None)
+        if (not last_feature or (t - last_feature).days >= 13) and unused_interviews():
+            return ("feature", None)                                       # fortnightly business feature
+        if queue:
+            return ("roadmap", queue[0])                                   # otherwise the next article from the roadmap
+    # Saturdays, once the day's article exists: refresh one time-sensitive guide that is six months old.
     stale = [a for a in arts if a.get("time_sensitive") and a["type"] in EDITORIAL
              and (t - datetime.datetime.fromisoformat(a.get("updated") or a["date"]).replace(tzinfo=t.tzinfo)).days >= 180]
-    if stale and t.weekday() == 5 and not any(a.get("updated", "")[:10] >= ws.isoformat() and a.get("updated") != a["date"] for a in arts):
+    if today and stale and t.weekday() == 5 and not any(a.get("updated", "")[:10] >= ws.isoformat() and a.get("updated") != a["date"] for a in arts):
         return ("refresh", sorted(stale, key=lambda a: a.get("updated") or a["date"])[0])
     return (None, "nothing due")
 
