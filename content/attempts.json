@@ -7,11 +7,10 @@
   "count": 1
  },
  "the-complete-wedding-planning-checklist": {
-  "date": "2026-11-04T11:36+00:00",
+  "date": "2026-11-04T11:42+00:00",
   "errors": [
-   "body is 1902 words (want 2200 to 4200 for a cornerstone)",
-   "need at least 6 '## ' sections (has 4)"
+   "link to at least 2 other Journal article(s) from the LINKS list (has 1)"
   ],
-  "count": 1
+  "count": 2
  }
 }
