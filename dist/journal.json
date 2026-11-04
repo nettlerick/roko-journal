@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T11:36:18+00:00",
+ "generated": "2026-11-04T11:42:18+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -637,7 +637,7 @@
     "url": "/wedding-planning",
     "label": "Find wedding planners on Roko"
    },
-   "status": "failed 1x"
+   "status": "failed 2x"
   },
   {
    "n": 36,
@@ -2116,16 +2116,15 @@
    "count": 1
   },
   "the-complete-wedding-planning-checklist": {
-   "date": "2026-11-04T11:36+00:00",
+   "date": "2026-11-04T11:42+00:00",
    "errors": [
-    "body is 1902 words (want 2200 to 4200 for a cornerstone)",
-    "need at least 6 '## ' sections (has 4)"
+    "link to at least 2 other Journal article(s) from the LINKS list (has 1)"
    ],
-   "count": 1
+   "count": 2
   }
  },
  "research": {
-  "generated": "2026-11-04T11:22+00:00",
+  "generated": "2026-11-04T11:38+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2154,6 +2153,14 @@
   ],
   "page_changes": [],
   "feed_items": [
+   {
+    "url": "https://www.hospitalitynet.org/news/4135257/phuket-enters-a-new-era-of-growth-as-billions-in-investment-transform-the-islands-property-hospitality-and-lifestyle-landscape",
+    "title": "Phuket Enters a New Era of Growth as Billions in Investment Transform the Island's Property, Hospitality and Lifestyle Landscape",
+    "summary": "C9 Hotelworks research shows Phuket recorded 6.13M international arrivals in Jan-Sep 2026, with THB400B in tourism revenue and 5,517 hotel keys across 30 pipeline properties.",
+    "date": "2026-11-04T11:21:12+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
    {
     "url": "https://skift.com/2026/11/04/regional-visitors-keep-omans-arrivals-steady-but-cant-fill-its-hotels/",
     "title": "Regional Visitors Keep Oman’s Arrivals Steady but Can’t Fill Its Hotels",
@@ -2661,15 +2668,6 @@
     "publisher": "ET Now on MSN",
     "kind": "news",
     "query": "destination wedding"
-   },
-   {
-    "url": "https://www.msn.com/en-in/news/other/the-business-of-destination-weddings-how-hotel-buyouts-rising-wedding-budgets-and-multi-day-celebrations-are-changing-luxury-hospitality-in-india/ar-AA2gjWvg",
-    "title": "The business of destination weddings: How hotel buyouts, rising wedding budgets, and multi-day celebrations are changing luxury hospitality in India",
-    "summary": "Destination weddings are big business for luxury hotels, driving revenue through room bookings, banquets, and exclusive resort buyouts. But rising wedding costs, operational challenges, and restricted ...",
-    "date": "2026-10-29T00:46:25+00:00",
-    "publisher": "ET Now on MSN",
-    "kind": "news",
-    "query": "hospitality weddings"
    }
   ],
   "headlines": [
@@ -2729,21 +2727,21 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
-    "publisher": "L'OFFICIEL USA",
-    "date": "2026-10-18T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "Almost two thirds of Brighton would opt for a ‘phone-free’ wedding",
     "publisher": "The Argus",
     "date": "2026-10-09T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
-    "publisher": "Country and Town House",
-    "date": "2026-10-28T17:03:17+00:00"
+    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
+    "publisher": "L'OFFICIEL USA",
+    "date": "2026-10-19T05:42:22+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
+    "publisher": "The Irish News",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2837,6 +2835,12 @@
    },
    {
     "query": "viral wedding TikTok",
+    "headline": "Kristian and Mimi lift the lid on their viral TikTok wedding",
+    "publisher": "Nine.com.au",
+    "date": "2026-11-01T21:38:12+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
     "headline": "‘Distasteful’: Sexual wedding act shocks",
     "publisher": "News.com.au",
     "date": "2026-10-31T15:27:29+00:00"
@@ -2882,12 +2886,6 @@
     "headline": "Marching Band Blasting ‘Ghostbusters’ Interupts a Couple's Wedding",
     "publisher": "Wide Open Country",
     "date": "2026-11-02T16:44:09+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
-    "publisher": "VnExpress International",
-    "date": "2026-11-02T08:52:19+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2987,27 +2985,21 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "The best luxury wedding planners",
-    "publisher": "The Times",
-    "date": "2026-10-28T06:05:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
     "headline": "17 of the most beautiful barn wedding venues in the UK",
     "publisher": "SquareMeal",
     "date": "2026-10-06T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
-    "publisher": "pan african visions",
-    "date": "2026-10-19T01:00:00+00:00"
+    "headline": "Ciliau Aeron venue nominated for wedding industry award",
+    "publisher": "Cambrian News",
+    "date": "2026-10-12T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
-    "publisher": "The Isle of Thanet News",
-    "date": "2026-10-06T07:00:00+00:00"
+    "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
+    "publisher": "Seen in The City",
+    "date": "2026-10-05T21:07:54+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -3018,7 +3010,7 @@
    {
     "query": "luxury wedding venue opening",
     "headline": "10 stunning North East wedding venue that are leaving brides and grooms in awe",
-    "publisher": "Yahoo News UK",
+    "publisher": "The Northern Echo",
     "date": "2026-11-02T08:00:00+00:00"
    },
    {
@@ -3032,6 +3024,12 @@
     "headline": "York venue opened by King Charles could host more events amid 'significant pressure'",
     "publisher": "The York Press",
     "date": "2026-10-06T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "27 best weekend wedding venues in the UK for a multi-day celebration",
+    "publisher": "SquareMeal",
+    "date": "2026-10-08T07:00:00+00:00"
    }
   ],
   "pages": {
