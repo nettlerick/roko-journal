@@ -22,7 +22,7 @@ does build.py publish it.
 """
 import datetime, json, os, re, sys
 from pathlib import Path
-from common import (blocked_url, scrub, ARTICLES, CONTENT, RESEARCH, clean, directory, gemini_json, load_json, log, now, readable, roadmap,
+from common import (blocked_url, scrub, ARTICLES, CONTENT, RESEARCH, clean, directory, gemini, gemini_json, load_json, log, now, readable, roadmap,
                     save_json, slugify, sources, articles, ROKO_KEY, roko)
 from check import check_article, fix_links
 
@@ -264,13 +264,13 @@ def write(kind, brief, mat, links, internal_ok, n_links, typ, extra_rules=""):
         for attempt in range(3):
             fix = "" if not errs else ("\n\nYOUR LAST VERSION OF THIS SECTION FAILED THESE CHECKS, fix every one:\n- " + "\n- ".join(errs) + "\n\nLAST VERSION:\n" + text)
             try:
-                d = gemini_json(context + f"\nARTICLE: {plan['title']}\nINTRO ALREADY WRITTEN: {plan.get('intro', '')}\nSECTIONS BEFORE THIS ONE: {'; '.join(done) or 'none'}\n"
+                d = gemini(context + f"\nARTICLE: {plan['title']}\nINTRO ALREADY WRITTEN: {plan.get('intro', '')}\nSECTIONS BEFORE THIS ONE: {'; '.join(done) or 'none'}\n"
                                 f"SECTIONS AFTER THIS ONE: {'; '.join(later) or 'none'}\n\nWrite ONLY the section '## {sec['heading']}' ({sec.get('covers', '')}), about {words} words, "
                                 "in Markdown, starting with that '## ' heading line. ### sub-headings, lists and tables are fine where they help. Don't repeat what other "
                                 "sections cover, don't summarise the article, and don't write a conclusion. Never write I, me, my, we, us or our: write as Roko or to 'you'. "
                                 "Any number, price or quote must be in the MATERIAL. Link to internal paths from LINKS only where it genuinely helps. "
-                                'Reply with JSON only: {"markdown": "..."}' + fix, SYSTEM, temperature=0.65 if attempt == 0 else 0.4, tokens=8192)
-                text = clean(str(d.get("markdown", "")))
+                                "Reply with the section's Markdown only: no JSON, no code fences, no notes." + fix, SYSTEM, temperature=0.65 if attempt == 0 else 0.4, tokens=8192, json_mode=False)
+                text = clean(re.sub(r"^```(?:markdown|md)?\s*|\s*```$", "", d.strip()))
             except Exception as e:
                 errs = [f"no usable reply ({str(e)[:60]})"]
                 continue
