@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T11:42:18+00:00",
+ "generated": "2026-11-04T12:02:01+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -637,7 +637,7 @@
     "url": "/wedding-planning",
     "label": "Find wedding planners on Roko"
    },
-   "status": "failed 2x"
+   "status": "waiting for photo"
   },
   {
    "n": 36,
@@ -2105,8 +2105,14 @@
    }
   }
  ],
- "waiting": [],
- "problems": {},
+ "waiting": [
+  "the-complete-wedding-planning-checklist"
+ ],
+ "problems": {
+  "the-complete-wedding-planning-checklist": [
+   "needs a cover image"
+  ]
+ },
  "attempts": {
   "luxury-wedding-venues-in-the-uk": {
    "date": "2026-11-02T15:03+00:00",
@@ -2124,7 +2130,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-04T11:38+00:00",
+  "generated": "2026-11-04T11:44+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2715,15 +2721,15 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Stripped-down wedding trends in China as young couples reshape rules of matrimony",
-    "publisher": "Global Times",
-    "date": "2026-10-14T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "Mindy Weiss On Current Wedding Trends and Her Fun New Project",
     "publisher": "Daily Front Row",
     "date": "2026-10-08T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "Stripped-down wedding trends in China as young couples reshape rules of matrimony",
+    "publisher": "Global Times",
+    "date": "2026-10-14T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
@@ -2733,14 +2739,14 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
-    "publisher": "L'OFFICIEL USA",
-    "date": "2026-10-19T05:42:22+00:00"
+    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
+    "publisher": "Country and Town House",
+    "date": "2026-10-28T17:03:17+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
-    "publisher": "The Irish News",
+    "headline": "Bridal Fall 2027 Trends: From Future Vintage to Playful Textures [PHOTOS]",
+    "publisher": "WWD",
     "date": "2026-10-22T07:00:00+00:00"
    },
    {
@@ -2787,9 +2793,9 @@
    },
    {
     "query": "wedding industry",
-    "headline": "How 15,000 free T-shirts helped build a £15m bridal fashion brand",
-    "publisher": "BusinessCloud",
-    "date": "2026-10-27T06:21:48+00:00"
+    "headline": "Wedding content creator from Dorset says new industry is booming",
+    "publisher": "BBC",
+    "date": "2026-10-18T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2805,21 +2811,21 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Wedding content creator from Dorset says new industry is booming",
-    "publisher": "BBC",
-    "date": "2026-10-18T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Country pub named one of the region's best wedding venues",
     "publisher": "Gazetteherald.co.uk",
     "date": "2026-10-19T07:00:00+00:00"
    },
    {
+    "query": "wedding industry",
+    "headline": "Singer wins prestigious award just 18 months after launching wedding business",
+    "publisher": "News & Star",
+    "date": "2026-10-17T07:00:00+00:00"
+   },
+   {
     "query": "viral wedding TikTok",
     "headline": "How Ashe's real life inspired her TikTok hit Stop The Wedding",
     "publisher": "BBC",
-    "date": "2026-10-10T07:00:00+00:00"
+    "date": "2026-10-09T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2853,21 +2859,21 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
-    "publisher": "People.com",
-    "date": "2026-10-14T07:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "《Official Website |watchflick.net》The Groom Ran: I Choose His Dad – Watch the Viral Wedding Video for Free",
-    "publisher": "白鲸出海",
-    "date": "2026-10-30T16:26:25+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "A bride's search for her mother's missing wedding dress goes viral",
     "publisher": "NBC 5 Chicago",
     "date": "2026-10-28T20:30:14+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "How sponsored wedding events really work",
+    "publisher": "Mashable",
+    "date": "2026-11-01T09:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "《Official Website |watchflick.net》Divorced at the Wedding Day: Full Video, Story, and What Really Happened",
+    "publisher": "白鲸出海",
+    "date": "2026-10-30T18:08:37+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2877,15 +2883,15 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Couple’s wedding vows interrupted by marching band blasting ‘Ghostbusters’ theme",
-    "publisher": "New York Post",
-    "date": "2026-11-02T00:00:00+00:00"
+    "headline": "Ashe Strips Back Viral Hit \"Stop The Wedding!\" With Intimate Piano Demo as 'The Girl Of Your Dreams' Climbs the Charts",
+    "publisher": "That Eric Alper",
+    "date": "2026-11-02T23:06:19+00:00"
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Marching Band Blasting ‘Ghostbusters’ Interupts a Couple's Wedding",
-    "publisher": "Wide Open Country",
-    "date": "2026-11-02T16:44:09+00:00"
+    "headline": "Love, backed by RTX 5090: Groom burst into tears right at the wedding",
+    "publisher": "iXBT.games",
+    "date": "2026-10-21T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2985,21 +2991,27 @@
    },
    {
     "query": "luxury wedding venue opening",
+    "headline": "The best luxury wedding planners",
+    "publisher": "The Times",
+    "date": "2026-10-28T06:05:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
     "headline": "17 of the most beautiful barn wedding venues in the UK",
     "publisher": "SquareMeal",
     "date": "2026-10-06T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Ciliau Aeron venue nominated for wedding industry award",
-    "publisher": "Cambrian News",
-    "date": "2026-10-12T07:00:00+00:00"
+    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
+    "publisher": "pan african visions",
+    "date": "2026-10-19T01:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
-    "publisher": "Seen in The City",
-    "date": "2026-10-05T21:07:54+00:00"
+    "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
+    "publisher": "The Isle of Thanet News",
+    "date": "2026-10-06T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -3010,14 +3022,8 @@
    {
     "query": "luxury wedding venue opening",
     "headline": "10 stunning North East wedding venue that are leaving brides and grooms in awe",
-    "publisher": "The Northern Echo",
+    "publisher": "Yahoo News UK",
     "date": "2026-11-02T08:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "Destination weddings in 2027: 6 things to consider before booking a venue",
-    "publisher": "Firstpost",
-    "date": "2026-10-31T05:34:23+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -3027,9 +3033,9 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "27 best weekend wedding venues in the UK for a multi-day celebration",
-    "publisher": "SquareMeal",
-    "date": "2026-10-08T07:00:00+00:00"
+    "headline": "Destination weddings in 2027: 6 things to consider before booking a venue",
+    "publisher": "Firstpost",
+    "date": "2026-10-31T05:34:23+00:00"
    }
   ],
   "pages": {
