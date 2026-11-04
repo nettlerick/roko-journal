@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T19:34:21+00:00",
+ "generated": "2026-11-04T00:12:50+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2117,7 +2117,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-03T19:34+00:00",
+  "generated": "2026-11-04T00:12+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2451,6 +2451,15 @@
     "query": "destination wedding"
    },
    {
+    "url": "https://www.businesseye.co.uk/news/killyhevlin-invests-1-5-million-in-new-wedding-venue/",
+    "title": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
+    "summary": "Killyhevlin Lakeside Hotel & Lodges in Enniskillen has announced a £1.5 million investment in Loughview, a new luxury lakeside wedding reception venue set to open in Spring 2027.",
+    "date": "2026-10-30T02:35:00+00:00",
+    "publisher": "Business Eye",
+    "kind": "news",
+    "query": "wedding venue opening hotel"
+   },
+   {
     "url": "https://voyagersworld.in/2026/10/30/iitm-mumbai-2026-opens-new-avenues-for-tourism-and-wedding-travel/",
     "title": "IITM Mumbai 2026 Opens New Avenues for Tourism and Wedding Travel",
     "summary": "Mumbai 2026 opened today at the Bombay Exhibition Centre, bringing together over 150 exhibitors from India and international markets to showcase ...",
@@ -2643,15 +2652,6 @@
     "publisher": "AV Magazine",
     "kind": "news",
     "query": "events industry UK"
-   },
-   {
-    "url": "https://travelindustrytoday.com/in-focus-iberostar-celebrations-in-paradise-group-trips-and-destination-weddings/",
-    "title": "IN-FOCUS IBEROSTAR: Celebrations in paradise – group trips and destination weddings",
-    "summary": "Across the spectacular Iberostar coastal portfolio in Mexico – available through Sunwing Vacations – the resorts have perfected the art of group hospitality, combining customized event coordination, ...",
-    "date": "2026-10-28T15:55:00+00:00",
-    "publisher": "travelindustrytoday.com",
-    "kind": "news",
-    "query": "destination wedding"
    }
   ],
   "headlines": [
@@ -2759,12 +2759,6 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Wedding content creator from Dorset says new industry is booming",
-    "publisher": "BBC",
-    "date": "2026-10-18T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Wirral civil celebrant named regional finalist in prestigious wedding industry awards",
     "publisher": "Wirral Globe",
     "date": "2026-10-20T07:00:00+00:00"
@@ -2774,6 +2768,12 @@
     "headline": "Over Barn recognised as Gloucestershire's best wedding barn",
     "publisher": "SoGlos",
     "date": "2026-10-14T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Wedding content creator from Dorset says new industry is booming",
+    "publisher": "BBC",
+    "date": "2026-10-18T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2803,13 +2803,19 @@
     "query": "viral wedding TikTok",
     "headline": "How Ashe's real life inspired her TikTok hit Stop The Wedding",
     "publisher": "BBC",
-    "date": "2026-10-10T07:00:00+00:00"
+    "date": "2026-10-09T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
     "headline": "Groom Makes an Unthinkable Mistake While Repeating His Wedding Vows & the Backstory Is Even Worse",
     "publisher": "CafeMom.com",
     "date": "2026-10-05T07:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "“I Hope He Divorced Her”: Bride Sparks Outrage Over Wedding Vows",
+    "publisher": "AOL.com",
+    "date": "2026-10-11T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2831,15 +2837,27 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "《Official Website |watchflick.net》The Groom Ran: I Choose His Dad – Watch the Viral Wedding Video for Free",
-    "publisher": "白鲸出海",
-    "date": "2026-10-30T16:26:25+00:00"
+    "headline": "‘Humans have lost empathy’: Unsympathetic bride complains after her wedding photographer died before sending her the photos",
+    "publisher": "Yahoo",
+    "date": "2026-10-13T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
-    "publisher": "People.com",
-    "date": "2026-10-14T07:00:00+00:00"
+    "headline": "《Official Website |watchflick.net》Divorced at the Wedding Day: Full Video, Story, and What Really Happened",
+    "publisher": "白鲸出海",
+    "date": "2026-10-30T18:08:37+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Ashe Strips Back Viral Hit \"Stop The Wedding!\" With Intimate Piano Demo as 'The Girl Of Your Dreams' Climbs the Charts",
+    "publisher": "That Eric Alper",
+    "date": "2026-11-02T23:06:19+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Love, backed by RTX 5090: Groom burst into tears right at the wedding",
+    "publisher": "iXBT.games",
+    "date": "2026-10-21T04:18:22+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2854,46 +2872,10 @@
     "date": "2026-11-02T00:00:00+00:00"
    },
    {
-    "query": "viral wedding TikTok",
-    "headline": "Marching Band Blasting ‘Ghostbusters’ Interupts a Couple's Wedding",
-    "publisher": "Wide Open Country",
-    "date": "2026-11-02T16:44:09+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
-    "publisher": "VnExpress International",
-    "date": "2026-11-02T08:52:19+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Bride Threatens To Sue Her Wedding Videographer After Months of Excuses & What She Finally Gets Is Ridiculous",
-    "publisher": "CafeMom.com",
-    "date": "2026-10-09T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Five 2027 wedding trend predictions",
-    "publisher": "www.stylenest.co.uk",
-    "date": "2026-10-17T15:40:02+00:00"
-   },
-   {
     "query": "wedding Instagram trend",
     "headline": "6 bridal trends for 2027 brides, from bows to basque waists",
     "publisher": "RTE.ie",
     "date": "2026-10-15T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "publisher": "ELLE",
-    "date": "2026-10-29T10:49:25+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
-    "publisher": "AOL.co.uk",
-    "date": "2026-10-25T14:12:21+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2903,21 +2885,39 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "+++VIDEO EXCLUSIVE~ Acquired Style Wedding Dress Trending Viral Video – Popular Searches",
-    "publisher": "Port of Rotterdam",
-    "date": "2026-10-29T21:08:46+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Mindy Weiss On Current Wedding Trends and Her Fun New Project",
-    "publisher": "Daily Front Row",
-    "date": "2026-10-08T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "Your guide through October social media trends",
     "publisher": "Vogue Adria",
     "date": "2026-11-02T18:00:12+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Short Nails Are Trending For Autumn 2026: 13 Designs To Bookmark, From ‘Merlot Noir’ To Glossy Silk",
+    "publisher": "ELLE",
+    "date": "2026-10-16T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Gogglebox's Baasit Siddiqui celebrates 14th wedding anniversary with rarely-seen wife",
+    "publisher": "Female First",
+    "date": "2026-10-07T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "I Asked Fashion Brides-to-Be What They're Putting on Their Wedding Registries—Here’s What They Said",
+    "publisher": "Who What Wear",
+    "date": "2026-10-24T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Forget Tradition — This Unexpected Bridal Trend Is Changing The Game",
+    "publisher": "The Zoe Report",
+    "date": "2026-10-19T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "New York Bridal Fashion Week showcased Fall 2027 collections blending timeless femininity with modern design. From hand embroidery to sculptural silhouettes, designers embraced more personalized bridal wear, reinterpreting traditional wedding fashion.",
+    "publisher": "Facebook",
+    "date": "2026-10-16T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2927,21 +2927,21 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
-    "publisher": "L'OFFICIEL USA",
-    "date": "2026-10-19T05:42:22+00:00"
+    "headline": "Meet Emily Markus, who just married Rob Lowe’s son Matthew",
+    "publisher": "South China Morning Post",
+    "date": "2026-10-12T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
-    "publisher": "WWD",
-    "date": "2026-10-22T07:00:00+00:00"
+    "headline": "13 of the Most Secretive Celebrity Weddings",
+    "publisher": "People.com",
+    "date": "2026-10-28T11:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Wedding crashers wanted! Couples are charging strangers to attend their big day",
-    "publisher": "KLAS 8 News Now",
-    "date": "2026-10-09T07:00:00+00:00"
+    "headline": "Savannah Chrisley reveals details of her secret wedding to Jason Galanis",
+    "publisher": "The News International",
+    "date": "2026-11-02T04:29:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -2960,6 +2960,12 @@
     "headline": "Pinterest Beauty Trends 2026: Hair, Nails & Makeup | style",
     "publisher": "stylemagazines.com.au",
     "date": "2026-10-09T07:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "Short Nails Are Trending For Autumn 2026: 13 Designs To Bookmark, From ‘Merlot Noir’ To Glossy Silk",
+    "publisher": "ELLE",
+    "date": "2026-10-16T07:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -3005,15 +3011,9 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Destination weddings in 2027: 6 things to consider before booking a venue",
-    "publisher": "Firstpost",
-    "date": "2026-10-31T05:34:23+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "York venue opened by King Charles could host more events amid 'significant pressure'",
-    "publisher": "The York Press",
-    "date": "2026-10-06T07:00:00+00:00"
+    "headline": "10 stunning North East wedding venue that are leaving brides and grooms in awe",
+    "publisher": "Yahoo News UK",
+    "date": "2026-11-02T08:00:00+00:00"
    }
   ],
   "pages": {
