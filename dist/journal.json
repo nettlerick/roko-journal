@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T12:02:01+00:00",
+ "generated": "2026-11-05T09:28:55+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -263,7 +263,7 @@
     "url": "/wedding-venues-and-accommodation",
     "label": "Discover venues on Roko"
    },
-   "status": "planned"
+   "status": "waiting for photo"
   },
   {
    "n": 14,
@@ -2106,9 +2106,13 @@
   }
  ],
  "waiting": [
+  "luxury-wedding-venues-around-the-world",
   "the-complete-wedding-planning-checklist"
  ],
  "problems": {
+  "luxury-wedding-venues-around-the-world": [
+   "needs a cover image"
+  ],
   "the-complete-wedding-planning-checklist": [
    "needs a cover image"
   ]
@@ -2130,7 +2134,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-04T11:44+00:00",
+  "generated": "2026-11-05T09:24+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2160,6 +2164,63 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.tatler.com/gallery/tatler-shops-bridal",
+    "title": "Tatler Shops: Weddings & Bridal. Where ‘I Do’ meets wedding elegance",
+    "summary": "Where ‘I Do’ meets wedding elegance",
+    "date": "2026-11-05T08:40:00+00:00",
+    "publisher": "Tatler",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/opinion/4135284/most-revenue-managers-dont-know-why-their-strategy-worked",
+    "title": "Most revenue managers don't know why their strategy worked.",
+    "summary": "A sharp critique of how revenue managers conflate good outcomes with good strategy, and warns that AI tools risk automating overconfident explanations rather than genuine causal insight.",
+    "date": "2026-11-05T08:04:47+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/casestudy/4135193/how-casa-faena-delights-guests-and-drives-55-more-upsells-with-canary",
+    "title": "How Casa Faena Delights Guests and Drives 55% More Upsells With Canary",
+    "summary": "Casa Faena Miami Beach achieved a 55% lift in ancillary revenue and 5/5 check-in ratings after deploying Canary Technologies' AI messaging, mobile check-in, dynamic upsells, and smart checkout tools.",
+    "date": "2026-11-04T19:00:00+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/opinion/4135279/what-it-costs-to-build-a-feeling",
+    "title": "What It Costs to Build a Feeling",
+    "summary": "Owners Ferial Sadeghian and Jayson Seidman share lessons on boutique hotel development: protect atmosphere budgets, break apart per-key metrics, and expect F&B to outweigh rooms revenue.",
+    "date": "2026-11-04T18:50:00+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.harpersbazaar.com/celebrity/latest/a74335613/suki-waterhouse-embarrassing-robert-pattinson-wedding-planning-update-interview-explained/",
+    "title": "Suki Waterhouse Gives an “Embarrassing” Update on Her Wedding to Robert Pattinson",
+    "summary": "She’s keeping things real",
+    "date": "2026-11-04T18:35:04+00:00",
+    "publisher": "Harper's Bazaar",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/news/4135250/hftp-announces-hitec-2027-north-america-advisory-council",
+    "title": "HFTP Announces HITEC 2027 North America Advisory Council",
+    "summary": "HFTP named 25 hospitality technology leaders to its HITEC 2027 North America Advisory Council, which will shape education and programming for the Orlando event in June-July 2027.",
+    "date": "2026-11-04T14:00:00+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.msn.com/en-gb/news/other/co-fermanagh-hotel-reveals-15m-plans-for-new-lakeside-wedding-venue/ar-AA2gL7Rp",
+    "title": "Co Fermanagh hotel reveals £1.5m plans for new lakeside wedding venue",
+    "summary": "It will \"combine contemporary architecture with the natural beauty of Fermanagh's lakeland setting\" ...",
+    "date": "2026-11-04T13:19:35+00:00",
+    "publisher": "Belfast Live on MSN",
+    "kind": "news",
+    "query": "luxury wedding venue"
+   },
+   {
     "url": "https://www.hospitalitynet.org/news/4135257/phuket-enters-a-new-era-of-growth-as-billions-in-investment-transform-the-islands-property-hospitality-and-lifestyle-landscape",
     "title": "Phuket Enters a New Era of Growth as Billions in Investment Transform the Island's Property, Hospitality and Lifestyle Landscape",
     "summary": "C9 Hotelworks research shows Phuket recorded 6.13M international arrivals in Jan-Sep 2026, with THB400B in tourism revenue and 5,517 hotel keys across 30 pipeline properties.",
@@ -2184,6 +2245,15 @@
     "kind": "travel"
    },
    {
+    "url": "https://www.msn.com/en-gb/lifestyle/other/set-to-open-in-spring-2027-northern-ireland-family-run-hotel-marks-50-years-with-1-5m-investment-in-new-wedding-venue/ar-AA2gKy0v",
+    "title": "Set to open in spring 2027: Northern Ireland family-run hotel marks 50 years with £1.5m investment in new wedding venue",
+    "summary": "Killyhevlin Lakeside Hotel & Lodges unveils plans for luxury lakeside reception space overlooking Lough Erne, set to open in spring 2027 ...",
+    "date": "2026-11-04T05:21:20+00:00",
+    "publisher": "Belfast News Letter on MSN",
+    "kind": "news",
+    "query": "luxury wedding venue"
+   },
+   {
     "url": "https://www.msn.com/en-ae/news/featured/diwali-bridal-2026-collection-festive-affair-with-fine-jewellery/ar-AA2gHYDu",
     "title": "Diwali Bridal 2026 Collection : Festive affair with fine jewellery",
     "summary": "This festive season, Meena Jewellers invites customers to celebrate in style with the launch of its Diwali Bridal 2026 Collection — an exquisite showcase that brings together timeless elegance, ...",
@@ -2199,6 +2269,15 @@
     "date": "2026-11-03T16:11:25+00:00",
     "publisher": "Hospitality Net",
     "kind": "travel"
+   },
+   {
+    "url": "https://blog.moneysmart.sg/travel-insurance/destination-wedding-travel-insurance/",
+    "title": "Flying Off to a Destination Wedding? Here’s the Travel Insurance Couples and Guests Need",
+    "summary": "Getting married overseas? See what destination wedding travel insurance covers, the fine print couples miss, and how guests and groups can stay protected.",
+    "date": "2026-11-03T16:00:00+00:00",
+    "publisher": "MoneySmart Blog",
+    "kind": "news",
+    "query": "destination wedding"
    },
    {
     "url": "https://www.hospitalitynet.org/news/4135245/avalora-introduces-cross-platform-guest-intelligence",
@@ -2231,6 +2310,15 @@
     "date": "2026-11-03T08:49:41+00:00",
     "publisher": "Hospitality Net",
     "kind": "travel"
+   },
+   {
+    "url": "https://note.com/bridy_media/n/nd698702df1fe?hl=en",
+    "title": "[Venue Survey #01] Can women hold a wedding at the Royal Park Hotel? We directly confirmed their policies on ceremonies, attire, and bridal fairs!",
+    "summary": "\"We want to hold a wedding as a female couple, but will this venue accommodate us?\"To resolve such questions and help you enjoy choosing a wedding venue that suits the two of you, BRIDY directly ...",
+    "date": "2026-11-02T22:38:00+00:00",
+    "publisher": "note",
+    "kind": "news",
+    "query": "hospitality weddings"
    },
    {
     "url": "https://skift.com/2026/11/02/choice-hotels-narrows-its-revenue-gap-but-its-upscale-brands-still-trail/",
@@ -2585,104 +2673,9 @@
     "publisher": "News18 on MSN",
     "kind": "news",
     "query": "destination wedding"
-   },
-   {
-    "url": "https://www.tatler.com/article/young-hot-and-seriously-eligible-tatlers-little-black-book-is-back-so-whos-made-the-cut",
-    "title": "Young, hot – and seriously eligible. Tatler's Little Black Book is back: so who has made the cut?",
-    "summary": "These young lords, gilded Gen Z heiresses, athletes in the ascendant and perennially partying It girls are dazzling, desirable and in demand. So it's of no surprised they've taken the top spots in the Little Black Book 2026 – Tatler's annual roll call of the country's 200 most eligible. For the full list, pick up a copy of the December issue, on sale 5th November. Can't wait until then? Here is th",
-    "date": "2026-10-29T06:00:00+00:00",
-    "publisher": "Tatler",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.bollywoodhungama.com/news/features/palak-tiwari-turns-bridesmaid-for-etude-indias-first-ever-wedding-campaign-new-foundation-products-take-centre-stage/",
-    "title": "Palak Tiwari turns bridesmaid for ETUDE India’s first-ever wedding campaign; new foundation products take centre stage",
-    "summary": "Palak Tiwari is embracing the wedding season in a new campaign that sees her step into the role of a bridesmaid. The actor, who is the brand ambassador ...",
-    "date": "2026-10-29T05:17:00+00:00",
-    "publisher": "Bollywood Hungama",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://theprint.in/ani-press-releases/bigger-stones-fewer-pieces-what-indias-brides-are-choosing-this-wedding-season-according-to-a-17-store-lab-grown-jeweller/3085167/",
-    "title": "Bigger Stones, Fewer Pieces: What India’s Brides Are Choosing This Wedding Season, According to a 17-Store Lab-Grown Jeweller",
-    "summary": "India’s wedding season is spending more per wedding and buying differently, says Ivana Jewels, the Surat-based lab-grown diamond and Polki jewellery retailer with 17 showrooms across 15 cities. Across ...",
-    "date": "2026-10-29T05:02:00+00:00",
-    "publisher": "The Print",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://uk.finance.yahoo.com/news/global-wedding-services-market-size-151500413.html",
-    "title": "Global Wedding Services Market Size, Share, Trends, and Forecast, 2026-2033 | Destination Weddings and Digital Planning Propel Market to USD 2.65 Trillion at 12.8% CAGR",
-    "summary": "Capitalize on premium, personalized and destination weddings through digital planning, vendor matching and comprehensive service coordination.Dublin, Oct. 29, 2026 (GLOBE NEWSWIRE) -- \"Wedding ...",
-    "date": "2026-10-29T04:15:00+00:00",
-    "publisher": "Yahoo Finance UK",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/lifestyle/other/getting-married-these-are-the-5-wedding-flower-trends-set-to-take-over-in-2027/ar-AA2gkbdb",
-    "title": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "summary": "You might not have Maddison Square Garden as your venue, but you can have a tremendous flower arrangement ...",
-    "date": "2026-10-29T03:48:59+00:00",
-    "publisher": "ELLE UK on MSN",
-    "kind": "news",
-    "query": "wedding trends"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/news/other/getting-married-these-are-the-5-wedding-flower-trends-set-to-take-over-in-2027/ar-AA2gkbdb",
-    "title": "Getting married? These are the 5 wedding flower trends set to take over in 2027",
-    "summary": "You might not have Maddison Square Garden as your venue, but you can have a tremendous flower arrangement ...",
-    "date": "2026-10-29T03:48:59+00:00",
-    "publisher": "ELLE on MSN",
-    "kind": "news",
-    "query": "wedding trends"
-   },
-   {
-    "url": "https://www.msn.com/en-in/news/other/from-beach-weddings-to-royal-palace-ceremonies-how-to-pick-the-right-jewellery-for-every-destination-wedding/ar-AA2gjZSb",
-    "title": "From beach weddings to royal palace ceremonies, how to pick the right jewellery for every destination wedding",
-    "summary": "Planning a destination wedding look? Here are jewellery styling tips for beach, palace, and mountain celebrations.",
-    "date": "2026-10-29T02:07:07+00:00",
-    "publisher": "Hindustan Times on MSN",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.medianews4u.com/etude-india-launches-first-ever-wedding-campaign-featuring-palak-tiwari/",
-    "title": "ETUDE India Launches First-Ever Wedding Campaign Featuring Palak Tiwari",
-    "summary": "Mumbai: ETUDE India has launched its first-ever wedding campaign featuring actor and brand ambassador Palak Tiwari, marking the brand’s entry ...",
-    "date": "2026-10-29T01:47:00+00:00",
-    "publisher": "MediaNews4U",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-in/money/general/the-business-of-destination-weddings-how-hotel-buyouts-rising-wedding-budgets-and-multi-day-celebrations-are-changing-luxury-hospitality-in-india/ar-AA2gjWvg",
-    "title": "The business of destination weddings: How hotel buyouts, rising wedding budgets, and multi-day celebrations are changing luxury hospitality in India",
-    "summary": "Destination weddings are big business for luxury hotels, driving revenue through room bookings, banquets, and exclusive resort buyouts. But rising wedding costs, operational challenges, and restricted ...",
-    "date": "2026-10-29T00:46:25+00:00",
-    "publisher": "ET Now on MSN",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.msn.com/en-in/money/other/the-business-of-destination-weddings-how-hotel-buyouts-rising-wedding-budgets-and-multi-day-celebrations-are-changing-luxury-hospitality-in-india/ar-AA2gjWvg",
-    "title": "The business of destination weddings: How hotel buyouts, rising wedding budgets, and multi-day celebrations are changing luxury hospitality in India",
-    "summary": "Destination weddings are big business for luxury hotels, driving revenue through room bookings, banquets, and exclusive resort buyouts. But rising wedding costs, operational challenges, and restricted ...",
-    "date": "2026-10-29T00:46:25+00:00",
-    "publisher": "ET Now on MSN",
-    "kind": "news",
-    "query": "destination wedding"
    }
   ],
   "headlines": [
-   {
-    "query": "wedding trends",
-    "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
-    "publisher": "Seen in The City",
-    "date": "2026-10-05T21:07:54+00:00"
-   },
    {
     "query": "wedding trends",
     "headline": "Five 2027 wedding trend predictions",
@@ -2715,12 +2708,6 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The Top 20 Wedding Trends of 2027, From Antique Lace to Hush-Hush Honeymoons",
-    "publisher": "Martha Stewart",
-    "date": "2026-10-06T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "Mindy Weiss On Current Wedding Trends and Her Fun New Project",
     "publisher": "Daily Front Row",
     "date": "2026-10-08T07:00:00+00:00"
@@ -2748,6 +2735,18 @@
     "headline": "Bridal Fall 2027 Trends: From Future Vintage to Playful Textures [PHOTOS]",
     "publisher": "WWD",
     "date": "2026-10-22T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
+    "publisher": "AOL.com",
+    "date": "2026-10-25T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
+    "publisher": "L'OFFICIEL USA",
+    "date": "2026-10-18T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2793,12 +2792,6 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Wedding content creator from Dorset says new industry is booming",
-    "publisher": "BBC",
-    "date": "2026-10-18T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Wedding Content Is Taking Over Influencer Culture—But What’s the Message Behind It?",
     "publisher": "Cosmopolitan",
     "date": "2026-10-16T07:00:00+00:00"
@@ -2811,21 +2804,27 @@
    },
    {
     "query": "wedding industry",
+    "headline": "Wedding content creator from Dorset says new industry is booming",
+    "publisher": "BBC",
+    "date": "2026-10-18T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Wedding photographer supporting Lake District romance nominated for award",
+    "publisher": "NW Mail",
+    "date": "2026-10-19T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
     "headline": "Country pub named one of the region's best wedding venues",
     "publisher": "Gazetteherald.co.uk",
     "date": "2026-10-19T07:00:00+00:00"
    },
    {
-    "query": "wedding industry",
-    "headline": "Singer wins prestigious award just 18 months after launching wedding business",
-    "publisher": "News & Star",
-    "date": "2026-10-17T07:00:00+00:00"
-   },
-   {
     "query": "viral wedding TikTok",
     "headline": "How Ashe's real life inspired her TikTok hit Stop The Wedding",
     "publisher": "BBC",
-    "date": "2026-10-09T07:00:00+00:00"
+    "date": "2026-10-10T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2853,27 +2852,15 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Did the groom really call someone else in the viral WedTok?",
-    "publisher": "The Mary Sue",
-    "date": "2026-10-08T07:00:00+00:00"
+    "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
+    "publisher": "People.com",
+    "date": "2026-10-14T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "A bride's search for her mother's missing wedding dress goes viral",
-    "publisher": "NBC 5 Chicago",
-    "date": "2026-10-28T20:30:14+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "How sponsored wedding events really work",
-    "publisher": "Mashable",
-    "date": "2026-11-01T09:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "《Official Website |watchflick.net》Divorced at the Wedding Day: Full Video, Story, and What Really Happened",
+    "headline": "《Official Website |watchflick.net》The Groom Ran: I Choose His Dad – Watch the Viral Wedding Video for Free",
     "publisher": "白鲸出海",
-    "date": "2026-10-30T18:08:37+00:00"
+    "date": "2026-10-30T16:26:25+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -2883,15 +2870,39 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Ashe Strips Back Viral Hit \"Stop The Wedding!\" With Intimate Piano Demo as 'The Girl Of Your Dreams' Climbs the Charts",
-    "publisher": "That Eric Alper",
-    "date": "2026-11-02T23:06:19+00:00"
+    "headline": "A bride's search for her mother's missing wedding dress goes viral",
+    "publisher": "NBC 5 Chicago",
+    "date": "2026-10-28T20:30:14+00:00"
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Love, backed by RTX 5090: Groom burst into tears right at the wedding",
-    "publisher": "iXBT.games",
-    "date": "2026-10-21T07:00:00+00:00"
+    "headline": "Couple’s wedding vows interrupted by marching band blasting ‘Ghostbusters’ theme",
+    "publisher": "New York Post",
+    "date": "2026-11-02T00:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Did the groom really call someone else in the viral WedTok?",
+    "publisher": "The Mary Sue",
+    "date": "2026-10-08T07:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
+    "publisher": "VnExpress International",
+    "date": "2026-11-02T08:52:19+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Five 2027 wedding trend predictions",
+    "publisher": "www.stylenest.co.uk",
+    "date": "2026-10-17T15:40:02+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
+    "publisher": "ELLE",
+    "date": "2026-10-29T10:49:25+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2901,9 +2912,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "A Look into Luxury Wedding Trends & How You Can Execute Them Yourself",
-    "publisher": "Seen in The City",
-    "date": "2026-10-05T21:07:54+00:00"
+    "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
+    "publisher": "AOL.com",
+    "date": "2026-10-25T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Mindy Weiss On Current Wedding Trends and Her Fun New Project",
+    "publisher": "Daily Front Row",
+    "date": "2026-10-08T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2913,27 +2930,9 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Gogglebox's Baasit Siddiqui celebrates 14th wedding anniversary with rarely-seen wife",
-    "publisher": "Female First",
-    "date": "2026-10-07T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Short Nails Are Trending For Autumn 2026: 13 Designs To Bookmark, From ‘Merlot Noir’ To Glossy Silk",
-    "publisher": "ELLE",
-    "date": "2026-10-16T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "I Asked Fashion Brides-to-Be What They're Putting on Their Wedding Registries—Here’s What They Said",
-    "publisher": "Who What Wear",
-    "date": "2026-10-24T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Forget Tradition — This Unexpected Bridal Trend Is Changing The Game",
-    "publisher": "The Zoe Report",
-    "date": "2026-10-19T07:00:00+00:00"
+    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
+    "publisher": "WWD",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2943,9 +2942,9 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "New York Bridal Fashion Week showcased Fall 2027 collections blending timeless femininity with modern design. From hand embroidery to sculptural silhouettes, designers embraced more personalized bridal wear, reinterpreting traditional wedding fashion.",
-    "publisher": "Facebook",
-    "date": "2026-10-16T07:00:00+00:00"
+    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
+    "publisher": "L'OFFICIEL USA",
+    "date": "2026-10-18T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -2955,15 +2954,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Savannah Chrisley reveals details of her secret wedding to Jason Galanis",
-    "publisher": "The News International",
-    "date": "2026-11-02T04:29:00+00:00"
+    "headline": "Wedding crashers wanted! Couples are charging strangers to attend their big day",
+    "publisher": "KLAS 8 News Now",
+    "date": "2026-10-09T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "13 of the Most Secretive Celebrity Weddings",
-    "publisher": "People.com",
-    "date": "2026-10-28T11:00:00+00:00"
+    "headline": "Savannah Chrisley reveals details of her secret wedding to Jason Galanis",
+    "publisher": "The News International",
+    "date": "2026-11-02T04:29:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -2985,21 +2984,39 @@
    },
    {
     "query": "Pinterest wedding trends",
+    "headline": "The 7 Beauty Trends Taking Over The Rest Of 2026, According to Pinterest",
+    "publisher": "Pedestrian TV",
+    "date": "2026-10-08T07:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
+    "publisher": "New York Post",
+    "date": "2026-11-04T20:21:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
     "headline": "5 Must-Have Lipstick Shades For The Festive-Cum-Bridal Season",
     "publisher": "Herzindagi",
     "date": "2026-10-08T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "The best luxury wedding planners",
-    "publisher": "The Times",
-    "date": "2026-10-28T06:05:00+00:00"
+    "headline": "'Set to open in spring 2027': Northern Ireland family-run hotel marks 50 years with £1.5m investment in new wedding venue",
+    "publisher": "Belfast News Letter",
+    "date": "2026-11-04T13:21:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "17 of the most beautiful barn wedding venues in the UK",
+    "headline": "27 best weekend wedding venues in the UK for a multi-day celebration",
     "publisher": "SquareMeal",
-    "date": "2026-10-06T07:00:00+00:00"
+    "date": "2026-10-08T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Co Fermanagh hotel reveals £1.5m plans for new lakeside wedding venue",
+    "publisher": "Belfast Live",
+    "date": "2026-11-04T21:19:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -3009,33 +3026,15 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Investment ‘of £millions’ to create homes, exclusive wedding venue, bistro and hotel rooms at St Augustine’s in Westgate",
-    "publisher": "The Isle of Thanet News",
-    "date": "2026-10-06T07:00:00+00:00"
+    "headline": "The best events and wedding planners in 2026",
+    "publisher": "Spear's Magazine",
+    "date": "2026-10-20T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
     "headline": "Bath Rugby loses permission to hold weddings at Somerset headquarters",
     "publisher": "Somerset County Gazette",
     "date": "2026-10-07T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "10 stunning North East wedding venue that are leaving brides and grooms in awe",
-    "publisher": "Yahoo News UK",
-    "date": "2026-11-02T08:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "York venue opened by King Charles could host more events amid 'significant pressure'",
-    "publisher": "The York Press",
-    "date": "2026-10-06T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "Destination weddings in 2027: 6 things to consider before booking a venue",
-    "publisher": "Firstpost",
-    "date": "2026-10-31T05:34:23+00:00"
    }
   ],
   "pages": {
