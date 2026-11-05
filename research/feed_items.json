@@ -1,5 +1,62 @@
 [
  {
+  "url": "https://www.tatler.com/gallery/tatler-shops-bridal",
+  "title": "Tatler Shops: Weddings & Bridal. Where ‘I Do’ meets wedding elegance",
+  "summary": "Where ‘I Do’ meets wedding elegance",
+  "date": "2026-11-05T08:40:00+00:00",
+  "publisher": "Tatler",
+  "kind": "luxury"
+ },
+ {
+  "url": "https://www.hospitalitynet.org/opinion/4135284/most-revenue-managers-dont-know-why-their-strategy-worked",
+  "title": "Most revenue managers don't know why their strategy worked.",
+  "summary": "A sharp critique of how revenue managers conflate good outcomes with good strategy, and warns that AI tools risk automating overconfident explanations rather than genuine causal insight.",
+  "date": "2026-11-05T08:04:47+00:00",
+  "publisher": "Hospitality Net",
+  "kind": "travel"
+ },
+ {
+  "url": "https://www.hospitalitynet.org/casestudy/4135193/how-casa-faena-delights-guests-and-drives-55-more-upsells-with-canary",
+  "title": "How Casa Faena Delights Guests and Drives 55% More Upsells With Canary",
+  "summary": "Casa Faena Miami Beach achieved a 55% lift in ancillary revenue and 5/5 check-in ratings after deploying Canary Technologies' AI messaging, mobile check-in, dynamic upsells, and smart checkout tools.",
+  "date": "2026-11-04T19:00:00+00:00",
+  "publisher": "Hospitality Net",
+  "kind": "travel"
+ },
+ {
+  "url": "https://www.hospitalitynet.org/opinion/4135279/what-it-costs-to-build-a-feeling",
+  "title": "What It Costs to Build a Feeling",
+  "summary": "Owners Ferial Sadeghian and Jayson Seidman share lessons on boutique hotel development: protect atmosphere budgets, break apart per-key metrics, and expect F&B to outweigh rooms revenue.",
+  "date": "2026-11-04T18:50:00+00:00",
+  "publisher": "Hospitality Net",
+  "kind": "travel"
+ },
+ {
+  "url": "https://www.harpersbazaar.com/celebrity/latest/a74335613/suki-waterhouse-embarrassing-robert-pattinson-wedding-planning-update-interview-explained/",
+  "title": "Suki Waterhouse Gives an “Embarrassing” Update on Her Wedding to Robert Pattinson",
+  "summary": "She’s keeping things real",
+  "date": "2026-11-04T18:35:04+00:00",
+  "publisher": "Harper's Bazaar",
+  "kind": "luxury"
+ },
+ {
+  "url": "https://www.hospitalitynet.org/news/4135250/hftp-announces-hitec-2027-north-america-advisory-council",
+  "title": "HFTP Announces HITEC 2027 North America Advisory Council",
+  "summary": "HFTP named 25 hospitality technology leaders to its HITEC 2027 North America Advisory Council, which will shape education and programming for the Orlando event in June-July 2027.",
+  "date": "2026-11-04T14:00:00+00:00",
+  "publisher": "Hospitality Net",
+  "kind": "travel"
+ },
+ {
+  "url": "https://www.msn.com/en-gb/news/other/co-fermanagh-hotel-reveals-15m-plans-for-new-lakeside-wedding-venue/ar-AA2gL7Rp",
+  "title": "Co Fermanagh hotel reveals £1.5m plans for new lakeside wedding venue",
+  "summary": "It will \"combine contemporary architecture with the natural beauty of Fermanagh's lakeland setting\" ...",
+  "date": "2026-11-04T13:19:35+00:00",
+  "publisher": "Belfast Live on MSN",
+  "kind": "news",
+  "query": "luxury wedding venue"
+ },
+ {
   "url": "https://www.hospitalitynet.org/news/4135257/phuket-enters-a-new-era-of-growth-as-billions-in-investment-transform-the-islands-property-hospitality-and-lifestyle-landscape",
   "title": "Phuket Enters a New Era of Growth as Billions in Investment Transform the Island's Property, Hospitality and Lifestyle Landscape",
   "summary": "C9 Hotelworks research shows Phuket recorded 6.13M international arrivals in Jan-Sep 2026, with THB400B in tourism revenue and 5,517 hotel keys across 30 pipeline properties.",
@@ -24,6 +81,15 @@
   "kind": "travel"
  },
  {
+  "url": "https://www.msn.com/en-gb/lifestyle/other/set-to-open-in-spring-2027-northern-ireland-family-run-hotel-marks-50-years-with-1-5m-investment-in-new-wedding-venue/ar-AA2gKy0v",
+  "title": "Set to open in spring 2027: Northern Ireland family-run hotel marks 50 years with £1.5m investment in new wedding venue",
+  "summary": "Killyhevlin Lakeside Hotel & Lodges unveils plans for luxury lakeside reception space overlooking Lough Erne, set to open in spring 2027 ...",
+  "date": "2026-11-04T05:21:20+00:00",
+  "publisher": "Belfast News Letter on MSN",
+  "kind": "news",
+  "query": "luxury wedding venue"
+ },
+ {
   "url": "https://www.msn.com/en-ae/news/featured/diwali-bridal-2026-collection-festive-affair-with-fine-jewellery/ar-AA2gHYDu",
   "title": "Diwali Bridal 2026 Collection : Festive affair with fine jewellery",
   "summary": "This festive season, Meena Jewellers invites customers to celebrate in style with the launch of its Diwali Bridal 2026 Collection — an exquisite showcase that brings together timeless elegance, ...",
@@ -39,6 +105,15 @@
   "date": "2026-11-03T16:11:25+00:00",
   "publisher": "Hospitality Net",
   "kind": "travel"
+ },
+ {
+  "url": "https://blog.moneysmart.sg/travel-insurance/destination-wedding-travel-insurance/",
+  "title": "Flying Off to a Destination Wedding? Here’s the Travel Insurance Couples and Guests Need",
+  "summary": "Getting married overseas? See what destination wedding travel insurance covers, the fine print couples miss, and how guests and groups can stay protected.",
+  "date": "2026-11-03T16:00:00+00:00",
+  "publisher": "MoneySmart Blog",
+  "kind": "news",
+  "query": "destination wedding"
  },
  {
   "url": "https://www.hospitalitynet.org/news/4135245/avalora-introduces-cross-platform-guest-intelligence",
@@ -71,6 +146,15 @@
   "date": "2026-11-03T08:49:41+00:00",
   "publisher": "Hospitality Net",
   "kind": "travel"
+ },
+ {
+  "url": "https://note.com/bridy_media/n/nd698702df1fe?hl=en",
+  "title": "[Venue Survey #01] Can women hold a wedding at the Royal Park Hotel? We directly confirmed their policies on ceremonies, attire, and bridal fairs!",
+  "summary": "\"We want to hold a wedding as a female couple, but will this venue accommodate us?\"To resolve such questions and help you enjoy choosing a wedding venue that suits the two of you, BRIDY directly ...",
+  "date": "2026-11-02T22:38:00+00:00",
+  "publisher": "note",
+  "kind": "news",
+  "query": "hospitality weddings"
  },
  {
   "url": "https://skift.com/2026/11/02/choice-hotels-narrows-its-revenue-gap-but-its-upscale-brands-still-trail/",
@@ -642,6 +726,15 @@
   "query": "wedding season India"
  },
  {
+  "url": "https://www.msn.com/en-xl/lifestyle/other/bali-yet-again-named-asias-best-wedding-destination/ar-AA2gdAvo",
+  "title": "Bali yet again named Asia's best wedding destination",
+  "summary": "Bali has been named Asia's Leading Wedding Destination at the 2026 World Travel Awards, marking its seventh win in eight years.",
+  "date": "2026-10-27T23:21:01+00:00",
+  "publisher": "VnExpress International on MSN",
+  "kind": "news",
+  "query": "destination wedding"
+ },
+ {
   "url": "https://www.firstpost.com/lifestyle/how-do-celebrity-weddings-stay-private-heres-what-happens-behind-the-scenes-14055654.html",
   "title": "How do celebrity weddings stay private? Here's what happens behind the scenes",
   "summary": "Ever wondered how do celebrity weddings stay private? Expert explains the planning, confidentiality measures and logistics behind discreet luxury weddings ...",
@@ -1136,6 +1229,15 @@
   "query": "wedding guests cost"
  },
  {
+  "url": "https://brighterkashmir.com/when-weddings-become-spectacles----1",
+  "title": "When Weddings Become Spectacles----1",
+  "summary": "In the serene valleys of Kashmir, marriage has traditionally been much more than the union of two individuals. It has been a deeply rooted cultural, religious and communal milestone, bringing together ...",
+  "date": "2026-09-25T17:01:00+00:00",
+  "publisher": "brighterkashmir",
+  "kind": "news",
+  "query": "hospitality weddings"
+ },
+ {
   "url": "https://www.thehindu.com/food/features/wedding-food-trends-how-gen-z-is-changing-the-traditional-wedding-plate/article71480125.ece",
   "title": "Wedding food trends: How Gen Z is changing the traditional wedding plate",
   "summary": "Most recently, Sampath Gupta and Sangeetha Gupta of Mamatha Caterers were approached by a family organising a wedding with an unsual request: an authentic South Indian menu representing different ...",
@@ -1172,6 +1274,15 @@
   "query": "hospitality weddings"
  },
  {
+  "url": "https://www.pedestrian.tv/careers/eight-people-on-how-they-cut-wedding-costs",
+  "title": "DIY Invites, Weekday Events & Homemade Cake: 8 Couples Reveal Their Money-Saving Wedding Hacks",
+  "summary": "Wedding season is well and truly upon us. If you got proposed to over the festive period (AKA the most popular time to get engaged), congratulations! You're either still floating on cloud nine, or ...",
+  "date": "2026-09-14T00:08:00+00:00",
+  "publisher": "PEDESTRIAN.TV",
+  "kind": "news",
+  "query": "wedding costs UK"
+ },
+ {
   "url": "https://www.moneycontrol.com/news/business/personal-finance/planning-a-destination-wedding-here-s-how-to-keep-the-costs-under-control-14027359.html",
   "title": "Planning a destination wedding? Here’s how to keep the costs under control",
   "summary": "A destination wedding can quickly become expensive. You aren't simply paying for a wedding venue and food. There may be hotel rooms, airport transfers, vendor travel, multiple functions and several ...",
@@ -1206,6 +1317,15 @@
   "publisher": "IBTimes UK",
   "kind": "news",
   "query": "TikTok wedding trend"
+ },
+ {
+  "url": "https://www.vogue.com/article/meet-the-indian-wedding-stylists-brands-need-to-know",
+  "title": "Meet the Indian Wedding Stylists Brands Need to Know",
+  "summary": "The $130 billion Indian wedding market is one of luxury’s biggest opportunities. It’s estimated that Indians spend almost twice as much on weddings as they do on education, with eight to 10 million ...",
+  "date": "2026-09-02T21:30:00+00:00",
+  "publisher": "Vogue",
+  "kind": "news",
+  "query": "wedding season India"
  },
  {
   "url": "https://finance.yahoo.com/small-business/articles/hellonation-hospitality-expert-donna-herrick-152300181.html",
@@ -1254,6 +1374,15 @@
  },
  {
   "url": "https://www.msn.com/en-gb/lifestyle/other/moneyhelper-on-why-wedding-costs-are-forcing-more-guests-to-say-no/ar-AA2b0ZIV",
+  "title": "MoneyHelper on why wedding costs are forcing more guests to say no",
+  "summary": "In a regular column, MoneyHelper will share financial guidance and practical ways you can save cash without breaking a sweat. James Kelly - North West Manager for the Money and Pensions Service (MaPS) ...",
+  "date": "2026-08-26T21:00:00+00:00",
+  "publisher": "MSN",
+  "kind": "news",
+  "query": "wedding guests cost"
+ },
+ {
+  "url": "https://www.msn.com/en-gb/news/other/moneyhelper-on-why-wedding-costs-are-forcing-more-guests-to-say-no/ar-AA2b0ZIV",
   "title": "MoneyHelper on why wedding costs are forcing more guests to say no",
   "summary": "In a regular column, MoneyHelper will share financial guidance and practical ways you can save cash without breaking a sweat. James Kelly - North West Manager for the Money and Pensions Service (MaPS) ...",
   "date": "2026-08-26T21:00:00+00:00",
