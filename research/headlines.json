@@ -272,7 +272,7 @@
  {
   "query": "wedding Instagram trend",
   "headline": "Meet Emily Markus, who just married Rob Lowe’s son Matthew",
-  "publisher": "SCMP",
+  "publisher": "South China Morning Post",
   "date": "2026-10-12T07:00:00+00:00"
  },
  {
@@ -361,12 +361,6 @@
  },
  {
   "query": "luxury wedding venue opening",
-  "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
-  "publisher": "vietnamnews.vn",
-  "date": "2026-10-19T07:00:00+00:00"
- },
- {
-  "query": "luxury wedding venue opening",
   "headline": "Dubai’s Top Luxury Wedding Venues: From beachfront elegance to desert charm",
   "publisher": "Gulf News",
   "date": "2026-10-09T07:00:00+00:00"
@@ -396,6 +390,12 @@
   "date": "2026-10-15T07:00:00+00:00"
  },
  {
+  "query": "luxury wedding venue opening",
+  "headline": "Famed wedding venue of Michael Douglas, others closing for years, leaving brides scrambling",
+  "publisher": "Fox News",
+  "date": "2026-10-19T07:00:00+00:00"
+ },
+ {
   "query": "destination wedding trend",
   "headline": "Five 2027 wedding trend predictions",
   "publisher": "www.stylenest.co.uk",
@@ -421,6 +421,12 @@
  },
  {
   "query": "destination wedding trend",
+  "headline": "2027 wedding trends revealed: From noughties' nostalgia to the groom brooch",
+  "publisher": "Metro.co.uk",
+  "date": "2026-11-05T15:18:00+00:00"
+ },
+ {
+  "query": "destination wedding trend",
   "headline": "The Ballgown Wedding Dress Is Back – And Bigger Than Ever",
   "publisher": "Vogue",
   "date": "2026-10-29T10:53:18+00:00"
@@ -430,12 +436,6 @@
   "headline": "Here’s What to Wear to Every Destination Wedding in Your Calendar",
   "publisher": "Vogue",
   "date": "2026-10-08T07:00:00+00:00"
- },
- {
-  "query": "destination wedding trend",
-  "headline": "2027 wedding trends revealed: From noughties' nostalgia to the groom brooch",
-  "publisher": "Metro.co.uk",
-  "date": "2026-11-05T15:18:00+00:00"
  },
  {
   "query": "destination wedding trend",
@@ -463,9 +463,9 @@
  },
  {
   "query": "destination wedding trend",
-  "headline": "Shaadi, stamped and sealed: Wedding invites get a passport upgrade",
-  "publisher": "The Times of India",
-  "date": "2026-10-25T07:00:00+00:00"
+  "headline": "China's marriage registration innovations boost the 'sweet economy'",
+  "publisher": "China.org.cn",
+  "date": "2026-11-02T08:39:38+00:00"
  },
  {
   "query": "wedding venue hotel opening",
@@ -547,15 +547,15 @@
  },
  {
   "query": "events industry UK",
-  "headline": "EIA calls for standalone business events strategy",
-  "publisher": "Exhibition News",
-  "date": "2026-10-20T07:00:00+00:00"
- },
- {
-  "query": "events industry UK",
   "headline": "A new report highlights the state of access to music and live events for Disabled people.",
   "publisher": "Disability Rights UK",
   "date": "2026-11-05T15:21:23+00:00"
+ },
+ {
+  "query": "events industry UK",
+  "headline": "EIA calls for standalone business events strategy",
+  "publisher": "Exhibition News",
+  "date": "2026-10-20T07:00:00+00:00"
  },
  {
   "query": "events industry UK",
@@ -601,9 +601,9 @@
  },
  {
   "query": "events industry UK",
-  "headline": "94% of disabled people feel at risk at live events",
-  "publisher": "Access All Areas",
-  "date": "2026-11-03T15:37:37+00:00"
+  "headline": "Venture Builder: Turn your idea into reality | Study at UCL",
+  "publisher": "UCL | University College London",
+  "date": "2026-10-12T07:00:00+00:00"
  },
  {
   "query": "events industry UK",
@@ -631,15 +631,15 @@
  },
  {
   "query": "wedding survey UK",
-  "headline": "Catholic Marriage Is Declining, but Devout Couples Are Thriving",
-  "publisher": "EWTN Great Britain",
-  "date": "2026-10-08T07:00:00+00:00"
- },
- {
-  "query": "wedding survey UK",
   "headline": "Brittany Howard And Anna-Maria Babcock’s Tennessee Wedding Was A Celebration Of Their Mexican And Southern Roots",
   "publisher": "Vogue",
   "date": "2026-11-04T10:03:03+00:00"
+ },
+ {
+  "query": "wedding survey UK",
+  "headline": "Catholic Marriage Is Declining, but Devout Couples Are Thriving",
+  "publisher": "EWTN Great Britain",
+  "date": "2026-10-08T07:00:00+00:00"
  },
  {
   "query": "wedding survey UK",
@@ -673,15 +673,15 @@
  },
  {
   "query": "wedding survey UK",
-  "headline": "Inside Ejae And Samuel Kim’s Garden Wedding At Her Grandfather’s Former Home In Seoul",
-  "publisher": "Vogue",
-  "date": "2026-10-20T07:00:00+00:00"
- },
- {
-  "query": "wedding survey UK",
   "headline": "Camilla, queen consort of the United Kingdom | Biography, Wedding, & Facts",
   "publisher": "Britannica",
   "date": "2026-10-24T07:00:00+00:00"
+ },
+ {
+  "query": "wedding survey UK",
+  "headline": "The 19 best honeymoon destinations for 2027: romantic getaways across the world",
+  "publisher": "CN Traveller",
+  "date": "2026-10-29T07:30:00+00:00"
  },
  {
   "query": "wedding costs",

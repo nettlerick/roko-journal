@@ -1,5 +1,37 @@
 [
  {
+  "url": "https://www.tatler.com/article/lady-tamara-grosvenor-wedding",
+  "title": "A Westminster wedding at Chester Cathedral, a dazzling tiara, and a scandalous royal no-show: looking back at the nuptials of Lady Tamara Grosvenor and Edward van Cutsem",
+  "summary": "Twenty-two years ago this week, Lady Tamara Grosvenor and Edward Van Cutsem exchanged vows in the society wedding of the day",
+  "date": "2026-11-06T11:46:10+00:00",
+  "publisher": "Tatler",
+  "kind": "luxury"
+ },
+ {
+  "url": "https://www.vogue.com/article/best-winter-wedding-guest-dresses",
+  "title": "28 Winter Wedding Guest Dresses for Cold-Weather Ceremonies",
+  "summary": "From silk dresses to sequined maxis, shop Vogue’s edit of the best winter wedding guest dresses for every budget.",
+  "date": "2026-11-06T11:00:00+00:00",
+  "publisher": "Vogue",
+  "kind": "luxury"
+ },
+ {
+  "url": "https://www.vogue.com/slideshow/lola-teller-and-freddie-woodruff-wedding",
+  "title": "This Fashion Scion’s Laid-Back Ibiza Wedding Featured Lace Dresses, Barefoot Vows, and Dancing Till Dawn",
+  "summary": "Lola Teller walked down the aisle flanked by her parents, fashion photographer and stylist Venetia Scott and photographer Juergen Teller, to marry Freddie Woodruff in an Ibizan pine grove.",
+  "date": "2026-11-06T11:00:00+00:00",
+  "publisher": "Vogue",
+  "kind": "luxury"
+ },
+ {
+  "url": "https://www.hospitalitynet.org/news/4135314/darklight-collection-chooses-mews-to-power-a-new-generation-of-dark-sky-hospitality",
+  "title": "DarkLight Collection chooses Mews to power a new generation of dark-sky hospitality",
+  "summary": "DarkLight Collection, a luxury dark-sky glamping brand with four US properties in development, selected Mews as its single operating system before opening, integrating PMS, revenue, housekeeping and smart room tech on one platform.",
+  "date": "2026-11-06T10:10:43+00:00",
+  "publisher": "Hospitality Net",
+  "kind": "travel"
+ },
+ {
   "url": "https://www.hospitalitynet.org/opinion/4135278/goodbye-gatekeeping-how-millennials-and-gen-z-are-killing-stiff-luxury",
   "title": "Goodbye, Gatekeeping: How Millennials and Gen Z are Killing Stiff Luxury",
   "summary": "Executives across luxury hospitality, F&B, and events explain how authenticity, storytelling, and personality-led service are replacing rigid formality as the new markers of luxury for Millennial and Gen Z guests.",
@@ -1125,6 +1157,15 @@
   "query": "hospitality weddings"
  },
  {
+  "url": "https://www.msn.com/en-gb/news/other/how-to-plan-a-whimsical-wedding/ar-AA2fMStJ",
+  "title": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
+  "summary": "From dreamy floral arrangements to flowing fabrics and playful colours, an expert shares how to bring a little magic to your big day.",
+  "date": "2026-10-22T04:32:00+00:00",
+  "publisher": "PA Lifestyle on MSN",
+  "kind": "news",
+  "query": "TikTok wedding trend"
+ },
+ {
   "url": "https://www.ireland-live.ie/lifestyle-news/whimsical-weddings-are-huge-on-tiktok-right-now-how-to-do-the-trend-for-your-big-day-9313824",
   "title": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
   "summary": "From dreamy floral arrangements to flowing fabrics and playful colours, an expert shares how to bring a little magic to your big day.",
@@ -1166,6 +1207,24 @@
   "summary": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day - From dreamy floral arrangements to flowing fabrics and playful colours, an expert shares how to bring a little ...",
   "date": "2026-10-22T03:18:10+00:00",
   "publisher": "The Independent on MSN",
+  "kind": "news",
+  "query": "TikTok wedding trend"
+ },
+ {
+  "url": "https://www.msn.com/en-ca/news/other/whimsical-weddings-are-huge-on-tiktok-right-now-how-to-do-the-trend-for-your-big-day/ar-AA2fNVZQ",
+  "title": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
+  "summary": "Forget traditional white weddings and perfectly polished ceremonies – couples are increasingly looking to bring a little more magic, imagination and personality to their big day. Whether it’s ...",
+  "date": "2026-10-22T03:18:00+00:00",
+  "publisher": "MSN",
+  "kind": "news",
+  "query": "TikTok wedding trend"
+ },
+ {
+  "url": "https://www.msn.com/en-au/lifestyle/other/whimsical-weddings-are-huge-on-tiktok-right-now-how-to-do-the-trend-for-your-big-day/ar-AA2fNigl",
+  "title": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
+  "summary": "Forget traditional white weddings and perfectly polished ceremonies – couples are increasingly looking to bring a little more magic, imagination and personality to their big day. Whether it’s ...",
+  "date": "2026-10-22T03:18:00+00:00",
+  "publisher": "MSN",
   "kind": "news",
   "query": "TikTok wedding trend"
  },
