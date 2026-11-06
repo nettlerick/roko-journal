@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T09:25:30+00:00",
+ "generated": "2026-11-06T13:00:45+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2285,7 +2285,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-06T09:18+00:00",
+  "generated": "2026-11-06T12:54+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2314,6 +2314,38 @@
   ],
   "page_changes": [],
   "feed_items": [
+   {
+    "url": "https://www.tatler.com/article/lady-tamara-grosvenor-wedding",
+    "title": "A Westminster wedding at Chester Cathedral, a dazzling tiara, and a scandalous royal no-show: looking back at the nuptials of Lady Tamara Grosvenor and Edward van Cutsem",
+    "summary": "Twenty-two years ago this week, Lady Tamara Grosvenor and Edward Van Cutsem exchanged vows in the society wedding of the day",
+    "date": "2026-11-06T11:46:10+00:00",
+    "publisher": "Tatler",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.vogue.com/article/best-winter-wedding-guest-dresses",
+    "title": "28 Winter Wedding Guest Dresses for Cold-Weather Ceremonies",
+    "summary": "From silk dresses to sequined maxis, shop Vogue’s edit of the best winter wedding guest dresses for every budget.",
+    "date": "2026-11-06T11:00:00+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.vogue.com/slideshow/lola-teller-and-freddie-woodruff-wedding",
+    "title": "This Fashion Scion’s Laid-Back Ibiza Wedding Featured Lace Dresses, Barefoot Vows, and Dancing Till Dawn",
+    "summary": "Lola Teller walked down the aisle flanked by her parents, fashion photographer and stylist Venetia Scott and photographer Juergen Teller, to marry Freddie Woodruff in an Ibizan pine grove.",
+    "date": "2026-11-06T11:00:00+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/news/4135314/darklight-collection-chooses-mews-to-power-a-new-generation-of-dark-sky-hospitality",
+    "title": "DarkLight Collection chooses Mews to power a new generation of dark-sky hospitality",
+    "summary": "DarkLight Collection, a luxury dark-sky glamping brand with four US properties in development, selected Mews as its single operating system before opening, integrating PMS, revenue, housekeeping and smart room tech on one platform.",
+    "date": "2026-11-06T10:10:43+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
    {
     "url": "https://www.hospitalitynet.org/opinion/4135278/goodbye-gatekeeping-how-millennials-and-gen-z-are-killing-stiff-luxury",
     "title": "Goodbye, Gatekeeping: How Millennials and Gen Z are Killing Stiff Luxury",
@@ -2779,42 +2811,6 @@
     "publisher": "Event Industry News",
     "kind": "news",
     "query": "wedding industry UK"
-   },
-   {
-    "url": "https://hotelandcatering.com/news/wynn-al-marjan-island-reimagines-the-destination-wedding",
-    "title": "WYNN AL MARJAN ISLAND REIMAGINES THE DESTINATION WEDDING",
-    "summary": "Wynn Al Marjan Island, the first destination resort in the United Arab Emirates, today reveals new details of its wedding ...",
-    "date": "2026-11-02T00:32:00+00:00",
-    "publisher": "Hotel & Catering",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.arabianbusiness.com/business/tourism-hospitality/wynn-al-marjan-wedding-venues",
-    "title": "Wynn Al Marjan Island unveils wedding venues ahead of late 2027 launch",
-    "summary": "The Ras Al Khaimah resort will offer wedding facilities accommodating up to 1,260 guests, alongside dedicated spaces for multi-day Indian celebrations ...",
-    "date": "2026-11-01T23:49:00+00:00",
-    "publisher": "Arabian Business",
-    "kind": "news",
-    "query": "hospitality weddings"
-   },
-   {
-    "url": "https://indianexpress.com/article/india/mahadev-app-saurabh-chandrakar-extradition-oman-bhilai-dubai-ed-case-10946916/",
-    "title": "From Rs 15,000 salary to Rs 200-crore wedding: Mahadev accused Saurabh Chandrakar’s rise",
-    "summary": "Chandrakar, a native of Chhattisgarh’s Bhilai, is the son of a clerk with the Bhilai Municipal Corporation who took voluntary retirement, and his mother is a homemaker.",
-    "date": "2026-11-01T23:30:00+00:00",
-    "publisher": "The Indian Express",
-    "kind": "news",
-    "query": "Dubai wedding"
-   },
-   {
-    "url": "https://www.msn.com/en-in/news/other/wedding-season-pressure-drives-rise-in-off-label-weight-loss-drug-use/ar-AA2gz4N9",
-    "title": "Wedding season pressure drives rise in off-label weight-loss drug use",
-    "summary": "Prospective brides and grooms are increasingly seeking prescription weight-loss injections like Mounjaro to shed kilos before their weddings, prompting medical experts to warn against using these ...",
-    "date": "2026-11-01T22:41:34+00:00",
-    "publisher": "Mirror Now on MSN",
-    "kind": "news",
-    "query": "wedding season India"
    }
   ],
   "headlines": [
@@ -3091,7 +3087,7 @@
    {
     "query": "wedding Instagram trend",
     "headline": "Meet Emily Markus, who just married Rob Lowe’s son Matthew",
-    "publisher": "SCMP",
+    "publisher": "South China Morning Post",
     "date": "2026-10-12T07:00:00+00:00"
    },
    {
