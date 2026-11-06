@@ -87,7 +87,30 @@
  "series": "Journal",
  "date": "2026-11-06T09:21",
  "updated": "2026-11-06T09:21",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Gulf News",
+   "credit_url": "https://gulfnews.com/friday/friday-bride/dubais-top-luxury-wedding-venues-from-beachfront-elegance-to-desert-charm-1.500703299",
+   "license": "Image from the cited website",
+   "file": "media/luxury-wedding-ideas-for-every-budget/cover.webp",
+   "width": 1200,
+   "height": 675,
+   "alt": "A grand wedding ballroom with blue and gold decor, floral centerpieces, and ornate crystal chandeliers.",
+   "source": "website",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@d59ab360142539b3f80a6c205852aebc1f938163/media/luxury-wedding-ideas-for-every-budget/cover.webp"
+  },
+  {
+   "credit": "Photo: Vogue",
+   "credit_url": "https://www.vogue.com/article/meet-the-indian-wedding-stylists-brands-need-to-know",
+   "license": "Image from the cited website",
+   "file": "media/luxury-wedding-ideas-for-every-budget/1.webp",
+   "width": 1200,
+   "height": 675,
+   "alt": "Two women in ornate Indian wedding attire, one holding the long, sparkling veil of the bride against a peach wall.",
+   "source": "website",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@d59ab360142539b3f80a6c205852aebc1f938163/media/luxury-wedding-ideas-for-every-budget/1.webp"
+  }
+ ],
  "categories": [
   "wedding-castles-and-estates",
   "wedding-planning"
