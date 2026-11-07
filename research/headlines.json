@@ -13,21 +13,21 @@
  },
  {
   "query": "wedding trends",
+  "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
+  "publisher": "Who What Wear",
+  "date": "2026-10-29T07:00:00+00:00"
+ },
+ {
+  "query": "wedding trends",
   "headline": "The 6 Biggest Wedding Dress Trends From New York Bridal Fashion Week Fall 2027",
   "publisher": "Vogue",
   "date": "2026-10-20T07:00:00+00:00"
  },
  {
   "query": "wedding trends",
-  "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
-  "publisher": "Who What Wear",
-  "date": "2026-10-29T11:00:00+00:00"
- },
- {
-  "query": "wedding trends",
   "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
   "publisher": "ELLE",
-  "date": "2026-10-29T10:49:25+00:00"
+  "date": "2026-10-29T07:00:00+00:00"
  },
  {
   "query": "wedding trends",
@@ -40,12 +40,6 @@
   "headline": "Stripped-down wedding trends in China as young couples reshape rules of matrimony",
   "publisher": "Global Times",
   "date": "2026-10-14T07:00:00+00:00"
- },
- {
-  "query": "wedding trends",
-  "headline": "Mindy Weiss On Current Wedding Trends and Her Fun New Project",
-  "publisher": "Daily Front Row",
-  "date": "2026-10-08T07:00:00+00:00"
  },
  {
   "query": "wedding trends",
@@ -70,6 +64,12 @@
   "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
   "publisher": "WWD",
   "date": "2026-10-22T07:00:00+00:00"
+ },
+ {
+  "query": "wedding trends",
+  "headline": "You're cordially invited to my three-day wedding",
+  "publisher": "Axios",
+  "date": "2026-10-18T07:00:00+00:00"
  },
  {
   "query": "wedding industry",
@@ -157,21 +157,9 @@
  },
  {
   "query": "viral wedding TikTok",
-  "headline": "“I Hope He Divorced Her”: Bride Sparks Outrage Over Wedding Vows",
-  "publisher": "AOL.com",
-  "date": "2026-10-11T07:00:00+00:00"
- },
- {
-  "query": "viral wedding TikTok",
   "headline": "Ghostbusters Theme Interrupts Couple’s Wedding Vows in Viral Video",
   "publisher": "Ghostbusters News",
   "date": "2026-10-31T14:59:19+00:00"
- },
- {
-  "query": "viral wedding TikTok",
-  "headline": "Bride reportedly asks bridesmaid to gain 120 pounds TikTok video, explained",
-  "publisher": "The Mary Sue",
-  "date": "2026-11-04T14:45:00+00:00"
  },
  {
   "query": "viral wedding TikTok",
@@ -181,9 +169,21 @@
  },
  {
   "query": "viral wedding TikTok",
+  "headline": "Bride reportedly asks bridesmaid to gain 120 pounds TikTok video, explained",
+  "publisher": "The Mary Sue",
+  "date": "2026-11-04T14:45:00+00:00"
+ },
+ {
+  "query": "viral wedding TikTok",
   "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
   "publisher": "IMDb",
   "date": "2026-11-05T19:27:57+00:00"
+ },
+ {
+  "query": "viral wedding TikTok",
+  "headline": "A bride's search for her mother's missing wedding dress goes viral",
+  "publisher": "NBC 5 Chicago",
+  "date": "2026-10-28T07:00:00+00:00"
  },
  {
   "query": "viral wedding TikTok",
@@ -199,21 +199,21 @@
  },
  {
   "query": "viral wedding TikTok",
-  "headline": "A bride's search for her mother's missing wedding dress goes viral",
-  "publisher": "NBC 5 Chicago",
-  "date": "2026-10-28T20:30:14+00:00"
- },
- {
-  "query": "viral wedding TikTok",
   "headline": "Couple’s wedding vows interrupted by marching band blasting ‘Ghostbusters’ theme",
   "publisher": "New York Post",
   "date": "2026-11-02T00:00:00+00:00"
  },
  {
   "query": "viral wedding TikTok",
-  "headline": "Did the groom really call someone else in the viral WedTok?",
-  "publisher": "The Mary Sue",
-  "date": "2026-10-08T07:00:00+00:00"
+  "headline": "Ashe's 'Stop the Wedding': The Viral Trend Raising Marriage Awareness",
+  "publisher": "Tempo.co English",
+  "date": "2026-11-07T05:04:55+00:00"
+ },
+ {
+  "query": "viral wedding TikTok",
+  "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
+  "publisher": "Just Jared",
+  "date": "2026-11-05T17:55:19+00:00"
  },
  {
   "query": "wedding Instagram trend",
@@ -225,7 +225,7 @@
   "query": "wedding Instagram trend",
   "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
   "publisher": "ELLE",
-  "date": "2026-10-29T10:49:25+00:00"
+  "date": "2026-10-29T07:00:00+00:00"
  },
  {
   "query": "wedding Instagram trend",
@@ -235,27 +235,33 @@
  },
  {
   "query": "wedding Instagram trend",
-  "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
-  "publisher": "AOL.com",
-  "date": "2026-10-25T07:00:00+00:00"
- },
- {
-  "query": "wedding Instagram trend",
   "headline": "The Viral “Stop the Wedding” Trend Is a Reminder That It’s Never Too Late to Walk Away",
   "publisher": "Cosmopolitan",
   "date": "2026-11-05T18:40:07+00:00"
  },
  {
   "query": "wedding Instagram trend",
-  "headline": "Mindy Weiss On Current Wedding Trends and Her Fun New Project",
-  "publisher": "Daily Front Row",
-  "date": "2026-10-08T07:00:00+00:00"
+  "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
+  "publisher": "AOL.com",
+  "date": "2026-10-25T07:00:00+00:00"
+ },
+ {
+  "query": "wedding Instagram trend",
+  "headline": "Your guide through October social media trends",
+  "publisher": "Vogue Adria",
+  "date": "2026-11-02T18:00:12+00:00"
  },
  {
   "query": "wedding Instagram trend",
   "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
   "publisher": "WWD",
   "date": "2026-10-22T07:00:00+00:00"
+ },
+ {
+  "query": "wedding Instagram trend",
+  "headline": "The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite Fashion Sourcer",
+  "publisher": "Vogue",
+  "date": "2026-10-29T07:00:00+00:00"
  },
  {
   "query": "wedding Instagram trend",
@@ -282,12 +288,6 @@
   "date": "2026-10-09T07:00:00+00:00"
  },
  {
-  "query": "wedding Instagram trend",
-  "headline": "5 Vancouver Wedding Trends to Inspire Your 2026 Celebration",
-  "publisher": "Vancouver Magazine",
-  "date": "2026-10-11T07:00:00+00:00"
- },
- {
   "query": "Pinterest wedding trends",
   "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
   "publisher": "ELLE Australia",
@@ -307,21 +307,15 @@
  },
  {
   "query": "Pinterest wedding trends",
-  "headline": "The 7 Beauty Trends Taking Over The Rest Of 2026, According to Pinterest",
-  "publisher": "Pedestrian TV",
-  "date": "2026-10-08T07:00:00+00:00"
+  "headline": "25 Best Dress Brands To Know For Every Occasion in 2026",
+  "publisher": "ELLE",
+  "date": "2026-11-04T08:00:00+00:00"
  },
  {
   "query": "Pinterest wedding trends",
   "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
   "publisher": "New York Post",
   "date": "2026-11-04T20:21:00+00:00"
- },
- {
-  "query": "Pinterest wedding trends",
-  "headline": "5 Must-Have Lipstick Shades For The Festive-Cum-Bridal Season",
-  "publisher": "Herzindagi",
-  "date": "2026-10-08T07:00:00+00:00"
  },
  {
   "query": "luxury wedding venue opening",
@@ -337,21 +331,15 @@
  },
  {
   "query": "luxury wedding venue opening",
-  "headline": "27 best weekend wedding venues in the UK for a multi-day celebration",
-  "publisher": "SquareMeal",
-  "date": "2026-10-08T07:00:00+00:00"
- },
- {
-  "query": "luxury wedding venue opening",
   "headline": "Co Fermanagh hotel reveals £1.5m plans for new lakeside wedding venue",
   "publisher": "Belfast Live",
   "date": "2026-11-04T21:19:00+00:00"
  },
  {
   "query": "luxury wedding venue opening",
-  "headline": "The best events and wedding planners in 2026",
-  "publisher": "Spear's Magazine",
-  "date": "2026-10-20T07:00:00+00:00"
+  "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
+  "publisher": "The Impartial Reporter",
+  "date": "2026-10-27T16:24:29+00:00"
  },
  {
   "query": "luxury wedding venue opening",
@@ -361,45 +349,45 @@
  },
  {
   "query": "luxury wedding venue opening",
+  "headline": "The best engagement party venues in London",
+  "publisher": "SquareMeal",
+  "date": "2026-11-03T08:00:00+00:00"
+ },
+ {
+  "query": "luxury wedding venue opening",
   "headline": "Dubai’s Top Luxury Wedding Venues: From beachfront elegance to desert charm",
   "publisher": "Gulf News",
   "date": "2026-10-09T07:00:00+00:00"
  },
  {
   "query": "luxury wedding venue opening",
-  "headline": "The best wedding bands for men: from modern classics to new-wave alternatives",
-  "publisher": "British GQ",
-  "date": "2026-10-28T07:00:00+00:00"
+  "headline": "Our roundup of the very best breakfasts in London",
+  "publisher": "Time Out Worldwide",
+  "date": "2026-10-29T07:00:00+00:00"
  },
  {
   "query": "luxury wedding venue opening",
-  "headline": "Our roundup of the very best breakfasts in London",
-  "publisher": "Time Out Worldwide",
-  "date": "2026-10-29T00:00:00+00:00"
+  "headline": "How Urvashi Mishra is Reinventing Entrepreneurship, Hospitality, and the Future of Luxury Wedding Planning",
+  "publisher": "USA Today",
+  "date": "2026-11-06T19:16:00+00:00"
  },
  {
   "query": "luxury wedding venue opening",
   "headline": "Vogue Retail: Bridal. 22 Wedding Must-Haves For All Brides-to-Be",
-  "publisher": "British Vogue",
+  "publisher": "Vogue",
   "date": "2026-10-20T07:00:00+00:00"
+ },
+ {
+  "query": "luxury wedding venue opening",
+  "headline": "The best ties and tie brands to bring your suiting to life",
+  "publisher": "British GQ",
+  "date": "2026-10-21T07:00:00+00:00"
  },
  {
   "query": "luxury wedding venue opening",
   "headline": "We Spent Weeks Testing Dinnerware Sets to Find the 12 Best Options for Every Budget",
   "publisher": "Serious Eats",
   "date": "2026-10-15T07:00:00+00:00"
- },
- {
-  "query": "luxury wedding venue opening",
-  "headline": "Famed wedding venue of Michael Douglas, others closing for years, leaving brides scrambling",
-  "publisher": "Fox News",
-  "date": "2026-10-19T07:00:00+00:00"
- },
- {
-  "query": "destination wedding trend",
-  "headline": "Five 2027 wedding trend predictions",
-  "publisher": "www.stylenest.co.uk",
-  "date": "2026-10-17T15:40:02+00:00"
  },
  {
   "query": "destination wedding trend",
@@ -429,13 +417,13 @@
   "query": "destination wedding trend",
   "headline": "The Ballgown Wedding Dress Is Back – And Bigger Than Ever",
   "publisher": "Vogue",
-  "date": "2026-10-29T10:53:18+00:00"
+  "date": "2026-10-29T07:00:00+00:00"
  },
  {
   "query": "destination wedding trend",
-  "headline": "Here’s What to Wear to Every Destination Wedding in Your Calendar",
-  "publisher": "Vogue",
-  "date": "2026-10-08T07:00:00+00:00"
+  "headline": "You're cordially invited to my three-day wedding",
+  "publisher": "Axios",
+  "date": "2026-10-18T07:00:00+00:00"
  },
  {
   "query": "destination wedding trend",
@@ -457,15 +445,21 @@
  },
  {
   "query": "destination wedding trend",
-  "headline": "From beach weddings to royal palace ceremonies, how to pick the right jewellery for every destination wedding | Fashion Trends",
-  "publisher": "Hindustan Times",
-  "date": "2026-10-29T09:07:07+00:00"
+  "headline": "Unexpected Textures Were the Breakout Trend From Bridal Fashion Week",
+  "publisher": "Vogue",
+  "date": "2026-10-22T07:00:00+00:00"
  },
  {
   "query": "destination wedding trend",
-  "headline": "China's marriage registration innovations boost the 'sweet economy'",
-  "publisher": "China.org.cn",
-  "date": "2026-11-02T08:39:38+00:00"
+  "headline": "From beach weddings to royal palace ceremonies, how to pick the right jewellery for every destination wedding | Fashion Trends",
+  "publisher": "Hindustan Times",
+  "date": "2026-10-29T07:00:00+00:00"
+ },
+ {
+  "query": "destination wedding trend",
+  "headline": "25 Best Dress Brands To Know For Every Occasion in 2026",
+  "publisher": "ELLE",
+  "date": "2026-11-04T08:00:00+00:00"
  },
  {
   "query": "wedding venue hotel opening",
@@ -481,39 +475,27 @@
  },
  {
   "query": "wedding venue hotel opening",
+  "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
+  "publisher": "The Impartial Reporter",
+  "date": "2026-10-27T16:24:29+00:00"
+ },
+ {
+  "query": "wedding venue hotel opening",
   "headline": "Bride Left Without Wedding Venue After N.Y.C.’s Plaza Hotel Announces Closure 2 Weeks After She Put Down Deposit",
   "publisher": "AOL.com",
   "date": "2026-10-26T07:00:00+00:00"
  },
  {
   "query": "wedding venue hotel opening",
-  "headline": "Co Fermanagh hotel reveals £1.5m plans for new lakeside wedding venue",
-  "publisher": "Belfast Live",
-  "date": "2026-11-04T21:19:00+00:00"
- },
- {
-  "query": "wedding venue hotel opening",
-  "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
-  "publisher": "Yahoo News UK",
-  "date": "2026-10-27T07:00:00+00:00"
+  "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
+  "publisher": "Business Eye Magazine",
+  "date": "2026-10-30T09:35:01+00:00"
  },
  {
   "query": "wedding venue hotel opening",
   "headline": "Historic hotel plans huge wedding venue to turn 'poor trade' around",
   "publisher": "The Wiltshire Gazette and Herald",
   "date": "2026-11-04T05:00:00+00:00"
- },
- {
-  "query": "wedding venue hotel opening",
-  "headline": "Larchfield Estate at 20: how Northern Ireland’s first non-hotel wedding venue grew into an events and accommodation destination",
-  "publisher": "Business First Online",
-  "date": "2026-10-08T07:00:00+00:00"
- },
- {
-  "query": "wedding venue hotel opening",
-  "headline": "Fermanagh castle estate named Intimate Wedding Venue of the Year",
-  "publisher": "The Impartial Reporter",
-  "date": "2026-10-27T15:38:24+00:00"
  },
  {
   "query": "wedding venue hotel opening",
@@ -529,15 +511,27 @@
  },
  {
   "query": "wedding venue hotel opening",
-  "headline": "Lincoln hotel unveils refreshed leisure club after £500k investment",
+  "headline": "Hotel group reveals plans for new £50m hotel in Belfast",
   "publisher": "Boutique Hotelier",
-  "date": "2026-11-04T12:50:23+00:00"
+  "date": "2026-11-02T09:17:09+00:00"
  },
  {
   "query": "wedding venue hotel opening",
   "headline": "County Durham hotel unveils luxury cottage after six-figure investment",
   "publisher": "The Northern Echo",
   "date": "2026-10-13T07:00:00+00:00"
+ },
+ {
+  "query": "wedding venue hotel opening",
+  "headline": "Famed wedding venue of Michael Douglas, others closing for years, leaving brides scrambling",
+  "publisher": "Fox News",
+  "date": "2026-10-19T07:00:00+00:00"
+ },
+ {
+  "query": "wedding venue hotel opening",
+  "headline": "Fermanagh castle estate named Intimate Wedding Venue of the Year",
+  "publisher": "The Impartial Reporter",
+  "date": "2026-10-27T15:38:24+00:00"
  },
  {
   "query": "events industry UK",
@@ -547,33 +541,33 @@
  },
  {
   "query": "events industry UK",
-  "headline": "A new report highlights the state of access to music and live events for Disabled people.",
-  "publisher": "Disability Rights UK",
-  "date": "2026-11-05T15:21:23+00:00"
- },
- {
-  "query": "events industry UK",
   "headline": "EIA calls for standalone business events strategy",
   "publisher": "Exhibition News",
   "date": "2026-10-20T07:00:00+00:00"
  },
  {
   "query": "events industry UK",
+  "headline": "A new report highlights the state of access to music and live events for Disabled people.",
+  "publisher": "Disability Rights UK",
+  "date": "2026-11-05T15:21:23+00:00"
+ },
+ {
+  "query": "events industry UK",
   "headline": "Experience of Work launches with industry already supporting Year 1 target",
   "publisher": "StandOut Magazine",
-  "date": "2026-10-16T14:46:48+00:00"
+  "date": "2026-10-16T07:00:00+00:00"
  },
  {
   "query": "events industry UK",
   "headline": "UK and Ukrainian industry unite to accelerate drone innovation",
   "publisher": "GOV.UK",
-  "date": "2026-10-30T10:52:14+00:00"
+  "date": "2026-10-30T07:00:00+00:00"
  },
  {
   "query": "events industry UK",
-  "headline": "One Day at Christmas: One month to go",
-  "publisher": "Conference News",
-  "date": "2026-11-04T08:00:00+00:00"
+  "headline": "From industrial powerhouse to uncertain future: lessons from Britain’s chemical industry",
+  "publisher": "Loughborough University",
+  "date": "2026-11-04T15:23:15+00:00"
  },
  {
   "query": "events industry UK",
@@ -583,15 +577,9 @@
  },
  {
   "query": "events industry UK",
-  "headline": "Vast majority of disabled audience members at music events feel ‘at risk’, says report",
-  "publisher": "Arts Professional",
-  "date": "2026-11-05T12:45:39+00:00"
- },
- {
-  "query": "events industry UK",
-  "headline": "Event leaders in the UK, Germany and the US reveal the hidden barrier to proving event ROI",
-  "publisher": "Event Industry News",
-  "date": "2026-11-03T11:56:44+00:00"
+  "headline": "Advances in Computational Approaches to Antimicrobial Resistance",
+  "publisher": "Brunel University",
+  "date": "2026-11-04T08:00:00+00:00"
  },
  {
   "query": "events industry UK",
@@ -601,15 +589,21 @@
  },
  {
   "query": "events industry UK",
-  "headline": "Venture Builder: Turn your idea into reality | Study at UCL",
-  "publisher": "UCL | University College London",
-  "date": "2026-10-12T07:00:00+00:00"
+  "headline": "UK government approves new North Sea gas field, says tax revenue will fund clean energy",
+  "publisher": "Solar Power Portal",
+  "date": "2026-10-21T07:00:00+00:00"
  },
  {
   "query": "events industry UK",
-  "headline": "One Industry, Two Voices: Costume Design",
-  "publisher": "Royal Television Society",
-  "date": "2026-10-14T07:00:00+00:00"
+  "headline": "AUKUS nations showcase cutting-edge maritime technology in major demonstration event",
+  "publisher": "Royal Navy",
+  "date": "2026-10-19T07:00:00+00:00"
+ },
+ {
+  "query": "events industry UK",
+  "headline": "Senior political industry leaders to join Wales business events and economic growth roundtable",
+  "publisher": "Conference News",
+  "date": "2026-10-26T11:13:03+00:00"
  },
  {
   "query": "wedding survey UK",
@@ -625,6 +619,12 @@
  },
  {
   "query": "wedding survey UK",
+  "headline": "British Airways almost ruined my honeymoon",
+  "publisher": "The Telegraph",
+  "date": "2026-10-28T07:00:00+00:00"
+ },
+ {
+  "query": "wedding survey UK",
   "headline": "Kent couple explain how they had 'affordable luxury' wedding - for less than £10K",
   "publisher": "My London",
   "date": "2026-10-24T07:00:00+00:00"
@@ -634,12 +634,6 @@
   "headline": "Brittany Howard And Anna-Maria Babcock’s Tennessee Wedding Was A Celebration Of Their Mexican And Southern Roots",
   "publisher": "Vogue",
   "date": "2026-11-04T10:03:03+00:00"
- },
- {
-  "query": "wedding survey UK",
-  "headline": "Catholic Marriage Is Declining, but Devout Couples Are Thriving",
-  "publisher": "EWTN Great Britain",
-  "date": "2026-10-08T07:00:00+00:00"
  },
  {
   "query": "wedding survey UK",
@@ -661,12 +655,6 @@
  },
  {
   "query": "wedding survey UK",
-  "headline": "The best wedding bands for men: from modern classics to new-wave alternatives",
-  "publisher": "British GQ",
-  "date": "2026-10-28T07:00:00+00:00"
- },
- {
-  "query": "wedding survey UK",
   "headline": "What is Britain’s national dish?",
   "publisher": "YouGov",
   "date": "2026-10-23T07:00:00+00:00"
@@ -679,9 +667,15 @@
  },
  {
   "query": "wedding survey UK",
+  "headline": "This Designer Made Her Dream Butter-Yellow Gown for Her Wedding At A Historic French Villa",
+  "publisher": "Vogue",
+  "date": "2026-11-03T10:26:40+00:00"
+ },
+ {
+  "query": "wedding survey UK",
   "headline": "The 19 best honeymoon destinations for 2027: romantic getaways across the world",
   "publisher": "CN Traveller",
-  "date": "2026-10-29T07:30:00+00:00"
+  "date": "2026-10-29T07:00:00+00:00"
  },
  {
   "query": "wedding costs",
@@ -697,9 +691,9 @@
  },
  {
   "query": "wedding costs",
-  "headline": "Weddings are more costly than ever: Here are 10 ways to save money on your wedding expenses",
-  "publisher": "CNBC",
-  "date": "2026-10-20T07:00:00+00:00"
+  "headline": "Mass weddings: A solution to wedding costs or a new challenge in preparing for married life?",
+  "publisher": "Independent Observer",
+  "date": "2026-10-29T07:00:00+00:00"
  },
  {
   "query": "wedding costs",
@@ -715,9 +709,9 @@
  },
  {
   "query": "wedding costs",
-  "headline": "As wedding costs climb, tariffs add another expense for metro Detroit couples",
-  "publisher": "WXYZ Channel 7",
-  "date": "2026-10-16T07:00:00+00:00"
+  "headline": "Weddings are more costly than ever: Here are 10 ways to save money on your wedding expenses",
+  "publisher": "CNBC",
+  "date": "2026-10-20T07:00:00+00:00"
  },
  {
   "query": "wedding costs",
@@ -745,14 +739,14 @@
  },
  {
   "query": "wedding costs",
-  "headline": "House, Wedding, Car: How To Prioritise Big Life Expenses",
-  "publisher": "NDTV",
-  "date": "2026-10-25T07:00:00+00:00"
+  "headline": "As wedding costs climb, tariffs add another expense for metro Detroit couples",
+  "publisher": "WXYZ Channel 7",
+  "date": "2026-10-15T07:00:00+00:00"
  },
  {
   "query": "wedding costs",
-  "headline": "The Cost of Every Wedding Event",
-  "publisher": "Ally",
-  "date": "2026-10-14T07:00:00+00:00"
+  "headline": "House, Wedding, Car: How To Prioritise Big Life Expenses",
+  "publisher": "NDTV",
+  "date": "2026-10-25T07:00:00+00:00"
  }
 ]
