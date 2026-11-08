@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T09:12:27+00:00",
+ "generated": "2026-11-08T12:10:28+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2293,7 +2293,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-08T08:54+00:00",
+  "generated": "2026-11-08T11:54+00:00",
   "rising_searches": {
    "date": "2026-11-02",
    "compared_with": null,
@@ -2328,6 +2328,24 @@
   ],
   "page_changes": [],
   "feed_items": [
+   {
+    "url": "https://www.nytimes.com/2026/11/08/style/weddings-social-media-privacy.html",
+    "title": "Is This the End of the Wedding Overshare?",
+    "summary": "To that end, the couple’s Montreal-based wedding photographer, Julia Garcia-Prat, signed a partial nondisclosure agreement (NDA), allowing her to post only unidentifiable photographs of the newlyweds.",
+    "date": "2026-11-08T02:00:00+00:00",
+    "publisher": "The New York Times",
+    "kind": "news",
+    "query": "luxury wedding venue"
+   },
+   {
+    "url": "https://www.gulftoday.ae/news/2026/11/07/sheikh-mohammed-attends-wedding-reception",
+    "title": "Sheikh Mohammed attends wedding reception",
+    "summary": "His Highness Sheikh Mohammed Bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, and Lieutenant General Sheikh Saif ...",
+    "date": "2026-11-07T12:39:00+00:00",
+    "publisher": "Gulf Today",
+    "kind": "news",
+    "query": "Dubai wedding"
+   },
    {
     "url": "https://www.telugubulletin.com/inside-the-%e2%82%b925-crore-wedding-that-stunned-everyone-238225",
     "title": "Inside the ₹25 Crore Wedding That Stunned Everyone",
@@ -2667,6 +2685,15 @@
     "query": "wedding trends"
    },
    {
+    "url": "https://www.msn.com/en-in/news/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gP4kW",
+    "title": "2027 wedding trends revealed: From noughties' nostalgia to the groom brooch",
+    "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
+    "date": "2026-11-05T07:18:13+00:00",
+    "publisher": "Metro on MSN",
+    "kind": "news",
+    "query": "wedding trends"
+   },
+   {
     "url": "https://metro.co.uk/2026/11/05/2027-wedding-trends-revealed-noughties-nostalgia-groom-brooch-29768944/",
     "title": "2027 wedding trends revealed: From noughties’ nostalgia to the groom brooch",
     "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
@@ -2811,32 +2838,6 @@
     "publisher": "Belfast News Letter on MSN",
     "kind": "news",
     "query": "luxury wedding venue"
-   },
-   {
-    "url": "https://indiantelevision.com/mam/mars-cosmetics-teams-up-with-shaadi-com-for-wedding-season-beauty-box/",
-    "title": "MARS Cosmetics teams up with Shaadi.com for wedding-season beauty box",
-    "summary": "MUMBAI: Finding the right match is no longer just a wedding-season pursuit. MARS Cosmetics and Shaadi.com have joined hands to bring the idea into beauty, launching a curated makeup trousseau for ...",
-    "date": "2026-11-03T21:47:00+00:00",
-    "publisher": "Indian Television Dot Com",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-ae/news/featured/diwali-bridal-2026-collection-festive-affair-with-fine-jewellery/ar-AA2gHYDu",
-    "title": "Diwali Bridal 2026 Collection : Festive affair with fine jewellery",
-    "summary": "This festive season, Meena Jewellers invites customers to celebrate in style with the launch of its Diwali Bridal 2026 Collection — an exquisite showcase that brings together timeless elegance, ...",
-    "date": "2026-11-03T21:30:00+00:00",
-    "publisher": "Khaleej Times on MSN",
-    "kind": "news",
-    "query": "Dubai wedding"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/news/4135249/roompricegenie-launches-portfolio-calendar-to-give-hotel-groups-clearer-control-of-revenue-performance",
-    "title": "RoomPriceGenie launches Portfolio Calendar to give hotel groups clearer control of revenue performance",
-    "summary": "RoomPriceGenie's Portfolio Calendar gives multi-property hotel groups a single dashboard view of occupancy, ADR, RevPAR, and pricing across all properties to streamline revenue oversight.",
-    "date": "2026-11-03T16:11:25+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
    }
   ],
   "headlines": [
@@ -2872,6 +2873,12 @@
    },
    {
     "query": "wedding trends",
+    "headline": "The best wedding guest suits for winter 2026, and how to wear them",
+    "publisher": "British GQ",
+    "date": "2026-11-06T14:56:12+00:00"
+   },
+   {
+    "query": "wedding trends",
     "headline": "6 bridal trends for 2027 brides, from bows to basque waists",
     "publisher": "RTE.ie",
     "date": "2026-10-15T07:00:00+00:00"
@@ -2890,27 +2897,21 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
-    "publisher": "WWD",
-    "date": "2026-10-22T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "You're cordially invited to my three-day wedding",
     "publisher": "Axios",
     "date": "2026-10-18T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
-    "publisher": "AOL.com",
-    "date": "2026-10-25T07:00:00+00:00"
+    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
+    "publisher": "WWD",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
-    "publisher": "L'OFFICIEL USA",
-    "date": "2026-10-18T07:00:00+00:00"
+    "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
+    "publisher": "AOL.com",
+    "date": "2026-10-25T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2926,27 +2927,15 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Wareham business named regional finalist in Wedding Industry Awards 2027",
-    "publisher": "Bournemouth Echo",
-    "date": "2026-10-13T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Milton Keynes celebrant shortlisted at The Wedding Industry Awards",
-    "publisher": "MKFM",
-    "date": "2026-10-27T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Ciliau Aeron venue nominated for wedding industry award",
     "publisher": "Cambrian News",
     "date": "2026-10-12T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
-    "headline": "Over Barn named among the South West's best",
-    "publisher": "Punchline-Gloucester.com",
-    "date": "2026-10-16T11:07:13+00:00"
+    "headline": "Milton Keynes celebrant shortlisted at The Wedding Industry Awards",
+    "publisher": "MKFM",
+    "date": "2026-10-27T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2957,7 +2946,7 @@
    {
     "query": "wedding industry",
     "headline": "Geilsland Estate in Beith wins top honour at Wedding Industry Awards",
-    "publisher": "Ardrossan Herald",
+    "publisher": "Ardrossan and Saltcoats Herald",
     "date": "2026-11-07T08:01:57+00:00"
    },
    {
@@ -2965,6 +2954,12 @@
     "headline": "Over Barn recognised as Gloucestershire's best wedding barn",
     "publisher": "SoGlos",
     "date": "2026-10-14T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Wareham business named regional finalist in Wedding Industry Awards 2027",
+    "publisher": "Bournemouth Echo",
+    "date": "2026-10-13T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2983,6 +2978,12 @@
     "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
     "publisher": "Stroud News and Journal",
     "date": "2026-10-22T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Over Barn named among the South West's best",
+    "publisher": "Punchline-Gloucester.com",
+    "date": "2026-10-16T11:07:13+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -3022,12 +3023,6 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
-    "publisher": "People.com",
-    "date": "2026-10-14T07:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "A bride's search for her mother's missing wedding dress goes viral",
     "publisher": "NBC 5 Chicago",
     "date": "2026-10-28T07:00:00+00:00"
@@ -3040,12 +3035,6 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Bride Allegedly Asked Her Bridesmaid to Gain 120 Pounds So She'd Look Skinnier at Her Wedding",
-    "publisher": "VICE",
-    "date": "2026-11-07T19:26:24+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "Ashe's 'Stop the Wedding': The Viral Trend Raising Marriage Awareness",
     "publisher": "Tempo.co English",
     "date": "2026-11-07T05:04:55+00:00"
@@ -3055,6 +3044,18 @@
     "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
     "publisher": "VnExpress International",
     "date": "2026-11-02T08:52:19+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
+    "publisher": "Just Jared",
+    "date": "2026-11-05T17:55:19+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Groom slammed for pulling ‘highly inappropriate’ stunt at the altar",
+    "publisher": "New York Post",
+    "date": "2026-11-02T15:38:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -3079,6 +3080,12 @@
     "headline": "The Viral “Stop the Wedding” Trend Is a Reminder That It’s Never Too Late to Walk Away",
     "publisher": "Cosmopolitan",
     "date": "2026-11-05T18:40:07+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Is This the End of the Wedding Overshare?",
+    "publisher": "The New York Times",
+    "date": "2026-11-08T10:00:27+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -3123,12 +3130,6 @@
     "date": "2026-10-11T07:00:00+00:00"
    },
    {
-    "query": "wedding Instagram trend",
-    "headline": "Everything Kristen Bell and Dax Shepard have overshared about their unconventional marriage",
-    "publisher": "Page Six",
-    "date": "2026-10-23T07:00:00+00:00"
-   },
-   {
     "query": "Pinterest wedding trends",
     "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
     "publisher": "ELLE Australia",
@@ -3148,15 +3149,15 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
-    "publisher": "New York Post",
-    "date": "2026-11-04T20:21:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
     "headline": "From beach weddings to royal palace ceremonies, how to pick the right jewellery for every destination wedding | Fashion Trends",
     "publisher": "Hindustan Times",
     "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
+    "publisher": "New York Post",
+    "date": "2026-11-04T20:21:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
