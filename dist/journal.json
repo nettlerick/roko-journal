@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T10:06:45+00:00",
+ "generated": "2026-11-09T14:09:49+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2297,7 +2297,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-09T09:45+00:00",
+  "generated": "2026-11-09T13:50+00:00",
   "rising_searches": {
    "date": "2026-11-09",
    "compared_with": "2026-11-02",
@@ -3139,6 +3139,47 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.hospitalitynet.org/whitepaper/4135346/supercharge-your-hotels-digital-marketing-with-your-crm-data",
+    "title": "Supercharge your hotel's digital marketing with your CRM data",
+    "summary": "A practical guide on connecting CRM guest data to digital marketing to drive direct bookings, repeat stays, and ancillary revenue through segmentation, retargeting, and AI-driven personalization.",
+    "date": "2026-11-09T13:15:29+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.tatler.com/article/lady-frederick-windsor-channels-hollywood-glamour-at-a-rare-royal-engagement",
+    "title": "Lady Frederick Windsor channels Hollywood glamour at a rare royal engagement",
+    "summary": "The actress-turned-royal supported the Women and the World International Film Festival at a dazzling London gala",
+    "date": "2026-11-09T12:03:07+00:00",
+    "publisher": "Tatler",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/opinion/4135340/the-spa-revenue-trap-why-luxury-hotels-need-to-rethink-wellness-profitability",
+    "title": "The Spa Revenue Trap: Why Luxury Hotels Need to Rethink Wellness Profitability",
+    "summary": "The article argues luxury hotels over-rely on revenue as a spa performance metric, urging operators to adopt contribution margins, capacity utilisation and payroll efficiency as measures of true wellness profitability.",
+    "date": "2026-11-09T11:40:22+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/opinion/4135333/why-hospitalitys-best-venues-prioritize-no-change-over-reinvention",
+    "title": "Why Hospitality’s Best Venues Prioritize No-Change Over Reinvention",
+    "summary": "Drawing on conversations with operators, the piece argues that enduring hospitality businesses succeed by preserving core identity and consistency rather than chasing reinvention, with technology and AI acting as tools to support, not redefine, that foundation.",
+    "date": "2026-11-09T10:49:02+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.msn.com/en-us/news/other/italian-romance-unfolds-at-a-scenic-lake-como-wedding/vi-AA2bhDAw",
+    "title": "Italian romance unfolds at a scenic Lake Como wedding",
+    "summary": "A destination celebration unfolds along the shores of Lake Como, where the surroundings create an unforgettable wedding atmosphere. The couple combines classic styling with the natural beauty of the ...",
+    "date": "2026-11-09T05:07:50+00:00",
+    "publisher": "Martha Stewart Weddings on MSN",
+    "kind": "news",
+    "query": "Italy wedding destination"
+   },
+   {
     "url": "https://www.cnbctv18.com/personal-finance/planning-a-destination-wedding-know-what-insurance-covers-what-it-doesnt-20030291.htm",
     "title": "Planning a destination wedding? Know what insurance covers and what it doesn't",
     "summary": "Understand wedding insurance coverage, exclusions, vendor failures, weather risks, and policy limits to protect your finances from unexpected disruptions.",
@@ -3556,6 +3597,15 @@
     "query": "wedding trends"
    },
    {
+    "url": "https://www.msn.com/en-my/news/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gPmdc",
+    "title": "2027 wedding trends revealed: From noughties’ nostalgia to the groom brooch",
+    "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
+    "date": "2026-11-05T07:18:13+00:00",
+    "publisher": "Metro on MSN",
+    "kind": "news",
+    "query": "wedding trends"
+   },
+   {
     "url": "https://metro.co.uk/2026/11/05/2027-wedding-trends-revealed-noughties-nostalgia-groom-brooch-29768944/",
     "title": "2027 wedding trends revealed: From noughties’ nostalgia to the groom brooch",
     "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
@@ -3599,57 +3649,6 @@
     "publisher": "Adgully",
     "kind": "news",
     "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/money/general/swansea-hotel-issues-statement-after-couples-left-worried-whether-their-weddings-can-go-ahead/ar-AA2gOtbA",
-    "title": "Swansea hotel issues statement after couples left worried whether their weddings can go ahead",
-    "summary": "Concerns have been raised after the venue was placed up for sale for £1.9m ...",
-    "date": "2026-11-05T03:25:35+00:00",
-    "publisher": "WalesOnline on MSN",
-    "kind": "news",
-    "query": "hospitality weddings"
-   },
-   {
-    "url": "https://timesofindia.indiatimes.com/women/wellness-beauty/wedding-festive-season-skincare-when-should-you-start-preparing-your-skin-for-the-big-day/articleshow/135571158.cms",
-    "title": "Wedding & festive season skincare: When should you start preparing your skin for the Big Day?",
-    "summary": "Skin preparation is often left until the wedding is only a few weeks away. That is when concerns such as breakouts, pigmentation, marks or dryness suddenly get more attention.",
-    "date": "2026-11-05T03:22:00+00:00",
-    "publisher": "The Times of India",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-us/news/other/woman-allegedly-misses-her-own-wedding-celebrations-due-to-flight-delay-then-american-airlines-gives-her-12-voucher-i-can-t-even-buy-a-margarita/ar-AA2gNpoC",
-    "title": "Woman allegedly misses her own wedding celebrations due to flight delay, then American Airlines gives her $12 voucher: ‘I can’t even buy a margarita’",
-    "summary": "Delayed flights are a pain for anyone, but one woman on TikTok is calling out American Airlines for delays that allegedly caused her and her fiancé to miss the start of their destination wedding.",
-    "date": "2026-11-04T22:15:00+00:00",
-    "publisher": "The Mary Sue on MSN",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/casestudy/4135193/how-casa-faena-delights-guests-and-drives-55-more-upsells-with-canary",
-    "title": "How Casa Faena Delights Guests and Drives 55% More Upsells With Canary",
-    "summary": "Casa Faena Miami Beach achieved a 55% lift in ancillary revenue and 5/5 check-in ratings after deploying Canary Technologies' AI messaging, mobile check-in, dynamic upsells, and smart checkout tools.",
-    "date": "2026-11-04T19:00:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4135279/what-it-costs-to-build-a-feeling",
-    "title": "What It Costs to Build a Feeling",
-    "summary": "Owners Ferial Sadeghian and Jayson Seidman share lessons on boutique hotel development: protect atmosphere budgets, break apart per-key metrics, and expect F&B to outweigh rooms revenue.",
-    "date": "2026-11-04T18:50:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.harpersbazaar.com/celebrity/latest/a74335613/suki-waterhouse-embarrassing-robert-pattinson-wedding-planning-update-interview-explained/",
-    "title": "Suki Waterhouse Gives an “Embarrassing” Update on Her Wedding to Robert Pattinson",
-    "summary": "She’s keeping things real",
-    "date": "2026-11-04T18:35:04+00:00",
-    "publisher": "Harper's Bazaar",
-    "kind": "luxury"
    }
   ],
   "headlines": [
@@ -3739,15 +3738,27 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Ciliau Aeron venue nominated for wedding industry award",
-    "publisher": "Cambrian News",
-    "date": "2026-10-12T07:00:00+00:00"
+    "headline": "Wareham business named regional finalist in Wedding Industry Awards 2027",
+    "publisher": "Bournemouth Echo",
+    "date": "2026-10-13T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
     "headline": "Milton Keynes celebrant shortlisted at The Wedding Industry Awards",
     "publisher": "MKFM",
     "date": "2026-10-27T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Ciliau Aeron venue nominated for wedding industry award",
+    "publisher": "Cambrian News",
+    "date": "2026-10-12T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Over Barn named among the South West's best",
+    "publisher": "Punchline-Gloucester.com",
+    "date": "2026-10-16T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -3769,12 +3780,6 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Wareham business named regional finalist in Wedding Industry Awards 2027",
-    "publisher": "Bournemouth Echo",
-    "date": "2026-10-13T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "How 15,000 free T-shirts helped build a £15m bridal fashion brand",
     "publisher": "BusinessCloud",
     "date": "2026-10-27T07:00:00+00:00"
@@ -3787,15 +3792,9 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
-    "publisher": "Stroud News and Journal",
-    "date": "2026-10-22T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Over Barn named among the South West's best",
-    "publisher": "Punchline-Gloucester.com",
-    "date": "2026-10-16T07:00:00+00:00"
+    "headline": "Sustainable weddings: the proof is in the people, as new impact report leads with member stories",
+    "publisher": "Event Industry News",
+    "date": "2026-11-09T09:29:58+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -3889,6 +3888,12 @@
    },
    {
     "query": "wedding Instagram trend",
+    "headline": "6 bridal trends for 2027 brides, from bows to basque waists",
+    "publisher": "RTE.ie",
+    "date": "2026-10-15T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
     "headline": "The New Luxury Wedding Trend? Keeping It Off Social Media.",
     "publisher": "The New York Times",
     "date": "2026-11-08T10:00:27+00:00"
@@ -3934,12 +3939,6 @@
     "headline": "13 of the Most Secretive Celebrity Weddings",
     "publisher": "People.com",
     "date": "2026-10-28T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "5 Vancouver Wedding Trends to Inspire Your 2026 Celebration",
-    "publisher": "Vancouver Magazine",
-    "date": "2026-10-11T07:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
