@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T12:10:28+00:00",
+ "generated": "2026-11-09T10:06:45+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -467,7 +467,7 @@
     "url": "/wedding-destination-venues",
     "label": "Explore destination venues on Roko"
    },
-   "status": "planned"
+   "status": "waiting for photo"
   },
   {
    "n": 26,
@@ -2260,6 +2260,7 @@
   "how-to-choose-a-wedding-photographer",
   "how-to-choose-a-wedding-venue-the-complete-guide",
   "luxury-wedding-venues-around-the-world",
+  "the-best-destination-wedding-countries",
   "the-complete-wedding-planning-checklist"
  ],
  "problems": {
@@ -2270,6 +2271,9 @@
    "needs a cover image"
   ],
   "luxury-wedding-venues-around-the-world": [
+   "needs a cover image"
+  ],
+  "the-best-destination-wedding-countries": [
    "needs a cover image"
   ],
   "the-complete-wedding-planning-checklist": [
@@ -2293,12 +2297,818 @@
   }
  },
  "research": {
-  "generated": "2026-11-08T11:54+00:00",
+  "generated": "2026-11-09T09:45+00:00",
   "rising_searches": {
-   "date": "2026-11-02",
-   "compared_with": null,
-   "gb": [],
-   "us": []
+   "date": "2026-11-09",
+   "compared_with": "2026-11-02",
+   "markets": {
+    "gb": "United Kingdom",
+    "us": "United States",
+    "au": "Australia",
+    "ca": "Canada",
+    "ae": "United Arab Emirates",
+    "in": "India",
+    "ie": "Ireland",
+    "za": "South Africa"
+   },
+   "gb": [
+    {
+     "seed": "wedding ideas",
+     "search": "wedding ideas for spring"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues california"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues for sale california"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues for sale texas"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues texas"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue california"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue for sale california"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue for sale texas"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue prices"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue texas"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venues california"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venues sydney"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venues texas"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer california"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer for 4 hours"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer forster"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer prices"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer texas"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planner california"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planner texas"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planners california"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planners florida"
+    },
+    {
+     "seed": "wedding flowers",
+     "search": "wedding flowers for november"
+    },
+    {
+     "seed": "wedding flowers",
+     "search": "wedding flowers for sale"
+    },
+    {
+     "seed": "wedding flowers",
+     "search": "wedding flowers nyc"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering edmonton"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering for 150 guests cost"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering ideas cheap"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering nyc"
+    },
+    {
+     "seed": "wedding band",
+     "search": "wedding band for man"
+    },
+    {
+     "seed": "wedding band",
+     "search": "wedding band ideas for princess cut solitaire"
+    },
+    {
+     "seed": "wedding band",
+     "search": "wedding bands north carolina"
+    },
+    {
+     "seed": "wedding band",
+     "search": "wedding bands nyc"
+    },
+    {
+     "seed": "wedding dj",
+     "search": "wedding dj florida"
+    },
+    {
+     "seed": "wedding dj",
+     "search": "wedding dj for 6 hours"
+    },
+    {
+     "seed": "wedding dj",
+     "search": "wedding dj nyc"
+    },
+    {
+     "seed": "destination wedding",
+     "search": "destination wedding california"
+    },
+    {
+     "seed": "destination wedding",
+     "search": "destination wedding for cheap"
+    },
+    {
+     "seed": "destination wedding",
+     "search": "destination wedding for elopement"
+    },
+    {
+     "seed": "destination wedding",
+     "search": "destination wedding texas"
+    },
+    {
+     "seed": "wedding budget",
+     "search": "wedding budget format"
+    },
+    {
+     "seed": "wedding table",
+     "search": "wedding table for those who have passed"
+    },
+    {
+     "seed": "wedding cake",
+     "search": "wedding cake nyc"
+    },
+    {
+     "seed": "wedding cake",
+     "search": "wedding cakes nyc"
+    },
+    {
+     "seed": "small wedding",
+     "search": "small wedding ideas for 40 guests"
+    },
+    {
+     "seed": "small wedding",
+     "search": "small wedding in church"
+    },
+    {
+     "seed": "small wedding",
+     "search": "small wedding venues california"
+    },
+    {
+     "seed": "small wedding",
+     "search": "small wedding venues texas"
+    },
+    {
+     "seed": "birthday party ideas",
+     "search": "birthday party ideas for 6 year old"
+    },
+    {
+     "seed": "birthday party ideas",
+     "search": "birthday party ideas nyc"
+    },
+    {
+     "seed": "dinner party",
+     "search": "dinner party for 6 ideas"
+    },
+    {
+     "seed": "dinner party",
+     "search": "dinner party ideas easy"
+    },
+    {
+     "seed": "dinner party",
+     "search": "dinner party menu"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party for second marriage"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party for women"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party formal attire"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party format"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party guest outfit"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party ideas at a restaurant"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dress codes"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dress shops california"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dress shops texas"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dresses california"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dresses texas"
+    },
+    {
+     "seed": "wedding hair",
+     "search": "wedding hair and makeup nyc"
+    },
+    {
+     "seed": "wedding hair",
+     "search": "wedding hair inspo"
+    }
+   ],
+   "us": [
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues california"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues chicago"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues colorado"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues fort collins"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues fort lauderdale"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues fort myers"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues fort wayne"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues fort wayne indiana"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues houston"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues in georgia"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues in michigan"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues in oklahoma"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues new jersey"
+    },
+    {
+     "seed": "wedding venues",
+     "search": "wedding venues texas"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue airbnb"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue california"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue finder"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue for sale california"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue for sale texas"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue fort wayne"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue fort worth"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue insurance"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue jobs"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue nj"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue prices"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venue texas"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venues california"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venues chicago"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venues colorado"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venues houston"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venues in michigan"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venues new jersey"
+    },
+    {
+     "seed": "wedding venue",
+     "search": "wedding venues texas"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer california"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer for 1 hour"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer fort collins"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer prices"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer snl"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer snl skit"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographer texas"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographers california"
+    },
+    {
+     "seed": "wedding photographer",
+     "search": "wedding photographers north carolina"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planner assistant jobs"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planner california"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planner fort lauderdale"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planner fort wayne"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planner fort worth"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planner texas"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planners california"
+    },
+    {
+     "seed": "wedding planner",
+     "search": "wedding planners florida"
+    },
+    {
+     "seed": "wedding flowers",
+     "search": "wedding flowers for sale"
+    },
+    {
+     "seed": "wedding flowers",
+     "search": "wedding flowers for the church"
+    },
+    {
+     "seed": "wedding flowers",
+     "search": "wedding flowers nyc"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering dallas"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering for 150 guests cost"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering ideas cheap"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering kansas city"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering los angeles"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering nyc"
+    },
+    {
+     "seed": "wedding catering",
+     "search": "wedding catering utah"
+    },
+    {
+     "seed": "wedding band",
+     "search": "wedding band for man"
+    },
+    {
+     "seed": "wedding band",
+     "search": "wedding band ideas for princess cut solitaire"
+    },
+    {
+     "seed": "wedding band",
+     "search": "wedding bands north carolina"
+    },
+    {
+     "seed": "wedding band",
+     "search": "wedding bands nyc"
+    },
+    {
+     "seed": "wedding dj",
+     "search": "wedding dj chicago"
+    },
+    {
+     "seed": "wedding dj",
+     "search": "wedding dj florida"
+    },
+    {
+     "seed": "wedding dj",
+     "search": "wedding dj for 6 hours"
+    },
+    {
+     "seed": "wedding dj",
+     "search": "wedding dj kansas city"
+    },
+    {
+     "seed": "wedding dj",
+     "search": "wedding dj nyc"
+    },
+    {
+     "seed": "wedding dj",
+     "search": "wedding djs kansas city"
+    },
+    {
+     "seed": "destination wedding",
+     "search": "destination wedding california"
+    },
+    {
+     "seed": "destination wedding",
+     "search": "destination wedding for cheap"
+    },
+    {
+     "seed": "destination wedding",
+     "search": "destination wedding for elopement"
+    },
+    {
+     "seed": "destination wedding",
+     "search": "destination wedding knots"
+    },
+    {
+     "seed": "destination wedding",
+     "search": "destination wedding texas"
+    },
+    {
+     "seed": "getting married in",
+     "search": "getting married in california"
+    },
+    {
+     "seed": "getting married in",
+     "search": "getting married in florida"
+    },
+    {
+     "seed": "getting married in",
+     "search": "getting married in massachusetts"
+    },
+    {
+     "seed": "getting married in",
+     "search": "getting married in nc"
+    },
+    {
+     "seed": "getting married in",
+     "search": "getting married in nyc"
+    },
+    {
+     "seed": "getting married in",
+     "search": "getting married in texas"
+    },
+    {
+     "seed": "getting married in",
+     "search": "getting married in washington state"
+    },
+    {
+     "seed": "wedding budget",
+     "search": "wedding budget for 60 guests"
+    },
+    {
+     "seed": "wedding table",
+     "search": "wedding table for those who have passed"
+    },
+    {
+     "seed": "wedding cake",
+     "search": "wedding cake for 150 people"
+    },
+    {
+     "seed": "wedding cake",
+     "search": "wedding cake for 40 people"
+    },
+    {
+     "seed": "wedding cake",
+     "search": "wedding cake ideas for 100 people"
+    },
+    {
+     "seed": "wedding cake",
+     "search": "wedding cake nyc"
+    },
+    {
+     "seed": "wedding cake",
+     "search": "wedding cake stand"
+    },
+    {
+     "seed": "wedding cake",
+     "search": "wedding cakes"
+    },
+    {
+     "seed": "wedding cake",
+     "search": "wedding cakes nyc"
+    },
+    {
+     "seed": "luxury wedding",
+     "search": "luxury wedding venues california"
+    },
+    {
+     "seed": "luxury wedding",
+     "search": "luxury wedding venues texas"
+    },
+    {
+     "seed": "small wedding",
+     "search": "small wedding bouquet"
+    },
+    {
+     "seed": "small wedding",
+     "search": "small wedding ideas for 40 guests"
+    },
+    {
+     "seed": "small wedding",
+     "search": "small wedding in church"
+    },
+    {
+     "seed": "small wedding",
+     "search": "small wedding venues california"
+    },
+    {
+     "seed": "small wedding",
+     "search": "small wedding venues texas"
+    },
+    {
+     "seed": "birthday party ideas",
+     "search": "birthday party ideas nyc"
+    },
+    {
+     "seed": "dinner party",
+     "search": "dinner party band"
+    },
+    {
+     "seed": "dinner party",
+     "search": "dinner party brooklyn"
+    },
+    {
+     "seed": "dinner party",
+     "search": "dinner party for 10 menu ideas"
+    },
+    {
+     "seed": "dinner party",
+     "search": "dinner party fort greene"
+    },
+    {
+     "seed": "dinner party",
+     "search": "dinner party ideas for 20 people"
+    },
+    {
+     "seed": "dinner party",
+     "search": "dinner party nyc"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party for second marriage"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party for women"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party formal attire"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party format"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party ideas at a restaurant"
+    },
+    {
+     "seed": "engagement party",
+     "search": "engagement party ideas nyc"
+    },
+    {
+     "seed": "wedding guest",
+     "search": "wedding guest"
+    },
+    {
+     "seed": "wedding guest",
+     "search": "wedding guest book ideas"
+    },
+    {
+     "seed": "wedding guest",
+     "search": "wedding guest dress formal"
+    },
+    {
+     "seed": "wedding guest",
+     "search": "wedding guest for hire"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dress alterations near me"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dress guest"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dress ideas for women guest"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dress rental"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dress shops california"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dress shops texas"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dresses california"
+    },
+    {
+     "seed": "wedding dress",
+     "search": "wedding dresses texas"
+    },
+    {
+     "seed": "wedding hair",
+     "search": "wedding hair and makeup nyc"
+    },
+    {
+     "seed": "wedding hair",
+     "search": "wedding hair down"
+    },
+    {
+     "seed": "wedding hair",
+     "search": "wedding hair for strapless dress"
+    },
+    {
+     "seed": "wedding hair",
+     "search": "wedding hair ideas bridesmaid"
+    },
+    {
+     "seed": "wedding hair",
+     "search": "wedding hair ideas shoulder length"
+    },
+    {
+     "seed": "wedding hair",
+     "search": "wedding hair inspo"
+    },
+    {
+     "seed": "wedding hair",
+     "search": "wedding hair piece"
+    },
+    {
+     "seed": "wedding hair",
+     "search": "wedding hairstyles medium hair"
+    }
+   ],
+   "au": [],
+   "ca": [],
+   "ae": [],
+   "in": [],
+   "ie": [],
+   "za": []
   },
   "trending": [
    {
@@ -2328,6 +3138,58 @@
   ],
   "page_changes": [],
   "feed_items": [
+   {
+    "url": "https://www.cnbctv18.com/personal-finance/planning-a-destination-wedding-know-what-insurance-covers-what-it-doesnt-20030291.htm",
+    "title": "Planning a destination wedding? Know what insurance covers and what it doesn't",
+    "summary": "Understand wedding insurance coverage, exclusions, vendor failures, weather risks, and policy limits to protect your finances from unexpected disruptions.",
+    "date": "2026-11-09T00:28:00+00:00",
+    "publisher": "CNBCTV18",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://economictimes.indiatimes.com/wealth/spend/planning-a-wedding-hidden-costs-that-can-derail-your-budget-and-drain-your-savings/articleshow/135611818.cms",
+    "title": "Planning a wedding? Hidden costs that can derail your budget and drain your savings",
+    "summary": "Vendor fine print, last-minute guests and family pressure can push your wedding bill way above the initial budget. Here’s how to spot the hidden costs before they hit you. You could also maintain a ...",
+    "date": "2026-11-08T21:14:00+00:00",
+    "publisher": "The Economic Times",
+    "kind": "news",
+    "query": "wedding guests cost"
+   },
+   {
+    "url": "https://www.bwhotelier.com/article/weddings-take-centre-stage-in-espire-s-growth-strategy-632729",
+    "title": "Weddings take centre stage in Espire’s growth strategy",
+    "summary": "Weddings, outlines Espire Hospitality Group's wedding strategy, growth ambitions and evolving market opportunities ...",
+    "date": "2026-11-08T16:00:00+00:00",
+    "publisher": "BW Hotelier",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://www.vogue.com/slideshow/mele-hamasaki-and-daniel-henderson-wedding",
+    "title": "This Golden-Hour Honolulu Wedding Shared the Same View as the Couple’s First Date",
+    "summary": "Set high above the Hawaiian capital, filmmaker Daniel Croix and producer Mele Hamasaki’s cinematic wedding featured ancestral rituals, handmade lei, and a sunset hula.",
+    "date": "2026-11-08T14:22:24+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://skift.com/2026/11/08/aviations-next-disaster-could-be-in-your-carry-on/",
+    "title": "Aviation’s Next Disaster Could Be In Your Carry-On",
+    "summary": "Battery incidents are rising and airlines are tightening restrictions, with cabin crews the last line of defense. Is the industry doing enough to prevent the next fire, or simply getting better at putting them out?",
+    "date": "2026-11-08T13:00:00+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
+   {
+    "url": "https://thesmartlocal.com/read/destination-wedding-costs-guests/",
+    "title": "Destination wedding costs for guests",
+    "summary": "Ever wondered how much destination weddings cost for guests? Here's what Singaporeans who have travelled for weddings have to say.",
+    "date": "2026-11-08T06:55:00+00:00",
+    "publisher": "TheSmartLocal",
+    "kind": "news",
+    "query": "destination wedding"
+   },
    {
     "url": "https://www.nytimes.com/2026/11/08/style/weddings-social-media-privacy.html",
     "title": "Is This the End of the Wedding Overshare?",
@@ -2703,6 +3565,15 @@
     "query": "wedding trends US"
    },
    {
+    "url": "https://www.tribuneindia.com/news/business/gold-prices-decline-ahead-of-wedding-season-buyers-may-find-opportunity/",
+    "title": "Gold prices decline ahead of wedding season; buyers may find opportunity",
+    "summary": "As the wedding season begins, gold buyers in India may see the recent decline in prices as an opportunity to purchase jewellery. As of October 21, 24K gold was priced at Rs 1,46,270 per 10 grams, ...",
+    "date": "2026-11-05T06:42:00+00:00",
+    "publisher": "The Tribune",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
     "url": "https://www.msn.com/en-us/news/other/the-viral-stop-the-wedding-trend-is-a-reminder-that-its-never-too-late-to-walk-away/ar-AA2gPkxa",
     "title": "The Viral “Stop the Wedding” Trend Is a Reminder That It’s Never Too Late to Walk Away",
     "summary": "Calling off a wedding can be terrifying, but marrying the wrong person is worse.",
@@ -2779,65 +3650,6 @@
     "date": "2026-11-04T18:35:04+00:00",
     "publisher": "Harper's Bazaar",
     "kind": "luxury"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/news/4135250/hftp-announces-hitec-2027-north-america-advisory-council",
-    "title": "HFTP Announces HITEC 2027 North America Advisory Council",
-    "summary": "HFTP named 25 hospitality technology leaders to its HITEC 2027 North America Advisory Council, which will shape education and programming for the Orlando event in June-July 2027.",
-    "date": "2026-11-04T14:00:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/news/other/co-fermanagh-hotel-reveals-15m-plans-for-new-lakeside-wedding-venue/ar-AA2gL7Rp",
-    "title": "Co Fermanagh hotel reveals £1.5m plans for new lakeside wedding venue",
-    "summary": "It will \"combine contemporary architecture with the natural beauty of Fermanagh's lakeland setting\" ...",
-    "date": "2026-11-04T13:19:35+00:00",
-    "publisher": "Belfast Live on MSN",
-    "kind": "news",
-    "query": "luxury wedding venue"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/travel/parks/co-fermanagh-hotel-reveals-1-5m-plans-for-new-lakeside-wedding-venue/ar-AA2gL7Rp",
-    "title": "Co Fermanagh hotel reveals £1.5m plans for new lakeside wedding venue",
-    "summary": "It will \"combine contemporary architecture with the natural beauty of Fermanagh's lakeland setting\" ...",
-    "date": "2026-11-04T13:19:35+00:00",
-    "publisher": "Belfast Live on MSN",
-    "kind": "news",
-    "query": "luxury wedding venue"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/news/4135257/phuket-enters-a-new-era-of-growth-as-billions-in-investment-transform-the-islands-property-hospitality-and-lifestyle-landscape",
-    "title": "Phuket Enters a New Era of Growth as Billions in Investment Transform the Island's Property, Hospitality and Lifestyle Landscape",
-    "summary": "C9 Hotelworks research shows Phuket recorded 6.13M international arrivals in Jan-Sep 2026, with THB400B in tourism revenue and 5,517 hotel keys across 30 pipeline properties.",
-    "date": "2026-11-04T11:21:12+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://skift.com/2026/11/04/regional-visitors-keep-omans-arrivals-steady-but-cant-fill-its-hotels/",
-    "title": "Regional Visitors Keep Oman’s Arrivals Steady but Can’t Fill Its Hotels",
-    "summary": "Oman’s arrivals have held up this year, but its hotels lost more than a tenth of their guests and revenue as Europeans stayed away. Regional travelers are still arriving but make shorter visits at lower rates.",
-    "date": "2026-11-04T10:52:51+00:00",
-    "publisher": "Skift",
-    "kind": "travel"
-   },
-   {
-    "url": "https://skift.com/2026/11/04/thailands-2032-tourism-plan-chases-spending-not-arrivals/",
-    "title": "Thailand’s 2032 Tourism Plan Chases Spending, Not Arrivals",
-    "summary": "Thailand’s $118 billion goal targets spending rather than arrivals, which have stalled at about 33 million. Rising prices will surely lift revenue regardless, but higher rates aren’t the same as higher value, and the plan has no budget yet for the terminals, marinas and guides needed to attract bigger spenders.",
-    "date": "2026-11-04T09:55:42+00:00",
-    "publisher": "Skift",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/lifestyle/other/set-to-open-in-spring-2027-northern-ireland-family-run-hotel-marks-50-years-with-1-5m-investment-in-new-wedding-venue/ar-AA2gKy0v",
-    "title": "Set to open in spring 2027: Northern Ireland family-run hotel marks 50 years with £1.5m investment in new wedding venue",
-    "summary": "Killyhevlin Lakeside Hotel & Lodges unveils plans for luxury lakeside reception space overlooking Lough Erne, set to open in spring 2027 ...",
-    "date": "2026-11-04T05:21:20+00:00",
-    "publisher": "Belfast News Letter on MSN",
-    "kind": "news",
-    "query": "luxury wedding venue"
    }
   ],
   "headlines": [
@@ -2897,12 +3709,6 @@
    },
    {
     "query": "wedding trends",
-    "headline": "You're cordially invited to my three-day wedding",
-    "publisher": "Axios",
-    "date": "2026-10-18T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
     "publisher": "WWD",
     "date": "2026-10-22T07:00:00+00:00"
@@ -2914,10 +3720,16 @@
     "date": "2026-10-25T07:00:00+00:00"
    },
    {
+    "query": "wedding trends",
+    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
+    "publisher": "L'OFFICIEL USA",
+    "date": "2026-10-18T07:00:00+00:00"
+   },
+   {
     "query": "wedding industry",
     "headline": "Cumberland's ceremonies team nominated for top regional wedding award",
     "publisher": "Cumberland Council",
-    "date": "2026-10-30T11:09:16+00:00"
+    "date": "2026-10-30T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -2983,13 +3795,7 @@
     "query": "wedding industry",
     "headline": "Over Barn named among the South West's best",
     "publisher": "Punchline-Gloucester.com",
-    "date": "2026-10-16T11:07:13+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "How Ashe's real life inspired her TikTok hit Stop The Wedding",
-    "publisher": "BBC",
-    "date": "2026-10-10T07:00:00+00:00"
+    "date": "2026-10-16T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -3001,13 +3807,7 @@
     "query": "viral wedding TikTok",
     "headline": "Ghostbusters Theme Interrupts Couple’s Wedding Vows in Viral Video",
     "publisher": "Ghostbusters News",
-    "date": "2026-10-31T14:59:19+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Kristian and Mimi lift the lid on their viral TikTok wedding",
-    "publisher": "Nine.com.au",
-    "date": "2026-11-01T21:38:12+00:00"
+    "date": "2026-10-31T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -3017,21 +3817,33 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "‘Distasteful’: Sexual wedding act shocks",
-    "publisher": "The Daily Telegraph",
-    "date": "2026-10-31T10:32:47+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "A bride's search for her mother's missing wedding dress goes viral",
     "publisher": "NBC 5 Chicago",
     "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
+    "headline": "Bride Allegedly Asked Her Bridesmaid to Gain 120 Pounds So She'd Look Skinnier at Her Wedding",
+    "publisher": "VICE",
+    "date": "2026-11-07T19:26:24+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "‘Distasteful’: Sexual wedding act shocks",
+    "publisher": "The Daily Telegraph",
+    "date": "2026-10-31T10:32:47+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
     "headline": "Couple’s wedding vows interrupted by marching band blasting ‘Ghostbusters’ theme",
     "publisher": "New York Post",
     "date": "2026-11-02T00:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "A groom with no family, a wedding with not enough guests – until the internet stepped in",
+    "publisher": "News24",
+    "date": "2026-11-05T03:09:11+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -3047,15 +3859,15 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
-    "publisher": "Just Jared",
-    "date": "2026-11-05T17:55:19+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "Groom slammed for pulling ‘highly inappropriate’ stunt at the altar",
     "publisher": "New York Post",
     "date": "2026-11-02T15:38:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
+    "publisher": "Just Jared",
+    "date": "2026-11-05T17:55:19+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -3071,19 +3883,13 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "6 bridal trends for 2027 brides, from bows to basque waists",
-    "publisher": "RTE.ie",
-    "date": "2026-10-15T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "The Viral “Stop the Wedding” Trend Is a Reminder That It’s Never Too Late to Walk Away",
     "publisher": "Cosmopolitan",
     "date": "2026-11-05T18:40:07+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Is This the End of the Wedding Overshare?",
+    "headline": "The New Luxury Wedding Trend? Keeping It Off Social Media.",
     "publisher": "The New York Times",
     "date": "2026-11-08T10:00:27+00:00"
    },
@@ -3109,13 +3915,19 @@
     "query": "wedding Instagram trend",
     "headline": "Chinese man invites internet strangers to his wedding. Watch as hundreds show up",
     "publisher": "The Indian Express",
-    "date": "2026-10-31T11:58:21+00:00"
+    "date": "2026-10-31T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
     "headline": "Meet Emily Markus, who just married Rob Lowe’s son Matthew",
     "publisher": "South China Morning Post",
     "date": "2026-10-12T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Savannah Chrisley reveals details of her secret wedding to Jason Galanis",
+    "publisher": "The News International",
+    "date": "2026-11-02T04:29:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -3149,15 +3961,15 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "From beach weddings to royal palace ceremonies, how to pick the right jewellery for every destination wedding | Fashion Trends",
-    "publisher": "Hindustan Times",
-    "date": "2026-10-29T07:00:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
     "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
     "publisher": "New York Post",
     "date": "2026-11-04T20:21:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "From beach weddings to royal palace ceremonies, how to pick the right jewellery for every destination wedding | Fashion Trends",
+    "publisher": "Hindustan Times",
+    "date": "2026-10-29T07:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -3175,13 +3987,13 @@
     "query": "luxury wedding venue opening",
     "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
     "publisher": "Business Eye Magazine",
-    "date": "2026-10-30T09:35:01+00:00"
+    "date": "2026-10-30T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "The best events and wedding planners in 2026",
-    "publisher": "Spear's Magazine",
-    "date": "2026-10-20T07:00:00+00:00"
+    "headline": "Co Fermanagh hotel reveals £1.5m plans for new lakeside wedding venue",
+    "publisher": "Belfast Live",
+    "date": "2026-11-04T21:19:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
