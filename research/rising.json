@@ -1,6 +1,812 @@
 {
- "date": "2026-11-02",
- "compared_with": null,
- "gb": [],
- "us": []
+ "date": "2026-11-09",
+ "compared_with": "2026-11-02",
+ "markets": {
+  "gb": "United Kingdom",
+  "us": "United States",
+  "au": "Australia",
+  "ca": "Canada",
+  "ae": "United Arab Emirates",
+  "in": "India",
+  "ie": "Ireland",
+  "za": "South Africa"
+ },
+ "gb": [
+  {
+   "seed": "wedding ideas",
+   "search": "wedding ideas for spring"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues california"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for sale california"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for sale texas"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues texas"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue california"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for sale california"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for sale texas"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue prices"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue texas"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues california"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues sydney"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues texas"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer california"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer for 4 hours"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer forster"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer prices"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer texas"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner california"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner texas"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planners california"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planners florida"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers for november"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers for sale"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers nyc"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering edmonton"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering for 150 guests cost"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering ideas cheap"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering nyc"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band for man"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band ideas for princess cut solitaire"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding bands north carolina"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding bands nyc"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj florida"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj for 6 hours"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj nyc"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding california"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding for cheap"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding for elopement"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding texas"
+  },
+  {
+   "seed": "wedding budget",
+   "search": "wedding budget format"
+  },
+  {
+   "seed": "wedding table",
+   "search": "wedding table for those who have passed"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake nyc"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cakes nyc"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding ideas for 40 guests"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding in church"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding venues california"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding venues texas"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas for 6 year old"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas nyc"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party for 6 ideas"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party ideas easy"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party menu"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party for second marriage"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party for women"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party formal attire"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party format"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party guest outfit"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party ideas at a restaurant"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress codes"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress shops california"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress shops texas"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses california"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses texas"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair and makeup nyc"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair inspo"
+  }
+ ],
+ "us": [
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues california"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues chicago"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues colorado"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues fort collins"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues fort lauderdale"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues fort myers"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues fort wayne"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues fort wayne indiana"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues houston"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues in georgia"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues in michigan"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues in oklahoma"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues new jersey"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues texas"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue airbnb"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue california"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue finder"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for sale california"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for sale texas"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue fort wayne"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue fort worth"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue insurance"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue jobs"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue nj"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue prices"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue texas"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues california"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues chicago"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues colorado"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues houston"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues in michigan"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues new jersey"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues texas"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer california"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer for 1 hour"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer fort collins"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer prices"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer snl"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer snl skit"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer texas"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographers california"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographers north carolina"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner assistant jobs"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner california"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner fort lauderdale"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner fort wayne"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner fort worth"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner texas"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planners california"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planners florida"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers for sale"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers for the church"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers nyc"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering dallas"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering for 150 guests cost"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering ideas cheap"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering kansas city"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering los angeles"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering nyc"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering utah"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band for man"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band ideas for princess cut solitaire"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding bands north carolina"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding bands nyc"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj chicago"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj florida"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj for 6 hours"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj kansas city"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj nyc"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding djs kansas city"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding california"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding for cheap"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding for elopement"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding knots"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding texas"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in california"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in florida"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in massachusetts"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in nc"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in nyc"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in texas"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in washington state"
+  },
+  {
+   "seed": "wedding budget",
+   "search": "wedding budget for 60 guests"
+  },
+  {
+   "seed": "wedding table",
+   "search": "wedding table for those who have passed"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake for 150 people"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake for 40 people"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake ideas for 100 people"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake nyc"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake stand"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cakes"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cakes nyc"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding venues california"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding venues texas"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding bouquet"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding ideas for 40 guests"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding in church"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding venues california"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding venues texas"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas nyc"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party band"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party brooklyn"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party for 10 menu ideas"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party fort greene"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party ideas for 20 people"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party nyc"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party for second marriage"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party for women"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party formal attire"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party format"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party ideas at a restaurant"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party ideas nyc"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest book ideas"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest dress formal"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest for hire"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress alterations near me"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress guest"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress ideas for women guest"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress rental"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress shops california"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress shops texas"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses california"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses texas"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair and makeup nyc"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair down"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair for strapless dress"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair ideas bridesmaid"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair ideas shoulder length"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair inspo"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair piece"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hairstyles medium hair"
+  }
+ ],
+ "au": [],
+ "ca": [],
+ "ae": [],
+ "in": [],
+ "ie": [],
+ "za": []
 }
