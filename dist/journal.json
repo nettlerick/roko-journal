@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T09:58:15+00:00",
+ "generated": "2026-11-10T13:41:47+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2453,7 +2453,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-10T09:40+00:00",
+  "generated": "2026-11-10T13:26+00:00",
   "rising_searches": {
    "date": "2026-11-09",
    "compared_with": "2026-11-02",
@@ -3319,6 +3319,15 @@
     "kind": "travel"
    },
    {
+    "url": "https://www.eventindustrynews.com/news/twenty-uk-festivals-selected-for-skiddle-funded-aif-membership-and-promotional-support",
+    "title": "Twenty UK festivals selected for Skiddle-funded AIF membership and promotional support",
+    "summary": "Independent ticketing platform Skiddle and the Association of Independent Festivals (AIF) have selected 20 small and/or micro independent UK festivals, ...",
+    "date": "2026-11-10T01:21:00+00:00",
+    "publisher": "Event Industry News",
+    "kind": "news",
+    "query": "events industry UK"
+   },
+   {
     "url": "https://www.hospitalitynet.org/opinion/4135357/how-to-use-ai-agents-to-build-workflows-that-prevent-overnight-emergencies-in-hotels",
     "title": "How to Use AI Agents to Build Workflows That Prevent Overnight Emergencies in Hotels",
     "summary": "A step-by-step guide to deploying AI agents for overnight hotel operations, covering six workflow examples from kitchen temperature alerts to shift handoffs, using Zenzap as the featured platform.",
@@ -3393,6 +3402,24 @@
     "publisher": "Martha Stewart Weddings on MSN",
     "kind": "news",
     "query": "Italy wedding destination"
+   },
+   {
+    "url": "https://uk.news.yahoo.com/ashes-stop-the-wedding-is-tiktoks-favorite-breakup-anthem-it-was-inspired-by-her-own-divorce-202107580.html",
+    "title": "Ashe's 'Stop the Wedding!' is TikTok's favorite breakup anthem. It was inspired by her own divorce.",
+    "summary": "People are posting on TikTok about how happy they are that they left their past relationships, soundtracked by \"Stop the Wedding!\" ...",
+    "date": "2026-11-09T04:21:00+00:00",
+    "publisher": "Yahoo News UK",
+    "kind": "news",
+    "query": "TikTok wedding trend"
+   },
+   {
+    "url": "https://www.newsbytesapp.com/news/entertainment/rajinikanth-mk-stalin-fly-to-greece-for-anirudh-kavya-s-wedding/story",
+    "title": "Rajinikanth, MK Stalin fly to Greece for Anirudh-Kavya's wedding",
+    "summary": "Music composer Anirudh Ravichander and Sunrisers Hyderabad co-owner Kavya Maran are set for a grand destination wedding in Greece on November 10 and 11.",
+    "date": "2026-11-09T03:45:00+00:00",
+    "publisher": "NewsBytes",
+    "kind": "news",
+    "query": "destination wedding"
    },
    {
     "url": "https://www.cnbctv18.com/personal-finance/planning-a-destination-wedding-know-what-insurance-covers-what-it-doesnt-20030291.htm",
@@ -3774,33 +3801,6 @@
     "publisher": "Metro on MSN",
     "kind": "news",
     "query": "wedding trends US"
-   },
-   {
-    "url": "https://www.msn.com/en-us/news/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gPPZY",
-    "title": "2027 wedding trends revealed: From noughties’ nostalgia to the groom brooch",
-    "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
-    "date": "2026-11-05T07:18:13+00:00",
-    "publisher": "Metro on MSN",
-    "kind": "news",
-    "query": "wedding trends US"
-   },
-   {
-    "url": "https://www.msn.com/en-nz/lifestyle/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gPp0A",
-    "title": "2027 wedding trends revealed: From noughties’ nostalgia to the groom brooch",
-    "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
-    "date": "2026-11-05T07:18:13+00:00",
-    "publisher": "Metro on MSN",
-    "kind": "news",
-    "query": "wedding trends"
-   },
-   {
-    "url": "https://www.msn.com/en-ph/news/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gPvMS",
-    "title": "2027 wedding trends revealed: From noughties’ nostalgia to the groom brooch",
-    "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
-    "date": "2026-11-05T07:18:13+00:00",
-    "publisher": "Metro on MSN",
-    "kind": "news",
-    "query": "wedding trends"
    }
   ],
   "headlines": [
@@ -3962,6 +3962,12 @@
    },
    {
     "query": "viral wedding TikTok",
+    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
+    "publisher": "IMDb",
+    "date": "2026-11-05T19:27:57+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
     "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
     "publisher": "People.com",
     "date": "2026-10-14T07:00:00+00:00"
@@ -4015,12 +4021,6 @@
     "date": "2026-11-05T17:55:19+00:00"
    },
    {
-    "query": "viral wedding TikTok",
-    "headline": "Ashe Brings Viral Hit Stop the Wedding! to Love Is Blind Season 11 Reunion",
-    "publisher": "103.9 Wayne FM",
-    "date": "2026-11-09T07:10:29+00:00"
-   },
-   {
     "query": "wedding Instagram trend",
     "headline": "Five 2027 wedding trend predictions",
     "publisher": "www.stylenest.co.uk",
@@ -4046,7 +4046,7 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "The New Luxury Wedding Trend? Keeping It Off Social Media.",
+    "headline": "Is This the End of the Wedding Overshare?",
     "publisher": "The New York Times",
     "date": "2026-11-08T10:00:27+00:00"
    },
@@ -4112,6 +4112,12 @@
    },
    {
     "query": "Pinterest wedding trends",
+    "headline": "From beach weddings to royal palace ceremonies, how to pick the right jewellery for every destination wedding | Fashion Trends",
+    "publisher": "Hindustan Times",
+    "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
     "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
     "publisher": "New York Post",
     "date": "2026-11-04T20:21:00+00:00"
@@ -4142,6 +4148,12 @@
    },
    {
     "query": "luxury wedding venue opening",
+    "headline": "Ciliau Aeron venue nominated for wedding industry award",
+    "publisher": "Cambrian News",
+    "date": "2026-10-12T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
     "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
     "publisher": "The Impartial Reporter",
     "date": "2026-10-27T07:00:00+00:00"
@@ -4151,18 +4163,6 @@
     "headline": "Destination weddings in 2027: 6 things to consider before booking a venue",
     "publisher": "Firstpost",
     "date": "2026-10-31T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "The best wedding guest suits for winter 2026, and how to wear them",
-    "publisher": "British GQ",
-    "date": "2026-11-06T14:56:12+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "The best engagement party venues in London",
-    "publisher": "SquareMeal",
-    "date": "2026-11-03T08:00:00+00:00"
    }
   ],
   "pages": {
