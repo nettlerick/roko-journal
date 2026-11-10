@@ -83,7 +83,19 @@
  "series": "Journal",
  "date": "2026-11-10T09:42",
  "updated": "2026-11-10T09:42",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Vogue",
+   "credit_url": "https://www.vogue.com/article/wedding-dress-trends-bridal-fashion-week-fall-2027",
+   "license": "Image from the cited website",
+   "file": "media/how-to-break-down-a-wedding-budget/cover.webp",
+   "width": 1280,
+   "height": 720,
+   "alt": "A woman in a white strapless wedding dress posing against a neutral wall with soft lighting.",
+   "source": "website",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@365d0f8894ca3807ee08798e9fdfbd0839c6859a/media/how-to-break-down-a-wedding-budget/cover.webp"
+  }
+ ],
  "categories": [
   "wedding-planning"
  ]
