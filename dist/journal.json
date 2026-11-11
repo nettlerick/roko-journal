@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T13:41:47+00:00",
+ "generated": "2026-11-11T09:32:54+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -858,7 +858,7 @@
     "url": "/wedding-flowers-and-decor",
     "label": "Find florists and stylists on Roko"
    },
-   "status": "planned"
+   "status": "waiting for photo"
   },
   {
    "n": 49,
@@ -2417,6 +2417,7 @@
   "how-to-choose-a-wedding-venue-the-complete-guide",
   "luxury-wedding-venues-around-the-world",
   "the-best-destination-wedding-countries",
+  "the-complete-guide-to-wedding-flowers",
   "the-complete-wedding-planning-checklist"
  ],
  "problems": {
@@ -2430,6 +2431,9 @@
    "needs a cover image"
   ],
   "the-best-destination-wedding-countries": [
+   "needs a cover image"
+  ],
+  "the-complete-guide-to-wedding-flowers": [
    "needs a cover image"
   ],
   "the-complete-wedding-planning-checklist": [
@@ -2453,7 +2457,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-10T13:26+00:00",
+  "generated": "2026-11-11T09:16+00:00",
   "rising_searches": {
    "date": "2026-11-09",
    "compared_with": "2026-11-02",
@@ -3295,6 +3299,98 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.hospitalitynet.org/podcast/4135306/remco-gerritsen-of-cityhub-on-solo-travel-revenue-per-square-meter-and-scaling-a-modular-urban-hotel-across-europe",
+    "title": "Remco Gerritsen of CityHub on Solo Travel, Revenue per Square Meter, and Scaling a Modular Urban Hotel Across Europe",
+    "summary": "CityHub CEO Remco Gerritsen outlines plans to double hub capacity by end of 2025, covering space economics, modular builds in repurposed buildings, direct booking strategy, and solo traveler growth.",
+    "date": "2026-11-11T09:00:00+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/opinion/4135390/the-direct-custody-trench-defending-net-margins-against-the-distribution-squeeze",
+    "title": "The Direct Custody Trench: Defending Net Margins Against the Distribution Squeeze",
+    "summary": "An analysis of how Spanish hotels facing 270 new properties in the pipeline can protect net margins by cutting OTA dependency, with real unit economics showing 30%+ revenue lost per third-party booking.",
+    "date": "2026-11-11T08:00:00+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/opinion/4135395/great-hospitality-greater-revenue-powered-by-people",
+    "title": "Great Hospitality. Greater Revenue. Powered by People.",
+    "summary": "FPG VP Benjamin Seelos outlines how reframing upselling as guest recommendation, combined with frontline training and AI tools, helps hotels add 4-8% TRevPAR and restaurants lift revenue 5-15% per guest.",
+    "date": "2026-11-11T02:57:17+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://english.mathrubhumi.com/lifestyle/travel/anirudh-kavya-wedding-why-greece-is-perfect-destination-ozxxa4s0",
+    "title": "Anirudh Ravichander-Kavya Maran wedding: What makes Greece a perfect destination?",
+    "summary": "From breathtaking island views and sun-kissed beaches to Greek hospitality and Mediterranean cuisine, here's why Greece makes a dream destination wedding location.",
+    "date": "2026-11-10T23:01:00+00:00",
+    "publisher": "Mathrubhumi English",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://skift.com/2026/11/10/a-year-after-sonders-collapse-francis-davidson-sells-his-ai-travel-startup-to-openai/",
+    "title": "OpenAI Acquires Odessia, the AI Travel Agent From Sonder’s Co-Founder",
+    "summary": "OpenAI didn't acquire Odessia for its revenue. It bought a team that built a working AI travel agent in months, plus a founder who ran a lodging company, which included hotels and short-term rentals, for a decade. It's a sign ChatGPT wants to do more in travel than send users to Booking.com and Expedia.",
+    "date": "2026-11-10T19:31:07+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.msn.com/en-ie/lifestyle/other/whimsical-weddings-are-huge-on-tiktok-heres-how-to-do-the-trend-for-your-big-day/ar-AA2haL85",
+    "title": "Whimsical weddings are huge on TikTok — here's how to do the trend for your big day",
+    "summary": "The TikTok trend for personalised, colourful ceremonies is being widely embraced, and it doesn’t require an extravagant budget, saysSara Keenan ...",
+    "date": "2026-11-10T18:00:00+00:00",
+    "publisher": "Irish Examiner on MSN",
+    "kind": "news",
+    "query": "TikTok wedding trend"
+   },
+   {
+    "url": "https://skift.com/2026/11/10/prices-prop-up-travel-as-demand-cools/",
+    "title": "Prices Prop Up Travel as Demand Cools",
+    "summary": "Travel interest is slipping, but revenue is holding because prices are doing the work. That cushion only lasts as long as travelers keep paying more, which makes falling search activity worth watching closely heading into 2027.",
+    "date": "2026-11-10T17:14:52+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
+   {
+    "url": "https://hospitalitybizindia.com/news-track/tivoli-hospitality-group-doubles-down-on-chhatarpur-with-launch-of-midori-by-tivoli/",
+    "title": "Tivoli Hospitality Group Doubles Down on Chhatarpur with launch of Midori by Tivoli",
+    "summary": "New luxury property to feature expansive banqueting venues, premium rooms and leisure facilities, targeting the growing weddings, celebrations and MICE market in Delhi-NCR. Following the successful ...",
+    "date": "2026-11-10T16:00:00+00:00",
+    "publisher": "Hospitality Biz India",
+    "kind": "news",
+    "query": "hospitality weddings"
+   },
+   {
+    "url": "https://www.vogue.com/slideshow/kathryn-mawhinney-and-grayson-judge-wedding",
+    "title": "This Couple Rented Out a 17th-Century Stone Village for Their Misty Cliffside Wedding in the Azores",
+    "summary": "Kathryn Mawhinney and Grayson Judge exchanged vows in an 18th-century church on the remote Portuguese island of Flores—an homage to his Azorean heritage.",
+    "date": "2026-11-10T14:00:00+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/news/4135366/onejourney-named-to-phocuswires-hot-25-travel-startups-for-2027",
+    "title": "OneJourney Named to PhocusWire’s Hot 25 Travel Startups for 2027",
+    "summary": "OneJourney's SwiftPay platform, which turns hotel supplier payments into cashback revenue via virtual cards and AI automation, earned a spot on PhocusWire's Hot 25 Travel Startups for 2027.",
+    "date": "2026-11-10T14:00:00+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.news18.com/photogallery/lifestyle/events/from-greece-to-bali-7-things-to-keep-in-mind-before-planning-a-destination-wedding-ws-kl-10420968.html",
+    "title": "From Greece To Bali: 7 Things To Keep In Mind Before Planning A Destination Wedding",
+    "summary": "Destination weddings offer couples the chance to celebrate their big day against stunning backdrops, but planning a wedding abroad comes with its own challenges.",
+    "date": "2026-11-10T11:42:00+00:00",
+    "publisher": "News18",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
     "url": "https://www.hospitalitynet.org/news/4135375/hotel-marketing-stops-after-booking-guest-spending-doesnt",
     "title": "Hotel marketing stops after booking. Guest spending doesn’t.",
     "summary": "At-visions pitches Adtronaut as a unified hotel ad platform connecting room TVs, signage, WiFi, and post-stay email to convert ancillary revenue opportunities into actual sales.",
@@ -3328,12 +3424,30 @@
     "query": "events industry UK"
    },
    {
+    "url": "https://www.ndtv.com/travel/why-anirudh-ravichander-and-kavya-maran-have-chosen-greece-for-their-wedding-12306832",
+    "title": "Why Anirudh Ravichander And Kavya Maran Have Chosen Greece For Their Wedding",
+    "summary": "From picturesque islands and historic landmarks to exceptional food and wine, Greece offers everything needed for a memorable wedding celebration.",
+    "date": "2026-11-10T01:04:00+00:00",
+    "publisher": "NDTV",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
     "url": "https://www.hospitalitynet.org/opinion/4135357/how-to-use-ai-agents-to-build-workflows-that-prevent-overnight-emergencies-in-hotels",
     "title": "How to Use AI Agents to Build Workflows That Prevent Overnight Emergencies in Hotels",
     "summary": "A step-by-step guide to deploying AI agents for overnight hotel operations, covering six workflow examples from kitchen temperature alerts to shift handoffs, using Zenzap as the featured platform.",
     "date": "2026-11-10T00:00:00+00:00",
     "publisher": "Hospitality Net",
     "kind": "travel"
+   },
+   {
+    "url": "https://www.msn.com/en-xl/news/other/regional-festivals-and-weddings-extend-india-s-retail-spending-season/ar-AA2hayrU",
+    "title": "Regional festivals and weddings extend India’s retail spending season",
+    "summary": "Sourcing costs, lead times, and product availability could influence festive retail performance. India’s festive and wedding season is evolving into a longer period of consumer spending, with demand ...",
+    "date": "2026-11-09T20:46:31+00:00",
+    "publisher": "Retail Asia on MSN",
+    "kind": "news",
+    "query": "wedding season India"
    },
    {
     "url": "https://hotelierbuzz.com/midori-by-tivoli-launch-chhatarpur-delhi/",
@@ -3393,6 +3507,15 @@
     "date": "2026-11-09T10:49:02+00:00",
     "publisher": "Hospitality Net",
     "kind": "travel"
+   },
+   {
+    "url": "https://www.nytimes.com/2026/11/09/style/wedding-cost-budget.html",
+    "title": "What Did Your Wedding Really Cost?",
+    "summary": "We want to hear from couples who married in the last five years about how they approached their wedding budget: where they splurged and saved and how they brought their vision to life.",
+    "date": "2026-11-09T09:44:00+00:00",
+    "publisher": "The New York Times",
+    "kind": "news",
+    "query": "wedding costs UK"
    },
    {
     "url": "https://www.msn.com/en-us/news/other/italian-romance-unfolds-at-a-scenic-lake-como-wedding/vi-AA2bhDAw",
@@ -3683,124 +3806,6 @@
     "date": "2026-11-05T15:36:00+00:00",
     "publisher": "Hospitality Net",
     "kind": "travel"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/news/4135307/adeera-and-hsmai-mea-join-forces-to-develop-the-next-generation-of-hospitality-commercial-leaders",
-    "title": "Adeera and HSMAI MEA Join Forces to Develop the Next Generation of Hospitality Commercial Leaders",
-    "summary": "Adeera Hospitality and HSMAI MEA will offer sales, marketing and revenue staff four professional certifications including CHSL, CHDM, CRME and CHBA, supported by expert-led review courses.",
-    "date": "2026-11-05T15:28:32+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.tatler.com/article/luck-be-a-lady-meet-the-young-swans-who-graced-tatlers-little-black-book-party",
-    "title": "Luck be a Lady! Meet the young swans who graced Tatler's Little Black Book party",
-    "summary": "Lady Araminta Spencer-Churchill, the Primrose sisters, Lady Gina Hope and Lady Olympia Onslow were the toast of the town at Tramp",
-    "date": "2026-11-05T14:32:53+00:00",
-    "publisher": "Tatler",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.tatler.com/article/who-arrived-at-the-little-black-book-party-last-night",
-    "title": "Who arrived at the Little Black Book party last night? Introducing the next-gen social set to know",
-    "summary": "From the Chelsea set to athletes in the ascendant, a who's who of next-gen names-to-know descended upon Tramp for Tatler's Little Black Book party. Missed out on an invitation? Better luck next year",
-    "date": "2026-11-05T14:25:30+00:00",
-    "publisher": "Tatler",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.tatler.com/article/oh-my-lord-who-turned-heads-in-luca-faloni-at-the-little-black-book-party",
-    "title": "Oh my, Lord! Who turned heads in Luca Faloni at the Little Black Book party?",
-    "summary": "Lord Doune and Lord Caspar Spencer-Churchill made their grand entrance at Tramp in elegant tailoring",
-    "date": "2026-11-05T14:21:15+00:00",
-    "publisher": "Tatler",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/news/4135280/ideas-to-convene-third-resorts-revenue-council-as-resort-operators-accelerate-commercial-strategy-evolution",
-    "title": "IDeaS to Convene Third Resorts Revenue Council as Resort Operators Accelerate Commercial Strategy Evolution",
-    "summary": "IDeaS will host its third Resorts Revenue Council on Feb. 10, 2027, in Sharm El Sheikh, Egypt, gathering resort commercial leaders to shape future innovation in resort revenue management software.",
-    "date": "2026-11-05T13:00:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.vogue.com/article/black-wedding-dresses",
-    "title": "24 Black Wedding Dresses for the Non-Traditional Bride",
-    "summary": "Does your bridal style lean non-traditional? Choose a black wedding dress for your big day; here, great designs from the likes of Vivienne Westwood, Tory Burch, and more.",
-    "date": "2026-11-05T11:00:00+00:00",
-    "publisher": "Vogue",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.tatler.com/gallery/tatler-shops-bridal",
-    "title": "Tatler Shops: Weddings & Bridal. Where ‘I Do’ meets wedding elegance",
-    "summary": "Where ‘I Do’ meets wedding elegance",
-    "date": "2026-11-05T08:40:00+00:00",
-    "publisher": "Tatler",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.msn.com/en-sg/travel/europe-travel/six-picturesque-european-destinations-for-the-perfect-beach-wedding/ar-AA2gPkiX",
-    "title": "Six picturesque European destinations for the perfect beach wedding",
-    "summary": "From Greece to Italy, we explore some of Europe’s most visited beach-based wedding venues. View on euronews ...",
-    "date": "2026-11-05T08:22:50+00:00",
-    "publisher": "Euronews on MSN",
-    "kind": "news",
-    "query": "Italy wedding destination"
-   },
-   {
-    "url": "https://www.msn.com/en-us/travel/europe-travel/six-picturesque-european-destinations-for-the-perfect-beach-wedding/ar-AA2gPyvR",
-    "title": "Six picturesque European destinations for the perfect beach wedding",
-    "summary": "From Greece to Italy, we explore some of Europe’s most visited beach-based wedding venues. View on euronews ...",
-    "date": "2026-11-05T08:22:50+00:00",
-    "publisher": "Euronews on MSN",
-    "kind": "news",
-    "query": "Italy wedding destination"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4135284/most-revenue-managers-dont-know-why-their-strategy-worked",
-    "title": "Most revenue managers don't know why their strategy worked.",
-    "summary": "A sharp critique of how revenue managers conflate good outcomes with good strategy, and warns that AI tools risk automating overconfident explanations rather than genuine causal insight.",
-    "date": "2026-11-05T08:04:47+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/news/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gPovI",
-    "title": "2027 wedding trends revealed: From noughties' nostalgia to the groom brooch",
-    "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
-    "date": "2026-11-05T07:18:13+00:00",
-    "publisher": "Metro on MSN",
-    "kind": "news",
-    "query": "wedding trends"
-   },
-   {
-    "url": "https://www.msn.com/en-au/news/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gPIJK",
-    "title": "2027 wedding trends revealed: From noughties' nostalgia to the groom brooch",
-    "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
-    "date": "2026-11-05T07:18:13+00:00",
-    "publisher": "Metro on MSN",
-    "kind": "news",
-    "query": "wedding trends"
-   },
-   {
-    "url": "https://www.msn.com/en-au/lifestyle/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gPIJK",
-    "title": "2027 wedding trends revealed: From noughties' nostalgia to the groom brooch",
-    "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
-    "date": "2026-11-05T07:18:13+00:00",
-    "publisher": "Metro on MSN",
-    "kind": "news",
-    "query": "wedding trends"
-   },
-   {
-    "url": "https://www.msn.com/en-ae/news/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gP1vd",
-    "title": "2027 wedding trends revealed: From noughties’ nostalgia to the groom brooch",
-    "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
-    "date": "2026-11-05T07:18:13+00:00",
-    "publisher": "Metro on MSN",
-    "kind": "news",
-    "query": "wedding trends US"
    }
   ],
   "headlines": [
@@ -3886,13 +3891,7 @@
     "query": "wedding industry",
     "headline": "Milton Keynes celebrant shortlisted twice at The Wedding Industry Awards as regional finalist",
     "publisher": "Milton Keynes Citizen",
-    "date": "2026-10-23T14:59:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Ciliau Aeron venue nominated for wedding industry award",
-    "publisher": "Cambrian News",
-    "date": "2026-10-12T07:00:00+00:00"
+    "date": "2026-10-23T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -3914,6 +3913,12 @@
    },
    {
     "query": "wedding industry",
+    "headline": "Kilmarnock wedding magician and host Steven Blair has been highly commended at The Wedding Industry Awards",
+    "publisher": "https://www.ayrshiredailynews.co.uk/",
+    "date": "2026-11-09T15:10:59+00:00"
+   },
+   {
+    "query": "wedding industry",
     "headline": "Over Barn recognised as Gloucestershire's best wedding barn",
     "publisher": "SoGlos",
     "date": "2026-10-14T07:00:00+00:00"
@@ -3923,12 +3928,6 @@
     "headline": "Wareham business named regional finalist in Wedding Industry Awards 2027",
     "publisher": "Bournemouth Echo",
     "date": "2026-10-13T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Kilmarnock wedding magician and host Steven Blair has been highly commended at The Wedding Industry Awards",
-    "publisher": "https://www.ayrshiredailynews.co.uk/",
-    "date": "2026-11-09T15:10:59+00:00"
    },
    {
     "query": "wedding industry",
@@ -3949,6 +3948,12 @@
     "date": "2026-11-09T09:29:58+00:00"
    },
    {
+    "query": "wedding industry",
+    "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
+    "publisher": "Stroud News and Journal",
+    "date": "2026-10-22T07:00:00+00:00"
+   },
+   {
     "query": "viral wedding TikTok",
     "headline": "The Viral “Stop the Wedding” Trend Is a Reminder That It’s Never Too Late to Walk Away",
     "publisher": "Cosmopolitan",
@@ -3956,27 +3961,21 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Bride reportedly asks bridesmaid to gain 120 pounds TikTok video, explained",
-    "publisher": "The Mary Sue",
-    "date": "2026-11-04T14:45:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
-    "publisher": "IMDb",
-    "date": "2026-11-05T19:27:57+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
-    "publisher": "People.com",
-    "date": "2026-10-14T07:00:00+00:00"
+    "headline": "Ghostbusters Theme Interrupts Couple’s Wedding Vows in Viral Video",
+    "publisher": "Ghostbusters News",
+    "date": "2026-10-31T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
     "headline": "A bride's search for her mother's missing wedding dress goes viral",
     "publisher": "NBC 5 Chicago",
     "date": "2026-10-28T07:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
+    "publisher": "People.com",
+    "date": "2026-10-14T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -4010,15 +4009,27 @@
    },
    {
     "query": "viral wedding TikTok",
+    "headline": "B.C. couple recounts viral wedding-day jet ski entrance",
+    "publisher": "CTV News",
+    "date": "2026-10-13T07:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
     "headline": "Groom slammed for pulling ‘highly inappropriate’ stunt at the altar",
     "publisher": "New York Post",
-    "date": "2026-11-02T15:38:00+00:00"
+    "date": "2026-11-02T08:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
     "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
     "publisher": "Just Jared",
     "date": "2026-11-05T17:55:19+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Is This the End of the Wedding Overshare?",
+    "publisher": "The New York Times",
+    "date": "2026-11-08T10:00:27+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -4046,21 +4057,9 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Is This the End of the Wedding Overshare?",
-    "publisher": "The New York Times",
-    "date": "2026-11-08T10:00:27+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
     "publisher": "AOL.com",
     "date": "2026-10-25T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Chinese man invites internet strangers to his wedding. Watch as hundreds show up",
-    "publisher": "The Indian Express",
-    "date": "2026-10-31T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -4076,27 +4075,27 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Meet Emily Markus, who just married Rob Lowe’s son Matthew",
-    "publisher": "South China Morning Post",
-    "date": "2026-10-12T07:00:00+00:00"
+    "headline": "Chinese man invites internet strangers to his wedding. Watch as hundreds show up",
+    "publisher": "The Indian Express",
+    "date": "2026-10-31T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "13 of the Most Secretive Celebrity Weddings",
-    "publisher": "People.com",
-    "date": "2026-10-28T07:00:00+00:00"
+    "headline": "From Face Recognition to WhatsApp Control Room: 7 Trends in Gen-Z Weddings",
+    "publisher": "ET BrandEquity",
+    "date": "2026-11-11T07:29:32+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Joan Collins Nailed One Of The Hottest Color Trends With Her Mother-Of-The-Groom Outfit",
-    "publisher": "Glam",
-    "date": "2026-10-28T07:00:00+00:00"
+    "headline": "Taylor Swift faces dark reality after her marriage to Travis Kelce",
+    "publisher": "The News International",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
-    "query": "Pinterest wedding trends",
-    "headline": "28 Unexpected Wedding Looks For Modern Brides From The SS27 Runways",
-    "publisher": "ELLE Australia",
-    "date": "2026-10-12T07:00:00+00:00"
+    "query": "wedding Instagram trend",
+    "headline": "+++VIDEO EXCLUSIVE~ Acquired Style Wedding Dress Trending Viral Video – Popular Searches",
+    "publisher": "Fabryka Norblina",
+    "date": "2026-10-21T21:42:26+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -4109,6 +4108,12 @@
     "headline": "25 Best Dress Brands To Know For Every Occasion in 2026",
     "publisher": "ELLE",
     "date": "2026-11-04T08:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "From Face Recognition to WhatsApp Control Room: 7 Trends in Gen-Z Weddings",
+    "publisher": "ET BrandEquity",
+    "date": "2026-11-11T07:29:32+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -4130,27 +4135,21 @@
    },
    {
     "query": "luxury wedding venue opening",
+    "headline": "The best luxury wedding planners",
+    "publisher": "The Times",
+    "date": "2026-10-28T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
     "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
     "publisher": "Business Eye Magazine",
     "date": "2026-10-30T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Co Fermanagh hotel reveals £1.5m plans for new lakeside wedding venue",
-    "publisher": "Belfast Live",
-    "date": "2026-11-04T21:19:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
     "headline": "The best events and wedding planners in 2026",
     "publisher": "Spear's Magazine",
     "date": "2026-10-20T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "Ciliau Aeron venue nominated for wedding industry award",
-    "publisher": "Cambrian News",
-    "date": "2026-10-12T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -4163,6 +4162,12 @@
     "headline": "Destination weddings in 2027: 6 things to consider before booking a venue",
     "publisher": "Firstpost",
     "date": "2026-10-31T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "New 150-acre manor house wedding venue & spa set to open near Fylde coast",
+    "publisher": "Blackpool Gazette",
+    "date": "2026-11-11T06:00:00+00:00"
    }
   ],
   "pages": {
