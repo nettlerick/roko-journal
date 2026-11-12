@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T12:51:53+00:00",
+ "generated": "2026-11-12T10:03:20+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -1317,7 +1317,7 @@
     "url": "/wedding-vendors",
     "label": "Discover exceptional wedding businesses on Roko"
    },
-   "status": "planned"
+   "status": "waiting for photo"
   },
   {
    "n": 76,
@@ -2415,6 +2415,7 @@
  "waiting": [
   "how-to-choose-a-wedding-photographer",
   "how-to-choose-a-wedding-venue-the-complete-guide",
+  "luxury-wedding-trends-for-2027",
   "luxury-wedding-venues-around-the-world",
   "the-best-destination-wedding-countries",
   "the-complete-guide-to-wedding-flowers",
@@ -2425,6 +2426,9 @@
    "needs a cover image"
   ],
   "how-to-choose-a-wedding-venue-the-complete-guide": [
+   "needs a cover image"
+  ],
+  "luxury-wedding-trends-for-2027": [
    "needs a cover image"
   ],
   "luxury-wedding-venues-around-the-world": [
@@ -2457,7 +2461,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-11T12:41+00:00",
+  "generated": "2026-11-12T09:44+00:00",
   "rising_searches": {
    "date": "2026-11-09",
    "compared_with": "2026-11-02",
@@ -3299,12 +3303,112 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.tatler.com/article/inside-the-royal-wedding-of-grace-kelly-and-prince-rainier-iii-of-monaco",
+    "title": "Inside the royal wedding of Grace Kelly and Prince Rainier III of Monaco",
+    "summary": "The eyes of the world were on Monaco for the royal wedding of Prince Rainier and Grace Kelly. Rediscover the majesty on the anniversary of her birth",
+    "date": "2026-11-12T09:35:05+00:00",
+    "publisher": "Tatler",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.freepressjournal.in/lifestyle/kavya-maran-and-anirudh-serve-couple-goals-in-tarun-tahiliani-ensembles-in-dreamy-greece-wedding",
+    "title": "Kavya Maran And Anirudh Serve Couple Goals In Tarun Tahiliani Ensembles In Dreamy Greece Wedding",
+    "summary": "Music composer Anirudh Ravichander and Sunrisers Hyderabad CEO Kavya Maran have become the talk of social media after glimpses from their dreamy destination wedding in Greece surfaced online.",
+    "date": "2026-11-11T22:29:00+00:00",
+    "publisher": "Free Press Journal",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://www.townandcountrymag.com/the-scene/weddings/a74400525/diane-von-furstenberg-granddaughter-talita-wedding-news/",
+    "title": "Diane Von Fürstenberg’s Granddaughter Talita Got Married in a Lavish Private Wedding",
+    "summary": "Talita von Fürstenberg wed partner Rocco Brignone de Brabant in Mexico over the weekend.",
+    "date": "2026-11-11T16:55:38+00:00",
+    "publisher": "Town & Country",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/opinion/4135424/re-imagining-room-service-how-digital-ordering-could-turn-in-room-dining-into-your-f-b-revenue-superhero",
+    "title": "Re-imagining room service - how digital ordering could turn in-room dining into your F&B revenue superhero",
+    "summary": "IRIS outlines seven ways digital ordering can boost in-room dining revenue by up to 30% and cut per-order handling time by 10 minutes, with a call to action for hotels to adopt its platform.",
+    "date": "2026-11-11T16:14:35+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.townandcountrymag.com/society/tradition/a74399920/queen-margrethe-denmark-classen-trust-annual-meeting-2026/",
+    "title": "Queen Margrethe of Denmark Goes on Her First Work Engagement Outside Palace Walls in Months",
+    "summary": "The former monarch’s most recent events have all taken place at the Fredensborg Palace.",
+    "date": "2026-11-11T16:11:05+00:00",
+    "publisher": "Town & Country",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://pragativadi.com/anirudh-ravichander-and-kavya-maran-tie-the-knot-in-star-studded-greece-destination-wedding-first-official-photos-out",
+    "title": "Anirudh Ravichander and Kavya Maran Tie the Knot in Star-Studded Greece Destination Wedding; First Official Photos Out",
+    "summary": "Anirudh Ravichander weds Kavya Maran in a stunning ceremony in Greece. Discover the highlights of their intimate wedding.",
+    "date": "2026-11-11T16:00:00+00:00",
+    "publisher": "Pragativadi",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/editorial/4135421/cityhubs-remco-gerritsen-on-solo-travel-and-revenue-per-square-meter-steve-rushmore-on-key-money-paris-and-london-set-october-records",
+    "title": "CityHub's Remco Gerritsen on Solo Travel and Revenue per Square Meter, Steve Rushmore on Key Money, Paris and London Set October Records",
+    "summary": "Wednesday brought a Brand Insiders conversation on why half of CityHub's guests now travel alone, and Steve Rushmore's case that key money in a management agreement is never free money.",
+    "date": "2026-11-11T15:35:00+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.tatler.com/article/talita-von-furstenberg-is-married-everything-you-need-to-know-about-the-royal-it-girl-and-her-banking-scion-husband-as-the-jet-set-couple-secretly-tie-the-knot-in-mexico",
+    "title": "Talita von Fürstenberg is married! Everything you need to know about the royal It girl and her banking scion husband as the jet-set couple ‘secretly tie the knot in Mexico’",
+    "summary": "According to reports, the princess hosted her wedding over the weekend, in a celebration that no doubt saw the great and the gilded gather in a coastal paradise",
+    "date": "2026-11-11T15:10:27+00:00",
+    "publisher": "Tatler",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/news/4135414/urvenue-expands-stripe-integration-to-bring-modern-payment-technology-to-resorts-and-hospitality",
+    "title": "UrVenue Expands Stripe Integration to Bring Modern Payment Technology to Resorts and Hospitality",
+    "summary": "UrVenue expands its Stripe integration to add digital wallets, local currency pricing, and AI-driven payment optimization for resort and casino operators without per-property implementation.",
+    "date": "2026-11-11T12:52:42+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/podcast/4135413/the-business-of-belonging-building-guest-loyalty-in-a-new-era-of-personalization",
+    "title": "The business of belonging: Building guest loyalty in a new era of personalization",
+    "summary": "CoralTree Hospitality's VP of Guest Engagement discusses how reservations teams, CRM, and AI can drive ancillary revenue and deepen guest relationships through personalization.",
+    "date": "2026-11-11T12:51:40+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://luxe.outlookindia.com/fashion-beauty/couture/anirudh-ravichander-and-kavya-marans-greece-wedding-looks-celebrate-indian-couture-in-pastel-hues",
+    "title": "Anirudh Ravichander And Kavya Maran’s Greece Wedding: A Look At Their Pastel Indian Couture Ensembles",
+    "summary": "Anirudh Ravichander and Kavya Maran's Greece wedding featured Tarun Tahiliani creations, with blush-pink bridal couture, ivory traditionalwear and resort-inspired looks ...",
+    "date": "2026-11-11T12:23:00+00:00",
+    "publisher": "luxe.outlookindia",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
     "url": "https://www.hospitalitynet.org/podcast/4135306/remco-gerritsen-of-cityhub-on-solo-travel-revenue-per-square-meter-and-scaling-a-modular-urban-hotel-across-europe",
     "title": "Remco Gerritsen of CityHub on Solo Travel, Revenue per Square Meter, and Scaling a Modular Urban Hotel Across Europe",
     "summary": "CityHub CEO Remco Gerritsen outlines plans to double hub capacity by end of 2025, covering space economics, modular builds in repurposed buildings, direct booking strategy, and solo traveler growth.",
     "date": "2026-11-11T09:00:00+00:00",
     "publisher": "Hospitality Net",
     "kind": "travel"
+   },
+   {
+    "url": "https://www.theweek.in/news/entertainment/2026/11/11/anirudh-ravichander-kaviya-maran-greek-wedding.html",
+    "title": "Anirudh Ravichander and Kaviya Maran share first pics of Greek destination wedding; Rajinikanth, MK Stalin attend ceremony",
+    "summary": "Tamil music composer Anirudh Ravichander and Sunrisers Hyderabad co-owner Kaviya Maran tied the knot in an intimate destination wedding in Greece ...",
+    "date": "2026-11-11T08:19:00+00:00",
+    "publisher": "The Week",
+    "kind": "news",
+    "query": "destination wedding"
    },
    {
     "url": "https://www.hospitalitynet.org/opinion/4135390/the-direct-custody-trench-defending-net-margins-against-the-distribution-squeeze",
@@ -3710,106 +3814,6 @@
     "date": "2026-11-06T12:53:54+00:00",
     "publisher": "Tatler",
     "kind": "luxury"
-   },
-   {
-    "url": "https://www.tatler.com/article/lady-tamara-grosvenor-wedding",
-    "title": "A Westminster wedding at Chester Cathedral, a dazzling tiara, and a scandalous royal no-show: looking back at the nuptials of Lady Tamara Grosvenor and Edward van Cutsem",
-    "summary": "Twenty-two years ago this week, Lady Tamara Grosvenor and Edward Van Cutsem exchanged vows in the society wedding of the day",
-    "date": "2026-11-06T11:46:10+00:00",
-    "publisher": "Tatler",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.usatoday.com/story/special/contributor-content/2026/11/06/how-urvashi-mishra-is-reinventing-entrepreneurship-hospitality-and-the-future-of-luxury-wedding-plan/92645914007/",
-    "title": "How Urvashi Mishra is Reinventing Entrepreneurship, Hospitality, and the Future of Luxury Wedding Planning",
-    "summary": "With decades of experience in hospitality and event management, Mishra brings a distinctive perspective to South Asian and multicultural luxury destination weddings both in the US and internationally.",
-    "date": "2026-11-06T11:16:00+00:00",
-    "publisher": "USA TODAY",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.vogue.com/article/best-winter-wedding-guest-dresses",
-    "title": "28 Winter Wedding Guest Dresses for Cold-Weather Ceremonies",
-    "summary": "From silk dresses to sequined maxis, shop Vogue’s edit of the best winter wedding guest dresses for every budget.",
-    "date": "2026-11-06T11:00:00+00:00",
-    "publisher": "Vogue",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.vogue.com/slideshow/lola-teller-and-freddie-woodruff-wedding",
-    "title": "This Fashion Scion’s Laid-Back Ibiza Wedding Featured Lace Dresses, Barefoot Vows, and Dancing Till Dawn",
-    "summary": "Lola Teller walked down the aisle flanked by her parents, fashion photographer and stylist Venetia Scott and photographer Juergen Teller, to marry Freddie Woodruff in an Ibizan pine grove.",
-    "date": "2026-11-06T11:00:00+00:00",
-    "publisher": "Vogue",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/news/4135314/darklight-collection-chooses-mews-to-power-a-new-generation-of-dark-sky-hospitality",
-    "title": "DarkLight Collection chooses Mews to power a new generation of dark-sky hospitality",
-    "summary": "DarkLight Collection, a luxury dark-sky glamping brand with four US properties in development, selected Mews as its single operating system before opening, integrating PMS, revenue, housekeeping and smart room tech on one platform.",
-    "date": "2026-11-06T10:10:43+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4135278/goodbye-gatekeeping-how-millennials-and-gen-z-are-killing-stiff-luxury",
-    "title": "Goodbye, Gatekeeping: How Millennials and Gen Z are Killing Stiff Luxury",
-    "summary": "Executives across luxury hospitality, F&B, and events explain how authenticity, storytelling, and personality-led service are replacing rigid formality as the new markers of luxury for Millennial and Gen Z guests.",
-    "date": "2026-11-06T08:00:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://in.eventfaqs.com/2026/11/06/precision-personalisation-and-people-khushboo-patel-on-the-future-of-wedding-rsvps/",
-    "title": "Precision, Personalisation and People: Khushboo Patel on the Future of Wedding RSVPs",
-    "summary": "A wedding invitation may tell you where the celebration is happening, but it takes an entire ecosystem of planning to ensure every guest gets there, feels welcomed and knows exactly where they need to ...",
-    "date": "2026-11-06T03:54:00+00:00",
-    "publisher": "in.eventfaqs",
-    "kind": "news",
-    "query": "hospitality weddings"
-   },
-   {
-    "url": "https://hospitalitybizindia.com/news-track/espire-hospitality-targets-40-revenue-contribution-from-weddings-in-3-years/",
-    "title": "Espire Hospitality targets 40% revenue contribution from weddings in 3 years",
-    "summary": "Espire Hospitality is targeting a significant increase in wedding-led business, aiming to take the segment’s contribution to 40% and beyond of its overall revenue over the next three years. Weddings ...",
-    "date": "2026-11-06T02:42:00+00:00",
-    "publisher": "Hospitality Biz India",
-    "kind": "news",
-    "query": "hospitality weddings"
-   },
-   {
-    "url": "https://aabkaritimes.com/2026/11/indias-alcobev-industry-gears-up-for-festive-and-wedding-season-as-premium/",
-    "title": "India’s Alcobev Industry Gears Up for Festive and Wedding Season as Premium Liquor Demand Rises",
-    "summary": "India’s alcoholic beverages market is witnessing strong seasonal momentum, with Diwali, weddings, Christmas and New Year celebrations expected to drive sales. Industry revenues are growing faster than ...",
-    "date": "2026-11-06T00:01:00+00:00",
-    "publisher": "aabkaritimes.com",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://skift.com/2026/11/05/airbnb-outpaces-rivals-with-its-fastest-revenue-growth-in-3-years/",
-    "title": "Airbnb Outpaces Rivals With Its Fastest Revenue Growth in 3 Years",
-    "summary": "Airbnb is making its rivals look relatively sluggish. Is it affordability that's kickstarting demand across regions?",
-    "date": "2026-11-05T21:08:06+00:00",
-    "publisher": "Skift",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/casestudy/4135194/the-creative-upsells-that-made-elements-of-byron-over-aud-250000",
-    "title": "The Creative Upsells That Made Elements of Byron Over AUD 250,000",
-    "summary": "Elements of Byron implemented Canary Technologies across check-in, upsells, and checkout, generating over AUD 250,000 in upsell revenue with 75% of guests opting for mobile check-in.",
-    "date": "2026-11-05T19:00:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/casestudy/4135310/how-rosemead-house-turns-guest-data-into-more-revenue",
-    "title": "How Rosemead House turns guest data into more revenue",
-    "summary": "Rosemead House adopted Revinate for its seamless integration with OpenTable, Book4Time, and WebRezPro to convert guest data into incremental revenue.",
-    "date": "2026-11-05T18:18:36+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
    }
   ],
   "headlines": [
@@ -3821,9 +3825,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Five 2027 wedding trend predictions",
-    "publisher": "www.stylenest.co.uk",
-    "date": "2026-10-17T15:40:02+00:00"
+    "headline": "The 6 Biggest Wedding Dress Trends From New York Bridal Fashion Week Fall 2027",
+    "publisher": "Vogue",
+    "date": "2026-10-20T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
@@ -3833,9 +3837,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The 6 Biggest Wedding Dress Trends From New York Bridal Fashion Week Fall 2027",
-    "publisher": "Vogue",
-    "date": "2026-10-20T07:00:00+00:00"
+    "headline": "Five 2027 wedding trend predictions",
+    "publisher": "www.stylenest.co.uk",
+    "date": "2026-10-17T15:40:02+00:00"
    },
    {
     "query": "wedding trends",
@@ -3845,15 +3849,15 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The best wedding guest suits for winter 2026, and how to wear them",
-    "publisher": "British GQ",
-    "date": "2026-11-06T14:56:12+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "6 bridal trends for 2027 brides, from bows to basque waists",
     "publisher": "RTE.ie",
     "date": "2026-10-15T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "The best wedding guest suits for winter 2026, and how to wear them",
+    "publisher": "British GQ",
+    "date": "2026-11-06T14:56:12+00:00"
    },
    {
     "query": "wedding trends",
@@ -3875,15 +3879,15 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
-    "publisher": "AOL.com",
-    "date": "2026-10-25T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
     "publisher": "L'OFFICIEL USA",
     "date": "2026-10-18T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "Forget Trends! Your Wedding Florals Should Show What You Love",
+    "publisher": "AOL.com",
+    "date": "2026-10-25T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -3895,7 +3899,7 @@
     "query": "wedding industry",
     "headline": "Milton Keynes celebrant shortlisted twice at The Wedding Industry Awards as regional finalist",
     "publisher": "Milton Keynes Citizen",
-    "date": "2026-10-23T14:59:00+00:00"
+    "date": "2026-10-23T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -3905,21 +3909,15 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Wirral civil celebrant named regional finalist in prestigious wedding industry awards",
-    "publisher": "Wirral Globe",
-    "date": "2026-10-20T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Geilsland Estate in Beith wins top honour at Wedding Industry Awards",
-    "publisher": "Ardrossan and Saltcoats Herald",
-    "date": "2026-11-07T08:01:57+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Kilmarnock wedding magician and host Steven Blair has been highly commended at The Wedding Industry Awards",
     "publisher": "https://www.ayrshiredailynews.co.uk/",
     "date": "2026-11-09T15:10:59+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Wirral civil celebrant named regional finalist in prestigious wedding industry awards",
+    "publisher": "Wirral Globe",
+    "date": "2026-10-20T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -3929,15 +3927,15 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Wareham business named regional finalist in Wedding Industry Awards 2027",
-    "publisher": "Bournemouth Echo",
-    "date": "2026-10-13T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "How 15,000 free T-shirts helped build a £15m bridal fashion brand",
     "publisher": "BusinessCloud",
     "date": "2026-10-27T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Geilsland Estate in Beith wins top honour at Wedding Industry Awards",
+    "publisher": "Ardrossan and Saltcoats Herald",
+    "date": "2026-11-07T08:01:57+00:00"
    },
    {
     "query": "wedding industry",
@@ -3947,15 +3945,21 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Sustainable weddings: the proof is in the people, as new impact report leads with member stories",
-    "publisher": "Event Industry News",
-    "date": "2026-11-09T09:29:58+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
     "publisher": "Stroud News and Journal",
     "date": "2026-10-22T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Over Barn named among the South West's best",
+    "publisher": "Punchline-Gloucester.com",
+    "date": "2026-10-16T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Wedding content creator from Dorset says new industry is booming",
+    "publisher": "BBC",
+    "date": "2026-10-18T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -3971,15 +3975,15 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "A bride's search for her mother's missing wedding dress goes viral",
-    "publisher": "NBC 5 Chicago",
-    "date": "2026-10-28T07:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "Couple Shocked by Hilarious Surprise Objection at Wedding: ‘We Actually Couldn’t Believe It’ (Exclusive)",
     "publisher": "People.com",
     "date": "2026-10-14T07:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "A bride's search for her mother's missing wedding dress goes viral",
+    "publisher": "NBC 5 Chicago",
+    "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -3995,15 +3999,27 @@
    },
    {
     "query": "viral wedding TikTok",
+    "headline": "‘Distasteful’: Sexual wedding act shocks",
+    "publisher": "The Daily Telegraph",
+    "date": "2026-10-31T07:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "AiAi delas Alas explains viral wedding video https://www.gmanetwork.com/news/lifestyle/content/1009155/aiai-delas-alas-explains-viral-wedding-video/story/",
+    "publisher": "Facebook",
+    "date": "2026-11-11T23:16:12+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
     "headline": "Ashe's 'Stop the Wedding': The Viral Trend Raising Marriage Awareness",
     "publisher": "Tempo.co English",
     "date": "2026-11-07T05:04:55+00:00"
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
+    "headline": "US tourists turn unexpected wedding invitation in Vietnam into viral celebration",
     "publisher": "VnExpress International",
-    "date": "2026-11-02T08:52:19+00:00"
+    "date": "2026-10-30T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -4013,21 +4029,9 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
-    "publisher": "Just Jared",
-    "date": "2026-11-05T17:55:19+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "Ashe Brings Viral Hit Stop the Wedding! to Love Is Blind Season 11 Reunion",
-    "publisher": "WPRO",
-    "date": "2026-11-09T06:54:57+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "B.C. couple recounts viral wedding-day jet ski entrance",
-    "publisher": "CP24",
-    "date": "2026-10-13T07:00:00+00:00"
+    "publisher": "X-Rock 103.9",
+    "date": "2026-11-09T08:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -4067,15 +4071,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
-    "publisher": "WWD",
-    "date": "2026-10-22T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
     "publisher": "L'OFFICIEL USA",
     "date": "2026-10-18T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite Fashion Sourcer",
+    "publisher": "Vogue",
+    "date": "2026-10-29T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -4085,20 +4089,20 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "From Face Recognition to WhatsApp Control Room: 7 Trends in Gen-Z Weddings",
-    "publisher": "ET BrandEquity",
-    "date": "2026-11-11T07:29:32+00:00"
+    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
+    "publisher": "WWD",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Savannah Chrisley reveals details of her secret wedding to Jason Galanis",
-    "publisher": "The News International",
-    "date": "2026-11-02T04:29:00+00:00"
+    "headline": "+++VIDEO EXCLUSIVE~ Acquired Style Wedding Dress Trending Viral Video – Popular Searches",
+    "publisher": "Fabryka Norblina",
+    "date": "2026-10-21T21:42:26+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "13 of the Most Secretive Celebrity Weddings",
-    "publisher": "People.com",
+    "headline": "Joan Collins Nailed One Of The Hottest Color Trends With Her Mother-Of-The-Groom Outfit",
+    "publisher": "Glam",
     "date": "2026-10-28T07:00:00+00:00"
    },
    {
@@ -4109,39 +4113,27 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "25 Best Dress Brands To Know For Every Occasion in 2026",
-    "publisher": "ELLE",
-    "date": "2026-11-04T08:00:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
     "headline": "From Face Recognition to WhatsApp Control Room: 7 Trends in Gen-Z Weddings",
     "publisher": "ET BrandEquity",
     "date": "2026-11-11T07:29:32+00:00"
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "From beach weddings to royal palace ceremonies, how to pick the right jewellery for every destination wedding | Fashion Trends",
-    "publisher": "Hindustan Times",
-    "date": "2026-10-29T07:00:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
-    "publisher": "New York Post",
-    "date": "2026-11-04T20:21:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "An exclusive Wedding Preview Weekend will take place on Saturday, November 21 and Sunday, November 22, 2026, with private, one-to-one appointments available",
-    "publisher": "Belfast News Letter",
-    "date": "2026-11-04T13:21:00+00:00"
+    "headline": "5 Stylish Engagement Ring Trends for 2026: The Expert Guide",
+    "publisher": "Natural Diamond Council",
+    "date": "2026-11-11T14:00:35+00:00"
    },
    {
     "query": "luxury wedding venue opening",
     "headline": "The best luxury wedding planners",
     "publisher": "The Times",
     "date": "2026-10-28T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "An exclusive Wedding Preview Weekend will take place on Saturday, November 21 and Sunday, November 22, 2026, with private, one-to-one appointments available",
+    "publisher": "Belfast News Letter",
+    "date": "2026-11-04T13:21:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -4163,15 +4155,27 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Destination weddings in 2027: 6 things to consider before booking a venue",
-    "publisher": "Firstpost",
-    "date": "2026-10-31T07:00:00+00:00"
+    "headline": "The best engagement party venues in London",
+    "publisher": "SquareMeal",
+    "date": "2026-11-03T08:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "New 150-acre manor house wedding venue & spa set to open near Fylde coast",
-    "publisher": "Blackpool Gazette",
-    "date": "2026-11-11T06:00:00+00:00"
+    "headline": "The best wedding guest suits for winter 2026, and how to wear them",
+    "publisher": "British GQ",
+    "date": "2026-11-06T14:56:12+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
+    "publisher": "vietnamnews.vn",
+    "date": "2026-10-19T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Our roundup of the very best breakfasts in London",
+    "publisher": "Time Out Worldwide",
+    "date": "2026-10-29T07:00:00+00:00"
    }
   ],
   "pages": {
