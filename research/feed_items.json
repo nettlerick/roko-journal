@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.townandcountrymag.com/leisure/drinks/a74311861/party-photo-drink-etiquette/",
+  "title": "Should You Put Your Drink Down for a Party Photo?",
+  "summary": "With holiday season on the horizon, etiquette experts and partygoers weigh in on (and debate) the old-school rule.",
+  "date": "2026-11-12T12:00:00+00:00",
+  "publisher": "Town & Country",
+  "kind": "luxury"
+ },
+ {
+  "url": "https://www.hospitalitynet.org/opinion/4135437/the-compounding-cost-of-customer-churn",
+  "title": "The Compounding Cost of Customer Churn",
+  "summary": "Small, recurring customer losses compound over time, forcing businesses to acquire ever more new customers just to maintain growth, making preventable churn far costlier than it appears.",
+  "date": "2026-11-12T11:21:11+00:00",
+  "publisher": "Hospitality Net",
+  "kind": "travel"
+ },
+ {
   "url": "https://www.tatler.com/article/inside-the-royal-wedding-of-grace-kelly-and-prince-rainier-iii-of-monaco",
   "title": "Inside the royal wedding of Grace Kelly and Prince Rainier III of Monaco",
   "summary": "The eyes of the world were on Monaco for the royal wedding of Prince Rainier and Grace Kelly. Rediscover the majesty on the anniversary of her birth",
@@ -8,11 +24,38 @@
   "kind": "luxury"
  },
  {
+  "url": "https://www.msn.com/en-in/lifestyle/other/statement-buns-to-romantic-waves-bridal-hairstyles-to-bookmark-this-wedding-season/ar-AA2hh6bH",
+  "title": "Statement buns to romantic waves: Bridal hairstyles to bookmark this wedding season",
+  "summary": "Wedding season is upon us, which means the mood boards are filling up, the lehengas are getting their final fittings and brides are busy figuring out every last detail of their wedding wardrobe.",
+  "date": "2026-11-12T02:20:08+00:00",
+  "publisher": "News18 on MSN",
+  "kind": "news",
+  "query": "Instagram wedding trend"
+ },
+ {
+  "url": "https://www.msn.com/en-in/news/other/statement-buns-to-romantic-waves-bridal-hairstyles-to-bookmark-this-wedding-season/ar-AA2hh6bH",
+  "title": "Statement Buns To Romantic Waves: Bridal Hairstyles To Bookmark This Wedding Season",
+  "summary": "Wedding season is upon us, which means the mood boards are filling up, the lehengas are getting their final fittings and brides are busy figuring out every last detail of their wedding wardrobe.",
+  "date": "2026-11-12T02:20:08+00:00",
+  "publisher": "News18 on MSN",
+  "kind": "news",
+  "query": "wedding trends"
+ },
+ {
   "url": "https://www.freepressjournal.in/lifestyle/kavya-maran-and-anirudh-serve-couple-goals-in-tarun-tahiliani-ensembles-in-dreamy-greece-wedding",
   "title": "Kavya Maran And Anirudh Serve Couple Goals In Tarun Tahiliani Ensembles In Dreamy Greece Wedding",
   "summary": "Music composer Anirudh Ravichander and Sunrisers Hyderabad CEO Kavya Maran have become the talk of social media after glimpses from their dreamy destination wedding in Greece surfaced online.",
   "date": "2026-11-11T22:29:00+00:00",
   "publisher": "Free Press Journal",
+  "kind": "news",
+  "query": "destination wedding"
+ },
+ {
+  "url": "https://www.news18.com/lifestyle/travel/udaipur-to-goa-8-dreamy-wedding-destinations-in-india-for-your-big-day-ws-l-10423223.html",
+  "title": "Udaipur To Goa: 8 Dreamy Wedding Destinations In India For Your Big Day",
+  "summary": "From Udaipur's royal palaces and Jaipur's heritage charm to Goa's sun-kissed beaches, explore eight stunning Indian destinations for your dream wedding.",
+  "date": "2026-11-11T19:01:00+00:00",
+  "publisher": "News18",
   "kind": "news",
   "query": "destination wedding"
  },
@@ -800,6 +843,15 @@
  },
  {
   "url": "https://www.msn.com/en-my/news/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gPmdc",
+  "title": "2027 wedding trends revealed: From noughties’ nostalgia to the groom brooch",
+  "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
+  "date": "2026-11-05T07:18:13+00:00",
+  "publisher": "Metro on MSN",
+  "kind": "news",
+  "query": "wedding trends"
+ },
+ {
+  "url": "https://www.msn.com/en-xl/news/other/2027-wedding-trends-revealed-from-noughties-nostalgia-to-the-groom-brooch/ar-AA2gPe0S",
   "title": "2027 wedding trends revealed: From noughties’ nostalgia to the groom brooch",
   "summary": "Gen Z couples are ditching the traditional white wedding for bold colours, jazz age glamour and noughties party anthems, according to a new report revealing the biggest marriage trends for 2027. From ...",
   "date": "2026-11-05T07:18:13+00:00",
