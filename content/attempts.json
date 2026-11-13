@@ -14,10 +14,11 @@
   "count": 2
  },
  "destination-wedding-guide": {
-  "date": "2026-11-13T09:34+00:00",
+  "date": "2026-11-13T13:09+00:00",
   "errors": [
-   "body is 2099 words (want 2200 to 4200 for a cornerstone)"
+   "body is 1975 words (want 2200 to 4200 for a cornerstone)",
+   "link to at least 2 other Journal article(s) from the LINKS list (has 1)"
   ],
-  "count": 1
+  "count": 2
  }
 }
