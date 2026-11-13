@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T09:47:58+00:00",
+ "generated": "2026-11-13T13:14:34+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -535,7 +535,7 @@
     "url": "/wedding-destination-venues",
     "label": "Explore destination venues on Roko"
    },
-   "status": "failed 1x"
+   "status": "failed 2x"
   },
   {
    "n": 30,
@@ -2460,15 +2460,16 @@
    "count": 2
   },
   "destination-wedding-guide": {
-   "date": "2026-11-13T09:34+00:00",
+   "date": "2026-11-13T13:09+00:00",
    "errors": [
-    "body is 2099 words (want 2200 to 4200 for a cornerstone)"
+    "body is 1975 words (want 2200 to 4200 for a cornerstone)",
+    "link to at least 2 other Journal article(s) from the LINKS list (has 1)"
    ],
-   "count": 1
+   "count": 2
   }
  },
  "research": {
-  "generated": "2026-11-13T09:27+00:00",
+  "generated": "2026-11-13T13:02+00:00",
   "rising_searches": {
    "date": "2026-11-09",
    "compared_with": "2026-11-02",
@@ -3310,6 +3311,14 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://skift.com/2026/11/13/the-hotel-restaurant-is-becoming-the-main-event-again/",
+    "title": "The Hotel Restaurant Is Becoming the Main Event Again",
+    "summary": "Hotel restaurants are becoming destinations again. The smartest owners are giving chefs and operators the freedom to create places with their own character and following, rather than trying to serve every guest at every hour.",
+    "date": "2026-11-13T13:00:00+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
+   {
     "url": "https://skift.com/2026/11/12/redefining-flying-where-innovation-meets-the-human-touch/",
     "title": "Redefining Flying: Where Innovation Meets the Human Touch",
     "summary": "Airlines seeking more premium revenue must decide how to allocate limited cabin space between higher-value seats, traditional amenities, and new passenger experiences.",
@@ -3462,6 +3471,15 @@
     "query": "wedding trends"
    },
    {
+    "url": "https://www.msn.com/en-in/money/economy/kalyan-jewellers-q2-net-profit-surges-63-9-yoy-to-rs427-10-cr-plans-84-new-franchise-showrooms-in-india/ar-AA2hk6wL",
+    "title": "Kalyan Jewellers Q2: Net Profit Surges 63.9% YoY To Rs427.10 Cr; Plans 84 New Franchise Showrooms In India",
+    "summary": "India, Nov. 12 -- Jewellery in India is bought for weddings, festivals and as a savings habit. Trust matters as much as design, which is why hallmarked, branded jewellers keep taking customers from ...",
+    "date": "2026-11-11T23:30:00+00:00",
+    "publisher": "Trade Brains (English) on MSN",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
     "url": "https://www.freepressjournal.in/lifestyle/kavya-maran-and-anirudh-serve-couple-goals-in-tarun-tahiliani-ensembles-in-dreamy-greece-wedding",
     "title": "Kavya Maran And Anirudh Serve Couple Goals In Tarun Tahiliani Ensembles In Dreamy Greece Wedding",
     "summary": "Music composer Anirudh Ravichander and Sunrisers Hyderabad CEO Kavya Maran have become the talk of social media after glimpses from their dreamy destination wedding in Greece surfaced online.",
@@ -3579,6 +3597,15 @@
     "kind": "travel"
    },
    {
+    "url": "https://www.msn.com/en-gb/news/other/doncaster-bridal-boutique-honoured-at-top-wedding-awards-ceremony/ar-AA2hcBR9",
+    "title": "Doncaster bridal boutique honoured at top wedding awards ceremony",
+    "summary": "The ceremony took place in County Durham ...",
+    "date": "2026-11-11T03:49:21+00:00",
+    "publisher": "Doncaster Free Press on MSN",
+    "kind": "news",
+    "query": "wedding industry UK"
+   },
+   {
     "url": "https://www.hospitalitynet.org/opinion/4135395/great-hospitality-greater-revenue-powered-by-people",
     "title": "Great Hospitality. Greater Revenue. Powered by People.",
     "summary": "FPG VP Benjamin Seelos outlines how reframing upselling as guest recommendation, combined with frontline training and AI tools, helps hotels add 4-8% TRevPAR and restaurants lift revenue 5-15% per guest.",
@@ -3614,6 +3641,15 @@
    },
    {
     "url": "https://www.msn.com/en-ie/lifestyle/other/whimsical-weddings-are-huge-on-tiktok-heres-how-to-do-the-trend-for-your-big-day/ar-AA2haL85",
+    "title": "Whimsical weddings are huge on TikTok — here's how to do the trend for your big day",
+    "summary": "The TikTok trend for personalised, colourful ceremonies is being widely embraced, and it doesn’t require an extravagant budget, saysSara Keenan ...",
+    "date": "2026-11-10T18:00:00+00:00",
+    "publisher": "Irish Examiner on MSN",
+    "kind": "news",
+    "query": "TikTok wedding trend"
+   },
+   {
+    "url": "https://www.msn.com/en-ie/news/other/whimsical-weddings-are-huge-on-tiktok-here-s-how-to-do-the-trend-for-your-big-day/ar-AA2haL85",
     "title": "Whimsical weddings are huge on TikTok — here's how to do the trend for your big day",
     "summary": "The TikTok trend for personalised, colourful ceremonies is being widely embraced, and it doesn’t require an extravagant budget, saysSara Keenan ...",
     "date": "2026-11-10T18:00:00+00:00",
@@ -3782,40 +3818,6 @@
     "date": "2026-11-09T12:03:07+00:00",
     "publisher": "Tatler",
     "kind": "luxury"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4135340/the-spa-revenue-trap-why-luxury-hotels-need-to-rethink-wellness-profitability",
-    "title": "The Spa Revenue Trap: Why Luxury Hotels Need to Rethink Wellness Profitability",
-    "summary": "The article argues luxury hotels over-rely on revenue as a spa performance metric, urging operators to adopt contribution margins, capacity utilisation and payroll efficiency as measures of true wellness profitability.",
-    "date": "2026-11-09T11:40:22+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4135333/why-hospitalitys-best-venues-prioritize-no-change-over-reinvention",
-    "title": "Why Hospitality’s Best Venues Prioritize No-Change Over Reinvention",
-    "summary": "Drawing on conversations with operators, the piece argues that enduring hospitality businesses succeed by preserving core identity and consistency rather than chasing reinvention, with technology and AI acting as tools to support, not redefine, that foundation.",
-    "date": "2026-11-09T10:49:02+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.nytimes.com/2026/11/09/style/wedding-cost-budget.html",
-    "title": "What Did Your Wedding Really Cost?",
-    "summary": "We want to hear from couples who married in the last five years about how they approached their wedding budget: where they splurged and saved and how they brought their vision to life.",
-    "date": "2026-11-09T09:44:00+00:00",
-    "publisher": "The New York Times",
-    "kind": "news",
-    "query": "wedding costs UK"
-   },
-   {
-    "url": "https://www.msn.com/en-us/news/other/italian-romance-unfolds-at-a-scenic-lake-como-wedding/vi-AA2bhDAw",
-    "title": "Italian romance unfolds at a scenic Lake Como wedding",
-    "summary": "A destination celebration unfolds along the shores of Lake Como, where the surroundings create an unforgettable wedding atmosphere. The couple combines classic styling with the natural beauty of the ...",
-    "date": "2026-11-09T05:07:50+00:00",
-    "publisher": "Martha Stewart Weddings on MSN",
-    "kind": "news",
-    "query": "Italy wedding destination"
    }
   ],
   "headlines": [
@@ -3905,15 +3907,15 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Milton Keynes celebrant shortlisted at The Wedding Industry Awards",
-    "publisher": "MKFM",
-    "date": "2026-10-27T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Kilmarnock wedding magician and host Steven Blair has been highly commended at The Wedding Industry Awards",
     "publisher": "https://www.ayrshiredailynews.co.uk/",
     "date": "2026-11-09T15:10:59+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Milton Keynes celebrant shortlisted at The Wedding Industry Awards",
+    "publisher": "MKFM",
+    "date": "2026-10-27T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -4009,7 +4011,7 @@
     "query": "viral wedding TikTok",
     "headline": "Cross-cultural joy: Newlyweds' traditional welcome celebration goes viral",
     "publisher": "Jacaranda FM",
-    "date": "2026-11-13T07:44:00+00:00"
+    "date": "2026-11-13T07:45:54+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -4026,8 +4028,8 @@
    {
     "query": "viral wedding TikTok",
     "headline": "Ashe Brings Viral Hit Stop the Wedding! to Love Is Blind Season 11 Reunion",
-    "publisher": "X-Rock 103.9",
-    "date": "2026-11-09T08:00:00+00:00"
+    "publisher": "WPRO",
+    "date": "2026-11-09T06:54:57+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -4079,15 +4081,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
-    "publisher": "L'OFFICIEL USA",
-    "date": "2026-10-18T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "Chinese man invites internet strangers to his wedding. Watch as hundreds show up",
     "publisher": "The Indian Express",
     "date": "2026-10-31T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Richmonders are paying to crash strangers' weddings",
+    "publisher": "Axios",
+    "date": "2026-11-13T11:09:08+00:00"
    },
    {
     "query": "wedding Instagram trend",
