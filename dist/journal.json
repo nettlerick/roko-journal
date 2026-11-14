@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T09:14:38+00:00",
+ "generated": "2026-11-14T12:26:13+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2473,7 +2473,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-14T08:55+00:00",
+  "generated": "2026-11-14T12:07+00:00",
   "rising_searches": {
    "date": "2026-11-09",
    "compared_with": "2026-11-02",
@@ -3840,6 +3840,12 @@
    },
    {
     "query": "wedding trends",
+    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
+    "publisher": "ELLE",
+    "date": "2026-10-26T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
     "headline": "The 6 Biggest Wedding Dress Trends From New York Bridal Fashion Week Fall 2027",
     "publisher": "Vogue",
     "date": "2026-10-20T07:00:00+00:00"
@@ -3852,12 +3858,6 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "publisher": "ELLE",
-    "date": "2026-10-29T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "The best wedding guest suits for winter 2026, and how to wear them",
     "publisher": "British GQ",
     "date": "2026-11-06T14:56:12+00:00"
@@ -3866,19 +3866,19 @@
     "query": "wedding trends",
     "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
     "publisher": "Country and Town House",
-    "date": "2026-10-28T17:03:17+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
-    "publisher": "L'OFFICIEL USA",
-    "date": "2026-10-18T07:00:00+00:00"
+    "date": "2026-10-28T17:00:00+00:00"
    },
    {
     "query": "wedding trends",
     "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
     "publisher": "WWD",
     "date": "2026-10-22T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
+    "publisher": "L'OFFICIEL USA",
+    "date": "2026-10-18T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
@@ -3894,9 +3894,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "How Jackie Kennedy Redefined Wedding Dress Trends When She Married Aristotle Onassis 58 Years Ago",
-    "publisher": "AOL.co.uk",
-    "date": "2026-10-20T07:00:00+00:00"
+    "headline": "Washington Post. . New York Bridal Fashion Week showcased Fall 2027 collections blending timeless femininity with modern design. From hand embroidery to sculptural silhouettes, designers embraced more personalized bridal wear, reinterpreting traditiona",
+    "publisher": "Facebook",
+    "date": "2026-10-16T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -3915,12 +3915,6 @@
     "headline": "Kilmarnock wedding magician and host Steven Blair has been highly commended at The Wedding Industry Awards",
     "publisher": "https://www.ayrshiredailynews.co.uk/",
     "date": "2026-11-09T15:10:59+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Milton Keynes celebrant shortlisted at The Wedding Industry Awards",
-    "publisher": "MKFM",
-    "date": "2026-10-27T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -3969,6 +3963,12 @@
     "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
     "publisher": "Stroud News and Journal",
     "date": "2026-10-22T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "David’s Bridal plans to spin off AI wedding platform Pearl",
+    "publisher": "FashionNetwork France",
+    "date": "2026-10-23T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -4068,15 +4068,21 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
-    "publisher": "L'OFFICIEL USA",
-    "date": "2026-10-18T07:00:00+00:00"
+    "headline": "Distraction free weddings are a big trend right now. 'Hilarious' SNL sketch reveals the big downside",
+    "publisher": "Amateur Photographer",
+    "date": "2026-11-14T10:45:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
     "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
     "publisher": "WWD",
     "date": "2026-10-22T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
+    "publisher": "L'OFFICIEL USA",
+    "date": "2026-10-18T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -4109,12 +4115,6 @@
     "date": "2026-11-12T06:17:57+00:00"
    },
    {
-    "query": "wedding Instagram trend",
-    "headline": "Joan Collins Nailed One Of The Hottest Color Trends With Her Mother-Of-The-Groom Outfit",
-    "publisher": "Glam",
-    "date": "2026-10-28T07:00:00+00:00"
-   },
-   {
     "query": "Pinterest wedding trends",
     "headline": "Weddings Shed Perfection for Personal Meaning",
     "publisher": "Deccan Chronicle",
@@ -4128,15 +4128,15 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
-    "publisher": "New York Post",
-    "date": "2026-11-04T08:00:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
     "headline": "5 Stylish Engagement Ring Trends for 2026: The Expert Guide",
     "publisher": "Natural Diamond Council",
     "date": "2026-11-11T14:00:35+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Best luxury wedding venues in London: 21 places for a high-end celebration",
+    "publisher": "SquareMeal",
+    "date": "2026-11-04T08:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -4170,12 +4170,6 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "The best engagement party venues in London",
-    "publisher": "SquareMeal",
-    "date": "2026-11-03T08:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
     "headline": "The best wedding guest suits for winter 2026, and how to wear them",
     "publisher": "British GQ",
     "date": "2026-11-06T14:56:12+00:00"
@@ -4185,6 +4179,12 @@
     "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
     "publisher": "vietnamnews.vn",
     "date": "2026-10-19T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Our roundup of the very best breakfasts in London",
+    "publisher": "Time Out Worldwide",
+    "date": "2026-10-29T07:00:00+00:00"
    }
   ],
   "pages": {
