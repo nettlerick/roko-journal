@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T12:26:13+00:00",
+ "generated": "2026-11-15T09:34:15+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -705,7 +705,7 @@
     "url": "/wedding-planning",
     "label": "Discover what does a planner do on Roko"
    },
-   "status": "planned"
+   "status": "waiting for photo"
   },
   {
    "n": 40,
@@ -2420,7 +2420,8 @@
   "luxury-wedding-venues-around-the-world",
   "the-best-destination-wedding-countries",
   "the-complete-guide-to-wedding-flowers",
-  "the-complete-wedding-planning-checklist"
+  "the-complete-wedding-planning-checklist",
+  "what-does-a-wedding-planner-do"
  ],
  "problems": {
   "destination-wedding-guide": [
@@ -2445,6 +2446,9 @@
    "needs a cover image"
   ],
   "the-complete-wedding-planning-checklist": [
+   "needs a cover image"
+  ],
+  "what-does-a-wedding-planner-do": [
    "needs a cover image"
   ]
  },
@@ -2473,7 +2477,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-14T12:07+00:00",
+  "generated": "2026-11-15T09:14+00:00",
   "rising_searches": {
    "date": "2026-11-09",
    "compared_with": "2026-11-02",
@@ -3315,6 +3319,15 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.vogue.in/content/5-ways-to-style-long-hair-for-wedding-season-according-to-a-long-hair-loyalist",
+    "title": "5 ways to style long hair for wedding season, according to a long-hair loyalist",
+    "summary": "A high ponytail is one of my favourite ways to make long hair feel dressed up without committing to an elaborate updo. The trick is volume. A tightly pulled-back ponytail can look a little too ...",
+    "date": "2026-11-14T16:00:00+00:00",
+    "publisher": "Vogue India",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
     "url": "https://www.businessworld.in/article/last-minute-wedding-shopping-gets-a-quick-commerce-makeover-as-demand-surges-633548",
     "title": "Last-Minute Wedding Shopping Gets A Quick-Commerce Makeover As Demand Surges",
     "summary": "Last-minute wedding and party shopping is driving online demand for beauty, personal care, appliances and household essentials as India's quick-commerce market expands ...",
@@ -3749,6 +3762,15 @@
     "query": "hospitality weddings"
    },
    {
+    "url": "https://travel.usnews.com/rankings/best-destination-wedding-spots-in-the-caribbean/",
+    "title": "Best Destination Wedding Spots in the Caribbean",
+    "summary": "We rank the 12 Best Destination Wedding Spots in the Caribbean. See which places our readers like the best, and vote for your favorites.",
+    "date": "2026-11-10T16:00:00+00:00",
+    "publisher": "U.S. News Travel",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
     "url": "https://www.vogue.com/slideshow/kathryn-mawhinney-and-grayson-judge-wedding",
     "title": "This Couple Rented Out a 17th-Century Stone Village for Their Misty Cliffside Wedding in the Azores",
     "summary": "Kathryn Mawhinney and Grayson Judge exchanged vows in an 18th-century church on the remote Portuguese island of Flores—an homage to his Azorean heritage.",
@@ -3805,24 +3827,6 @@
     "publisher": "Event Industry News",
     "kind": "news",
     "query": "events industry UK"
-   },
-   {
-    "url": "https://www.ndtv.com/travel/why-anirudh-ravichander-and-kavya-maran-have-chosen-greece-for-their-wedding-12306832",
-    "title": "Why Anirudh Ravichander And Kavya Maran Have Chosen Greece For Their Wedding",
-    "summary": "From picturesque islands and historic landmarks to exceptional food and wine, Greece offers everything needed for a memorable wedding celebration.",
-    "date": "2026-11-10T01:04:00+00:00",
-    "publisher": "NDTV",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.eventindustrynews.com/news/wedpage-launches-to-bring-the-whole-wedding-together",
-    "title": "WedPage launches to bring the whole wedding together",
-    "summary": "WedPage, a new wedding platform developed in Lancashire, is officially launching across the UK, bringing everything from printed invitations and ...",
-    "date": "2026-11-10T01:00:00+00:00",
-    "publisher": "Event Industry News",
-    "kind": "news",
-    "query": "wedding industry UK"
    }
   ],
   "headlines": [
@@ -3830,7 +3834,7 @@
     "query": "wedding trends",
     "headline": "2027 wedding trends revealed: From noughties' nostalgia to the groom brooch",
     "publisher": "Metro.co.uk",
-    "date": "2026-11-05T15:18:00+00:00"
+    "date": "2026-11-05T08:00:00+00:00"
    },
    {
     "query": "wedding trends",
@@ -3860,7 +3864,7 @@
     "query": "wedding trends",
     "headline": "The best wedding guest suits for winter 2026, and how to wear them",
     "publisher": "British GQ",
-    "date": "2026-11-06T14:56:12+00:00"
+    "date": "2026-11-06T08:00:00+00:00"
    },
    {
     "query": "wedding trends",
@@ -3882,9 +3886,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "You're cordially invited to my three-day wedding",
-    "publisher": "Axios",
-    "date": "2026-10-18T07:00:00+00:00"
+    "headline": "How Jackie Kennedy Redefined Wedding Dress Trends When She Married Aristotle Onassis 58 Years Ago",
+    "publisher": "AOL.co.uk",
+    "date": "2026-10-20T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
@@ -3894,9 +3898,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Washington Post. . New York Bridal Fashion Week showcased Fall 2027 collections blending timeless femininity with modern design. From hand embroidery to sculptural silhouettes, designers embraced more personalized bridal wear, reinterpreting traditiona",
-    "publisher": "Facebook",
-    "date": "2026-10-16T07:00:00+00:00"
+    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
+    "publisher": "ELLE",
+    "date": "2026-10-29T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -3930,33 +3934,9 @@
    },
    {
     "query": "wedding industry",
-    "headline": "How 15,000 free T-shirts helped build a £15m bridal fashion brand",
-    "publisher": "BusinessCloud",
-    "date": "2026-10-27T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Geilsland Estate in Beith wins top honour at Wedding Industry Awards",
     "publisher": "Ardrossan and Saltcoats Herald",
     "date": "2026-11-07T08:01:57+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Lake District wedding photographer receives Highly Commended award in regional finals",
-    "publisher": "Westmorland Gazette",
-    "date": "2026-11-14T06:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Wedding Content Is Taking Over Influencer Culture—But What’s the Message Behind It?",
-    "publisher": "Cosmopolitan",
-    "date": "2026-10-16T07:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Over Barn named among the South West's best",
-    "publisher": "Punchline-Gloucester.com",
-    "date": "2026-10-16T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -3966,9 +3946,33 @@
    },
    {
     "query": "wedding industry",
-    "headline": "David’s Bridal plans to spin off AI wedding platform Pearl",
-    "publisher": "FashionNetwork France",
-    "date": "2026-10-23T07:00:00+00:00"
+    "headline": "Lake District venue crowned North West’s best wedding hotel",
+    "publisher": "Cumbria Crack",
+    "date": "2026-11-13T09:12:09+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Award win is icing on the cake for North Wales business",
+    "publisher": "The Leader Wrexham",
+    "date": "2026-11-10T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "North Yorkshire wedding venue wins prestigious award",
+    "publisher": "YorkMix",
+    "date": "2026-11-14T11:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Once-derelict Yorkshire estate transformed into award-winning wedding venue",
+    "publisher": "The York Press",
+    "date": "2026-11-13T05:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Country pub named one of the region's best wedding venues",
+    "publisher": "Gazetteherald.co.uk",
+    "date": "2026-10-19T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -4002,15 +4006,15 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "A bride's search for her mother's missing wedding dress goes viral",
-    "publisher": "NBC 5 Chicago",
-    "date": "2026-10-28T07:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "Bride Allegedly Asked Her Bridesmaid to Gain 120 Pounds So She'd Look Skinnier at Her Wedding",
     "publisher": "VICE",
     "date": "2026-11-07T19:26:24+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "A bride's search for her mother's missing wedding dress goes viral",
+    "publisher": "NBC 5 Chicago",
+    "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -4080,9 +4084,9 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "The 2027 Bridal Trends Worth Saying “I Do” To",
-    "publisher": "L'OFFICIEL USA",
-    "date": "2026-10-18T07:00:00+00:00"
+    "headline": "What is a lavender marriage? The TikTok trend explained.",
+    "publisher": "Mashable",
+    "date": "2026-11-13T10:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -4094,7 +4098,7 @@
     "query": "wedding Instagram trend",
     "headline": "Richmonders are paying to crash strangers' weddings",
     "publisher": "Axios",
-    "date": "2026-11-13T11:09:08+00:00"
+    "date": "2026-11-14T01:14:35+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -4104,15 +4108,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "These Are The Biggest 2027 Wedding Dress Trends",
-    "publisher": "The Kit",
-    "date": "2026-10-28T07:00:00+00:00"
+    "headline": "Bianca Remembers Late Husband Odumegwu-Ojukwu On 32nd Wedding Anniversary",
+    "publisher": "TVC News",
+    "date": "2026-11-12T18:12:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Anirudh-Kavya Wedding: From Star-Studded Guests To A Traditional Tamil Vegetarian Feast",
-    "publisher": "Curly Tales",
-    "date": "2026-11-12T06:17:57+00:00"
+    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
+    "publisher": "ELLE",
+    "date": "2026-10-26T07:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -4128,9 +4132,39 @@
    },
    {
     "query": "Pinterest wedding trends",
+    "headline": "25 Best Dress Brands To Know For Every Occasion in 2026",
+    "publisher": "ELLE",
+    "date": "2026-11-04T08:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
+    "publisher": "New York Post",
+    "date": "2026-11-04T08:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "5 Nail Colours That Are The Ultimate Low Maintenance Summer Accessory",
+    "publisher": "Marie Claire",
+    "date": "2026-11-12T01:09:59+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
     "headline": "5 Stylish Engagement Ring Trends for 2026: The Expert Guide",
     "publisher": "Natural Diamond Council",
     "date": "2026-11-11T14:00:35+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "From beach weddings to royal palace ceremonies, how to pick the right jewellery for every destination wedding | Fashion Trends",
+    "publisher": "Hindustan Times",
+    "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "\"This was healing to see\": South African newlyweds wear matching afros",
+    "publisher": "Briefly News",
+    "date": "2026-11-14T13:45:01+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -4152,39 +4186,9 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
-    "publisher": "The Impartial Reporter",
-    "date": "2026-10-27T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "Lake District venue crowned North West’s best wedding hotel",
-    "publisher": "Cumbria Crack",
-    "date": "2026-11-13T09:12:09+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "The swankiest party pads to hire in the UK",
-    "publisher": "The Times",
-    "date": "2026-11-11T04:10:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "The best wedding guest suits for winter 2026, and how to wear them",
-    "publisher": "British GQ",
-    "date": "2026-11-06T14:56:12+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "Frasers House, a Luxury Collection Hotel, Singapore Showcases Versatile Luxury Wedding Experiences in the Heart of Bugis Heritage",
-    "publisher": "vietnamnews.vn",
-    "date": "2026-10-19T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "Our roundup of the very best breakfasts in London",
-    "publisher": "Time Out Worldwide",
-    "date": "2026-10-29T07:00:00+00:00"
+    "headline": "GOWER: King Arthur Hotel named best wedding venue in Wales",
+    "publisher": "Swansea Bay News",
+    "date": "2026-11-14T12:00:00+00:00"
    }
   ],
   "pages": {
