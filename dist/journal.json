@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T09:34:15+00:00",
+ "generated": "2026-11-15T12:59:40+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2477,7 +2477,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-15T09:14+00:00",
+  "generated": "2026-11-15T12:42+00:00",
   "rising_searches": {
    "date": "2026-11-09",
    "compared_with": "2026-11-02",
@@ -3319,6 +3319,32 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.vogue.com/article/best-wedding-guest-dresses",
+    "title": "44 Best Wedding Guest Dresses in 2026 for Every Type of Ceremony",
+    "summary": "Shop the best wedding guest dresses for every kind of ceremony and dress code—from a garden wedding to a beach wedding and courthouse ceremony.",
+    "date": "2026-11-15T11:00:00+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.msn.com/en-in/news/other/budget-traveller-dreaming-of-a-greece-wedding-10-stunning-venues-and-their-estimated-costs/ar-AA2htMbO",
+    "title": "Budget Traveller | Dreaming Of A Greece Wedding? 10 Stunning Venues And Their Estimated Costs",
+    "summary": "A wedding overlooking the blue waters of the Aegean Sea, surrounded by whitewashed buildings, olive groves and breathtaking sunsets, sounds like a dream. Greece has become an attractive destination ...",
+    "date": "2026-11-15T03:40:00+00:00",
+    "publisher": "ABP News on MSN",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://www.salonprivemag.com/the-small-details-behind-a-luxury-wedding-from-invitations-to-place-settings/",
+    "title": "The Small Details Behind a Luxury Wedding: From Invitations to Place Settings",
+    "summary": "Several beautiful things have to share the same table. That makes choosing wedding details a little more challenging than you would think. The patterned linen ...",
+    "date": "2026-11-15T01:44:00+00:00",
+    "publisher": "Salon Privé Magazine",
+    "kind": "news",
+    "query": "luxury wedding venue"
+   },
+   {
     "url": "https://www.vogue.in/content/5-ways-to-style-long-hair-for-wedding-season-according-to-a-long-hair-loyalist",
     "title": "5 ways to style long hair for wedding season, according to a long-hair loyalist",
     "summary": "A high ponytail is one of my favourite ways to make long hair feel dressed up without committing to an elaborate updo. The trick is volume. A tightly pulled-back ponytail can look a little too ...",
@@ -3395,6 +3421,15 @@
     "publisher": "Newspoint on MSN",
     "kind": "news",
     "query": "destination wedding"
+   },
+   {
+    "url": "https://www.msn.com/en-us/travel/honeymoons-and-getaways/this-stunning-european-country-just-dethroned-italy-as-the-world-s-best-honeymoon-destination-for-2027/ar-AA2hmIss",
+    "title": "This stunning European country just dethroned Italy as the world’s best honeymoon destination for 2027",
+    "summary": "More than 3,100 luxury travel advisors weighed in on the most sought-after honeymoon destinations, with Greece surpassing Italy in the latest global ranking.",
+    "date": "2026-11-13T05:55:00+00:00",
+    "publisher": "Travel + Leisure on MSN",
+    "kind": "news",
+    "query": "Italy wedding destination"
    },
    {
     "url": "https://skift.com/2026/11/12/redefining-flying-where-innovation-meets-the-human-touch/",
@@ -3794,39 +3829,6 @@
     "publisher": "News18",
     "kind": "news",
     "query": "destination wedding"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/news/4135375/hotel-marketing-stops-after-booking-guest-spending-doesnt",
-    "title": "Hotel marketing stops after booking. Guest spending doesn’t.",
-    "summary": "At-visions pitches Adtronaut as a unified hotel ad platform connecting room TVs, signage, WiFi, and post-stay email to convert ancillary revenue opportunities into actual sales.",
-    "date": "2026-11-10T09:37:19+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/news/4135373/dayuse-launches-daypass-in-the-us-turning-hotel-pools-cabanas-and-spas-into-daytime-revenue",
-    "title": "Dayuse Launches Daypass in the U.S: Turning Hotel Pools, Cabanas and Spas into Daytime Revenue",
-    "summary": "Dayuse launches its Daypass product in the U.S., letting hotels monetize pools, spas and cabanas to non-overnight guests, with partner hotels earning up to $300K annually in daytime revenue.",
-    "date": "2026-11-10T09:11:12+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://skift.com/2026/11/10/hotel-chains-middle-east-recovery-stalls-as-peak-season-arrives/",
-    "title": "Hotel Chains’ Middle East Recovery Stalls as Peak Season Arrives",
-    "summary": "The Middle East is a small slice of most hotel chains’ revenue but a bigger part of their pipelines. So far, they’re holding to their development plans, even as a second weak peak season looms.",
-    "date": "2026-11-10T06:15:00+00:00",
-    "publisher": "Skift",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.eventindustrynews.com/news/twenty-uk-festivals-selected-for-skiddle-funded-aif-membership-and-promotional-support",
-    "title": "Twenty UK festivals selected for Skiddle-funded AIF membership and promotional support",
-    "summary": "Independent ticketing platform Skiddle and the Association of Independent Festivals (AIF) have selected 20 small and/or micro independent UK festivals, ...",
-    "date": "2026-11-10T01:21:00+00:00",
-    "publisher": "Event Industry News",
-    "kind": "news",
-    "query": "events industry UK"
    }
   ],
   "headlines": [
@@ -3838,15 +3840,15 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
-    "publisher": "Who What Wear",
-    "date": "2026-10-29T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
     "publisher": "ELLE",
     "date": "2026-10-26T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
+    "publisher": "Who What Wear",
+    "date": "2026-10-29T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
@@ -3952,6 +3954,12 @@
    },
    {
     "query": "wedding industry",
+    "headline": "David’s Bridal plans to spin off AI wedding platform Pearl",
+    "publisher": "FashionNetwork France",
+    "date": "2026-10-23T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
     "headline": "Award win is icing on the cake for North Wales business",
     "publisher": "The Leader Wrexham",
     "date": "2026-11-10T07:00:00+00:00"
@@ -3967,12 +3975,6 @@
     "headline": "Once-derelict Yorkshire estate transformed into award-winning wedding venue",
     "publisher": "The York Press",
     "date": "2026-11-13T05:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Country pub named one of the region's best wedding venues",
-    "publisher": "Gazetteherald.co.uk",
-    "date": "2026-10-19T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -4048,12 +4050,6 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Is This the End of the Wedding Overshare?",
-    "publisher": "The New York Times",
-    "date": "2026-11-08T10:00:27+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "Five 2027 wedding trend predictions",
     "publisher": "www.stylenest.co.uk",
     "date": "2026-10-17T15:40:02+00:00"
@@ -4063,6 +4059,12 @@
     "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
     "publisher": "ELLE",
     "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Is This the End of the Wedding Overshare?",
+    "publisher": "The New York Times",
+    "date": "2026-11-08T10:00:27+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -4114,9 +4116,9 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
-    "publisher": "ELLE",
-    "date": "2026-10-26T07:00:00+00:00"
+    "headline": "These Are The Biggest 2027 Wedding Dress Trends",
+    "publisher": "The Kit",
+    "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -4180,15 +4182,15 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
-    "publisher": "Business Eye Magazine",
-    "date": "2026-10-30T07:00:00+00:00"
+    "headline": "The best luxury wedding planners",
+    "publisher": "The Times",
+    "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "GOWER: King Arthur Hotel named best wedding venue in Wales",
-    "publisher": "Swansea Bay News",
-    "date": "2026-11-14T12:00:00+00:00"
+    "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
+    "publisher": "Business Eye Magazine",
+    "date": "2026-10-30T07:00:00+00:00"
    }
   ],
   "pages": {
