@@ -1,6 +1,6 @@
 {
- "date": "2026-11-09",
- "compared_with": "2026-11-02",
+ "date": "2026-11-16",
+ "compared_with": "2026-11-09",
  "markets": {
   "gb": "United Kingdom",
   "us": "United States",
@@ -13,68 +13,568 @@
  },
  "gb": [
   {
-   "seed": "wedding ideas",
-   "search": "wedding ideas for spring"
+   "seed": "wedding venues",
+   "search": "wedding venues for 50 guests"
   },
   {
    "seed": "wedding venues",
-   "search": "wedding venues california"
+   "search": "wedding venues fort collins"
   },
   {
    "seed": "wedding venues",
-   "search": "wedding venues for sale california"
+   "search": "wedding venues kennewick"
   },
   {
    "seed": "wedding venues",
-   "search": "wedding venues for sale texas"
-  },
-  {
-   "seed": "wedding venues",
-   "search": "wedding venues texas"
+   "search": "wedding venues yakima"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue california"
+   "search": "wedding venue for 200 guests"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue for sale california"
+   "search": "wedding venue forest"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue for sale texas"
+   "search": "wedding venue italy"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue prices"
+   "search": "wedding venue jobs near me"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue texas"
+   "search": "wedding venues kennewick"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venues california"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venues sydney"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venues texas"
+   "search": "wedding venues yakima"
   },
   {
    "seed": "wedding photographer",
-   "search": "wedding photographer california"
+   "search": "wedding photographer london"
   },
   {
    "seed": "wedding photographer",
-   "search": "wedding photographer for 4 hours"
+   "search": "wedding photographer sydney"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner app"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner salary"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers fake"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering melbourne"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding bands near me"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj hire"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj london"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding djs in my area"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding cast"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding planner"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake near me"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding bouquet"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding rings"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress with sleeves"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses kennewick"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses richland wa"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair down"
+  }
+ ],
+ "us": [
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues ellensburg"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 100 guests near me"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 150 guests"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 200 guests"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for cheap"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues forest"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues kennewick"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues oregon"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues richland wa"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues tri cities"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues walla walla"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues washington"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues washington state"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues yakima"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue benton city"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue cle elum"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue dayton wa"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue ellensburg"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for 150 guests"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for 200 guests"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for 300 guests"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue forest"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue prosser wa"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue tri cities"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue walla walla"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue west richland wa"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue yakima"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues ellensburg"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues in tri cities wa"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues kennewick"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues oregon"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues walla walla"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues washington state"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues yakima"
   },
   {
    "seed": "wedding photographer",
-   "search": "wedding photographer forster"
+   "search": "wedding photographer and videographer near me"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer average cost"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer jobs"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer shot list"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographers tri cities"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner for gay couples"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner for the day"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner jobs near me"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner template"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers bulk"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering companies"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering food"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering jobs"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering per person cost"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band gold"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj app"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj prices near me"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj rates"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj tip"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding dresses"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding packages"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding tyler perry"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in a different state"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in a national park"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in italy"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in oregon"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in skyrim"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in the catholic church"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake tri cities wa"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake yakima"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cakes tri cities"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding planner"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding rings"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding cakes near me"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding gifts"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party dress"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party for 4 menu ideas"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party niall horan"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party themes"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party ideas near me"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest dresses cocktail"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest outfit"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress shopping"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress shops tri cities"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress stores near me"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses kennewick"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses richland wa"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses yakima"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair styles for long hair"
+  }
+ ],
+ "au": [
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues australia"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 100 guests"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 70 guests"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 80 guests"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for sale australia"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues italy"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues kennewick"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues yakima"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue airbnb"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue bali"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue byron bay"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue cost"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for 50 people"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for 60 people"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for hire"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for lease"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for sale brisbane"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue gold coast"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue hire"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue with accommodation"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues australia"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues bali"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues kennewick"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues yakima"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer canberra"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer near me"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer outfit"
   },
   {
    "seed": "wedding photographer",
@@ -82,218 +582,1156 @@
   },
   {
    "seed": "wedding photographer",
-   "search": "wedding photographer texas"
+   "search": "wedding photographer salary"
   },
   {
    "seed": "wedding planner",
-   "search": "wedding planner california"
+   "search": "wedding planner app"
   },
   {
    "seed": "wedding planner",
-   "search": "wedding planner texas"
+   "search": "wedding planner book australia"
   },
   {
    "seed": "wedding planner",
-   "search": "wedding planners california"
-  },
-  {
-   "seed": "wedding planner",
-   "search": "wedding planners florida"
+   "search": "wedding planner kmart"
   },
   {
    "seed": "wedding flowers",
-   "search": "wedding flowers for november"
+   "search": "wedding flowers bouquet"
   },
   {
    "seed": "wedding flowers",
-   "search": "wedding flowers for sale"
+   "search": "wedding flowers in resin"
   },
   {
    "seed": "wedding flowers",
-   "search": "wedding flowers nyc"
+   "search": "wedding flowers inspo"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers packages"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers preserved"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers types"
   },
   {
    "seed": "wedding catering",
-   "search": "wedding catering edmonton"
+   "search": "wedding catering byron bay"
   },
   {
    "seed": "wedding catering",
-   "search": "wedding catering for 150 guests cost"
+   "search": "wedding catering canberra"
   },
   {
    "seed": "wedding catering",
-   "search": "wedding catering ideas cheap"
-  },
-  {
-   "seed": "wedding catering",
-   "search": "wedding catering nyc"
+   "search": "wedding catering costs"
   },
   {
    "seed": "wedding band",
-   "search": "wedding band for man"
-  },
-  {
-   "seed": "wedding band",
-   "search": "wedding band ideas for princess cut solitaire"
-  },
-  {
-   "seed": "wedding band",
-   "search": "wedding bands north carolina"
-  },
-  {
-   "seed": "wedding band",
-   "search": "wedding bands nyc"
+   "search": "wedding bands male"
   },
   {
    "seed": "wedding dj",
-   "search": "wedding dj florida"
+   "search": "wedding dj hire"
   },
   {
    "seed": "wedding dj",
-   "search": "wedding dj for 6 hours"
+   "search": "wedding dj near me"
   },
   {
    "seed": "wedding dj",
-   "search": "wedding dj nyc"
+   "search": "wedding dj playlist"
   },
   {
-   "seed": "destination wedding",
-   "search": "destination wedding california"
+   "seed": "getting married in",
+   "search": "getting married in australia as a foreigner"
   },
   {
-   "seed": "destination wedding",
-   "search": "destination wedding for cheap"
+   "seed": "getting married in",
+   "search": "getting married in fiji"
   },
   {
-   "seed": "destination wedding",
-   "search": "destination wedding for elopement"
+   "seed": "getting married in",
+   "search": "getting married in italy"
   },
   {
-   "seed": "destination wedding",
-   "search": "destination wedding texas"
+   "seed": "getting married in",
+   "search": "getting married in japan"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in japan as an australian"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in thailand"
   },
   {
    "seed": "wedding budget",
-   "search": "wedding budget format"
+   "search": "wedding budget breakdown australia"
   },
   {
    "seed": "wedding table",
-   "search": "wedding table for those who have passed"
+   "search": "wedding table flowers"
   },
   {
    "seed": "wedding cake",
-   "search": "wedding cake nyc"
+   "search": "wedding cake designs"
   },
   {
    "seed": "wedding cake",
-   "search": "wedding cakes nyc"
+   "search": "wedding cakes near me"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding albums"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding car hire"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding guest dresses"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding venues"
   },
   {
    "seed": "small wedding",
-   "search": "small wedding ideas for 40 guests"
+   "search": "small wedding bouquet"
   },
   {
    "seed": "small wedding",
-   "search": "small wedding in church"
+   "search": "small wedding cake ideas"
   },
   {
    "seed": "small wedding",
-   "search": "small wedding venues california"
+   "search": "small wedding gift ideas"
   },
   {
    "seed": "small wedding",
-   "search": "small wedding venues texas"
+   "search": "small wedding packages"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding receptions"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding venues near me"
   },
   {
    "seed": "birthday party ideas",
-   "search": "birthday party ideas for 6 year old"
+   "search": "birthday party ideas at home"
   },
   {
    "seed": "birthday party ideas",
-   "search": "birthday party ideas nyc"
+   "search": "birthday party ideas for 4 year old"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas near me"
   },
   {
    "seed": "dinner party",
-   "search": "dinner party for 6 ideas"
+   "search": "dinner party for 6 menu ideas"
   },
   {
-   "seed": "dinner party",
-   "search": "dinner party ideas easy"
+   "seed": "wedding guest",
+   "search": "wedding guest dresses plus size"
   },
   {
-   "seed": "dinner party",
-   "search": "dinner party menu"
+   "seed": "wedding dress",
+   "search": "wedding dress cleaning"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress for short women"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress shops near me"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress styles"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress with sleeves"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses australia"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses near me"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses online"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair down"
+  }
+ ],
+ "ca": [
+  {
+   "seed": "wedding ideas",
+   "search": "wedding ideas for couples over 50"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 100 people"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 150 guests"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 60 people"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues italy"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues kennewick"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues montreal"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues yakima"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue airbnb"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for 30 guests"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for 300 guests"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for sale canada"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for small wedding"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue in caledon"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue insurance"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue prices"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues italy"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues kennewick"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues yakima"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer and videographer"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer and videographer packages"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer jobs"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer outfits"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer prices"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer salary"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner app"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner assistant jobs"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner course"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner near me"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner salary"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers bouquet"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers canada"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers fake"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers in resin"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers preservation"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers types"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering cost"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering newmarket"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering pei"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering prices"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering services"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band sets his and hers"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj and mc"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj app"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj average cost"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj kitchener waterloo"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj ottawa cost"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj playlist"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj services"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj setup"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding djs ottawa"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding costs"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding in india"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding locations"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in italy"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in italy as a canadian"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in mexico"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in mexico as a canadian"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in skyrim"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in the philippines canadian citizen"
+  },
+  {
+   "seed": "wedding table",
+   "search": "wedding table numbers ideas"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake near me"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake sampling box"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding dress designers"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding bouquet"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding gift"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding gift ideas"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas at home"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas for 11 year old"
   },
   {
    "seed": "engagement party",
-   "search": "engagement party for second marriage"
-  },
-  {
-   "seed": "engagement party",
-   "search": "engagement party for women"
-  },
-  {
-   "seed": "engagement party",
-   "search": "engagement party formal attire"
-  },
-  {
-   "seed": "engagement party",
-   "search": "engagement party format"
+   "search": "engagement party dress guest"
   },
   {
    "seed": "engagement party",
    "search": "engagement party guest outfit"
   },
   {
-   "seed": "engagement party",
-   "search": "engagement party ideas at a restaurant"
+   "seed": "wedding guest",
+   "search": "wedding guest dress fall"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest dresses summer"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest shoes"
   },
   {
    "seed": "wedding dress",
-   "search": "wedding dress codes"
+   "search": "wedding dress dry cleaning"
   },
   {
    "seed": "wedding dress",
-   "search": "wedding dress shops california"
+   "search": "wedding dress for guests"
   },
   {
    "seed": "wedding dress",
-   "search": "wedding dress shops texas"
+   "search": "wedding dress shops near me"
   },
   {
    "seed": "wedding dress",
-   "search": "wedding dresses california"
+   "search": "wedding dresses kennewick"
   },
   {
    "seed": "wedding dress",
-   "search": "wedding dresses texas"
+   "search": "wedding dresses richland wa"
   },
   {
    "seed": "wedding hair",
-   "search": "wedding hair and makeup nyc"
+   "search": "wedding hair pieces"
   },
   {
    "seed": "wedding hair",
-   "search": "wedding hair inspo"
+   "search": "wedding hair pins"
   }
  ],
- "us": [
+ "ae": [
   {
-   "seed": "wedding venues",
-   "search": "wedding venues california"
+   "seed": "wedding ideas",
+   "search": "wedding ideas for couples over 60"
   },
   {
    "seed": "wedding venues",
-   "search": "wedding venues chicago"
-  },
-  {
-   "seed": "wedding venues",
-   "search": "wedding venues colorado"
+   "search": "wedding venues for 50 guests"
   },
   {
    "seed": "wedding venues",
    "search": "wedding venues fort collins"
   },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues in abu dhabi"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues in bangalore"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues in uae"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues tuscany"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for 200 guests"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue forest"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues greece"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues in abu dhabi"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues in bangalore"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues in uae"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues tuscany"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues uk"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer in dubai"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer melbourne"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer outfit"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner cast"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner checklist"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner chennai"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner cyprus"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner dubai jobs"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner egypt"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner salary"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner template excel"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers on a budget"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering melbourne"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band and engagement ring"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band vs wedding ring"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band which hand"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band with diamonds"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band women"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding bands gold"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding bands men"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj hire"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj london"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding djs in my area"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding in kannur"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding in kollam"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding places in malappuram"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination weddings"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in abu dhabi court"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in dubai for uk citizens"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in the uae"
+  },
+  {
+   "seed": "wedding table",
+   "search": "wedding table cloths"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake box"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake box designs"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake cookie"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake designs 1 layer"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake designs 2 tier"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake images"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake stand"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake tasting box"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding cake ideas"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding gifts"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party dress"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest dress black"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest dress uk"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest dresses indian"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest dresses men"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest dresses pakistani"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest list"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest maxi dress"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest outfits"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest outfits for women"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest suit"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guests dresses"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress boy"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress designers"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress for civil wedding"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress for couple"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress for men formal"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress for men in pakistan"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress for men india"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress for muslim bride"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress for rent"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress for women dubai"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress in uae"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress korean movie"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress rental dubai price"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress short"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses for girls"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses in sharjah"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses in uae"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair down"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair styles"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hairstyle"
+  }
+ ],
+ "in": [
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 50 guests"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues fort collins"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues in dehradun"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues in rishikesh"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues kennewick"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues yakima"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for 50 guests"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for small wedding"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue images"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue in bangalore"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue in delhi"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue pictures"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue prices"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue website"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues in dehradun"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues in rishikesh"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer cost"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer indore"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer jaipur"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer websites"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographers in dehradun"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographers in delhi"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographers in kolkata"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographers in varanasi"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner app"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner book"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner diary"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner jobs"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner website"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planners in india"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers design"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering counter"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering images"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering menu card"
+  },
+  {
+   "seed": "wedding catering",
+   "search": "wedding catering price list"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band diamond"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj night dress for men"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj night dress for women"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding dj photos"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding cost in india"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding in goa"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding movie"
+  },
+  {
+   "seed": "destination wedding",
+   "search": "destination wedding places in india"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in ireland for foreigners"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in tirupati"
+  },
+  {
+   "seed": "wedding table",
+   "search": "wedding table centerpieces"
+  },
+  {
+   "seed": "wedding table",
+   "search": "wedding table numbers"
+  },
+  {
+   "seed": "wedding cake",
+   "search": "wedding cake samples"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding car"
+  },
+  {
+   "seed": "luxury wedding",
+   "search": "luxury wedding invitations"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding cake"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas at home for adults"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas for men"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas near me"
+  },
+  {
+   "seed": "dinner party",
+   "search": "dinner party invitation card"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party decorations"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party dress for women indian"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party wear"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress for men new style"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses men"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair cutting"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair pins"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hair style for men"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hairstyle for girls"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hairstyles for women long hair"
+  },
+  {
+   "seed": "wedding hair",
+   "search": "wedding hairstyles medium hair"
+  }
+ ],
+ "ie": [
   {
    "seed": "wedding venues",
    "search": "wedding venues fort lauderdale"
@@ -304,123 +1742,47 @@
   },
   {
    "seed": "wedding venues",
-   "search": "wedding venues fort wayne"
+   "search": "wedding venues kennewick"
   },
   {
    "seed": "wedding venues",
-   "search": "wedding venues fort wayne indiana"
+   "search": "wedding venues kildare"
   },
   {
    "seed": "wedding venues",
-   "search": "wedding venues houston"
-  },
-  {
-   "seed": "wedding venues",
-   "search": "wedding venues in georgia"
-  },
-  {
-   "seed": "wedding venues",
-   "search": "wedding venues in michigan"
-  },
-  {
-   "seed": "wedding venues",
-   "search": "wedding venues in oklahoma"
-  },
-  {
-   "seed": "wedding venues",
-   "search": "wedding venues new jersey"
-  },
-  {
-   "seed": "wedding venues",
-   "search": "wedding venues texas"
+   "search": "wedding venues yakima"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue airbnb"
+   "search": "wedding venue cavan"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue california"
+   "search": "wedding venue for 20 people"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue finder"
+   "search": "wedding venue for 200 guests"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue for sale california"
+   "search": "wedding venue kildare"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue for sale texas"
+   "search": "wedding venues kennewick"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue fort wayne"
+   "search": "wedding venues kildare"
   },
   {
    "seed": "wedding venue",
-   "search": "wedding venue fort worth"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venue insurance"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venue jobs"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venue nj"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venue prices"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venue texas"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venues california"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venues chicago"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venues colorado"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venues houston"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venues in michigan"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venues new jersey"
-  },
-  {
-   "seed": "wedding venue",
-   "search": "wedding venues texas"
+   "search": "wedding venues yakima"
   },
   {
    "seed": "wedding photographer",
-   "search": "wedding photographer california"
-  },
-  {
-   "seed": "wedding photographer",
-   "search": "wedding photographer for 1 hour"
-  },
-  {
-   "seed": "wedding photographer",
-   "search": "wedding photographer fort collins"
+   "search": "wedding photographer and videographer packages"
   },
   {
    "seed": "wedding photographer",
@@ -428,207 +1790,217 @@
   },
   {
    "seed": "wedding photographer",
-   "search": "wedding photographer snl"
+   "search": "wedding photographers kilkenny"
   },
   {
    "seed": "wedding photographer",
-   "search": "wedding photographer snl skit"
-  },
-  {
-   "seed": "wedding photographer",
-   "search": "wedding photographer texas"
-  },
-  {
-   "seed": "wedding photographer",
-   "search": "wedding photographers california"
-  },
-  {
-   "seed": "wedding photographer",
-   "search": "wedding photographers north carolina"
+   "search": "wedding photographers sligo"
   },
   {
    "seed": "wedding planner",
-   "search": "wedding planner assistant jobs"
-  },
-  {
-   "seed": "wedding planner",
-   "search": "wedding planner california"
-  },
-  {
-   "seed": "wedding planner",
-   "search": "wedding planner fort lauderdale"
-  },
-  {
-   "seed": "wedding planner",
-   "search": "wedding planner fort wayne"
-  },
-  {
-   "seed": "wedding planner",
-   "search": "wedding planner fort worth"
-  },
-  {
-   "seed": "wedding planner",
-   "search": "wedding planner texas"
-  },
-  {
-   "seed": "wedding planner",
-   "search": "wedding planners california"
-  },
-  {
-   "seed": "wedding planner",
-   "search": "wedding planners florida"
+   "search": "wedding planner app"
   },
   {
    "seed": "wedding flowers",
-   "search": "wedding flowers for sale"
+   "search": "wedding flowers by josephine"
   },
   {
    "seed": "wedding flowers",
-   "search": "wedding flowers for the church"
+   "search": "wedding flowers near me"
   },
   {
    "seed": "wedding flowers",
-   "search": "wedding flowers nyc"
+   "search": "wedding flowers price"
   },
   {
    "seed": "wedding catering",
-   "search": "wedding catering dallas"
-  },
-  {
-   "seed": "wedding catering",
-   "search": "wedding catering for 150 guests cost"
-  },
-  {
-   "seed": "wedding catering",
-   "search": "wedding catering ideas cheap"
-  },
-  {
-   "seed": "wedding catering",
-   "search": "wedding catering kansas city"
-  },
-  {
-   "seed": "wedding catering",
-   "search": "wedding catering los angeles"
-  },
-  {
-   "seed": "wedding catering",
-   "search": "wedding catering nyc"
-  },
-  {
-   "seed": "wedding catering",
-   "search": "wedding catering utah"
+   "search": "wedding catering menu"
   },
   {
    "seed": "wedding band",
-   "search": "wedding band for man"
-  },
-  {
-   "seed": "wedding band",
-   "search": "wedding band ideas for princess cut solitaire"
-  },
-  {
-   "seed": "wedding band",
-   "search": "wedding bands north carolina"
-  },
-  {
-   "seed": "wedding band",
-   "search": "wedding bands nyc"
-  },
-  {
-   "seed": "wedding dj",
-   "search": "wedding dj chicago"
-  },
-  {
-   "seed": "wedding dj",
-   "search": "wedding dj florida"
-  },
-  {
-   "seed": "wedding dj",
-   "search": "wedding dj for 6 hours"
-  },
-  {
-   "seed": "wedding dj",
-   "search": "wedding dj kansas city"
-  },
-  {
-   "seed": "wedding dj",
-   "search": "wedding dj nyc"
-  },
-  {
-   "seed": "wedding dj",
-   "search": "wedding djs kansas city"
-  },
-  {
-   "seed": "destination wedding",
-   "search": "destination wedding california"
-  },
-  {
-   "seed": "destination wedding",
-   "search": "destination wedding for cheap"
-  },
-  {
-   "seed": "destination wedding",
-   "search": "destination wedding for elopement"
-  },
-  {
-   "seed": "destination wedding",
-   "search": "destination wedding knots"
-  },
-  {
-   "seed": "destination wedding",
-   "search": "destination wedding texas"
+   "search": "wedding band tattoos"
   },
   {
    "seed": "getting married in",
-   "search": "getting married in california"
+   "search": "getting married in city hall dublin"
   },
   {
    "seed": "getting married in",
-   "search": "getting married in florida"
-  },
-  {
-   "seed": "getting married in",
-   "search": "getting married in massachusetts"
-  },
-  {
-   "seed": "getting married in",
-   "search": "getting married in nc"
-  },
-  {
-   "seed": "getting married in",
-   "search": "getting married in nyc"
-  },
-  {
-   "seed": "getting married in",
-   "search": "getting married in texas"
-  },
-  {
-   "seed": "getting married in",
-   "search": "getting married in washington state"
-  },
-  {
-   "seed": "wedding budget",
-   "search": "wedding budget for 60 guests"
+   "search": "getting married in denmark for foreigners"
   },
   {
    "seed": "wedding table",
-   "search": "wedding table for those who have passed"
+   "search": "wedding table planner free"
   },
   {
    "seed": "wedding cake",
-   "search": "wedding cake for 150 people"
+   "search": "wedding cake decorations"
   },
   {
-   "seed": "wedding cake",
-   "search": "wedding cake for 40 people"
+   "seed": "small wedding",
+   "search": "small wedding cake"
   },
   {
-   "seed": "wedding cake",
-   "search": "wedding cake ideas for 100 people"
+   "seed": "small wedding",
+   "search": "small wedding venues for 20 guests ireland"
   },
   {
-   "seed": "wedding cake",
-   "search": "wedding cake nyc"
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas at home"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas near me"
+  },
+  {
+   "seed": "engagement party",
+   "search": "engagement party decorations ireland"
+  },
+  {
+   "seed": "wedding guest",
+   "search": "wedding guest dresses plus size"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress dry cleaning"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress shops ireland"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dress storage box"
+  },
+  {
+   "seed": "wedding dress",
+   "search": "wedding dresses online"
+  }
+ ],
+ "za": [
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 50 guests"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues for 60 guests"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues kennewick"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues limpopo"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues south africa"
+  },
+  {
+   "seed": "wedding venues",
+   "search": "wedding venues yakima"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue durban"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for 50 people near me"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue for sale pretoria east"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue gauteng"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue in afrikaans"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue in johannesburg"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue packages"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venue prices"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues gauteng"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues kennewick"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues south africa"
+  },
+  {
+   "seed": "wedding venue",
+   "search": "wedding venues yakima"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographer packages"
+  },
+  {
+   "seed": "wedding photographer",
+   "search": "wedding photographers pretoria"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner app"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner jobs"
+  },
+  {
+   "seed": "wedding planner",
+   "search": "wedding planner south africa"
+  },
+  {
+   "seed": "wedding flowers",
+   "search": "wedding flowers images"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding band vs engagement ring"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding bands american swiss"
+  },
+  {
+   "seed": "wedding band",
+   "search": "wedding bands for women south africa"
+  },
+  {
+   "seed": "wedding dj",
+   "search": "wedding djs cape town"
+  },
+  {
+   "seed": "getting married in",
+   "search": "getting married in denmark"
+  },
+  {
+   "seed": "wedding budget",
+   "search": "wedding budget excel template"
+  },
+  {
+   "seed": "wedding table",
+   "search": "wedding table seating chart"
   },
   {
    "seed": "wedding cake",
@@ -636,111 +2008,51 @@
   },
   {
    "seed": "wedding cake",
-   "search": "wedding cakes"
-  },
-  {
-   "seed": "wedding cake",
-   "search": "wedding cakes nyc"
-  },
-  {
-   "seed": "luxury wedding",
-   "search": "luxury wedding venues california"
-  },
-  {
-   "seed": "luxury wedding",
-   "search": "luxury wedding venues texas"
+   "search": "wedding cakes images"
   },
   {
    "seed": "small wedding",
-   "search": "small wedding bouquet"
+   "search": "small wedding cake"
   },
   {
    "seed": "small wedding",
-   "search": "small wedding ideas for 40 guests"
+   "search": "small wedding cake ideas"
   },
   {
    "seed": "small wedding",
-   "search": "small wedding in church"
+   "search": "small wedding packages"
   },
   {
    "seed": "small wedding",
-   "search": "small wedding venues california"
+   "search": "small wedding rings"
   },
   {
    "seed": "small wedding",
-   "search": "small wedding venues texas"
+   "search": "small wedding rings for women"
+  },
+  {
+   "seed": "small wedding",
+   "search": "small wedding venues in ballito"
   },
   {
    "seed": "birthday party ideas",
-   "search": "birthday party ideas nyc"
+   "search": "birthday party ideas at home"
+  },
+  {
+   "seed": "birthday party ideas",
+   "search": "birthday party ideas near me"
   },
   {
    "seed": "dinner party",
-   "search": "dinner party band"
-  },
-  {
-   "seed": "dinner party",
-   "search": "dinner party brooklyn"
-  },
-  {
-   "seed": "dinner party",
-   "search": "dinner party for 10 menu ideas"
-  },
-  {
-   "seed": "dinner party",
-   "search": "dinner party fort greene"
-  },
-  {
-   "seed": "dinner party",
-   "search": "dinner party ideas for 20 people"
-  },
-  {
-   "seed": "dinner party",
-   "search": "dinner party nyc"
+   "search": "dinner party movie"
   },
   {
    "seed": "engagement party",
-   "search": "engagement party for second marriage"
-  },
-  {
-   "seed": "engagement party",
-   "search": "engagement party for women"
-  },
-  {
-   "seed": "engagement party",
-   "search": "engagement party formal attire"
-  },
-  {
-   "seed": "engagement party",
-   "search": "engagement party format"
-  },
-  {
-   "seed": "engagement party",
-   "search": "engagement party ideas at a restaurant"
-  },
-  {
-   "seed": "engagement party",
-   "search": "engagement party ideas nyc"
+   "search": "engagement party meaning"
   },
   {
    "seed": "wedding guest",
-   "search": "wedding guest"
-  },
-  {
-   "seed": "wedding guest",
-   "search": "wedding guest book ideas"
-  },
-  {
-   "seed": "wedding guest",
-   "search": "wedding guest dress formal"
-  },
-  {
-   "seed": "wedding guest",
-   "search": "wedding guest for hire"
-  },
-  {
-   "seed": "wedding dress",
-   "search": "wedding dress alterations near me"
+   "search": "wedding guest black dress"
   },
   {
    "seed": "wedding dress",
@@ -748,65 +2060,27 @@
   },
   {
    "seed": "wedding dress",
-   "search": "wedding dress ideas for women guest"
+   "search": "wedding dress hire near me"
   },
   {
    "seed": "wedding dress",
-   "search": "wedding dress rental"
+   "search": "wedding dresses for sale"
   },
   {
    "seed": "wedding dress",
-   "search": "wedding dress shops california"
+   "search": "wedding dresses kennewick"
   },
   {
    "seed": "wedding dress",
-   "search": "wedding dress shops texas"
+   "search": "wedding dresses near me"
   },
   {
    "seed": "wedding dress",
-   "search": "wedding dresses california"
-  },
-  {
-   "seed": "wedding dress",
-   "search": "wedding dresses texas"
+   "search": "wedding dresses richland wa"
   },
   {
    "seed": "wedding hair",
-   "search": "wedding hair and makeup nyc"
-  },
-  {
-   "seed": "wedding hair",
-   "search": "wedding hair down"
-  },
-  {
-   "seed": "wedding hair",
-   "search": "wedding hair for strapless dress"
-  },
-  {
-   "seed": "wedding hair",
-   "search": "wedding hair ideas bridesmaid"
-  },
-  {
-   "seed": "wedding hair",
-   "search": "wedding hair ideas shoulder length"
-  },
-  {
-   "seed": "wedding hair",
-   "search": "wedding hair inspo"
-  },
-  {
-   "seed": "wedding hair",
-   "search": "wedding hair piece"
-  },
-  {
-   "seed": "wedding hair",
-   "search": "wedding hairstyles medium hair"
+   "search": "wedding hair styles for medium length hair"
   }
- ],
- "au": [],
- "ca": [],
- "ae": [],
- "in": [],
- "ie": [],
- "za": []
+ ]
 }
