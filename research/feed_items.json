@@ -1,5 +1,53 @@
 [
  {
+  "url": "https://www.hospitalitynet.org/opinion/4135488/9-revenue-leaks-on-your-hotel-website",
+  "title": "9 Revenue Leaks on Your Hotel Website",
+  "summary": "A practical 9-point audit hoteliers can run from their phone to identify where their hotel website and booking engine are losing direct bookings.",
+  "date": "2026-11-16T12:07:33+00:00",
+  "publisher": "Hospitality Net",
+  "kind": "travel"
+ },
+ {
+  "url": "https://www.hospitalitynet.org/news/4135484/pata-and-sanya-bring-international-tourism-leaders-together-to-explore-sustainable-development-of-coastal-destinations",
+  "title": "PATA and Sanya Bring International Tourism Leaders Together to Explore Sustainable Development of Coastal Destinations",
+  "summary": "PATA and Sanya Tourism Board host their third annual exchange event in November 2026, uniting representatives from 16 countries to advance sustainable coastal tourism and launch the Coastal Tourism Destination Alliance.",
+  "date": "2026-11-16T11:44:17+00:00",
+  "publisher": "Hospitality Net",
+  "kind": "travel"
+ },
+ {
+  "url": "https://skift.com/2026/11/16/u-s-hotels-are-keeping-less-and-less-of-every-guest-dollar/",
+  "title": "U.S. Hotels Are Keeping Less and Less of Every Guest Dollar",
+  "summary": "Hotel revenue is having a good year. The share that reaches the people who own the building hasn't. And that dynamic may not change anytime soon.",
+  "date": "2026-11-16T11:30:00+00:00",
+  "publisher": "Skift",
+  "kind": "travel"
+ },
+ {
+  "url": "https://www.vogue.com/slideshow/black-tie-wedding-guest-dresses",
+  "title": "28 Black-Tie Wedding Guest Dresses That Are Perfectly Formal",
+  "summary": "From sequined gowns to maximalist florals, our edit of the best black-tie wedding guest dresses will help you master the formal attire dress code.",
+  "date": "2026-11-16T11:00:00+00:00",
+  "publisher": "Vogue",
+  "kind": "luxury"
+ },
+ {
+  "url": "https://skift.com/2026/11/16/nuitee-adds-cruises-from-boundless-labs-opens-door-to-ai-agents-exclusive/",
+  "title": "Nuitée Adds Cruises From Boundless Labs, Opens Door to AI Agents: Exclusive",
+  "summary": "Major AI platforms have a trust issue when it comes to travel bookings. Would cruisers trust an AI agent to book the most complex travel product there is? Still Nuitée, Boundless Labs, and AI agents could eventually pressure the incumbents in cruise distribution.",
+  "date": "2026-11-16T11:00:00+00:00",
+  "publisher": "Skift",
+  "kind": "travel"
+ },
+ {
+  "url": "https://www.tatler.com/article/the-princess-of-wales-is-elegant-in-matching-amethyst-necklace-and-earrings-for-first-engagement-in-india",
+  "title": "The Princess of Wales is elegant in matching amethyst necklace and earrings for first engagement in India",
+  "summary": "The Princess of Wales has joined Prince William in Mumbai for their first joint overseas visit since her cancer diagnosis",
+  "date": "2026-11-16T09:32:44+00:00",
+  "publisher": "Tatler",
+  "kind": "luxury"
+ },
+ {
   "url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a74399468/peggy-scott-gilded-age-wedding-sonja-warfield/",
   "title": "How My Family's History Inspired Peggy's Storyline on The Gilded Age",
   "summary": "The series’ writer and executive producer Sonja Warfield reveals how her own experience as “a reluctant debutante” helped shape the life—and this week’s wedding—of one of the show’s most beloved characters.",
@@ -16,11 +64,29 @@
   "kind": "luxury"
  },
  {
+  "url": "https://www.adgully.com/post/23882/libas-brings-back-saj-dhaj-ke-season-iii-celebrating-wider-wedding-wardrobe",
+  "title": "Libas brings back ‘Saj Dhaj Ke’ Season III celebrating wider wedding wardrobe",
+  "summary": "Libas, India’s leading tech enabled ultra-fast Indian fashion brand, has unveiled the third season of its wedding campaign, ‘Saj Dhaj Ke’, expanding ...",
+  "date": "2026-11-16T02:00:00+00:00",
+  "publisher": "Adgully",
+  "kind": "news",
+  "query": "wedding season India"
+ },
+ {
   "url": "https://www.exchange4media.com/media-print-news/bw-travel-unveils-latest-issue-special-edition-on-weddings-romance-160309.html",
   "title": "BW TRAVEL unveils latest issue - special edition on weddings & romance",
   "summary": "Explore BW TRAVEL's latest issue focused on love, travel, and celebrations. Discover stories, destinations, and insights into modern wedding culture.",
   "date": "2026-11-16T00:01:00+00:00",
   "publisher": "exchange4media",
+  "kind": "news",
+  "query": "destination wedding"
+ },
+ {
+  "url": "https://www.bwhotelier.com/article/rubystone-hospitality-explores-destination-wedding-opportunities-in-udaipur-and-rishikesh-633750",
+  "title": "Rubystone Hospitality explores destination wedding opportunities in Udaipur and Rishikesh",
+  "summary": "The two destinations offer contrasting settings, with Udaipur known for its heritage architecture and Rishikesh for its natural landscapes and spiritual appeal ...",
+  "date": "2026-11-15T17:56:00+00:00",
+  "publisher": "BW Hotelier",
   "kind": "news",
   "query": "destination wedding"
  },
@@ -2580,6 +2646,15 @@
   "publisher": "Martha Stewart on MSN",
   "kind": "news",
   "query": "wedding trends"
+ },
+ {
+  "url": "https://www.yahoo.com/lifestyle/articles/top-20-wedding-trends-2027-162408544.html",
+  "title": "The Top 20 Wedding Trends of 2027, From Antique Lace to Hush-Hush Honeymoons",
+  "summary": "Add Yahoo as a preferred source to see more of our stories on Google. Credit: Hanneke Vollbehr / Getty Images From floral arrangements featuring poppies and hydrangeas to unconventional venue choices, ...",
+  "date": "2026-10-06T09:24:00+00:00",
+  "publisher": "Yahoo",
+  "kind": "news",
+  "query": "Instagram wedding trend"
  },
  {
   "url": "https://www.telegraph.co.uk/real-life/2026/10/06/how-survived-bridezilla-daughters-destination-wedding/",
