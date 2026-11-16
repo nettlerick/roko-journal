@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T09:56:12+00:00",
+ "generated": "2026-11-16T13:51:17+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -2481,7 +2481,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-16T09:36+00:00",
+  "generated": "2026-11-16T13:34+00:00",
   "rising_searches": {
    "date": "2026-11-16",
    "compared_with": "2026-11-09",
@@ -4597,6 +4597,54 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.hospitalitynet.org/opinion/4135488/9-revenue-leaks-on-your-hotel-website",
+    "title": "9 Revenue Leaks on Your Hotel Website",
+    "summary": "A practical 9-point audit hoteliers can run from their phone to identify where their hotel website and booking engine are losing direct bookings.",
+    "date": "2026-11-16T12:07:33+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/news/4135484/pata-and-sanya-bring-international-tourism-leaders-together-to-explore-sustainable-development-of-coastal-destinations",
+    "title": "PATA and Sanya Bring International Tourism Leaders Together to Explore Sustainable Development of Coastal Destinations",
+    "summary": "PATA and Sanya Tourism Board host their third annual exchange event in November 2026, uniting representatives from 16 countries to advance sustainable coastal tourism and launch the Coastal Tourism Destination Alliance.",
+    "date": "2026-11-16T11:44:17+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://skift.com/2026/11/16/u-s-hotels-are-keeping-less-and-less-of-every-guest-dollar/",
+    "title": "U.S. Hotels Are Keeping Less and Less of Every Guest Dollar",
+    "summary": "Hotel revenue is having a good year. The share that reaches the people who own the building hasn't. And that dynamic may not change anytime soon.",
+    "date": "2026-11-16T11:30:00+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.vogue.com/slideshow/black-tie-wedding-guest-dresses",
+    "title": "28 Black-Tie Wedding Guest Dresses That Are Perfectly Formal",
+    "summary": "From sequined gowns to maximalist florals, our edit of the best black-tie wedding guest dresses will help you master the formal attire dress code.",
+    "date": "2026-11-16T11:00:00+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://skift.com/2026/11/16/nuitee-adds-cruises-from-boundless-labs-opens-door-to-ai-agents-exclusive/",
+    "title": "Nuitée Adds Cruises From Boundless Labs, Opens Door to AI Agents: Exclusive",
+    "summary": "Major AI platforms have a trust issue when it comes to travel bookings. Would cruisers trust an AI agent to book the most complex travel product there is? Still Nuitée, Boundless Labs, and AI agents could eventually pressure the incumbents in cruise distribution.",
+    "date": "2026-11-16T11:00:00+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.tatler.com/article/the-princess-of-wales-is-elegant-in-matching-amethyst-necklace-and-earrings-for-first-engagement-in-india",
+    "title": "The Princess of Wales is elegant in matching amethyst necklace and earrings for first engagement in India",
+    "summary": "The Princess of Wales has joined Prince William in Mumbai for their first joint overseas visit since her cancer diagnosis",
+    "date": "2026-11-16T09:32:44+00:00",
+    "publisher": "Tatler",
+    "kind": "luxury"
+   },
+   {
     "url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a74399468/peggy-scott-gilded-age-wedding-sonja-warfield/",
     "title": "How My Family's History Inspired Peggy's Storyline on The Gilded Age",
     "summary": "The series’ writer and executive producer Sonja Warfield reveals how her own experience as “a reluctant debutante” helped shape the life—and this week’s wedding—of one of the show’s most beloved characters.",
@@ -4613,11 +4661,29 @@
     "kind": "luxury"
    },
    {
+    "url": "https://www.adgully.com/post/23882/libas-brings-back-saj-dhaj-ke-season-iii-celebrating-wider-wedding-wardrobe",
+    "title": "Libas brings back ‘Saj Dhaj Ke’ Season III celebrating wider wedding wardrobe",
+    "summary": "Libas, India’s leading tech enabled ultra-fast Indian fashion brand, has unveiled the third season of its wedding campaign, ‘Saj Dhaj Ke’, expanding ...",
+    "date": "2026-11-16T02:00:00+00:00",
+    "publisher": "Adgully",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
     "url": "https://www.exchange4media.com/media-print-news/bw-travel-unveils-latest-issue-special-edition-on-weddings-romance-160309.html",
     "title": "BW TRAVEL unveils latest issue - special edition on weddings & romance",
     "summary": "Explore BW TRAVEL's latest issue focused on love, travel, and celebrations. Discover stories, destinations, and insights into modern wedding culture.",
     "date": "2026-11-16T00:01:00+00:00",
     "publisher": "exchange4media",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://www.bwhotelier.com/article/rubystone-hospitality-explores-destination-wedding-opportunities-in-udaipur-and-rishikesh-633750",
+    "title": "Rubystone Hospitality explores destination wedding opportunities in Udaipur and Rishikesh",
+    "summary": "The two destinations offer contrasting settings, with Udaipur known for its heritage architecture and Rishikesh for its natural landscapes and spiritual appeal ...",
+    "date": "2026-11-15T17:56:00+00:00",
+    "publisher": "BW Hotelier",
     "kind": "news",
     "query": "destination wedding"
    },
@@ -5040,74 +5106,6 @@
     "publisher": "luxe.outlookindia",
     "kind": "news",
     "query": "destination wedding"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/podcast/4135306/remco-gerritsen-of-cityhub-on-solo-travel-revenue-per-square-meter-and-scaling-a-modular-urban-hotel-across-europe",
-    "title": "Remco Gerritsen of CityHub on Solo Travel, Revenue per Square Meter, and Scaling a Modular Urban Hotel Across Europe",
-    "summary": "CityHub CEO Remco Gerritsen outlines plans to double hub capacity by end of 2025, covering space economics, modular builds in repurposed buildings, direct booking strategy, and solo traveler growth.",
-    "date": "2026-11-11T09:00:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.theweek.in/news/entertainment/2026/11/11/anirudh-ravichander-kaviya-maran-greek-wedding.html",
-    "title": "Anirudh Ravichander and Kaviya Maran share first pics of Greek destination wedding; Rajinikanth, MK Stalin attend ceremony",
-    "summary": "Tamil music composer Anirudh Ravichander and Sunrisers Hyderabad co-owner Kaviya Maran tied the knot in an intimate destination wedding in Greece ...",
-    "date": "2026-11-11T08:19:00+00:00",
-    "publisher": "The Week",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4135390/the-direct-custody-trench-defending-net-margins-against-the-distribution-squeeze",
-    "title": "The Direct Custody Trench: Defending Net Margins Against the Distribution Squeeze",
-    "summary": "An analysis of how Spanish hotels facing 270 new properties in the pipeline can protect net margins by cutting OTA dependency, with real unit economics showing 30%+ revenue lost per third-party booking.",
-    "date": "2026-11-11T08:00:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/news/other/doncaster-bridal-boutique-honoured-at-top-wedding-awards-ceremony/ar-AA2hcBR9",
-    "title": "Doncaster bridal boutique honoured at top wedding awards ceremony",
-    "summary": "The ceremony took place in County Durham ...",
-    "date": "2026-11-11T03:49:21+00:00",
-    "publisher": "Doncaster Free Press on MSN",
-    "kind": "news",
-    "query": "wedding industry UK"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4135395/great-hospitality-greater-revenue-powered-by-people",
-    "title": "Great Hospitality. Greater Revenue. Powered by People.",
-    "summary": "FPG VP Benjamin Seelos outlines how reframing upselling as guest recommendation, combined with frontline training and AI tools, helps hotels add 4-8% TRevPAR and restaurants lift revenue 5-15% per guest.",
-    "date": "2026-11-11T02:57:17+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://note.com/tsudoi_wedding/n/n9d2875c7d8f8?hl=en",
-    "title": "For couples considering a wedding in Iwate Prefecture! The flow and cost of a restaurant wedding | Differences from a membership fee system",
-    "summary": "What is a restaurant wedding, and how is it different from a regular wedding?How is a membership fee system different from a traditional gift money (goshugi) system?These are questions I have been ...",
-    "date": "2026-11-11T00:03:00+00:00",
-    "publisher": "note",
-    "kind": "news",
-    "query": "wedding guests cost"
-   },
-   {
-    "url": "https://english.mathrubhumi.com/lifestyle/travel/anirudh-kavya-wedding-why-greece-is-perfect-destination-ozxxa4s0",
-    "title": "Anirudh Ravichander-Kavya Maran wedding: What makes Greece a perfect destination?",
-    "summary": "From breathtaking island views and sun-kissed beaches to Greek hospitality and Mediterranean cuisine, here's why Greece makes a dream destination wedding location.",
-    "date": "2026-11-10T23:01:00+00:00",
-    "publisher": "Mathrubhumi English",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://skift.com/2026/11/10/a-year-after-sonders-collapse-francis-davidson-sells-his-ai-travel-startup-to-openai/",
-    "title": "OpenAI Acquires Odessia, the AI Travel Agent From Sonder’s Co-Founder",
-    "summary": "OpenAI didn't acquire Odessia for its revenue. It bought a team that built a working AI travel agent in months, plus a founder who ran a lodging company, which included hotels and short-term rentals, for a decade. It's a sign ChatGPT wants to do more in travel than send users to Booking.com and Expedia.",
-    "date": "2026-11-10T19:31:07+00:00",
-    "publisher": "Skift",
-    "kind": "travel"
    }
   ],
   "headlines": [
@@ -5191,15 +5189,15 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Wedding industry representatives raise funds for children's hospital at annual gala",
-    "publisher": "Euronews.com",
-    "date": "2026-11-15T21:09:29+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Milton Keynes celebrant shortlisted twice at The Wedding Industry Awards as regional finalist",
     "publisher": "Milton Keynes Citizen",
     "date": "2026-10-23T07:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Wedding industry representatives raise funds for children's hospital at annual gala",
+    "publisher": "Euronews",
+    "date": "2026-11-15T21:09:29+00:00"
    },
    {
     "query": "wedding industry",
@@ -5233,6 +5231,12 @@
    },
    {
     "query": "wedding industry",
+    "headline": "Datchworth wedding venue highly commended at regional Wedding Industry Awards",
+    "publisher": "Welwyn Hatfield Times",
+    "date": "2026-11-16T12:17:31+00:00"
+   },
+   {
+    "query": "wedding industry",
     "headline": "Lake District venue crowned North West’s best wedding hotel",
     "publisher": "Cumbria Crack",
     "date": "2026-11-13T09:12:09+00:00"
@@ -5250,16 +5254,16 @@
     "date": "2026-11-10T07:00:00+00:00"
    },
    {
-    "query": "wedding industry",
-    "headline": "North Yorkshire wedding venue wins prestigious award",
-    "publisher": "YorkMix",
-    "date": "2026-11-14T11:00:00+00:00"
-   },
-   {
     "query": "viral wedding TikTok",
     "headline": "The Viral “Stop the Wedding” Trend Is a Reminder That It’s Never Too Late to Walk Away",
     "publisher": "Cosmopolitan",
     "date": "2026-11-05T08:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Bride reportedly asks bridesmaid to gain 120 pounds TikTok video, explained",
+    "publisher": "The Mary Sue",
+    "date": "2026-11-04T14:45:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -5272,12 +5276,6 @@
     "headline": "Ashe's 'Stop the Wedding!' is TikTok's favorite breakup anthem. It was inspired by her own divorce.",
     "publisher": "Yahoo",
     "date": "2026-11-09T20:21:07+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
-    "publisher": "IMDb",
-    "date": "2026-11-05T19:27:57+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -5413,6 +5411,12 @@
    },
    {
     "query": "Pinterest wedding trends",
+    "headline": "The Blouse Is The Star: Saree Blouse Trends For 2026",
+    "publisher": "ELLE India",
+    "date": "2026-11-16T08:25:42+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
     "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
     "publisher": "New York Post",
     "date": "2026-11-04T08:00:00+00:00"
@@ -5464,12 +5468,6 @@
     "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
     "publisher": "The Impartial Reporter",
     "date": "2026-10-27T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "Lake District venue crowned North West’s best wedding hotel",
-    "publisher": "Cumbria Crack",
-    "date": "2026-11-13T09:12:09+00:00"
    }
   ],
   "pages": {
