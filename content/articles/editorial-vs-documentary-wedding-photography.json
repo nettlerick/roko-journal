@@ -54,7 +54,20 @@
  "series": "Journal",
  "date": "2026-11-16T09:39",
  "updated": "2026-11-16T09:39",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Michael Gaylard from Horsham, UK, CC BY 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Intricate_Geometric_Pattern_of_a_Lavish_Palace_Ceiling_(55245634693).jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "file": "media/editorial-vs-documentary-wedding-photography/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "A low-angle view of an ornate palace ceiling with intricate geometric patterns and warm lighting.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@e7902a5b99bcfcb332ad1324a1a369cfc7275e9a/media/editorial-vs-documentary-wedding-photography/cover.webp"
+  }
+ ],
  "categories": [
   "wedding-photographers"
  ]
