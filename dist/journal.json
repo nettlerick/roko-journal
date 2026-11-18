@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T14:34:57+00:00",
+ "generated": "2026-11-18T10:21:36+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -93,7 +93,7 @@
     "url": "/wedding-flowers-and-decor",
     "label": "Find florists and stylists on Roko"
    },
-   "status": "planned"
+   "status": "waiting for photo"
   },
   {
    "n": 4,
@@ -2413,6 +2413,7 @@
   }
  ],
  "waiting": [
+  "autumn-wedding-ideas",
   "destination-wedding-guide",
   "editorial-vs-documentary-wedding-photography",
   "how-to-choose-a-wedding-photographer",
@@ -2426,6 +2427,10 @@
   "what-does-a-wedding-planner-do"
  ],
  "problems": {
+  "autumn-wedding-ideas": [
+   "needs at least one source",
+   "needs a cover image"
+  ],
   "destination-wedding-guide": [
    "needs a cover image"
   ],
@@ -2485,7 +2490,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-17T14:19+00:00",
+  "generated": "2026-11-18T10:03+00:00",
   "rising_searches": {
    "date": "2026-11-16",
    "compared_with": "2026-11-09",
@@ -4601,6 +4606,108 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.hospitalitynet.org/opinion/4135537/revenue-manager-2030-superhero-or-extinct",
+    "title": "Revenue Manager 2030: Superhero or Extinct?",
+    "summary": "The author argues that the Revenue Manager role is too narrowly defined, and that 2030 will split the profession between commercially-minded leaders amplified by AI and tool operators made redundant by it.",
+    "date": "2026-11-18T08:35:39+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://skift.com/2026/11/17/airlines-race-to-keep-up-with-vietnams-indian-travel-boom/",
+    "title": "Airlines Race to Keep Up With Vietnam’s Indian Travel Boom",
+    "summary": "Indian arrivals to Vietnam are growing more than twice as fast as the overall market, and Vietnamese carriers are chasing that demand into cities like Ahmedabad. Seats alone won’t lock it in, though. Vietnam still needs the food, guides, and wedding and events products Indian travelers expect.",
+    "date": "2026-11-18T04:31:02+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.msn.com/en-in/money/investment/gold-price-today-gold-falls-by-3-073-on-mcx-ahead-of-wedding-season-check-latest-24k-22k-and-18k-rates-in-your-city/ar-AA2hGe2Q",
+    "title": "Gold price today: Gold falls by ₹3,073 on MCX ahead of wedding season; check latest 24K, 22K and 18K rates in your city",
+    "summary": "Gold prices have witnessed a fresh decline, bringing some relief to people planning to purchase jewellery during the upcoming wedding season. With demand for gold usually increasing during this period ...",
+    "date": "2026-11-18T01:00:00+00:00",
+    "publisher": "Newspoint on MSN",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/fashion/wedding-season-calling-6-potli-bags-under-2-000-to-pair-with-festive-outfits-101794983774199.html",
+    "title": "Wedding season calling? 6 potli bags under ₹2,000 to pair with festive outfits",
+    "summary": "From pearl tassels and lotus embroidery to gold-toned finishes, these six potli bags can add a festive finishing touch to your wedding guest wardrobe. | Fashion Trends ...",
+    "date": "2026-11-18T00:32:00+00:00",
+    "publisher": "Hindustan Times",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
+    "url": "https://www.msn.com/en-in/money/economy/gold-silver-crash-ahead-of-wedding-season-hits-14-month-low/ar-AA2hFSQU",
+    "title": "Gold & silver crash ahead of wedding season; hits 14-month low",
+    "summary": "Bullion markets across India and overseas experienced a steep sell-off on Wednesday, November 18, 2026, sending gold and silver prices tumbling to multi-month lows right ahead of India's busy wedding ...",
+    "date": "2026-11-17T23:07:04+00:00",
+    "publisher": "Newspoint on MSN",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
+    "url": "https://www.msn.com/en-in/news/other/gold-silver-crash-ahead-of-wedding-season-hits-14-month-low/ar-AA2hFSQU",
+    "title": "Gold & silver crash ahead of wedding season; hits 14-month low",
+    "summary": "Bullion markets across India and overseas experienced a steep sell-off on Wednesday, November 18, 2026, sending gold and silver prices tumbling to multi-month lows right ahead of India's busy wedding ...",
+    "date": "2026-11-17T23:07:04+00:00",
+    "publisher": "Newspoint on MSN",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
+    "url": "https://www.msn.com/en-in/money/investment/gold-silver-crash-ahead-of-wedding-season-hits-14-month-low/ar-AA2hFSQU",
+    "title": "Gold & silver crash ahead of wedding season; hits 14-month low",
+    "summary": "Bullion markets across India and overseas experienced a steep sell-off on Wednesday, November 18, 2026, sending gold and silver prices tumbling to multi-month lows right ahead of India's busy wedding ...",
+    "date": "2026-11-17T23:07:04+00:00",
+    "publisher": "Newspoint on MSN",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
+    "url": "https://northdesk.in/why-gold-and-silver-prices-are-falling/",
+    "title": "Why gold and silver prices are falling during wedding season: 4 Key Reasons Behind the Slide",
+    "summary": "Why gold and silver prices are falling during wedding season in India: 24K gold slips near ₹1.32–1.36 lakh and silver tumbles toward ₹1.65–1.85 lakh amid Fed ...",
+    "date": "2026-11-17T21:52:00+00:00",
+    "publisher": "northdesk.in",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
+    "url": "https://skift.com/2026/11/17/asia-slump-drives-seventh-straight-month-of-falling-u-s-overseas-arrivals/",
+    "title": "Asia Slump Drives Seventh Straight Month of Falling U.S. Overseas Arrivals",
+    "summary": "A 12.6% drop from Asia fueled the seventh straight month of U.S. inbound travel declines, more evidence that the U.S. is losing ground as other countries compete for the same long-haul travelers.",
+    "date": "2026-11-17T21:08:42+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.townandcountrymag.com/style/home-decor/g62786517/best-hostess-gifts-ideas/",
+    "title": "35 Best Hostess Gifts for Peak Entertaining Season",
+    "summary": "A gift to wow for every occasion, whether a dinner party or a full fledged fête.",
+    "date": "2026-11-17T15:47:00+00:00",
+    "publisher": "Town & Country",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.townandcountrymag.com/society/tradition/a74453535/queen-margrethe-denmark-health-cancels-engagement-november-2026/",
+    "title": "Denmark’s Queen Margrethe Cancels an Official Engagement at the Last Minute",
+    "summary": "The former monarch has suffered from a number of health problems this year.",
+    "date": "2026-11-17T15:39:44+00:00",
+    "publisher": "Town & Country",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.socialmediatoday.com/news/pinterest-shares-its-first-creators-to-watch-list/874969/",
+    "title": "Pinterest shares its first Creators to Watch list",
+    "summary": "The platform highlighted 20 global influencers for 2027, which could offer valuable partnership insights for brands.",
+    "date": "2026-11-17T15:39:19-05:00",
+    "publisher": "Social Media Today",
+    "kind": "social"
+   },
+   {
     "url": "https://www.hospitalitynet.org/opinion/4135263/how-to-increase-hotel-revenue-and-stop-leaving-money-on-the-table",
     "title": "How to increase hotel revenue and stop leaving money on the table",
     "summary": "Covers TRevPAR as a broader performance metric and outlines five ancillary revenue strategies, including spa packages, event space, parking, and upselling, supported by connected hotel tech.",
@@ -4623,6 +4730,51 @@
     "date": "2026-11-17T09:00:00+00:00",
     "publisher": "Hospitality Net",
     "kind": "travel"
+   },
+   {
+    "url": "https://www.msn.com/en-sg/news/other/what-we-can-learn-from-tiktok-s-stop-the-wedding-trend/ar-AA2hE7XB",
+    "title": "What we can learn from TikTok’s stop the wedding trend",
+    "summary": "Luiz Woellner Fotografia on Pexels ...",
+    "date": "2026-11-17T08:55:00+00:00",
+    "publisher": "The Zen Parent on MSN",
+    "kind": "news",
+    "query": "TikTok wedding trend"
+   },
+   {
+    "url": "https://www.msn.com/en-us/news/other/what-we-can-learn-from-tiktok-s-stop-the-wedding-trend/ar-AA2hDNno",
+    "title": "What we can learn from TikTok’s stop the wedding trend",
+    "summary": "Luiz Woellner Fotografia on Pexels ...",
+    "date": "2026-11-17T08:55:00+00:00",
+    "publisher": "The Zen Parent on MSN",
+    "kind": "news",
+    "query": "TikTok wedding trend"
+   },
+   {
+    "url": "https://www.msn.com/en-ph/lifestyle/other/what-we-can-learn-from-tiktok-s-stop-the-wedding-trend/ar-AA2hE5bE",
+    "title": "What we can learn from TikTok’s stop the wedding trend",
+    "summary": "Luiz Woellner Fotografia on Pexels ...",
+    "date": "2026-11-17T08:55:00+00:00",
+    "publisher": "The Zen Parent on MSN",
+    "kind": "news",
+    "query": "TikTok wedding trend"
+   },
+   {
+    "url": "https://www.msn.com/en-gb/lifestyle/other/wedding-trends-that-you-ll-regret-later-according-to-experts/ar-AA21YQyL",
+    "title": "Wedding trends that you'll regret later, according to experts",
+    "summary": "Save money and face – leave these common faux pas in the past ...",
+    "date": "2026-11-17T06:17:59+00:00",
+    "publisher": "Gathered on MSN",
+    "kind": "news",
+    "query": "Instagram wedding trend"
+   },
+   {
+    "url": "https://www.eventindustrynews.com/news/superhero-suppliers-2026-the-event-industry-heroes-who-always-save-the-day",
+    "title": "Superhero Suppliers 2026: The Event Industry Heroes Who Always Save the Day!",
+    "summary": "Not all superheroes wear capes. Some wear hi-vis, carry radios, drive forklifts or arrive with exactly what you need when everything seems to be ...",
+    "date": "2026-11-17T06:08:00+00:00",
+    "publisher": "Event Industry News",
+    "kind": "news",
+    "query": "events industry UK"
    },
    {
     "url": "https://www.whtimes.co.uk/news/26736719.hertford-celebrant-wins-east-england-wedding-award/",
@@ -4659,6 +4811,15 @@
     "publisher": "TTG Media",
     "kind": "news",
     "query": "destination wedding"
+   },
+   {
+    "url": "https://www.eventindustrynews.com/news/fast-growing-uk-location-technology-company-crowd-connected-appoints-former-mapspeople-cmo-to-accelerate-global-events-business",
+    "title": "Fast-growing UK location technology company Crowd Connected appoints former MapsPeople CMO to accelerate global events business",
+    "summary": "Crowd Connected, the UK technology company specialising in location intelligence and physical AI, has appointed Søren Vasø as Chief Marketing Officer as ...",
+    "date": "2026-11-17T01:29:00+00:00",
+    "publisher": "Event Industry News",
+    "kind": "news",
+    "query": "events industry UK"
    },
    {
     "url": "https://www.livemint.com/companies/company-results/india-hotel-companies-growth-domestic-travel-weddings-corporate-events-11794851010570.html",
@@ -4731,6 +4892,15 @@
     "publisher": "Asianet Newsable on MSN",
     "kind": "news",
     "query": "wedding season India"
+   },
+   {
+    "url": "https://www.msn.com/en-in/news/other/mirnalini-ravi-marries-boyfriend-mahavishnu-in-a-destination-wedding/ar-AA2hAyGY",
+    "title": "Mirnalini Ravi marries boyfriend Mahavishnu in a destination wedding",
+    "summary": "Mirnalini Ravi tied the knot with Mahavishnu in a beachside wedding in Langkawi, Malaysia ...",
+    "date": "2026-11-16T21:31:23+00:00",
+    "publisher": "Filmfare on MSN",
+    "kind": "news",
+    "query": "destination wedding"
    },
    {
     "url": "https://www.hexham-courant.co.uk/news/26733533.prudhoe-magician-wins-regional-wedding-title-third-year/",
@@ -4954,171 +5124,6 @@
     "publisher": "ABP News on MSN",
     "kind": "news",
     "query": "destination wedding"
-   },
-   {
-    "url": "https://www.salonprivemag.com/the-small-details-behind-a-luxury-wedding-from-invitations-to-place-settings/",
-    "title": "The Small Details Behind a Luxury Wedding: From Invitations to Place Settings",
-    "summary": "Several beautiful things have to share the same table. That makes choosing wedding details a little more challenging than you would think. The patterned linen ...",
-    "date": "2026-11-15T01:44:00+00:00",
-    "publisher": "Salon Privé Magazine",
-    "kind": "news",
-    "query": "luxury wedding venue"
-   },
-   {
-    "url": "https://www.vogue.in/content/5-ways-to-style-long-hair-for-wedding-season-according-to-a-long-hair-loyalist",
-    "title": "5 ways to style long hair for wedding season, according to a long-hair loyalist",
-    "summary": "A high ponytail is one of my favourite ways to make long hair feel dressed up without committing to an elaborate updo. The trick is volume. A tightly pulled-back ponytail can look a little too ...",
-    "date": "2026-11-14T16:00:00+00:00",
-    "publisher": "Vogue India",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.businessworld.in/article/last-minute-wedding-shopping-gets-a-quick-commerce-makeover-as-demand-surges-633548",
-    "title": "Last-Minute Wedding Shopping Gets A Quick-Commerce Makeover As Demand Surges",
-    "summary": "Last-minute wedding and party shopping is driving online demand for beauty, personal care, appliances and household essentials as India's quick-commerce market expands ...",
-    "date": "2026-11-13T22:25:00+00:00",
-    "publisher": "BW Businessworld",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.nwemail.co.uk/news/26727123.lake-district-photographer-highly-commended-wedding-awards/",
-    "title": "Lake District photographer is highly commended at wedding awards",
-    "summary": "Lake District wedding photographer Tiree Dawson of Crosthwaite receives Highly Commended at the North West Wedding Industry Awards 2027, after 1,500 weddings.",
-    "date": "2026-11-13T22:00:00+00:00",
-    "publisher": "The Mail in South Cumbria",
-    "kind": "news",
-    "query": "wedding industry UK"
-   },
-   {
-    "url": "https://www.vogue.com/article/phoebe-dynevor-wedding-ring-gold-band",
-    "title": "Phoebe Dynevor Gives a First Look at Her Wedding Ring—and It’s a Timeless Classic",
-    "summary": "Phoebe Dynevor revealed her classic wedding ring for the first time on a London outing—here’s why this style is more popular than ever.",
-    "date": "2026-11-13T19:56:31+00:00",
-    "publisher": "Vogue",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://note.com/grimoire_owo/n/n893d1dc23bce?hl=en",
-    "title": "Wedding costs increased by 700,000 yen from the estimate: how much is the out-of-pocket expense?",
-    "summary": "Estimates always go upWhen people receive a wedding estimate, most think, \"If I can do it for this amount, I can manage.\" However, for 48.2% of people, the final amount ends up higher than the initial ...",
-    "date": "2026-11-13T17:45:00+00:00",
-    "publisher": "note",
-    "kind": "news",
-    "query": "wedding guests cost"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4134965/who-is-allowed-to-say-no-to-revenue",
-    "title": "Who Is Allowed to Say No to Revenue?",
-    "summary": "A structured framework for formalizing who holds the authority to refuse or reshape business, with defined roles, a decision test, and a turn-down ledger to build commercial judgment over time.",
-    "date": "2026-11-13T14:00:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://skift.com/2026/11/13/the-hotel-restaurant-is-becoming-the-main-event-again/",
-    "title": "The Hotel Restaurant Is Becoming the Main Event Again",
-    "summary": "Hotel restaurants are becoming destinations again. The smartest owners are giving chefs and operators the freedom to create places with their own character and following, rather than trying to serve every guest at every hour.",
-    "date": "2026-11-13T13:00:00+00:00",
-    "publisher": "Skift",
-    "kind": "travel"
-   },
-   {
-    "url": "https://hyderabadmail.com/hyderabad-average-wedding-cost-39-5-lakh-wedmegood-survey/",
-    "title": "Wedding costs hit ₹37 lakh in Hyderabad, survey finds",
-    "summary": "The average wedding expenditure for a middle-class and upper-middle-class family has reached ₹39.5 lakh, according to a survey by wedding planning company WedMeGood. The rising cost of weddings is ...",
-    "date": "2026-11-13T12:27:00+00:00",
-    "publisher": "hyderabadmail",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.oneindia.com/india/bihar-mla-anant-singhs-daughters-wedding-10-acre-pandal-horse-racing-vip-guests-and-rs-50-crore-8259037.html",
-    "title": "Bihar MLA Anant Singh's Daughter's Wedding: 10-Acre Pandal, Horse Racing, VIP Guests And Rs 50 Crore Budget?",
-    "summary": "Mokama MLA Anant Singh is preparing a grand wedding for daughter Shivangi Singh on November 25, featuring a 10-acre pandal, 4 lakh guests, 150 dishes, horse racing and luxury car gifts.",
-    "date": "2026-11-13T11:45:00+00:00",
-    "publisher": "Oneindia",
-    "kind": "news",
-    "query": "wedding guests cost"
-   },
-   {
-    "url": "https://www.msn.com/en-in/news/other/8-best-destination-wedding-locations-in-india-for-a-fairytale-celebration/ar-AA2hnHBp",
-    "title": "8 best destination wedding locations in India for a fairytale celebration",
-    "summary": "Explore 8 beautiful destination wedding locations in India, from Udaipur's royal palaces and Goa's beaches to Kerala's backwaters and Andaman's islands, for an unforgettable wedding celebration.",
-    "date": "2026-11-13T06:41:05+00:00",
-    "publisher": "Newspoint on MSN",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.msn.com/en-in/travel/honeymoons-and-getaways/8-best-destination-wedding-locations-in-india-for-a-fairytale-celebration/ar-AA2hnHBp",
-    "title": "8 best destination wedding locations in India for a fairytale celebration",
-    "summary": "Explore 8 beautiful destination wedding locations in India, from Udaipur's royal palaces and Goa's beaches to Kerala's backwaters and Andaman's islands, for an unforgettable wedding celebration.",
-    "date": "2026-11-13T06:41:05+00:00",
-    "publisher": "Newspoint on MSN",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.msn.com/en-in/travel/general/8-best-destination-wedding-locations-in-india-for-a-fairytale-celebration/ar-AA2hnHBp",
-    "title": "8 best destination wedding locations in India for a fairytale celebration",
-    "summary": "Explore 8 beautiful destination wedding locations in India, from Udaipur's royal palaces and Goa's beaches to Kerala's backwaters and Andaman's islands, for an unforgettable wedding celebration.",
-    "date": "2026-11-13T06:41:05+00:00",
-    "publisher": "Newspoint on MSN",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.msn.com/en-us/travel/honeymoons-and-getaways/this-stunning-european-country-just-dethroned-italy-as-the-world-s-best-honeymoon-destination-for-2027/ar-AA2hmIss",
-    "title": "This stunning European country just dethroned Italy as the world’s best honeymoon destination for 2027",
-    "summary": "More than 3,100 luxury travel advisors weighed in on the most sought-after honeymoon destinations, with Greece surpassing Italy in the latest global ranking.",
-    "date": "2026-11-13T05:55:00+00:00",
-    "publisher": "Travel + Leisure on MSN",
-    "kind": "news",
-    "query": "Italy wedding destination"
-   },
-   {
-    "url": "https://skift.com/2026/11/12/redefining-flying-where-innovation-meets-the-human-touch/",
-    "title": "Redefining Flying: Where Innovation Meets the Human Touch",
-    "summary": "Airlines seeking more premium revenue must decide how to allocate limited cabin space between higher-value seats, traditional amenities, and new passenger experiences.",
-    "date": "2026-11-13T02:23:48+00:00",
-    "publisher": "Skift",
-    "kind": "travel"
-   },
-   {
-    "url": "https://skift.com/2026/11/12/one-night-in-bangkok-eurovision-asia-tests-thailands-bet-on-events/",
-    "title": "One Night in Bangkok: Eurovision Asia Tests Thailand’s Bet on Events",
-    "summary": "Thailand wants events to offset falling arrivals. Early data shows Eurovision Asia riding Bangkok's seasonal upswing, not driving it. One night won't move the needle, but a steady calendar of events just might.",
-    "date": "2026-11-13T02:00:00+00:00",
-    "publisher": "Skift",
-    "kind": "travel"
-   },
-   {
-    "url": "https://skift.com/2026/11/12/how-embraer-and-porter-airlines-consider-matching-the-jet-to-the-market/",
-    "title": "How Embraer and Porter Airlines Consider Matching the Jet to the Market",
-    "summary": "Airlines choosing new aircraft must weigh lower per-seat operating costs against the revenue consequences of deploying more capacity than a market can support.",
-    "date": "2026-11-13T01:46:48+00:00",
-    "publisher": "Skift",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.msn.com/en-in/lifestyle/other/wedding-season-jewellery-kundan-or-meenakari-jhumkas-which-should-you-pick/ar-AA2hl54i",
-    "title": "Wedding season jewellery: Kundan or Meenakari jhumkas, which should you pick?",
-    "summary": "Wedding season is the perfect time to bring traditional jewellery back into the spotlight. While choosing an outfit may seem easy, finding the right pair of earrings can often be the most confusing ...",
-    "date": "2026-11-12T21:59:28+00:00",
-    "publisher": "Newspoint on MSN",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-in/news/other/wedding-season-jewellery-kundan-or-meenakari-jhumkas-which-should-you-pick/ar-AA2hl54i",
-    "title": "Wedding season jewellery: Kundan or Meenakari jhumkas, which should you pick?",
-    "summary": "Wedding season is the perfect time to bring traditional jewellery back into the spotlight. While choosing an outfit may seem easy, finding the right pair of earrings can often be the most confusing ...",
-    "date": "2026-11-12T21:59:28+00:00",
-    "publisher": "Newspoint on MSN",
-    "kind": "news",
-    "query": "wedding season India"
    }
   ],
   "headlines": [
@@ -5172,12 +5177,6 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Is This the End of the Wedding Overshare?",
-    "publisher": "The New York Times",
-    "date": "2026-11-08T08:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
     "publisher": "ELLE",
     "date": "2026-10-29T07:00:00+00:00"
@@ -5190,8 +5189,14 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The 126 Best Wedding Looks From New York Bridal Fashion Week Fall 2027 to Inspire Any Bride",
+    "headline": "Unexpected Textures Were the Breakout Trend From Bridal Fashion Week",
     "publisher": "Vogue",
+    "date": "2026-10-22T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "How Jackie Kennedy Redefined Wedding Dress Trends When She Married Aristotle Onassis 58 Years Ago",
+    "publisher": "People.com",
     "date": "2026-10-20T07:00:00+00:00"
    },
    {
@@ -5208,6 +5213,12 @@
    },
    {
     "query": "wedding industry",
+    "headline": "Carrickfergus husband and wife team celebrate success at National Wedding Industry Awards of Northern Ireland",
+    "publisher": "NorthernIrelandWorld",
+    "date": "2026-11-17T15:04:00+00:00"
+   },
+   {
+    "query": "wedding industry",
     "headline": "Wedding industry representatives raise funds for children's hospital at annual gala",
     "publisher": "Euronews.com",
     "date": "2026-11-15T21:09:29+00:00"
@@ -5217,6 +5228,12 @@
     "headline": "Kilmarnock wedding magician and host Steven Blair has been highly commended at The Wedding Industry Awards",
     "publisher": "https://www.ayrshiredailynews.co.uk/",
     "date": "2026-11-09T15:10:59+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "WedPage launches to bring the whole wedding together",
+    "publisher": "Event Industry News",
+    "date": "2026-11-10T09:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -5250,27 +5267,21 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Cornwall wedding venue celebrates double gold at tourism awards",
-    "publisher": "Cornwall's Rewind Radio",
-    "date": "2026-11-17T08:37:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Hertford wedding celebrant named East of England’s best and reaches national final",
     "publisher": "Welwyn Hatfield Times",
     "date": "2026-11-17T11:59:15+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Lake District venue crowned North West’s best wedding hotel",
-    "publisher": "Cumbria Crack",
-    "date": "2026-11-13T09:12:09+00:00"
    },
    {
     "query": "viral wedding TikTok",
     "headline": "The Viral “Stop the Wedding” Trend Is a Reminder That It’s Never Too Late to Walk Away",
     "publisher": "Cosmopolitan",
     "date": "2026-11-05T08:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Ashe's 'Stop the Wedding!' is TikTok's favorite breakup anthem. It was inspired by her own divorce.",
+    "publisher": "Yahoo",
+    "date": "2026-11-09T08:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -5286,33 +5297,21 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Ashe's 'Stop the Wedding!' is TikTok's favorite breakup anthem. It was inspired by her own divorce.",
-    "publisher": "Yahoo",
-    "date": "2026-11-09T08:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "‘Distasteful’: Sexual wedding act shocks",
-    "publisher": "The Daily Telegraph",
+    "publisher": "News.com.au",
     "date": "2026-10-31T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
     "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
     "publisher": "IMDb",
-    "date": "2026-11-05T18:38:51+00:00"
+    "date": "2026-11-05T19:27:57+00:00"
    },
    {
     "query": "viral wedding TikTok",
     "headline": "Bride Allegedly Asked Her Bridesmaid to Gain 120 Pounds So She'd Look Skinnier at Her Wedding",
     "publisher": "VICE",
     "date": "2026-11-07T08:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Groom slammed for pulling ‘highly inappropriate’ stunt at the altar",
-    "publisher": "New York Post",
-    "date": "2026-11-02T08:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -5339,6 +5338,12 @@
     "date": "2026-11-07T05:04:55+00:00"
    },
    {
+    "query": "viral wedding TikTok",
+    "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
+    "publisher": "VnExpress International",
+    "date": "2026-11-02T08:00:00+00:00"
+   },
+   {
     "query": "wedding Instagram trend",
     "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
     "publisher": "ELLE",
@@ -5349,12 +5354,6 @@
     "headline": "Is This the End of the Wedding Overshare?",
     "publisher": "The New York Times",
     "date": "2026-11-08T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Distraction free weddings are a big trend right now. 'Hilarious' SNL sketch reveals the big downside",
-    "publisher": "Amateur Photographer",
-    "date": "2026-11-14T10:45:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -5370,15 +5369,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Richmonders are paying to crash strangers' weddings",
-    "publisher": "Axios",
-    "date": "2026-11-14T01:14:35+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "Chinese man invites internet strangers to his wedding. Watch as hundreds show up",
     "publisher": "The Indian Express",
     "date": "2026-10-31T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Richmonders are paying to crash strangers' weddings",
+    "publisher": "Axios",
+    "date": "2026-11-14T01:14:35+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -5400,15 +5399,21 @@
    },
    {
     "query": "wedding Instagram trend",
+    "headline": "Wyndham Clark's wedding proposal wasn't your typical staged Instagram nonsense, Sexy Dexy dances & Jerry's mad",
+    "publisher": "Fox News",
+    "date": "2026-11-16T14:24:14+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
     "headline": "Bianca Remembers Late Husband Odumegwu-Ojukwu On 32nd Wedding Anniversary",
     "publisher": "TVC News",
     "date": "2026-11-12T18:12:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Wyndham Clark's wedding proposal wasn't your typical staged Instagram nonsense, Sexy Dexy dances & Jerry's mad",
-    "publisher": "Fox News",
-    "date": "2026-11-16T14:24:14+00:00"
+    "headline": "Anirudh-Kavya Wedding: From Star-Studded Guests To A Traditional Tamil Vegetarian Feast",
+    "publisher": "Curly Tales",
+    "date": "2026-11-12T06:17:57+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -5418,21 +5423,15 @@
    },
    {
     "query": "Pinterest wedding trends",
+    "headline": "Pinterest Sees Searches for the Layered Long Bob Soar by 622%, and These Short Winter Haircuts Are Taking Over",
+    "publisher": "Paris Select Book",
+    "date": "2026-11-16T10:28:25+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
     "headline": "25 Best Dress Brands To Know For Every Occasion in 2026",
     "publisher": "ELLE",
     "date": "2026-11-04T08:00:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "Once upon a time: Everything old is new again in unique celebrations that look back",
-    "publisher": "New York Post",
-    "date": "2026-11-04T08:00:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "5 Nail Colours That Are The Ultimate Low Maintenance Summer Accessory",
-    "publisher": "Marie Claire",
-    "date": "2026-11-12T01:09:59+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -5442,9 +5441,21 @@
    },
    {
     "query": "Pinterest wedding trends",
+    "headline": "5 Nail Colours That Are The Ultimate Low Maintenance Summer Accessory",
+    "publisher": "Marie Claire",
+    "date": "2026-11-12T01:09:59+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
     "headline": "5 Stylish Engagement Ring Trends for 2026: The Expert Guide",
     "publisher": "Natural Diamond Council",
     "date": "2026-11-11T14:00:35+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "Pinterest-inspired interiors: 5 ways to create a home that outlasts trends, from curved furniture to layered lighting | Hindustan Times",
+    "publisher": "Hindustan Times",
+    "date": "2026-11-17T16:02:38+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -5475,12 +5486,6 @@
     "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
     "publisher": "Business Eye Magazine",
     "date": "2026-10-30T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "GOWER: King Arthur Hotel named best wedding venue in Wales",
-    "publisher": "Swansea Bay News",
-    "date": "2026-11-14T12:00:00+00:00"
    }
   ],
   "pages": {
