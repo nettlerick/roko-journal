@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T12:25:46+00:00",
+ "generated": "2026-11-19T14:22:39+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -4691,7 +4691,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-19T12:25+00:00",
+  "generated": "2026-11-19T14:22+00:00",
   "rising_searches": {
    "date": "2026-11-16",
    "compared_with": "2026-11-09",
@@ -6813,6 +6813,14 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.hospitalitynet.org/opinion/4135569/hotel-revenue-management-has-changed-has-your-rms",
+    "title": "Hotel Revenue Management Has Changed. Has Your RMS?",
+    "summary": "LodgIQ argues that modern RMS must support total revenue and profit-focused commercial strategy, and positions its platform as the answer, backed by hotelier quotes and ROI framing.",
+    "date": "2026-11-19T13:00:00+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
     "url": "https://www.hospitalitynet.org/news/4135577/choice-hotels-international-launches-access-by-choice-privileges-allowing-members-to-earn-and-redeem-points-on-concerts-sports-and-live-events",
     "title": "Choice Hotels International Launches Access by Choice Privileges®, Allowing Members to Earn and Redeem Points on Concerts, Sports, and Live Events",
     "summary": "Choice Hotels expands its Choice Privileges loyalty program with Access by Choice Privileges, letting members earn and redeem points on concerts, sports, and live events starting at 2,000 points.",
@@ -6843,6 +6851,33 @@
     "date": "2026-11-19T09:25:48+00:00",
     "publisher": "Hospitality Net",
     "kind": "travel"
+   },
+   {
+    "url": "https://www.msn.com/en-us/lifestyle/other/couple-rethink-lavish-wedding-to-save-money-then-family-hears-honeymoon-plan/ar-AA2hMxRf",
+    "title": "Couple rethink lavish wedding to save money—then family hears honeymoon plan",
+    "summary": "A couple scrapped their expensive \"dream wedding\" so that they could spend more money on their honeymoon, in turn upsetting their families.",
+    "date": "2026-11-19T05:08:27+00:00",
+    "publisher": "Newsweek on MSN",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://www.msn.com/en-us/money/personalfinance/couple-rethink-lavish-wedding-to-save-money-then-family-hears-honeymoon-plan/ar-AA2hMxRf",
+    "title": "Couple rethink lavish wedding to save money—then family hears honeymoon plan",
+    "summary": "A couple scrapped their expensive \"dream wedding\" so that they could spend more money on their honeymoon, in turn upsetting their families.",
+    "date": "2026-11-19T05:08:27+00:00",
+    "publisher": "Newsweek on MSN",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://www.cnbctv18.com/india/air-purifiers-masks-and-indoor-venues-delhi-weddings-adapt-to-pollution-season-20037933.htm",
+    "title": "Air purifiers, masks and indoor venues: Delhi weddings adapt to pollution season",
+    "summary": "At a five-star hotel in Lutyens' Delhi, wedding celebrations were in full swing in mid-October, with flowers, food and festivities setting the scene. But amid the elaborate arrangements, one family ...",
+    "date": "2026-11-19T04:45:00+00:00",
+    "publisher": "CNBCTV18",
+    "kind": "news",
+    "query": "wedding season India"
    },
    {
     "url": "https://www.financialexpress.com/life/lifestyle-india-to-see-15-fatter-weddings-this-year-4388173/",
@@ -6953,6 +6988,15 @@
     "query": "wedding season India"
    },
    {
+    "url": "https://www.msn.com/en-in/news/other/52-lakh-marriages-rs-75-lakh-crore-of-business-this-wedding-season-cait/ar-AA2hM5HQ",
+    "title": "52 lakh marriages, Rs 7.5 lakh crore of business this wedding season: CAIT",
+    "summary": "New Delhi, Nov 19 (PTI) India is expected to witness 52 lakh marriages in the upcoming wedding season from November 21 to December 15 -- an average of more than two lakh weddings every day -- generati ...",
+    "date": "2026-11-18T19:48:00+00:00",
+    "publisher": "Press Trust of India on MSN",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
     "url": "https://www.hospitalitynet.org/opinion/4135553/better-guest-experiences-roi-model",
     "title": "Better Guest Experiences & ROI Model",
     "summary": "Article argues that capturing in-stay guest feedback enables service recovery before checkout, linking better reviews to booking conversions and room revenue gains, with a CruVu product call to action.",
@@ -6968,6 +7012,15 @@
     "publisher": "Newstrack",
     "kind": "news",
     "query": "wedding season India"
+   },
+   {
+    "url": "https://artvoice.com/chasing-the-sun-why-european-destination-weddings-are-redefining-modern-romance",
+    "title": "Chasing the Sun: Why European Destination Weddings Are Redefining Modern Romance",
+    "summary": "There is a distinct magic that comes with opening an invitation to a European wedding. Whether it is a rustic estate in the rolling hills of Tuscany, a historic château in the south of France, or ...",
+    "date": "2026-11-18T16:01:00+00:00",
+    "publisher": "Artvoice",
+    "kind": "news",
+    "query": "destination wedding"
    },
    {
     "url": "https://www.msn.com/en-us/news/other/37-wedding-trends-that-people-predict-brides-and-grooms-will-regret-participating-in/ar-AA2hJEa4",
@@ -7276,60 +7329,6 @@
     "publisher": "The Zen Parent on MSN",
     "kind": "news",
     "query": "TikTok wedding trend"
-   },
-   {
-    "url": "https://www.msn.com/en-ph/lifestyle/other/what-we-can-learn-from-tiktok-s-stop-the-wedding-trend/ar-AA2hE5bE",
-    "title": "What we can learn from TikTok’s stop the wedding trend",
-    "summary": "Luiz Woellner Fotografia on Pexels ...",
-    "date": "2026-11-17T08:55:00+00:00",
-    "publisher": "The Zen Parent on MSN",
-    "kind": "news",
-    "query": "TikTok wedding trend"
-   },
-   {
-    "url": "https://www.msn.com/en-ph/news/other/what-we-can-learn-from-tiktok-s-stop-the-wedding-trend/ar-AA2hE5bE",
-    "title": "What we can learn from TikTok’s stop the wedding trend",
-    "summary": "Luiz Woellner Fotografia on Pexels ...",
-    "date": "2026-11-17T08:55:00+00:00",
-    "publisher": "The Zen Parent on MSN",
-    "kind": "news",
-    "query": "TikTok wedding trend"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/lifestyle/other/wedding-trends-that-you-ll-regret-later-according-to-experts/ar-AA21YQyL",
-    "title": "Wedding trends that you'll regret later, according to experts",
-    "summary": "Save money and face – leave these common faux pas in the past ...",
-    "date": "2026-11-17T06:17:59+00:00",
-    "publisher": "Gathered on MSN",
-    "kind": "news",
-    "query": "Instagram wedding trend"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/news/other/wedding-trends-that-youll-regret-later-according-to-experts/ar-AA21YQyL",
-    "title": "Wedding trends that you'll regret later, according to experts",
-    "summary": "Save money and face – leave these common faux pas in the past ...",
-    "date": "2026-11-17T06:17:59+00:00",
-    "publisher": "Gathered on MSN",
-    "kind": "news",
-    "query": "Pinterest wedding trends"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/news/other/wedding-trends-that-you-ll-regret-later-according-to-experts/ar-AA21YQyL",
-    "title": "Wedding trends that you'll regret later, according to experts",
-    "summary": "Save money and face – leave these common faux pas in the past ...",
-    "date": "2026-11-17T06:17:59+00:00",
-    "publisher": "Gathered on MSN",
-    "kind": "news",
-    "query": "Pinterest wedding trends"
-   },
-   {
-    "url": "https://www.eventindustrynews.com/news/superhero-suppliers-2026-the-event-industry-heroes-who-always-save-the-day",
-    "title": "Superhero Suppliers 2026: The Event Industry Heroes Who Always Save the Day!",
-    "summary": "Not all superheroes wear capes. Some wear hi-vis, carry radios, drive forklifts or arrive with exactly what you need when everything seems to be ...",
-    "date": "2026-11-17T06:08:00+00:00",
-    "publisher": "Event Industry News",
-    "kind": "news",
-    "query": "events industry UK"
    }
   ],
   "headlines": [
@@ -7395,15 +7394,15 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Indian Weddings Move Beyond Extravagance Towards Personalised, Tech-driven Experiences",
-    "publisher": "Everything Experiential",
-    "date": "2026-10-26T07:00:00+00:00"
+    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
+    "publisher": "WWD",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "Europe Destination Wedding Market Size, Share, Trends 2036",
-    "publisher": "Future Market Insights",
-    "date": "2026-10-29T07:00:00+00:00"
+    "headline": "Indian Weddings Move Beyond Extravagance Towards Personalised, Tech-driven Experiences",
+    "publisher": "Everything Experiential",
+    "date": "2026-10-26T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -7431,15 +7430,15 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Kilmarnock wedding magician and host Steven Blair has been highly commended at The Wedding Industry Awards",
-    "publisher": "https://www.ayrshiredailynews.co.uk/",
-    "date": "2026-11-09T08:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Wedding industry representatives raise funds for children's hospital at annual gala",
     "publisher": "Euronews.com",
     "date": "2026-11-15T21:09:29+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Kilmarnock wedding magician and host Steven Blair has been highly commended at The Wedding Industry Awards",
+    "publisher": "https://www.ayrshiredailynews.co.uk/",
+    "date": "2026-11-09T08:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -7450,14 +7449,8 @@
    {
     "query": "wedding industry",
     "headline": "Datchworth wedding venue highly commended at regional Wedding Industry Awards",
-    "publisher": "Welwyn Hatfield Times",
+    "publisher": "The Comet",
     "date": "2026-11-16T12:17:31+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Prudhoe magician wins regional wedding entertainer award for third year running",
-    "publisher": "Hexham Courant",
-    "date": "2026-11-17T05:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -7467,15 +7460,21 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
-    "publisher": "Stroud News and Journal",
-    "date": "2026-10-22T07:00:00+00:00"
+    "headline": "Prudhoe magician wins regional wedding entertainer award for third year running",
+    "publisher": "Hexham Courant",
+    "date": "2026-11-17T05:00:00+00:00"
    },
    {
     "query": "wedding industry",
-    "headline": "Cornwall wedding venue celebrates double gold at tourism awards",
-    "publisher": "Cornwall's Rewind Radio",
-    "date": "2026-11-17T08:37:00+00:00"
+    "headline": "Hertford wedding celebrant named East of England’s best and reaches national final",
+    "publisher": "Welwyn Hatfield Times",
+    "date": "2026-11-17T11:59:15+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
+    "publisher": "Stroud News and Journal",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -7509,9 +7508,15 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Couple’s wedding vows interrupted by marching band blasting ‘Ghostbusters’ theme",
+    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
+    "publisher": "IMDb",
+    "date": "2026-11-05T18:38:51+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Groom slammed for pulling ‘highly inappropriate’ stunt at the altar",
     "publisher": "New York Post",
-    "date": "2026-11-01T07:00:00+00:00"
+    "date": "2026-11-02T08:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -7524,12 +7529,6 @@
     "headline": "Cross-cultural joy: Newlyweds' traditional welcome celebration goes viral",
     "publisher": "Jacaranda FM",
     "date": "2026-11-13T07:44:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Ashe chats viral song Stop The Wedding",
-    "publisher": "Nine.com.au",
-    "date": "2026-10-21T07:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -7587,12 +7586,6 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Style Guide: Our wedding guest dress edit",
-    "publisher": "Glamour South Africa",
-    "date": "2026-11-18T10:17:46+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "13 of the Most Secretive Celebrity Weddings",
     "publisher": "People.com",
     "date": "2026-10-28T07:00:00+00:00"
@@ -7611,9 +7604,9 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Everything Kristen Bell and Dax Shepard have overshared about their unconventional marriage",
-    "publisher": "Page Six",
-    "date": "2026-10-23T07:00:00+00:00"
+    "headline": "These Are The Biggest 2027 Wedding Dress Trends",
+    "publisher": "The Kit",
+    "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -7622,22 +7615,10 @@
     "date": "2026-11-12T06:17:57+00:00"
    },
    {
-    "query": "Pinterest wedding trends",
-    "headline": "Weddings Shed Perfection for Personal Meaning",
-    "publisher": "Deccan Chronicle",
-    "date": "2026-10-31T16:56:57+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "Pinterest Sees Searches for the Layered Long Bob Soar by 622%, and These Short Winter Haircuts Are Taking Over",
-    "publisher": "Paris Select Book",
-    "date": "2026-11-16T10:28:25+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "From Face Recognition to WhatsApp Control Room: 7 Trends in Gen-Z Weddings",
-    "publisher": "ET BrandEquity",
-    "date": "2026-11-11T07:29:32+00:00"
+    "query": "wedding Instagram trend",
+    "headline": "Ashe's 'Stop the Wedding': The Viral Trend Raising Marriage Awareness",
+    "publisher": "Tempo.co English",
+    "date": "2026-11-07T05:04:55+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -7647,21 +7628,39 @@
    },
    {
     "query": "Pinterest wedding trends",
+    "headline": "Weddings Shed Perfection for Personal Meaning",
+    "publisher": "Deccan Chronicle",
+    "date": "2026-10-31T16:56:57+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "From Face Recognition to WhatsApp Control Room: 7 Trends in Gen-Z Weddings",
+    "publisher": "ET BrandEquity",
+    "date": "2026-11-11T07:29:32+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "Pinterest Sees Searches for the Layered Long Bob Soar by 622%, and These Short Winter Haircuts Are Taking Over",
+    "publisher": "Paris Select Book",
+    "date": "2026-11-16T10:28:25+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
     "headline": "The Blouse Is The Star: Saree Blouse Trends For 2026",
     "publisher": "ELLE India",
     "date": "2026-11-16T08:25:42+00:00"
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "5 Nail Colours That Are The Ultimate Low Maintenance Summer Accessory",
-    "publisher": "Marie Claire",
-    "date": "2026-11-12T01:09:59+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
     "headline": "5 Stylish Engagement Ring Trends for 2026: The Expert Guide",
     "publisher": "Natural Diamond Council",
     "date": "2026-11-19T03:03:13+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
+    "headline": "5 Nail Colours That Are The Ultimate Low Maintenance Summer Accessory",
+    "publisher": "Marie Claire",
+    "date": "2026-11-12T01:09:59+00:00"
    },
    {
     "query": "Pinterest wedding trends",
