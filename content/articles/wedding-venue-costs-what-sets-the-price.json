@@ -76,7 +76,56 @@
  "series": "Journal",
  "date": "2026-11-17T10:38",
  "updated": "2026-11-17T10:38",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_08.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/wedding-venue-costs-what-sets-the-price/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Banquet hall laid for dinner under chandeliers",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/wedding-venue-costs-what-sets-the-price/cover.webp"
+  },
+  {
+   "credit": "Photo: Pravito, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Chandeliers_at_a_wedding_reception_hall,_Jakarta,_Indonesia.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-venue-costs-what-sets-the-price/1.webp",
+   "width": 1600,
+   "height": 2133,
+   "alt": "Decorated event hall set for a reception",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/wedding-venue-costs-what-sets-the-price/1.webp"
+  },
+  {
+   "credit": "Photo: Virtual-Pano, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:06047_FIN_Helsinki_Uspenski_cathedral_chandelier_V-P.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-venue-costs-what-sets-the-price/2.webp",
+   "width": 1600,
+   "height": 1266,
+   "alt": "Chandelier in a grand room",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/wedding-venue-costs-what-sets-the-price/2.webp"
+  },
+  {
+   "credit": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Entrance_lobby_of_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-venue-costs-what-sets-the-price/3.webp",
+   "width": 1600,
+   "height": 1010,
+   "alt": "Lobby of a luxury hotel",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/wedding-venue-costs-what-sets-the-price/3.webp"
+  }
+ ],
  "categories": [
   "wedding-venues-and-accommodation",
   "wedding-venues"

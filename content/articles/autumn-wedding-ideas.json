@@ -44,7 +44,68 @@
  "series": "Journal",
  "date": "2026-11-18T10:06",
  "updated": "2026-11-18T10:06",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_South_Olive_Street_--_2012_--_4847.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/autumn-wedding-ideas/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Garden lit up for an evening party",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/autumn-wedding-ideas/cover.webp"
+  },
+  {
+   "credit": "Photo: Friedrich Haag, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Pastellfarben_001_2008_08_02.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/autumn-wedding-ideas/1.webp",
+   "width": 1600,
+   "height": 1314,
+   "alt": "Roses and peonies for wedding flowers",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/autumn-wedding-ideas/1.webp"
+  },
+  {
+   "credit": "Photo: Jules Verne Times Two, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:American_sweetgum_(Liquidambar_styraciflua)_autumn_leaves,_Avenida_Guerra_Junqueiro,_Lisbon,_Portugal_julesvernex2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/autumn-wedding-ideas/2.webp",
+   "width": 1600,
+   "height": 1180,
+   "alt": "Autumn colours",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/autumn-wedding-ideas/2.webp"
+  },
+  {
+   "credit": "Photo: Sergei Kazantsev, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:20150330_Magnolie_Sochi.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/autumn-wedding-ideas/3.webp",
+   "width": 1600,
+   "height": 1306,
+   "alt": "Spring blossom",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/autumn-wedding-ideas/3.webp"
+  },
+  {
+   "credit": "Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_08.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/autumn-wedding-ideas/4.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Banquet hall laid for dinner under chandeliers",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/autumn-wedding-ideas/4.webp"
+  }
+ ],
  "categories": [
   "wedding-flowers-and-decor"
  ]

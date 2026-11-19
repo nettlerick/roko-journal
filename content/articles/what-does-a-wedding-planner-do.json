@@ -55,7 +55,56 @@
  "series": "Journal",
  "date": "2026-11-15T09:17",
  "updated": "2026-11-15T09:17",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: www.Pixel.la Free Stock Photos, CC0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Desk-laptop-notebook-pen_(23958719819).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "media/what-does-a-wedding-planner-do/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Notebook and pen on a planning desk",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/what-does-a-wedding-planner-do/cover.webp"
+  },
+  {
+   "credit": "Photo: Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Christmas_table_(Serbian_cuisine).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/what-does-a-wedding-planner-do/1.webp",
+   "width": 1600,
+   "height": 1157,
+   "alt": "Dinner table set for guests",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/what-does-a-wedding-planner-do/1.webp"
+  },
+  {
+   "credit": "Photo: Pravito, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Chandeliers_at_a_wedding_reception_hall,_Jakarta,_Indonesia.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/what-does-a-wedding-planner-do/2.webp",
+   "width": 1600,
+   "height": 2133,
+   "alt": "Decorated event hall set for a reception",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/what-does-a-wedding-planner-do/2.webp"
+  },
+  {
+   "credit": "Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_08.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/what-does-a-wedding-planner-do/3.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Banquet hall laid for dinner under chandeliers",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/what-does-a-wedding-planner-do/3.webp"
+  }
+ ],
  "categories": [
   "wedding-planning"
  ]
