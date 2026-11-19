@@ -59,68 +59,7 @@
  "series": "Journal",
  "date": "2026-11-19T10:15",
  "updated": "2026-11-19T10:15",
- "images": [
-  {
-   "credit": "Photo: Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:Christmas_table_(Serbian_cuisine).jpg",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "file": "media/the-complete-guide-to-wedding-catering/cover.webp",
-   "width": 2000,
-   "height": 1125,
-   "alt": "Dinner table set for guests",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/the-complete-guide-to-wedding-catering/cover.webp"
-  },
-  {
-   "credit": "Photo: Shixart1985, CC BY 2.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:A_beautifully_crafted_cake_featuring_floral_decorations_and_pastel_candles_sits_on_a_table.jpg",
-   "license": "CC BY 2.0",
-   "license_url": "https://creativecommons.org/licenses/by/2.0",
-   "file": "media/the-complete-guide-to-wedding-catering/1.webp",
-   "width": 1600,
-   "height": 2000,
-   "alt": "Tiered wedding cake",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/the-complete-guide-to-wedding-catering/1.webp"
-  },
-  {
-   "credit": "Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_08.JPG",
-   "license": "CC BY-SA 3.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-   "file": "media/the-complete-guide-to-wedding-catering/2.webp",
-   "width": 1600,
-   "height": 1067,
-   "alt": "Banquet hall laid for dinner under chandeliers",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/the-complete-guide-to-wedding-catering/2.webp"
-  },
-  {
-   "credit": "Photo: Julien.scavini, CC BY-SA 4.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:Muscadet_wine_bottle.jpg",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "file": "media/the-complete-guide-to-wedding-catering/3.webp",
-   "width": 1600,
-   "height": 2133,
-   "alt": "Drinks served at a table",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/the-complete-guide-to-wedding-catering/3.webp"
-  },
-  {
-   "credit": "Photo: Editor: Rlevente Original author: Ardfern, CC BY-SA 4.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:Birthday_cake_with_6_candles.JPG",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "file": "media/the-complete-guide-to-wedding-catering/4.webp",
-   "width": 1600,
-   "height": 1245,
-   "alt": "Celebration cake with candles",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/the-complete-guide-to-wedding-catering/4.webp"
-  }
- ],
+ "images": [],
  "categories": [
   "wedding-caterers"
  ]

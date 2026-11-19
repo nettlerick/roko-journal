@@ -90,56 +90,7 @@
  "series": "Journal",
  "date": "2026-11-09T09:47",
  "updated": "2026-11-09T09:47",
- "images": [
-  {
-   "credit": "Photo: Notafly, CC BY-SA 4.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:BagniDiLucca_(22).JPG",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "file": "media/the-best-destination-wedding-countries/cover.webp",
-   "width": 2000,
-   "height": 1125,
-   "alt": "Italian villa and gardens",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/the-best-destination-wedding-countries/cover.webp"
-  },
-  {
-   "credit": "Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:Batu_Bolong_Temple,_Tanah_Lot,_Bali,_Indonesia,_20220827_1010_1163.jpg",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "file": "media/the-best-destination-wedding-countries/1.webp",
-   "width": 1600,
-   "height": 1068,
-   "alt": "Sea temple on the coast of Bali",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/the-best-destination-wedding-countries/1.webp"
-  },
-  {
-   "credit": "Photo: Marrakechriads, CC BY-SA 3.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:Beautiful_riad_in_the_heart_of_Marrakech.jpg",
-   "license": "CC BY-SA 3.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-   "file": "media/the-best-destination-wedding-countries/2.webp",
-   "width": 1600,
-   "height": 1063,
-   "alt": "Courtyard of a riad in Marrakech",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/the-best-destination-wedding-countries/2.webp"
-  },
-  {
-   "credit": "Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons",
-   "credit_url": "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_08.JPG",
-   "license": "CC BY-SA 3.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-   "file": "media/the-best-destination-wedding-countries/3.webp",
-   "width": 1600,
-   "height": 1067,
-   "alt": "Banquet hall laid for dinner under chandeliers",
-   "source": "commons",
-   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@a4d3bc46179b4a5877c54e6419bdc9a7001165a0/media/the-best-destination-wedding-countries/3.webp"
-  }
- ],
+ "images": [],
  "categories": [
   "wedding-destination-venues",
   "wedding-villas"

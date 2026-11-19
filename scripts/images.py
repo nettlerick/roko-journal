@@ -35,31 +35,43 @@ VISION_DOWN = False
 LIBRARY = ROOT / "content" / "photo_library.json"
 
 
+RUN_USED = []          # library photos handed out earlier in this run (articles are saved at the end)
+SEASONS = {"spring", "summer", "autumn", "winter", "christmas"}
+
+
 def library_pick(a, n, skip=()):
     """Photos from the curated library (real, licensed photos an editor has already checked), matched to the article's
-    topic and words, never one that another article already uses."""
+    topic and words. Photos no other article uses come first; a photo is only reused once the library runs short."""
+    import collections
     import json as _json
     try:
         lib = _json.loads(LIBRARY.read_text(encoding="utf-8"))
     except Exception:
         return []
-    used = {im.get("page") for x in articles() for im in (x.get("images") or [])} | set(skip)
+    count = collections.Counter(im.get("credit_url") or im.get("page") for x in articles() for im in (x.get("images") or []))
+    count.update(RUN_USED)
     words = set(re.findall(r"[a-z]{4,}", " ".join([a["title"], a.get("dek", ""), " ".join(a.get("tags") or []), " ".join(a.get("image_subjects") or [])]).lower()))
+    def fits(e):
+        # A seasonal photo only goes with an article about that season.
+        season = SEASONS & set(e.get("tags", []))
+        return not season or bool(season & words)
     def score(e):
         s = 3 if a.get("cluster") in e.get("clusters", []) else 0
         s += 2 * len(words & set(e.get("tags", [])))
         return s
-    pool = sorted([e for e in lib if e["page"] not in used], key=lambda e: (-score(e), e["id"]))
+    pool = [e for e in lib if e["page"] not in set(skip) and fits(e)]
     pool = [e for e in pool if score(e) > 0] or pool
+    pool.sort(key=lambda e: (count[e["page"]], -score(e), e["id"]))
     # One photo per scene first, so an article's pictures are not all the same kind of shot.
     first, rest, seen = [], [], set()
     for e in pool:
         (rest if e["alt"] in seen else first).append(e)
         seen.add(e["alt"])
-    pool = first + rest
+    picked = (first + rest)[:n]
+    RUN_USED.extend(e["page"] for e in picked)
     return [{"src": "commons", "download": e["download"], "author": e["author"], "page": e["page"], "title": e["title"], "license": e["license"],
              "license_url": e.get("license_url", ""), "provider": "Wikimedia Commons", "alt": e["alt"], "quality": 8, "relevance": 6, "real": True,
-             "stock": False} for e in pool[:n]]
+             "stock": False} for e in picked]
 
 
 def get_json(url, timeout=20):
