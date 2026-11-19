@@ -12,7 +12,7 @@ on:
         description: "Leave empty for a normal run. Or: next, a roadmap number (e.g. 26), feature, research, report, refresh:<slug>"
         default: ""
       check:
-        description: "Leave empty. 'feeds' only checks which research feeds answer."
+        description: "Leave empty. 'feeds' checks the research feeds; 'photos' the photo libraries; 'library' gathers previews for the curated photo library."
         default: ""
   schedule:
     - cron: "7 2 * * *"
@@ -49,6 +49,18 @@ jobs:
       - name: Check photo libraries
         if: ${{ inputs.check == 'photos' }}
         run: python3 scripts/images.py --probe
+
+      - name: Gather photo library previews
+        if: ${{ inputs.check == 'library' }}
+        run: |
+          pip install pillow
+          python3 scripts/library_scan.py
+          git config user.name "Roko Journal"
+          git config user.email "journal@withroko.com"
+          git checkout -q -b library-review
+          git add library_review
+          git commit -q -m "Photo library previews"
+          git push -q -f origin library-review
 
       - run: pip install pillow
         if: ${{ !inputs.check }}
