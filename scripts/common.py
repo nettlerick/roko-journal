@@ -67,7 +67,7 @@ def clean(s):
 EXHAUSTED = set()
 
 
-def gemini(prompt, system, temperature=0.6, tokens=16384, json_mode=True, images=None, rounds=3):
+def gemini(prompt, system, temperature=0.6, tokens=16384, json_mode=True, images=None, rounds=3, lite_first=False):
     """Gemini (free tier). Tries each model; a busy model moves on quickly. Returns text."""
     if not KEY:
         raise RuntimeError("GEMINI_API_KEY is not set")
@@ -80,7 +80,8 @@ def gemini(prompt, system, temperature=0.6, tokens=16384, json_mode=True, images
     for rnd in range(rounds):
         if all(m in EXHAUSTED for m in MODELS):
             raise RuntimeError("Gemini free-tier quota used up for today on every model")
-        for model in MODELS:
+        order = sorted(MODELS, key=lambda m: "lite" not in m) if lite_first else MODELS
+        for model in order:
             if model in EXHAUSTED:
                 continue
             req = urllib.request.Request(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",

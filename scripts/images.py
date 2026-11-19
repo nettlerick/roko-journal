@@ -31,6 +31,35 @@ COVER = (2000, 1125)
 TIME_BUDGET = int(os.environ.get("PHOTO_SECONDS", "900"))
 START = time.time()
 FAILED = {}
+VISION_DOWN = False
+LIBRARY = ROOT / "content" / "photo_library.json"
+
+
+def library_pick(a, n, skip=()):
+    """Photos from the curated library (real, licensed photos an editor has already checked), matched to the article's
+    topic and words, never one that another article already uses."""
+    import json as _json
+    try:
+        lib = _json.loads(LIBRARY.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    used = {im.get("page") for x in articles() for im in (x.get("images") or [])} | set(skip)
+    words = set(re.findall(r"[a-z]{4,}", " ".join([a["title"], a.get("dek", ""), " ".join(a.get("tags") or []), " ".join(a.get("image_subjects") or [])]).lower()))
+    def score(e):
+        s = 3 if a.get("cluster") in e.get("clusters", []) else 0
+        s += 2 * len(words & set(e.get("tags", [])))
+        return s
+    pool = sorted([e for e in lib if e["page"] not in used], key=lambda e: (-score(e), e["id"]))
+    pool = [e for e in pool if score(e) > 0] or pool
+    # One photo per scene first, so an article's pictures are not all the same kind of shot.
+    first, rest, seen = [], [], set()
+    for e in pool:
+        (rest if e["alt"] in seen else first).append(e)
+        seen.add(e["alt"])
+    pool = first + rest
+    return [{"src": "commons", "download": e["download"], "author": e["author"], "page": e["page"], "title": e["title"], "license": e["license"],
+             "license_url": e.get("license_url", ""), "provider": "Wikimedia Commons", "alt": e["alt"], "quality": 8, "relevance": 6, "real": True,
+             "stock": False} for e in pool[:n]]
 
 
 def get_json(url, timeout=20):
@@ -179,8 +208,10 @@ def look(a, c):
             "people_identifiable: true if a person's face is clearly identifiable and central.\n"
             'Reply with JSON only: {"quality": n, "relevance": n, "real": true, "stock": false, "people_identifiable": false, '
             '"alt": "plain description of the photo for alt text, under 120 characters"}',
-            "You judge photographs for a magazine. Be strict.", images=[jpeg], temperature=0.1, tokens=4096, rounds=1)
+            "You judge photographs for a magazine. Be strict.", images=[jpeg], temperature=0.1, tokens=4096, rounds=1, lite_first=True)
     except Exception as e:
+        global VISION_DOWN
+        VISION_DOWN = True                          # don't wait on Gemini again this run: the curated library steps in
         log(f"vision unavailable: {str(e)[:80]}")
         # Without the picture check, only businesses' own Roko photos, or Wikimedia Commons "Quality images" (peer-reviewed
         # for technical quality) whose title matches the search and that show no people, are used.
@@ -262,7 +293,7 @@ def process(a):
     want = 1 + MAX_INLINE.get(a["type"], 2)
     for pool in (cands, lib):
         for c in pool:
-            if len(chosen) >= want or time.time() - START > TIME_BUDGET:
+            if len(chosen) >= want or time.time() - START > TIME_BUDGET or (VISION_DOWN and c["src"] != "roko" and not c.get("qi")):
                 break
             if c["download"] in used or STOCK.search(c["download"] + " " + c.get("page", "")) or blocked_url(c["download"]) or blocked_url(c.get("page", "")):
                 continue
@@ -272,6 +303,11 @@ def process(a):
                 chosen.append(c)
         if len(chosen) >= want:
             break
+    if len(chosen) < want:
+        extra = library_pick(a, want - len(chosen), skip={c.get("page") for c in chosen})
+        if extra:
+            log(f"{len(extra)} photo(s) from the curated library")
+        chosen += extra
     if not chosen:
         log(f"no suitable photo yet for {a['slug']}; it waits for the next run")
         return None
