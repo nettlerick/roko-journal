@@ -1,5 +1,13 @@
 [
  {
+  "url": "https://www.hospitalitynet.org/opinion/4135569/hotel-revenue-management-has-changed-has-your-rms",
+  "title": "Hotel Revenue Management Has Changed. Has Your RMS?",
+  "summary": "LodgIQ argues that modern RMS must support total revenue and profit-focused commercial strategy, and positions its platform as the answer, backed by hotelier quotes and ROI framing.",
+  "date": "2026-11-19T13:00:00+00:00",
+  "publisher": "Hospitality Net",
+  "kind": "travel"
+ },
+ {
   "url": "https://www.hospitalitynet.org/news/4135577/choice-hotels-international-launches-access-by-choice-privileges-allowing-members-to-earn-and-redeem-points-on-concerts-sports-and-live-events",
   "title": "Choice Hotels International Launches Access by Choice Privileges®, Allowing Members to Earn and Redeem Points on Concerts, Sports, and Live Events",
   "summary": "Choice Hotels expands its Choice Privileges loyalty program with Access by Choice Privileges, letting members earn and redeem points on concerts, sports, and live events starting at 2,000 points.",
@@ -30,6 +38,33 @@
   "date": "2026-11-19T09:25:48+00:00",
   "publisher": "Hospitality Net",
   "kind": "travel"
+ },
+ {
+  "url": "https://www.msn.com/en-us/lifestyle/other/couple-rethink-lavish-wedding-to-save-money-then-family-hears-honeymoon-plan/ar-AA2hMxRf",
+  "title": "Couple rethink lavish wedding to save money—then family hears honeymoon plan",
+  "summary": "A couple scrapped their expensive \"dream wedding\" so that they could spend more money on their honeymoon, in turn upsetting their families.",
+  "date": "2026-11-19T05:08:27+00:00",
+  "publisher": "Newsweek on MSN",
+  "kind": "news",
+  "query": "destination wedding"
+ },
+ {
+  "url": "https://www.msn.com/en-us/money/personalfinance/couple-rethink-lavish-wedding-to-save-money-then-family-hears-honeymoon-plan/ar-AA2hMxRf",
+  "title": "Couple rethink lavish wedding to save money—then family hears honeymoon plan",
+  "summary": "A couple scrapped their expensive \"dream wedding\" so that they could spend more money on their honeymoon, in turn upsetting their families.",
+  "date": "2026-11-19T05:08:27+00:00",
+  "publisher": "Newsweek on MSN",
+  "kind": "news",
+  "query": "destination wedding"
+ },
+ {
+  "url": "https://www.cnbctv18.com/india/air-purifiers-masks-and-indoor-venues-delhi-weddings-adapt-to-pollution-season-20037933.htm",
+  "title": "Air purifiers, masks and indoor venues: Delhi weddings adapt to pollution season",
+  "summary": "At a five-star hotel in Lutyens' Delhi, wedding celebrations were in full swing in mid-October, with flowers, food and festivities setting the scene. But amid the elaborate arrangements, one family ...",
+  "date": "2026-11-19T04:45:00+00:00",
+  "publisher": "CNBCTV18",
+  "kind": "news",
+  "query": "wedding season India"
  },
  {
   "url": "https://www.financialexpress.com/life/lifestyle-india-to-see-15-fatter-weddings-this-year-4388173/",
@@ -140,6 +175,15 @@
   "query": "wedding season India"
  },
  {
+  "url": "https://www.msn.com/en-in/news/other/52-lakh-marriages-rs-75-lakh-crore-of-business-this-wedding-season-cait/ar-AA2hM5HQ",
+  "title": "52 lakh marriages, Rs 7.5 lakh crore of business this wedding season: CAIT",
+  "summary": "New Delhi, Nov 19 (PTI) India is expected to witness 52 lakh marriages in the upcoming wedding season from November 21 to December 15 -- an average of more than two lakh weddings every day -- generati ...",
+  "date": "2026-11-18T19:48:00+00:00",
+  "publisher": "Press Trust of India on MSN",
+  "kind": "news",
+  "query": "wedding season India"
+ },
+ {
   "url": "https://www.hospitalitynet.org/opinion/4135553/better-guest-experiences-roi-model",
   "title": "Better Guest Experiences & ROI Model",
   "summary": "Article argues that capturing in-stay guest feedback enables service recovery before checkout, linking better reviews to booking conversions and room revenue gains, with a CruVu product call to action.",
@@ -155,6 +199,15 @@
   "publisher": "Newstrack",
   "kind": "news",
   "query": "wedding season India"
+ },
+ {
+  "url": "https://artvoice.com/chasing-the-sun-why-european-destination-weddings-are-redefining-modern-romance",
+  "title": "Chasing the Sun: Why European Destination Weddings Are Redefining Modern Romance",
+  "summary": "There is a distinct magic that comes with opening an invitation to a European wedding. Whether it is a rustic estate in the rolling hills of Tuscany, a historic château in the south of France, or ...",
+  "date": "2026-11-18T16:01:00+00:00",
+  "publisher": "Artvoice",
+  "kind": "news",
+  "query": "destination wedding"
  },
  {
   "url": "https://www.msn.com/en-us/news/other/37-wedding-trends-that-people-predict-brides-and-grooms-will-regret-participating-in/ar-AA2hJEa4",
