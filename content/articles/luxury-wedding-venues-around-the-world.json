@@ -83,7 +83,56 @@
  "series": "Journal",
  "date": "2026-11-05T09:27",
  "updated": "2026-11-05T09:27",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Llez, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Ludwigsburg_Palace_05.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/luxury-wedding-venues-around-the-world/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Palace ballroom interior",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/luxury-wedding-venues-around-the-world/cover.webp"
+  },
+  {
+   "credit": "Photo: Ermell, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Bad_Kissingen_Regentenbau_Foyer_0417RM0625_-HDR.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/luxury-wedding-venues-around-the-world/1.webp",
+   "width": 1600,
+   "height": 1196,
+   "alt": "Chandelier in a grand room",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/luxury-wedding-venues-around-the-world/1.webp"
+  },
+  {
+   "credit": "Photo: Vera Belka, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Banquet_hall_at_Wartburg.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/luxury-wedding-venues-around-the-world/2.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Decorated event hall set for a reception",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/luxury-wedding-venues-around-the-world/2.webp"
+  },
+  {
+   "credit": "Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:20191207_City_Palace,_Udaipur_1701_7325.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/luxury-wedding-venues-around-the-world/3.webp",
+   "width": 1600,
+   "height": 910,
+   "alt": "Lakeside palaces in Udaipur",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/luxury-wedding-venues-around-the-world/3.webp"
+  }
+ ],
  "categories": [
   "wedding-castles-and-estates",
   "wedding-hotels-and-resorts",

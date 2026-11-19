@@ -90,7 +90,68 @@
  "series": "Journal",
  "date": "2026-11-07T08:43",
  "updated": "2026-11-07T08:43",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: DimiTalen, CC0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Banquet_hall,_Royal_Castle,_Laeken,_2026.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "media/how-to-choose-a-wedding-venue-the-complete-guide/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Palace ballroom interior",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/how-to-choose-a-wedding-venue-the-complete-guide/cover.webp"
+  },
+  {
+   "credit": "Photo: Mike1979 Russia, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Bolshiye_Vyazyomy_Manor_House_2025-08-10_6034.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/how-to-choose-a-wedding-venue-the-complete-guide/1.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Country manor house and courtyard",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/how-to-choose-a-wedding-venue-the-complete-guide/1.webp"
+  },
+  {
+   "credit": "Photo: Virtual-Pano, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:06047_FIN_Helsinki_Uspenski_cathedral_chandelier_V-P.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/how-to-choose-a-wedding-venue-the-complete-guide/2.webp",
+   "width": 1600,
+   "height": 1266,
+   "alt": "Chandelier in a grand room",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/how-to-choose-a-wedding-venue-the-complete-guide/2.webp"
+  },
+  {
+   "credit": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Entrance_lobby_of_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/how-to-choose-a-wedding-venue-the-complete-guide/3.webp",
+   "width": 1600,
+   "height": 1010,
+   "alt": "Lobby of a luxury hotel",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/how-to-choose-a-wedding-venue-the-complete-guide/3.webp"
+  },
+  {
+   "credit": "Photo: Nadiaweb83, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Banquet_Hall_Nadiya_hotel.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/how-to-choose-a-wedding-venue-the-complete-guide/4.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Banquet hall laid for dinner under chandeliers",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/how-to-choose-a-wedding-venue-the-complete-guide/4.webp"
+  }
+ ],
  "categories": [
   "wedding-venues-and-accommodation",
   "wedding-venues"

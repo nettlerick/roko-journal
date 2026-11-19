@@ -55,7 +55,56 @@
  "series": "Journal",
  "date": "2026-11-15T09:17",
  "updated": "2026-11-15T09:17",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Shixart1985, CC BY 2.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Reading_materials_on_a_desk_with_glasses_a_pen_and_an_apple_nearby.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "file": "media/what-does-a-wedding-planner-do/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Notebook and pen on a planning desk",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/what-does-a-wedding-planner-do/cover.webp"
+  },
+  {
+   "credit": "Photo: COEBZTAFA lanmi MWIC, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:HK_ND_%E5%8C%97%E5%8D%80_North_District_%E4%B8%8A%E6%B0%B4_Sheung_Shui_%E9%9B%99%E9%AD%9A%E6%B2%B3%E9%84%89%E6%9D%91%E6%9C%83%E6%89%80_Beas_River_Country_Club_%E9%A6%99%E6%B8%AF%E8%B3%BD%E9%A6%AC%E6%9C%83_HKJC_Hong_Kong_Jockey_Club_outdoor_dinner_party_September_2022_Px3_10.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/what-does-a-wedding-planner-do/1.webp",
+   "width": 1600,
+   "height": 2133,
+   "alt": "Dinner table set for guests",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/what-does-a-wedding-planner-do/1.webp"
+  },
+  {
+   "credit": "Photo: Alaa Najjar, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Wedding_cake_(0).jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/what-does-a-wedding-planner-do/2.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Tiered wedding cake",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/what-does-a-wedding-planner-do/2.webp"
+  },
+  {
+   "credit": "Photo: Vivaystn, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Wearing_of_engagement_ring.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/what-does-a-wedding-planner-do/3.webp",
+   "width": 1600,
+   "height": 1064,
+   "alt": "Wedding rings",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/what-does-a-wedding-planner-do/3.webp"
+  }
+ ],
  "categories": [
   "wedding-planning"
  ]

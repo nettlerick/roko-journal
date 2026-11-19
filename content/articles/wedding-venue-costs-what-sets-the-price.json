@@ -76,7 +76,56 @@
  "series": "Journal",
  "date": "2026-11-17T10:38",
  "updated": "2026-11-17T10:38",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Alte_Brennerei_L%C3%B6hning_--_2015_--_8609-13.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-venue-costs-what-sets-the-price/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Decorated event hall set for a reception",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/wedding-venue-costs-what-sets-the-price/cover.webp"
+  },
+  {
+   "credit": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Catedral_de_C%C3%A1diz,_Espa%C3%B1a,_2015-12-08,_DD_69-71_HDR.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-venue-costs-what-sets-the-price/1.webp",
+   "width": 1600,
+   "height": 882,
+   "alt": "Chandelier in a grand room",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/wedding-venue-costs-what-sets-the-price/1.webp"
+  },
+  {
+   "credit": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Entrance_of_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-venue-costs-what-sets-the-price/2.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Lobby of a luxury hotel",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/wedding-venue-costs-what-sets-the-price/2.webp"
+  },
+  {
+   "credit": "Photo: Shixart1985, CC BY 2.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Dining_setup_at_a_restaurant_with_glasses_and_utensils_on_tables.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "file": "media/wedding-venue-costs-what-sets-the-price/3.webp",
+   "width": 1600,
+   "height": 2000,
+   "alt": "Dinner table set for guests",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/wedding-venue-costs-what-sets-the-price/3.webp"
+  }
+ ],
  "categories": [
   "wedding-venues-and-accommodation",
   "wedding-venues"

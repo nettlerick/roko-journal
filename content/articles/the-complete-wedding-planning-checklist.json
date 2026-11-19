@@ -92,7 +92,68 @@
  "series": "Journal",
  "date": "2026-11-04T12:00",
  "updated": "2026-11-04T12:00",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Shixart1985, CC BY 2.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "file": "media/the-complete-wedding-planning-checklist/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Notebook and pen on a planning desk",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/the-complete-wedding-planning-checklist/cover.webp"
+  },
+  {
+   "credit": "Photo: Roger McLassus ( User:Roger McLassus ), CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:2006-01-21_Ring_of_love.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "file": "media/the-complete-wedding-planning-checklist/1.webp",
+   "width": 1600,
+   "height": 918,
+   "alt": "Wedding rings",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/the-complete-wedding-planning-checklist/1.webp"
+  },
+  {
+   "credit": "Photo: Ezaproszeniaslubne, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Wedding_Invitations.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/the-complete-wedding-planning-checklist/2.webp",
+   "width": 1600,
+   "height": 1303,
+   "alt": "Wedding invitations and stationery",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/the-complete-wedding-planning-checklist/2.webp"
+  },
+  {
+   "credit": "Photo: Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Villa_La_Petraia_garden_(81851p).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/the-complete-wedding-planning-checklist/3.webp",
+   "width": 1600,
+   "height": 771,
+   "alt": "Italian villa and gardens",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/the-complete-wedding-planning-checklist/3.webp"
+  },
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_South_Olive_Street_--_2012_--_4847.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/the-complete-wedding-planning-checklist/4.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Garden lit up for an evening party",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/the-complete-wedding-planning-checklist/4.webp"
+  }
+ ],
  "categories": [
   "wedding-planning"
  ]

@@ -87,7 +87,68 @@
  "series": "Journal",
  "date": "2026-11-12T09:46",
  "updated": "2026-11-12T09:46",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Jorge Royan, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Berlin-_Dinner_table_at_dance_room_in_the_Mitte_-_2664.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/luxury-wedding-trends-for-2027/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Banquet hall laid for dinner under chandeliers",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/luxury-wedding-trends-for-2027/cover.webp"
+  },
+  {
+   "credit": "Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:20191207_City_Palace,_Mohan_Temple_and_Lake_Pichola,_Udaipur,_1523_7262.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/luxury-wedding-trends-for-2027/1.webp",
+   "width": 1600,
+   "height": 1063,
+   "alt": "Lakeside palaces in Udaipur",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/luxury-wedding-trends-for-2027/1.webp"
+  },
+  {
+   "credit": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Entrance_lobby_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/luxury-wedding-trends-for-2027/2.webp",
+   "width": 1600,
+   "height": 1000,
+   "alt": "Lobby of a luxury hotel",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/luxury-wedding-trends-for-2027/2.webp"
+  },
+  {
+   "credit": "Photo: Юрий Д.К., CC BY 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Grand_Kremlin_Palace_in_summer_sunset_light_2025-8.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "file": "media/luxury-wedding-trends-for-2027/3.webp",
+   "width": 1600,
+   "height": 1146,
+   "alt": "Palace ballroom interior",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/luxury-wedding-trends-for-2027/3.webp"
+  },
+  {
+   "credit": "Photo: Terragio67, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Livorno_-_Hotel_Palazzo,_visto_da_Terrazza_Mascagni_-_2026-09-16_20-24-13_001.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/luxury-wedding-trends-for-2027/4.webp",
+   "width": 1600,
+   "height": 917,
+   "alt": "Italian villa and gardens",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/luxury-wedding-trends-for-2027/4.webp"
+  }
+ ],
  "categories": [
   "wedding-castles-and-estates",
   "wedding-planning"

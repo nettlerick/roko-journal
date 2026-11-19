@@ -54,7 +54,56 @@
  "series": "Journal",
  "date": "2026-11-08T08:57",
  "updated": "2026-11-08T08:57",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Alexey V. Kurochkin, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Agfa_F28mm_ver_01_02.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/how-to-choose-a-wedding-photographer/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Camera on a plain background",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/how-to-choose-a-wedding-photographer/cover.webp"
+  },
+  {
+   "credit": "Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_36.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/how-to-choose-a-wedding-photographer/1.webp",
+   "width": 1600,
+   "height": 1111,
+   "alt": "Banquet hall laid for dinner under chandeliers",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/how-to-choose-a-wedding-photographer/1.webp"
+  },
+  {
+   "credit": "Photo: www.Pixel.la Free Stock Photos, CC0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Desk-laptop-notebook-pen_(23958719819).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "media/how-to-choose-a-wedding-photographer/2.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Notebook and pen on a planning desk",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/how-to-choose-a-wedding-photographer/2.webp"
+  },
+  {
+   "credit": "Photo: Pravito, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Chandeliers_at_a_wedding_reception_hall,_Jakarta,_Indonesia.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/how-to-choose-a-wedding-photographer/3.webp",
+   "width": 1600,
+   "height": 2133,
+   "alt": "Decorated event hall set for a reception",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3c639d2f0d6dfd1770572f3a849ef628904ece9e/media/how-to-choose-a-wedding-photographer/3.webp"
+  }
+ ],
  "categories": [
   "wedding-photographers"
  ]
