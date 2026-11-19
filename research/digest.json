@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T11:59+00:00",
+ "generated": "2026-11-19T12:09+00:00",
  "feed_items": [
   {
    "url": "https://skift.com/2026/11/19/turkey-earns-more-from-fewer-tourists-but-hotels-miss-out/",
@@ -24,6 +24,15 @@
    "date": "2026-11-19T09:25:48+00:00",
    "publisher": "Hospitality Net",
    "kind": "travel"
+  },
+  {
+   "url": "https://www.financialexpress.com/life/lifestyle-india-to-see-15-fatter-weddings-this-year-4388173/",
+   "title": "India to see 15% fatter weddings this year",
+   "summary": "India’s wedding industry is set for unprecedented growth, expecting 52 lakh weddings to generate Rs 7.50 lakh crore in economic activity from Nov-Dec 2026, driven by rising consumer spending and ...",
+   "date": "2026-11-19T03:56:00+00:00",
+   "publisher": "The Financial Express",
+   "kind": "news",
+   "query": "wedding season India"
   },
   {
    "url": "https://www.inkl.com/news/indias-wedding-season-set-to-generate-rs-7-5-lakh-crore-business-from-52-lakh-weddings-cait",
@@ -1720,15 +1729,6 @@
    "date": "2026-11-06T11:46:10+00:00",
    "publisher": "Tatler",
    "kind": "luxury"
-  },
-  {
-   "url": "https://www.usatoday.com/story/special/contributor-content/2026/11/06/how-urvashi-mishra-is-reinventing-entrepreneurship-hospitality-and-the-future-of-luxury-wedding-plan/92645914007/",
-   "title": "How Urvashi Mishra is Reinventing Entrepreneurship, Hospitality, and the Future of Luxury Wedding Planning",
-   "summary": "With decades of experience in hospitality and event management, Mishra brings a distinctive perspective to South Asian and multicultural luxury destination weddings both in the US and internationally.",
-   "date": "2026-11-06T11:16:00+00:00",
-   "publisher": "USA TODAY",
-   "kind": "news",
-   "query": "destination wedding"
   }
  ],
  "rising_searches": {
@@ -4086,12 +4086,6 @@
   },
   {
    "query": "wedding Instagram trend",
-   "headline": "Distraction free weddings are a big trend right now. 'Hilarious' SNL sketch reveals the big downside",
-   "publisher": "Amateur Photographer",
-   "date": "2026-11-14T10:45:00+00:00"
-  },
-  {
-   "query": "wedding Instagram trend",
    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
    "publisher": "WWD",
    "date": "2026-10-22T07:00:00+00:00"
@@ -4134,9 +4128,15 @@
   },
   {
    "query": "wedding Instagram trend",
-   "headline": "Everything Kristen Bell and Dax Shepard have overshared about their unconventional marriage",
-   "publisher": "Page Six",
-   "date": "2026-10-23T07:00:00+00:00"
+   "headline": "These Are The Biggest 2027 Wedding Dress Trends",
+   "publisher": "The Kit",
+   "date": "2026-10-28T07:00:00+00:00"
+  },
+  {
+   "query": "wedding Instagram trend",
+   "headline": "Anirudh-Kavya Wedding: From Star-Studded Guests To A Traditional Tamil Vegetarian Feast",
+   "publisher": "Curly Tales",
+   "date": "2026-11-12T06:17:57+00:00"
   },
   {
    "query": "Pinterest wedding trends",
@@ -4464,9 +4464,9 @@
   },
   {
    "query": "events industry UK",
-   "headline": "UK Automotive Supply Chain Report 2026",
-   "publisher": "SMMT",
-   "date": "2026-11-12T12:57:05+00:00"
+   "headline": "Babcock’s supplier day showcases UK industry opportunities in Indonesia",
+   "publisher": "The Manufacturer",
+   "date": "2026-10-28T07:00:00+00:00"
   },
   {
    "query": "events industry UK",
@@ -4518,12 +4518,6 @@
   },
   {
    "query": "wedding survey UK",
-   "headline": "British Airways almost ruined my honeymoon",
-   "publisher": "The Telegraph",
-   "date": "2026-10-28T07:00:00+00:00"
-  },
-  {
-   "query": "wedding survey UK",
    "headline": "Man stormed into Jewish wedding on ‘hate spree’, court told",
    "publisher": "The Jewish Chronicle",
    "date": "2026-10-26T07:00:00+00:00"
@@ -4551,6 +4545,12 @@
    "headline": "Camilla, queen consort of the United Kingdom | Biography, Wedding, & Facts",
    "publisher": "Britannica",
    "date": "2026-10-24T07:00:00+00:00"
+  },
+  {
+   "query": "wedding survey UK",
+   "headline": "India Rose James’s Halloween Wedding In Windsor Had Three Gowns And A Ghost Train",
+   "publisher": "British Vogue",
+   "date": "2026-11-04T08:00:00+00:00"
   },
   {
    "query": "wedding costs",
