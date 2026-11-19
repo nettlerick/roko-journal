@@ -1,6 +1,14 @@
 {
- "generated": "2026-11-19T12:09+00:00",
+ "generated": "2026-11-19T12:25+00:00",
  "feed_items": [
+  {
+   "url": "https://www.hospitalitynet.org/news/4135577/choice-hotels-international-launches-access-by-choice-privileges-allowing-members-to-earn-and-redeem-points-on-concerts-sports-and-live-events",
+   "title": "Choice Hotels International Launches Access by Choice Privileges®, Allowing Members to Earn and Redeem Points on Concerts, Sports, and Live Events",
+   "summary": "Choice Hotels expands its Choice Privileges loyalty program with Access by Choice Privileges, letting members earn and redeem points on concerts, sports, and live events starting at 2,000 points.",
+   "date": "2026-11-19T12:19:57+00:00",
+   "publisher": "Hospitality Net",
+   "kind": "travel"
+  },
   {
    "url": "https://skift.com/2026/11/19/turkey-earns-more-from-fewer-tourists-but-hotels-miss-out/",
    "title": "Turkey Earns More From Fewer Tourists, But Hotels Miss Out",
@@ -1719,14 +1727,6 @@
    "title": "Princess of Wales dresses down for poignant under-the-radar engagement",
    "summary": "Catherine spoke of how ‘healing’ her connection with the natural world had been",
    "date": "2026-11-06T12:53:54+00:00",
-   "publisher": "Tatler",
-   "kind": "luxury"
-  },
-  {
-   "url": "https://www.tatler.com/article/lady-tamara-grosvenor-wedding",
-   "title": "A Westminster wedding at Chester Cathedral, a dazzling tiara, and a scandalous royal no-show: looking back at the nuptials of Lady Tamara Grosvenor and Edward van Cutsem",
-   "summary": "Twenty-two years ago this week, Lady Tamara Grosvenor and Edward Van Cutsem exchanged vows in the society wedding of the day",
-   "date": "2026-11-06T11:46:10+00:00",
    "publisher": "Tatler",
    "kind": "luxury"
   }
@@ -3967,7 +3967,7 @@
   {
    "query": "wedding industry",
    "headline": "Datchworth wedding venue highly commended at regional Wedding Industry Awards",
-   "publisher": "The Comet",
+   "publisher": "Welwyn Hatfield Times",
    "date": "2026-11-16T12:17:31+00:00"
   },
   {
@@ -3984,15 +3984,15 @@
   },
   {
    "query": "wedding industry",
-   "headline": "Hertford wedding celebrant named East of England’s best and reaches national final",
-   "publisher": "Welwyn Hatfield Times",
-   "date": "2026-11-17T11:59:15+00:00"
-  },
-  {
-   "query": "wedding industry",
    "headline": "Stroud catering business shortlisted for prestigious Cotswolds wedding award",
    "publisher": "Stroud News and Journal",
    "date": "2026-10-22T07:00:00+00:00"
+  },
+  {
+   "query": "wedding industry",
+   "headline": "Cornwall wedding venue celebrates double gold at tourism awards",
+   "publisher": "Cornwall's Rewind Radio",
+   "date": "2026-11-17T08:37:00+00:00"
   },
   {
    "query": "viral wedding TikTok",
@@ -4010,6 +4010,12 @@
    "query": "viral wedding TikTok",
    "headline": "Ghostbusters Theme Interrupts Couple’s Wedding Vows in Viral Video",
    "publisher": "Ghostbusters News",
+   "date": "2026-10-31T07:00:00+00:00"
+  },
+  {
+   "query": "viral wedding TikTok",
+   "headline": "‘Distasteful’: Sexual wedding act shocks",
+   "publisher": "The Daily Telegraph",
    "date": "2026-10-31T07:00:00+00:00"
   },
   {
@@ -4059,12 +4065,6 @@
    "headline": "Chinese man with 'few relatives' invites strangers to his wedding - thousands showed up, some bearing lavish gifts",
    "publisher": "AsiaOne.com",
    "date": "2026-11-01T07:00:00+00:00"
-  },
-  {
-   "query": "viral wedding TikTok",
-   "headline": "Groom slammed for pulling ‘highly inappropriate’ stunt at the altar",
-   "publisher": "New York Post",
-   "date": "2026-11-02T08:00:00+00:00"
   },
   {
    "query": "wedding Instagram trend",
@@ -4128,9 +4128,9 @@
   },
   {
    "query": "wedding Instagram trend",
-   "headline": "These Are The Biggest 2027 Wedding Dress Trends",
-   "publisher": "The Kit",
-   "date": "2026-10-28T07:00:00+00:00"
+   "headline": "Everything Kristen Bell and Dax Shepard have overshared about their unconventional marriage",
+   "publisher": "Page Six",
+   "date": "2026-10-23T07:00:00+00:00"
   },
   {
    "query": "wedding Instagram trend",
@@ -4518,15 +4518,21 @@
   },
   {
    "query": "wedding survey UK",
+   "headline": "British Airways almost ruined my honeymoon",
+   "publisher": "The Telegraph",
+   "date": "2026-10-28T07:00:00+00:00"
+  },
+  {
+   "query": "wedding survey UK",
    "headline": "Man stormed into Jewish wedding on ‘hate spree’, court told",
    "publisher": "The Jewish Chronicle",
    "date": "2026-10-26T07:00:00+00:00"
   },
   {
    "query": "wedding survey UK",
-   "headline": "Baker makes 'mega' 10ft custard slice for couple's wedding",
+   "headline": "Dog wedding chauffeurs and doggy roasts: The rise of the puppy experience economy",
    "publisher": "BBC",
-   "date": "2026-11-12T18:30:55+00:00"
+   "date": "2026-11-01T07:00:00+00:00"
   },
   {
    "query": "wedding survey UK",
@@ -4545,12 +4551,6 @@
    "headline": "Camilla, queen consort of the United Kingdom | Biography, Wedding, & Facts",
    "publisher": "Britannica",
    "date": "2026-10-24T07:00:00+00:00"
-  },
-  {
-   "query": "wedding survey UK",
-   "headline": "India Rose James’s Halloween Wedding In Windsor Had Three Gowns And A Ghost Train",
-   "publisher": "British Vogue",
-   "date": "2026-11-04T08:00:00+00:00"
   },
   {
    "query": "wedding costs",
