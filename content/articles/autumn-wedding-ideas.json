@@ -55,7 +55,68 @@
  "series": "Journal",
  "date": "2026-11-20T02:14",
  "updated": "2026-11-20T02:14",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Kor!An (Андрей Корзун), CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Bouquet_of_peonies_02.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/autumn-wedding-ideas/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Roses and peonies for wedding flowers",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@709811a2a608eeeb543f12d51c967a0aeff6ade8/media/autumn-wedding-ideas/cover.webp"
+  },
+  {
+   "credit": "Photo: Jules Verne Times Two, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:American_sweetgum_(Liquidambar_styraciflua)_autumn_leaves,_Avenida_Guerra_Junqueiro,_Lisbon,_Portugal_julesvernex2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/autumn-wedding-ideas/1.webp",
+   "width": 1600,
+   "height": 1180,
+   "alt": "Autumn colours",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@709811a2a608eeeb543f12d51c967a0aeff6ade8/media/autumn-wedding-ideas/1.webp"
+  },
+  {
+   "credit": "Photo: Bachrach44, Public domain, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Wedding_cake_(undecorated).JPG",
+   "license": "Public domain",
+   "license_url": "",
+   "file": "media/autumn-wedding-ideas/2.webp",
+   "width": 1600,
+   "height": 2133,
+   "alt": "Tiered wedding cake",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@709811a2a608eeeb543f12d51c967a0aeff6ade8/media/autumn-wedding-ideas/2.webp"
+  },
+  {
+   "credit": "Photo: Daniel Kraft, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Boudry_vineyards_20200529.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/autumn-wedding-ideas/3.webp",
+   "width": 1600,
+   "height": 1020,
+   "alt": "Vineyard rows in the countryside",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@709811a2a608eeeb543f12d51c967a0aeff6ade8/media/autumn-wedding-ideas/3.webp"
+  },
+  {
+   "credit": "Photo: Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Villa_Monteoriolo_(92174p)2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/autumn-wedding-ideas/4.webp",
+   "width": 1600,
+   "height": 667,
+   "alt": "Italian villa and gardens",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@709811a2a608eeeb543f12d51c967a0aeff6ade8/media/autumn-wedding-ideas/4.webp"
+  }
+ ],
  "categories": [
   "wedding-flowers-and-decor"
  ]
