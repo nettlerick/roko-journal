@@ -20,5 +20,12 @@
    "link to at least 2 other Journal article(s) from the LINKS list (has 1)"
   ],
   "count": 2
+ },
+ "getting-married-in-italy": {
+  "date": "2026-11-21T02:03+00:00",
+  "errors": [
+   "banned phrase: 'navigating the'"
+  ],
+  "count": 1
  }
 }
