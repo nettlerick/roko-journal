@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T13:58:57+00:00",
+ "generated": "2026-11-21T02:03:29+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -484,7 +484,7 @@
     "url": "/wedding-vendors/italy",
     "label": "Discover getting married in Italy on Roko"
    },
-   "status": "planned"
+   "status": "failed 1x"
   },
   {
    "n": 27,
@@ -4692,10 +4692,17 @@
     "link to at least 2 other Journal article(s) from the LINKS list (has 1)"
    ],
    "count": 2
+  },
+  "getting-married-in-italy": {
+   "date": "2026-11-21T02:03+00:00",
+   "errors": [
+    "banned phrase: 'navigating the'"
+   ],
+   "count": 1
   }
  },
  "research": {
-  "generated": "2026-11-20T13:58+00:00",
+  "generated": "2026-11-21T02:01+00:00",
   "rising_searches": {
    "date": "2026-11-16",
    "compared_with": "2026-11-09",
@@ -6817,6 +6824,38 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.vogue.com/slideshow/parker-selman-and-karan-rai-wedding",
+    "title": "The Couple Created a Giant Sunflower Walkway For Their Multicultural Sun Valley Wedding",
+    "summary": "Set at an Idaho 4-H camp, Parker Selman and Karan Rai’s weekend celebration blended Punjabi, Hindu, Jewish, and Episcopalian traditions—plus a custom bridal gown inspired by 1955 Christian Dior.",
+    "date": "2026-11-20T22:30:36+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.tatler.com/article/who-was-the-duchess-of-alba",
+    "title": "The extraordinary life of the Duchess of Alba, Spain's richest woman, who befriended Jackie Kennedy and turned down Picasso",
+    "summary": "The ‘most titled woman in the land’… the ‘most expensive wedding in the world’… The Duchess of Alba was a woman of superlatives. On the anniversary of her death, discover her remarkable life of fame, fortune, and formidable political nous.",
+    "date": "2026-11-20T14:47:52+00:00",
+    "publisher": "Tatler",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.tatler.com/article/queen-and-prince-philip-wedding-everything-you-should-know",
+    "title": "From a gown purchased with wartime rations to a secret engraving on the ring: Inside the historic royal wedding of Queen Elizabeth II and Prince Philip",
+    "summary": "On the anniversary of their wedding, Tatler remembers the incomparable grandeur – and the enduring secrets – of the wedding of the history-making monarch",
+    "date": "2026-11-20T14:39:36+00:00",
+    "publisher": "Tatler",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.tatler.com/gallery/queen-elizabeth-ii-and-prince-philip-73-years-marriage",
+    "title": "Celebrate Queen Elizabeth II and Prince Philip's 73 years of marriage in 73 glorious photos",
+    "summary": "Theirs was a partnership that defined an age. On the 79th anniversary of Queen Elizabeth II and Prince Philip's wedding, Tatler celebrates their decade-spanning romance.",
+    "date": "2026-11-20T14:28:19+00:00",
+    "publisher": "Tatler",
+    "kind": "luxury"
+   },
+   {
     "url": "https://www.tatler.com/article/queen-mary-of-denmark-will-spend-christmas-with-queen-margrethe-as-health-battles-continue-for-the-former-monarch",
     "title": "Queen Mary of Denmark will spend Christmas with Queen Margrethe as health battles continue for the former monarch",
     "summary": "Queen Margrethe, 86, was forced to cancel an official engagement this week due to a throat infection",
@@ -6833,6 +6872,51 @@
     "kind": "travel"
    },
    {
+    "url": "https://www.msn.com/en-us/news/other/farmhouse-charm-and-flowers-shape-this-umbrian-hilltop-wedding/vi-AA22nBZM",
+    "title": "Farmhouse charm and flowers shape this Umbrian hilltop wedding",
+    "summary": "The farmhouse wedding in Umbria, Italy features a flower-filled setting on a scenic hilltop. With countryside views, floral details, and a relaxed Italian atmosphere, it offers inspiration for couples ...",
+    "date": "2026-11-20T10:03:21+00:00",
+    "publisher": "Martha Stewart Weddings on MSN",
+    "kind": "news",
+    "query": "Italy wedding destination"
+   },
+   {
+    "url": "https://indiawest.com/indias-wedding-season-expected-to-generate-68-billion-in-business/",
+    "title": "India’s Wedding Season Expected To Generate $68 Billion In Business",
+    "summary": "India wedding season spending could reach $68 billion, says the Chamber of Trade and Industry, boosting demand for jewelry, clothing, catering and local goods.",
+    "date": "2026-11-20T09:06:00+00:00",
+    "publisher": "IndiaWest",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
+    "url": "https://www.msn.com/en-us/news/other/tropical-paradise-lian-erweens-destination-wedding-in-maui/vi-AA2hSfmL",
+    "title": "Tropical paradise: Lian & Erween's destination wedding in Maui",
+    "summary": "Experience the breathtaking tropical destination wedding of Lian and Erween at Haiku Mill in Maui, Hawaii. Set against lush greenery, historic stone ruins, and glowing chandeliers, this romantic ...",
+    "date": "2026-11-20T08:47:07+00:00",
+    "publisher": "Martha Stewart Weddings on MSN",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://www.newsbytesapp.com/news/business/india-wedding-season-lifts-car-electronics-and-clothing-sales/tldr",
+    "title": "India wedding season lifts car electronics and clothing sales",
+    "summary": "India's wedding economy, valued at $130-200 billion, is driving robust sales growth in consumer electronics, automobiles, and apparel sectors amid improved consumer sentiment.",
+    "date": "2026-11-20T08:14:00+00:00",
+    "publisher": "NewsBytes",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
+    "url": "https://www.msn.com/en-in/news/other/from-sangeet-nights-to-wedding-ceremonies-7-outfit-ideas-to-make-you-the-best-dressed-guest/ar-AA2hRDeI",
+    "title": "From sangeet nights to wedding ceremonies: 7 outfit ideas to make you the best-dressed guest",
+    "summary": "From statement lehengas to contemporary sarees, here are wedding guest looks to bookmark this wedding season.",
+    "date": "2026-11-20T07:14:16+00:00",
+    "publisher": "Hindustan Times on MSN",
+    "kind": "news",
+    "query": "wedding trends"
+   },
+   {
     "url": "https://curlytales.com/india/trending/delhi-ncr-weddings-to-make-up-a-third-of-indias-lakh-crore-wedding-business/",
     "title": "Delhi-NCR Weddings To Make Up A Third Of India’s ₹7.5 Lakh Crore Wedding Business",
     "summary": "India is expected to witness 52 lakh weddings between November 21 and December 15, generating an estimated ₹7.5 lakh crore in business.",
@@ -6847,6 +6931,15 @@
     "summary": "Apparel prices rose post-festive season but volumes lagged; industry eyes on wedding season, demand trends, inventory, and pricing.",
     "date": "2026-11-20T05:27:00+00:00",
     "publisher": "The Hindu",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
+    "url": "https://organiser.org/2026/11/20/427577/bharat/52-lakh-weddings-in-25-days-how-rs-7-5-lakh-crore-in-wedding-spending-will-boost-the-economy-of-india/",
+    "title": "52 Lakh Weddings in 25 Days: How Rs 7.5 lakh crore in wedding spending will boost the economy of India",
+    "summary": "The scale of the wedding economy is particularly visible in the National Capital Region. According to CAIT, Delhi-NCR alone is expected to witness around five lakh weddings during the season, ...",
+    "date": "2026-11-20T05:10:00+00:00",
+    "publisher": "Organiser",
     "kind": "news",
     "query": "wedding season India"
    },
@@ -6975,6 +7068,15 @@
     "publisher": "The Times of India on MSN",
     "kind": "news",
     "query": "wedding trends"
+   },
+   {
+    "url": "https://www.msn.com/en-xl/money/economy/64-of-wedding-venues-can-t-reduce-guests-sparking-extra-fees/ar-AA2hPh2v",
+    "title": "64% of wedding venues can't reduce guests, sparking extra fees",
+    "summary": "Some 64% of domestic wedding venues were found to be unable to reduce the minimum guaranteed number of guests after a contract is signed. According to a survey on wedding venue conditions released by ...",
+    "date": "2026-11-19T20:34:02+00:00",
+    "publisher": "The Chosun Ilbo on MSN",
+    "kind": "news",
+    "query": "wedding guests cost"
    },
    {
     "url": "https://uk.news.yahoo.com/celebrant-wins-regional-wedding-industry-123000637.html",
@@ -7114,6 +7216,15 @@
     "query": "wedding season India"
    },
    {
+    "url": "https://indianexpress.com/article/entertainment/tamil/anirudh-ravichander-drops-unseen-pics-from-wedding-festivities-10970299/",
+    "title": "‘My favourite kind of magic’: Anirudh Ravichander drops unseen photos from wedding festivities",
+    "summary": "Days after tying the knot, music composer-singer Anirudh Ravichander has shared unseen pictures from his wedding festivities with Kavya Maran.",
+    "date": "2026-11-19T06:17:00+00:00",
+    "publisher": "The Indian Express",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
     "url": "https://www.msn.com/en-us/lifestyle/other/couple-rethink-lavish-wedding-to-save-money-then-family-hears-honeymoon-plan/ar-AA2hMxRf",
     "title": "Couple rethink lavish wedding to save money—then family hears honeymoon plan",
     "summary": "A couple scrapped their expensive \"dream wedding\" so that they could spend more money on their honeymoon, in turn upsetting their families.",
@@ -7238,109 +7349,6 @@
     "publisher": "The Hans India",
     "kind": "news",
     "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-in/news/other/india-wedding-season-expected-to-generate-rs-75-lakh-crore-business/ar-AA2hKLWG",
-    "title": "India wedding season expected to generate Rs 7.5 lakh crore business",
-    "summary": "CAIT projects India's upcoming wedding season to generate Rs 7.5 lakh crore in business, driven by 52 lakh weddings. The season is expected to boost domestic consumption and create 1.25 crore ...",
-    "date": "2026-11-18T21:00:06+00:00",
-    "publisher": "Asianet Newsable on MSN",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-in/money/economy/india-wedding-season-expected-to-generate-rs-7-5-lakh-crore-business/ar-AA2hKLWG",
-    "title": "India wedding season expected to generate Rs 7.5 lakh crore business",
-    "summary": "CAIT projects India's upcoming wedding season to generate Rs 7.5 lakh crore in business, driven by 52 lakh weddings. The season is expected to boost domestic consumption and create 1.25 crore ...",
-    "date": "2026-11-18T21:00:06+00:00",
-    "publisher": "Asianet Newsable on MSN",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-in/news/other/52-lakh-marriages-rs-75-lakh-crore-of-business-this-wedding-season-cait/ar-AA2hM5HQ",
-    "title": "52 lakh marriages, Rs 7.5 lakh crore of business this wedding season: CAIT",
-    "summary": "New Delhi, Nov 19 (PTI) India is expected to witness 52 lakh marriages in the upcoming wedding season from November 21 to December 15 -- an average of more than two lakh weddings every day -- generati ...",
-    "date": "2026-11-18T19:48:00+00:00",
-    "publisher": "Press Trust of India on MSN",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4135553/better-guest-experiences-roi-model",
-    "title": "Better Guest Experiences & ROI Model",
-    "summary": "Article argues that capturing in-stay guest feedback enables service recovery before checkout, linking better reviews to booking conversions and room revenue gains, with a CruVu product call to action.",
-    "date": "2026-11-18T18:50:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://english.newstrack.com/india-news/indias-wedding-season-may-generate-rs-75-lakh-crore-52-lakh-marriages-expected-649100",
-    "title": "India's Wedding Season May Generate Rs 7.5 Lakh Crore: 52 Lakh Marriages Expected",
-    "summary": "India's 2026 wedding season may generate Rs 7.5 lakh crore in business from November 21 to December 15, with 52 lakh weddings and 1.25 crore job opportunities.",
-    "date": "2026-11-18T16:30:00+00:00",
-    "publisher": "Newstrack",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://artvoice.com/chasing-the-sun-why-european-destination-weddings-are-redefining-modern-romance",
-    "title": "Chasing the Sun: Why European Destination Weddings Are Redefining Modern Romance",
-    "summary": "There is a distinct magic that comes with opening an invitation to a European wedding. Whether it is a rustic estate in the rolling hills of Tuscany, a historic château in the south of France, or ...",
-    "date": "2026-11-18T16:01:00+00:00",
-    "publisher": "Artvoice",
-    "kind": "news",
-    "query": "destination wedding"
-   },
-   {
-    "url": "https://www.msn.com/en-us/news/other/37-wedding-trends-that-people-predict-brides-and-grooms-will-regret-participating-in/ar-AA2hJEa4",
-    "title": "37 wedding trends that people predict brides and grooms will regret participating in",
-    "summary": "Someone asked “What wedding trends of today do you think will eventually be dated?” and people shared their favorite examples.",
-    "date": "2026-11-18T16:00:01+00:00",
-    "publisher": "Bored Panda on MSN",
-    "kind": "news",
-    "query": "Instagram wedding trend"
-   },
-   {
-    "url": "https://www.msn.com/en-us/lifestyle/other/37-wedding-trends-that-people-predict-brides-and-grooms-will-regret-participating-in/ar-AA2hJEa4",
-    "title": "37 wedding trends that people predict brides and grooms will regret participating in",
-    "summary": "Someone asked “What wedding trends of today do you think will eventually be dated?” and people shared their favorite examples.",
-    "date": "2026-11-18T16:00:01+00:00",
-    "publisher": "Bored Panda on MSN",
-    "kind": "news",
-    "query": "Instagram wedding trend"
-   },
-   {
-    "url": "https://www.townandcountrymag.com/society/tradition/a74464673/kate-middleton-mumbai-maternity-hospital/",
-    "title": "Kate Middleton Comforted a Grieving Patient During Visit to Mumbai Maternity Hospital",
-    "summary": "The Princess of Wales carried out one solo engagement on her visit to India with Prince William.",
-    "date": "2026-11-18T14:19:29+00:00",
-    "publisher": "Town & Country",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.tatler.com/article/cruz-beckham-knows-how-to-party-musician-lights-up-the-stage-at-annabels",
-    "title": "Cruz Beckham knows how to party! Musician lights up the stage at Annabel's",
-    "summary": "The great and gilded gathered at Annabel's as Tatler and Tiffany & Co. officially launched the club's Christmas facade. On stage to entertain? Cruz Beckham, who proved himself a rockstar in the ascendant",
-    "date": "2026-11-18T13:54:02+00:00",
-    "publisher": "Tatler",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4135547/beyond-occupancy-what-two-platinum-years-taught-me-about-select-service-revenue-strategy",
-    "title": "Beyond Occupancy: What Two Platinum Years Taught Me About Select-Service Revenue Strategy",
-    "summary": "A Comfort Suites GM in St. Louis shares how the property matched prior-year room revenue while selling 469 fewer room nights, with data-backed lessons on ADR, direct bookings, and demand-based pricing.",
-    "date": "2026-11-18T13:45:13+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.cntraveller.com/article/the-dance-floor-thats-seen-it-all-inside-7-of-the-most-spectacular-parties-at-the-storied-claridges-ballroom",
-    "title": "The dance floor that’s seen it all: inside 7 of the most spectacular parties at the storied Claridge’s ballroom",
-    "summary": "As London's party season kicks off, we take a look inside one of the city's most legendary ballrooms",
-    "date": "2026-11-18T13:08:42+00:00",
-    "publisher": "Conde Nast Traveller",
-    "kind": "travel"
    }
   ],
   "headlines": [
@@ -7382,15 +7390,15 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
-    "publisher": "WWD",
-    "date": "2026-10-22T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
     "publisher": "Yahoo Life UK",
     "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
+    "publisher": "WWD",
+    "date": "2026-10-22T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
@@ -7412,9 +7420,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "35 Things About American Weddings That Non-Americans Find Baffling, Cringeworthy, Or Straight-Up Ridiculous",
-    "publisher": "BuzzFeed",
-    "date": "2026-11-11T08:00:00+00:00"
+    "headline": "Indian Weddings Move Beyond Extravagance Towards Personalised, Tech-driven Experiences",
+    "publisher": "Everything Experiential",
+    "date": "2026-10-26T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -7424,21 +7432,21 @@
    },
    {
     "query": "wedding industry",
-    "headline": "National Wedding Industry Awards 2026: a night at the Culloden for NI’s wedding trade",
-    "publisher": "LoveBelfast",
-    "date": "2026-11-19T15:21:17+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Calderdale wedding venue celebrates success at Wedding Industry Awards",
     "publisher": "Halifax Courier",
     "date": "2026-11-20T12:30:00+00:00"
    },
    {
     "query": "wedding industry",
-    "headline": "Carrickfergus husband and wife team celebrate success at National Wedding Industry Awards of Northern Ireland",
-    "publisher": "NorthernIrelandWorld",
-    "date": "2026-11-17T15:04:00+00:00"
+    "headline": "National Wedding Industry Awards 2026: a night at the Culloden for NI’s wedding trade",
+    "publisher": "LoveBelfast",
+    "date": "2026-11-19T15:21:17+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Celebrant wins regional Wedding Industry Award for third year running",
+    "publisher": "Reading Chronicle",
+    "date": "2026-11-20T12:30:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -7448,21 +7456,9 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Mulberry House wins regional wedding industry award",
-    "publisher": "Your Harlow",
-    "date": "2026-11-18T08:31:43+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Wedding industry representatives raise funds for children's hospital at annual gala",
     "publisher": "Euronews.com",
     "date": "2026-11-15T21:09:29+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Milton Keynes celebrant shortlisted at The Wedding Industry Awards",
-    "publisher": "MKFM",
-    "date": "2026-10-27T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -7472,9 +7468,9 @@
    },
    {
     "query": "wedding industry",
-    "headline": "WedPage launches to bring the whole wedding together",
-    "publisher": "Event Industry News",
-    "date": "2026-11-10T09:00:00+00:00"
+    "headline": "Carrickfergus husband and wife team celebrate success at National Wedding Industry Awards of Northern Ireland",
+    "publisher": "NorthernIrelandWorld",
+    "date": "2026-11-17T15:04:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -7484,9 +7480,21 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Celebrant wins regional Wedding Industry Award for third year running",
-    "publisher": "Reading Chronicle",
-    "date": "2026-11-20T12:30:00+00:00"
+    "headline": "Norfolk DJ business honoured at awards after nomination from clients",
+    "publisher": "EDP24",
+    "date": "2026-11-20T08:19:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "WedPage launches to bring the whole wedding together",
+    "publisher": "Event Industry News",
+    "date": "2026-11-10T09:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Prudhoe magician wins regional wedding entertainer award for third year running",
+    "publisher": "Hexham Courant",
+    "date": "2026-11-17T05:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -7505,6 +7513,18 @@
     "headline": "Ashe's 'Stop the Wedding!' is TikTok's favorite breakup anthem. It was inspired by her own divorce.",
     "publisher": "Yahoo",
     "date": "2026-11-09T08:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Kim Kardashian Promises Bride Custom Bottle of Discontinued KKW Gardenia Perfume for Wedding",
+    "publisher": "Complex",
+    "date": "2026-11-20T22:36:18+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
+    "publisher": "IMDb",
+    "date": "2026-11-05T19:27:57+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -7549,90 +7569,6 @@
     "date": "2026-11-02T08:00:00+00:00"
    },
    {
-    "query": "viral wedding TikTok",
-    "headline": "Ashe's 'Stop the Wedding': The Viral Trend Raising Marriage Awareness",
-    "publisher": "Tempo.co English",
-    "date": "2026-11-07T05:04:55+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Chinese man with 'few relatives' invites strangers to his wedding - thousands showed up, some bearing lavish gifts",
-    "publisher": "AsiaOne.com",
-    "date": "2026-11-01T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "publisher": "ELLE",
-    "date": "2026-10-29T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "The Viral “Stop the Wedding” Trend Is a Reminder That It’s Never Too Late to Walk Away",
-    "publisher": "Cosmopolitan",
-    "date": "2026-11-05T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Is This the End of the Wedding Overshare?",
-    "publisher": "The New York Times",
-    "date": "2026-11-08T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "The Top Trends From New York Bridal Fashion Week Fall 2027",
-    "publisher": "WWD",
-    "date": "2026-10-22T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Chinese man invites internet strangers to his wedding. Watch as hundreds show up",
-    "publisher": "The Indian Express",
-    "date": "2026-10-31T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Richmonders are paying to crash strangers' weddings",
-    "publisher": "Axios",
-    "date": "2026-11-13T11:04:59+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Bianca Remembers Late Husband Odumegwu-Ojukwu On 32nd Wedding Anniversary",
-    "publisher": "TVC News",
-    "date": "2026-11-12T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
-    "publisher": "ELLE",
-    "date": "2026-10-26T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Wyndham Clark's wedding proposal wasn't your typical staged Instagram nonsense, Sexy Dexy dances & Jerry's mad",
-    "publisher": "Fox News",
-    "date": "2026-11-16T14:24:14+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "These Are The Biggest 2027 Wedding Dress Trends",
-    "publisher": "The Kit",
-    "date": "2026-10-28T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Anirudh-Kavya Wedding: From Star-Studded Guests To A Traditional Tamil Vegetarian Feast",
-    "publisher": "Curly Tales",
-    "date": "2026-11-12T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Ashe's 'Stop the Wedding': The Viral Trend Raising Marriage Awareness",
-    "publisher": "Tempo.co English",
-    "date": "2026-11-07T05:04:55+00:00"
-   },
-   {
     "query": "Pinterest wedding trends",
     "headline": "Weddings Shed Perfection for Personal Meaning",
     "publisher": "Deccan Chronicle",
@@ -7643,12 +7579,6 @@
     "headline": "Pinterest Sees Searches for the Layered Long Bob Soar by 622%, and These Short Winter Haircuts Are Taking Over",
     "publisher": "Paris Select Book",
     "date": "2026-11-16T10:28:25+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "From Face Recognition to WhatsApp Control Room: 7 Trends in Gen-Z Weddings",
-    "publisher": "ET BrandEquity",
-    "date": "2026-11-11T07:29:32+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -7664,15 +7594,15 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "5 Stylish Engagement Ring Trends for 2026: The Expert Guide",
-    "publisher": "Natural Diamond Council",
-    "date": "2026-11-19T03:03:13+00:00"
+    "headline": "5 Nail Colours That Are The Ultimate Low Maintenance Summer Accessory",
+    "publisher": "Marie Claire",
+    "date": "2026-11-12T08:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "5 Nail Colours That Are The Ultimate Low Maintenance Summer Accessory",
-    "publisher": "Marie Claire",
-    "date": "2026-11-12T01:09:59+00:00"
+    "headline": "5 Stylish Engagement Ring Trends for 2026: The Expert Guide",
+    "publisher": "Natural Diamond Council",
+    "date": "2026-11-19T03:03:13+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -7703,6 +7633,84 @@
     "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
     "publisher": "Business Eye Magazine",
     "date": "2026-10-30T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "GOWER: King Arthur Hotel named best wedding venue in Wales",
+    "publisher": "Swansea Bay News",
+    "date": "2026-11-14T12:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Lake District venue crowned North West’s best wedding hotel",
+    "publisher": "Cumbria Crack",
+    "date": "2026-11-13T09:12:09+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
+    "publisher": "The Impartial Reporter",
+    "date": "2026-10-27T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Winter wedding venues: The cosiest places to say 'I do' in the UK",
+    "publisher": "SquareMeal",
+    "date": "2026-11-03T08:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "The best wedding guest suits for winter 2026, and how to wear them",
+    "publisher": "British GQ",
+    "date": "2026-11-06T08:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Vogue Retail: Bridal. 22 Wedding Must-Haves For All Brides-to-Be",
+    "publisher": "Vogue",
+    "date": "2026-11-17T08:35:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Our roundup of the very best breakfasts in London",
+    "publisher": "Time Out Worldwide",
+    "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Designer with Vivienne Westwood background opens Lincoln bridal boutique",
+    "publisher": "InYourArea",
+    "date": "2026-11-20T15:26:35+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "The Oregonian wants to know Oregon's best wedding venues — nominations are open until Nov. 16, 2026 (100 chars)",
+    "publisher": "OregonLive.com",
+    "date": "2026-11-12T14:27:00+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "Europe Destination Wedding Market Size, Share, Trends 2036",
+    "publisher": "Future Market Insights",
+    "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "2027 wedding trends revealed: From noughties' nostalgia to the groom brooch",
+    "publisher": "Metro.co.uk",
+    "date": "2026-11-05T08:00:00+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "The Ballgown Wedding Dress Is Back – And Bigger Than Ever",
+    "publisher": "Vogue",
+    "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "Whimsical weddings are huge on TikTok right now – how to do the trend for your big day",
+    "publisher": "The Independent",
+    "date": "2026-10-22T07:00:00+00:00"
    }
   ],
   "pages": {
