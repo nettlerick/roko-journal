@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T09:43:43+00:00",
+ "generated": "2026-11-21T13:26:18+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -4876,7 +4876,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-21T09:39+00:00",
+  "generated": "2026-11-21T13:26+00:00",
   "rising_searches": {
    "date": "2026-11-16",
    "compared_with": "2026-11-09",
@@ -6998,6 +6998,14 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.vogue.com/article/fall-winter-2026-wedding-guest-dresses",
+    "title": "5 Fall/Winter 2026 Wedding Guest Dress Trends You Can Still Shop",
+    "summary": "There's still time to shop some of fall/winter 2026's biggest trends—and these five work particularly well for wedding guests, too.",
+    "date": "2026-11-21T11:00:00+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
     "url": "https://www.vogue.com/slideshow/parker-selman-and-karan-rai-wedding",
     "title": "The Couple Created a Giant Sunflower Walkway For Their Multicultural Sun Valley Wedding",
     "summary": "Set at an Idaho 4-H camp, Parker Selman and Karan Rai’s weekend celebration blended Punjabi, Hindu, Jewish, and Episcopalian traditions—plus a custom bridal gown inspired by 1955 Christian Dior.",
@@ -7514,15 +7522,6 @@
     "publisher": "NDTV on MSN",
     "kind": "news",
     "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-ie/news/other/a-colourful-clare-wedding-planned-from-dubai-karen-patrick/ar-AA2hLmIs",
-    "title": "A colourful Clare wedding planned from Dubai: Karen & Patrick",
-    "summary": "Bright and bursting with unforgettable moments!",
-    "date": "2026-11-18T22:00:00+00:00",
-    "publisher": "One Fab Day on MSN",
-    "kind": "news",
-    "query": "Dubai wedding"
    }
   ],
   "headlines": [
@@ -7540,6 +7539,12 @@
    },
    {
     "query": "wedding trends",
+    "headline": "The Biggest Bridal Fashion Week Trends for 2027 Every Bride-to-Be Should Know About",
+    "publisher": "ELLE",
+    "date": "2026-10-26T07:00:00+00:00"
+   },
+   {
+    "query": "wedding trends",
     "headline": "The best wedding guest suits for winter 2026, and how to wear them",
     "publisher": "British GQ",
     "date": "2026-11-06T08:00:00+00:00"
@@ -7552,33 +7557,27 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Sustainable weddings: the proof is in the people, as new impact report leads with member stories",
-    "publisher": "Event Industry News",
-    "date": "2026-11-09T09:29:58+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
     "publisher": "Yahoo Life UK",
     "date": "2026-10-29T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "Nine ideas for your wedding afterparty dress",
-    "publisher": "The Times",
-    "date": "2026-10-29T07:00:00+00:00"
+    "headline": "The Direct-from-Runway Winter Wedding Guest Dresses You Can Shop Now",
+    "publisher": "Vogue",
+    "date": "2026-11-21T11:00:00+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "The Ballgown Wedding Dress Is Back—and Bigger Than Ever",
-    "publisher": "Vogue",
+    "headline": "These Are The Biggest 2027 Wedding Dress Trends",
+    "publisher": "The Kit",
     "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "Bickleigh wedding barn makes it three years of awards recognition in a row",
-    "publisher": "Midweek Herald",
-    "date": "2026-11-21T00:30:00+00:00"
+    "headline": "35 Things About American Weddings That Non-Americans Find Baffling, Cringeworthy, Or Straight-Up Ridiculous",
+    "publisher": "BuzzFeed",
+    "date": "2026-11-12T08:00:00+00:00"
    },
    {
     "query": "wedding trends",
@@ -7588,15 +7587,15 @@
    },
    {
     "query": "wedding trends",
-    "headline": "Is This the End of the Wedding Overshare?",
-    "publisher": "The New York Times",
-    "date": "2026-11-08T08:00:00+00:00"
+    "headline": "Top 10 Wedding Season Wellness Trends That Could Put Your Health At Risk",
+    "publisher": "NDTV",
+    "date": "2026-11-21T03:24:51+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "Wedding Dress Shopping Online Is the New Way—Here’s Where to Find the Chicest Looks",
-    "publisher": "Brides",
-    "date": "2026-11-13T08:00:00+00:00"
+    "headline": "The Ballgown Wedding Dress Is Back—and Bigger Than Ever",
+    "publisher": "Vogue",
+    "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -7654,12 +7653,6 @@
    },
    {
     "query": "wedding industry",
-    "headline": "WedPage launches to bring the whole wedding together",
-    "publisher": "Event Industry News",
-    "date": "2026-11-10T09:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Prudhoe magician wins regional wedding entertainer award for third year running",
     "publisher": "Hexham Courant",
     "date": "2026-11-17T05:00:00+00:00"
@@ -7669,6 +7662,12 @@
     "headline": "Datchworth wedding venue highly commended at regional Wedding Industry Awards",
     "publisher": "The Comet",
     "date": "2026-11-16T12:17:31+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Geilsland Estate in Beith wins top honour at Wedding Industry Awards",
+    "publisher": "Ardrossan and Saltcoats Herald",
+    "date": "2026-11-07T08:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -7687,6 +7686,12 @@
     "headline": "Ashe's 'Stop the Wedding!' is TikTok's favorite breakup anthem. It was inspired by her own divorce.",
     "publisher": "Yahoo",
     "date": "2026-11-09T08:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Bride reportedly asks bridesmaid to gain 120 pounds TikTok video, explained",
+    "publisher": "The Mary Sue",
+    "date": "2026-11-04T08:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -7717,12 +7722,6 @@
     "headline": "Groom slammed for pulling ‘highly inappropriate’ stunt at the altar",
     "publisher": "New York Post",
     "date": "2026-11-02T08:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Russian Bride Hanoi wedding causes viral online sensation",
-    "publisher": "Báo VietNamNet",
-    "date": "2026-11-20T06:02:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -7792,9 +7791,9 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Designers dreaming up Taylor Swift-inspired wedding gowns",
-    "publisher": "Arizona Daily Star",
-    "date": "2026-11-19T03:08:45+00:00"
+    "headline": "13 of the Most Secretive Celebrity Weddings",
+    "publisher": "People.com",
+    "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -7828,6 +7827,12 @@
    },
    {
     "query": "Pinterest wedding trends",
+    "headline": "Inside a Bridal Designer’s Dream Wedding: Andrea Tetangco Takes Us Through Its Creative Process",
+    "publisher": "Metro.Style",
+    "date": "2026-10-28T07:00:00+00:00"
+   },
+   {
+    "query": "Pinterest wedding trends",
     "headline": "Pinterest Sees Searches for the Layered Long Bob Soar by 622%, and These Short Winter Haircuts Are Taking Over",
     "publisher": "Paris Select Book",
     "date": "2026-11-16T10:28:25+00:00"
@@ -7842,7 +7847,7 @@
     "query": "Pinterest wedding trends",
     "headline": "5 Stylish Engagement Ring Trends for 2026: The Expert Guide",
     "publisher": "Natural Diamond Council",
-    "date": "2026-11-19T03:03:13+00:00"
+    "date": "2026-11-18T08:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -7879,12 +7884,6 @@
     "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
     "publisher": "Business Eye Magazine",
     "date": "2026-10-30T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
-    "headline": "GOWER: King Arthur Hotel named best wedding venue in Wales",
-    "publisher": "Swansea Bay News",
-    "date": "2026-11-14T12:00:00+00:00"
    }
   ],
   "pages": {
