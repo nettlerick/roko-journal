@@ -42,7 +42,68 @@
  "series": "Journal",
  "date": "2026-11-22T09:45",
  "updated": "2026-11-22T09:45",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Kor!An (Андрей Корзун), CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Bouquet_of_peonies_03.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/wedding-tablescape-ideas/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Roses and peonies for wedding flowers",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@89917fb01e24173e5f38617a78b6eced5cb02acd/media/wedding-tablescape-ideas/cover.webp"
+  },
+  {
+   "credit": "Photo: Category:Government of the United States Virgin Islands, Public domain, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:USVI_IMG_5202_-_Minimalist_desk_with_colorful_pencils_in_a_cardboard_holder_a_cup_holding_pens_and_scissors_and_a_notebook_with_botanical_patterns_all_under_soft_light.jpg",
+   "license": "Public domain",
+   "license_url": "",
+   "file": "media/wedding-tablescape-ideas/1.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Notebook and pen on a planning desk",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@89917fb01e24173e5f38617a78b6eced5cb02acd/media/wedding-tablescape-ideas/1.webp"
+  },
+  {
+   "credit": "Photo: Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Wedding_ring_with_heart_shadow.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-tablescape-ideas/2.webp",
+   "width": 1600,
+   "height": 1829,
+   "alt": "Wedding rings",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@89917fb01e24173e5f38617a78b6eced5cb02acd/media/wedding-tablescape-ideas/2.webp"
+  },
+  {
+   "credit": "Photo: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Chandelier_(_1030220).jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-tablescape-ideas/3.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Chandelier in a grand room",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@89917fb01e24173e5f38617a78b6eced5cb02acd/media/wedding-tablescape-ideas/3.webp"
+  },
+  {
+   "credit": "Photo: Brassluff, CC0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Icing_around_Cherry_Topping_on_a_Birthday_Cake_with_Candles.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "media/wedding-tablescape-ideas/4.webp",
+   "width": 1600,
+   "height": 1200,
+   "alt": "Celebration cake with candles",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@89917fb01e24173e5f38617a78b6eced5cb02acd/media/wedding-tablescape-ideas/4.webp"
+  }
+ ],
  "categories": [
   "wedding-flowers-and-decor",
   "wedding-rentals-and-production"
