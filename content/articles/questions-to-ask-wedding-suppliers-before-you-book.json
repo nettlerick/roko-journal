@@ -56,7 +56,56 @@
  "series": "Journal",
  "date": "2026-11-23T02:12",
  "updated": "2026-11-23T02:12",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Mike1979 Russia, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Bolshiye_Vyazyomy_Manor_House_2025-08-10_6035.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/questions-to-ask-wedding-suppliers-before-you-book/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Country manor house and courtyard",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@bbe7f5316276c7aa63f177615b67159f6405871b/media/questions-to-ask-wedding-suppliers-before-you-book/cover.webp"
+  },
+  {
+   "credit": "Photo: P e z i, CC BY-SA 3.0 at, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Parkhotel_Schoenbrunn_Ballsaal_DSC_5115w.jpg",
+   "license": "CC BY-SA 3.0 at",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+   "file": "media/questions-to-ask-wedding-suppliers-before-you-book/1.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Palace ballroom interior",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@bbe7f5316276c7aa63f177615b67159f6405871b/media/questions-to-ask-wedding-suppliers-before-you-book/1.webp"
+  },
+  {
+   "credit": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/questions-to-ask-wedding-suppliers-before-you-book/2.webp",
+   "width": 1600,
+   "height": 1143,
+   "alt": "Lobby of a luxury hotel",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@bbe7f5316276c7aa63f177615b67159f6405871b/media/questions-to-ask-wedding-suppliers-before-you-book/2.webp"
+  },
+  {
+   "credit": "Photo: www.Pixel.la Free Stock Photos, CC0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Desk-laptop-notebook-pen_(23958719819).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "media/questions-to-ask-wedding-suppliers-before-you-book/3.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Notebook and pen on a planning desk",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@bbe7f5316276c7aa63f177615b67159f6405871b/media/questions-to-ask-wedding-suppliers-before-you-book/3.webp"
+  }
+ ],
  "categories": [
   "wedding-vendors"
  ]
