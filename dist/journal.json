@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T10:40:57+00:00",
+ "generated": "2026-11-23T15:54:57+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -5038,7 +5038,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-23T10:40+00:00",
+  "generated": "2026-11-23T15:54+00:00",
   "rising_searches": {
    "date": "2026-11-23",
    "compared_with": "2026-11-16",
@@ -7708,7 +7708,84 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.harpersbazaar.com/celebrity/latest/a74507420/noah-cyrus-miley-maxx-wedding-outfit-details-naked-dress-photos/",
+    "title": "Noah Cyrus Delivers a Daring Take on Sister-of-the-Bride Attire",
+    "summary": "She chose a goth naked dress for Miley’s intimate nuptials this weekend",
+    "date": "2026-11-23T15:34:29+00:00",
+    "publisher": "Harper's Bazaar",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/opinion/4135644/making-hospitality-leaders-smarter-on-the-2027-budget",
+    "title": "Making Hospitality Leaders Smarter On... The 2027 Budget",
+    "summary": "Eight practical rules for building a 2027 hotel budget that tracks AI spend against measurable savings, as wage growth erodes most new revenue gains.",
+    "date": "2026-11-23T15:15:18+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.vogue.com/slideshow/anna-watt-and-tommy-powell-wedding",
+    "title": "The Bride Wore Jacquemus—and Went Barefoot—for Her New York City Wedding on a Vintage Yacht",
+    "summary": "Photographer Anna Watt married commercial fisherman Tommy Powell aboard a boat decorated with custom furniture from Bali, followed by a paper lantern-lit dinner under the George Washington Bridge.",
+    "date": "2026-11-23T14:00:00+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.vogue.com/slideshow/bridal-clutch-purse-handbag",
+    "title": "42 Bridal Clutches, Purses, and Handbags to Carry on Your Big Day",
+    "summary": "Make sure every detail of your look feels special, including the bag you carry. Shop 42 of the best bridal clutches, purses, and handbags.",
+    "date": "2026-11-23T11:00:00+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.hindustantimes.com/lifestyle/travel/loved-the-wedding-in-the-movie-yeh-jawaani-hai-deewani-you-can-get-married-at-this-udaipur-resort-101795445546460.html",
+    "title": "Loved the wedding in the movie Yeh Jawaani Hai Deewani? You can get married at this Udaipur resort",
+    "summary": "From Udaipur's Lake Pichola to Chandigarh's forest surroundings, explore two Bollywood film locations offering memorable destination wedding experiences. | Travel ...",
+    "date": "2026-11-23T06:56:00+00:00",
+    "publisher": "Hindustan Times",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://www.msn.com/en-in/news/other/wedding-season-diet-tips-eating-healthy-at-weddings/ar-AA2i2n4x",
+    "title": "Wedding season diet tips: Eating healthy at weddings",
+    "summary": "Three shaadis, two sangeets and a cocktail night, all in one week. Here's how to enjoy every single buffet without feeling sluggish by the time the last pheras are done.",
+    "date": "2026-11-23T03:42:52+00:00",
+    "publisher": "Slurrp on MSN",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
+    "url": "https://www.msn.com/en-in/news/other/itc-samhi-hotels-to-lemon-tree-top-6-hospitality-stocks-to-buy-up-to-75-listing-gain-predicted-by-ambit-capital/ar-AA2i2EEC",
+    "title": "ITC, SAMHI Hotels to Lemon Tree: Top 6 hospitality stocks to buy | Up to 75% listing gain predicted by Ambit Capital",
+    "summary": "Top hospitality stocks to buy: Domestic brokerage Ambit Capital has maintained a positive outlook on the hospitality sector, citing strong demand from corporate travel, meetings etc.",
+    "date": "2026-11-23T03:23:07+00:00",
+    "publisher": "Mint on MSN",
+    "kind": "news",
+    "query": "hospitality weddings"
+   },
+   {
+    "url": "https://www.easterneye.biz/sri-lanka-wants-uk-couples-to-consider-the-island-for-their-2027-destination-weddings/",
+    "title": "Sri Lanka wants UK couples to consider the island for their 2027 destination weddings",
+    "summary": "Sri Lanka is promoting itself as a destination wedding choice for British couples planning celebrations in 2027. British Airways has resumed direct flights between London Gatwick and Colombo, offering ...",
+    "date": "2026-11-23T03:08:00+00:00",
+    "publisher": "EasternEye",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
     "url": "https://www.msn.com/en-in/news/other/wedding-makeup-trends-2026-7-soft-glam-products-every-bride-to-be-should-have/ar-AA2i1A0R",
+    "title": "Wedding makeup trends 2026: 7 soft glam products every bride-to-be should have",
+    "summary": "From lightweight foundations to creamy blushes and highlighters, here are seven makeup essentials to help you create an elegant wedding-ready look.",
+    "date": "2026-11-23T00:30:19+00:00",
+    "publisher": "Hindustan Times on MSN",
+    "kind": "news",
+    "query": "wedding trends"
+   },
+   {
+    "url": "https://www.msn.com/en-in/lifestyle/other/wedding-makeup-trends-2026-7-soft-glam-products-every-bride-to-be-should-have/ar-AA2i1A0R",
     "title": "Wedding makeup trends 2026: 7 soft glam products every bride-to-be should have",
     "summary": "From lightweight foundations to creamy blushes and highlighters, here are seven makeup essentials to help you create an elegant wedding-ready look.",
     "date": "2026-11-23T00:30:19+00:00",
@@ -7724,6 +7801,15 @@
     "publisher": "Al Bawaba",
     "kind": "news",
     "query": "Dubai wedding"
+   },
+   {
+    "url": "https://www.forbesindia.com/life/luxury/how-india-is-rolling-out-the-red-carpet-for-the-big-fat-wedding-article/3000895",
+    "title": "How India is rolling out the red carpet for the big, fat wedding",
+    "summary": "Affluent Indians and NRIs prefer India as a wedding destination compared to exotic foreign locales. Government initiatives aim to get the wealthy to spend on their vows and boost the local economy ...",
+    "date": "2026-11-22T22:37:00+00:00",
+    "publisher": "Forbes India",
+    "kind": "news",
+    "query": "destination wedding"
    },
    {
     "url": "https://www.msn.com/en-ie/travel/general/a-regal-destination-style-wedding-at-markree-castle-kate-shane/ar-AA2i0OH1",
@@ -7770,6 +7856,15 @@
     "kind": "luxury"
    },
    {
+    "url": "https://apparelresources.com/fashion-news/trends/chikankari-anchors-w-26-wedding-season/",
+    "title": "Chikankari Anchors A/W 26 Wedding Season",
+    "summary": "Chikankari anchors the A/W 2026 wedding season, from India Couture Week and Lakmé Fashion Week to Fabindia and Lucknow's specialists scaling craft authenticity.",
+    "date": "2026-11-22T18:09:00+00:00",
+    "publisher": "Apparel Resources",
+    "kind": "news",
+    "query": "wedding season India"
+   },
+   {
     "url": "https://www.harpersbazaar.com/celebrity/latest/a74500779/miley-cyrus-maxx-morando-married-wedding-details/",
     "title": "Everything We Know About Miley Cyrus and Maxx Morando’s Wedding",
     "summary": "The couple is officially wed!",
@@ -7794,6 +7889,15 @@
     "publisher": "TTN Worldwide",
     "kind": "news",
     "query": "hospitality weddings"
+   },
+   {
+    "url": "https://www.gulftoday.ae/news/2026/11/22/sheikh-mohammed-sheikh-hamdan-and-sheikh-maktoum-attend-wedding-reception",
+    "title": "Sheikh Mohammed, Sheikh Hamdan and Sheikh Maktoum attend wedding reception",
+    "summary": "His Highness Sheikh Mohammed Bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, attended a wedding reception hosted ...",
+    "date": "2026-11-22T10:35:00+00:00",
+    "publisher": "Gulf Today",
+    "kind": "news",
+    "query": "Dubai wedding"
    },
    {
     "url": "https://www.msn.com/en-in/news/other/delhi-wedding-season-traffic-leaves-commuters-stranded-for-hours/ar-AA2hZ3cz",
@@ -7821,6 +7925,15 @@
     "publisher": "Mint on MSN",
     "kind": "news",
     "query": "wedding season India"
+   },
+   {
+    "url": "https://en.sedaily.com/economy/2026/11/22/korea-wedding-halls-bill-extra-even-when-guest-count",
+    "title": "Korea Wedding Halls Still Bill Full Minimum Guest Fee Even When Fewer Attend",
+    "summary": "Seven in 10 Korean wedding venues refuse to lower minimum guaranteed guest counts after signing, the Korea Consumer Agency found, driving up costs ...",
+    "date": "2026-11-22T02:24:00+00:00",
+    "publisher": "en.sedaily",
+    "kind": "news",
+    "query": "wedding guests cost"
    },
    {
     "url": "https://www.m9.news/social-media-viral/india-wedding-season-52-lakh-marriages-25-days/",
@@ -8119,123 +8232,6 @@
     "publisher": "Hindustan Times",
     "kind": "news",
     "query": "wedding season India"
-   },
-   {
-    "url": "https://www.deccanchronicle.com/nation/52-lakh-marriages-rs75-lakh-crore-of-business-this-wedding-season-cait-2006168",
-    "title": "52 Lakh Marriages, Rs.7.5 Lakh Crore of Business This Wedding Season: CAIT",
-    "summary": "The Confederation of All India Traders (CAIT) said the 25-day season is expected to drive demand across retail, manufacturing, hospitality, transport, food, jewellery and other sector ...",
-    "date": "2026-11-20T01:57:00+00:00",
-    "publisher": "Deccan Chronicle",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.rediff.com/news/report/india-to-see-52-lakh-marriages-in-3-week-wedding-season/20261120.htm",
-    "title": "India to see 52 lakh marriages in 3-week wedding season",
-    "summary": "India's upcoming wedding season, from November 21 to December 15, is projected to see 52 lakh marriages, generating an estimated Rs 7.5 lakh crore in business. This boom is expected to significantly ...",
-    "date": "2026-11-20T01:57:00+00:00",
-    "publisher": "Rediff.com",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://english.newstrack.com/india-news/indias-wedding-season-set-to-generate-rs-6-lakh-crore-delhi-ncr-eyes-rs-1-lakh-crore-649372",
-    "title": "India's Wedding Season Set to Generate Rs 6 Lakh Crore, Delhi-NCR Eyes Rs 1 Lakh Crore",
-    "summary": "India's wedding season is expected to generate Rs 6 lakh crore from 5.2 lakh weddings, while Delhi-NCR alone may see business worth Rs 1 lakh crore.",
-    "date": "2026-11-20T01:30:00+00:00",
-    "publisher": "Newstrack",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-xl/news/other/64-of-wedding-venues-cant-reduce-guests-sparking-extra-fees/ar-AA2hPh2v",
-    "title": "64% of wedding venues can't reduce guests, sparking extra fees",
-    "summary": "Some 64% of domestic wedding venues were found to be unable to reduce the minimum guaranteed number of guests after a contract is signed. According to a survey on wedding venue conditions released by ...",
-    "date": "2026-11-20T01:14:48+00:00",
-    "publisher": "The Chosun Ilbo on MSN",
-    "kind": "news",
-    "query": "wedding guests cost"
-   },
-   {
-    "url": "https://www.cityairnews.com/content/wedding-season-to-generate-rs-6-lakh-crore-business-across-india-rs-1-lakh-crore-in-delhi-ncr-cti",
-    "title": "Wedding season to generate Rs 6 lakh crore business across India, Rs 1 lakh crore in Delhi-NCR: CTI",
-    "summary": "After a successful Diwali festive season, traders across the country are now gearing up for the upcoming wedding season, expecting business worth Rs 6 lakh crore from approximately 5.2 lakh weddings ...",
-    "date": "2026-11-19T23:55:00+00:00",
-    "publisher": "City Air News",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://contentmediasolution.com/business/wedding-season-2026-india-set-to-see-rs-6-lakh-crore-business-delhi-ncr-eyes-rs-1-lakh-crore/",
-    "title": "Wedding Season 2026: India Set to See Rs 6 Lakh Crore Business, Delhi-NCR Eyes Rs 1 Lakh Crore",
-    "summary": "India’s upcoming wedding season is expected to generate business worth around Rs 6 lakh crore from an estimated 5.2 lakh weddings, offering a major boost to traders, manufacturers and service ...",
-    "date": "2026-11-19T23:20:00+00:00",
-    "publisher": "contentmediasolution.com",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-in/news/India/india-set-for-52-lakh-weddings-in-25-days-wedding-business-may-touch-rs-75-lakh-crore-cait/ar-AA2hPCzO",
-    "title": "India set for 52 lakh weddings in 25 days, wedding business may touch Rs 7.5 lakh crore: CAIT",
-    "summary": "The wedding season is also expected to generate 1.25 crore temporary and seasonal jobs, boosting sectors such as jewellery, retail, catering, hospitality, transport and event management.",
-    "date": "2026-11-19T22:39:03+00:00",
-    "publisher": "The Statesman on MSN",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-in/money/economy/india-set-for-52-lakh-weddings-in-25-days-wedding-business-may-touch-rs-7-5-lakh-crore-cait/ar-AA2hPCzO",
-    "title": "India set for 52 lakh weddings in 25 days, wedding business may touch Rs 7.5 lakh crore: CAIT",
-    "summary": "The wedding season is also expected to generate 1.25 crore temporary and seasonal jobs, boosting sectors such as jewellery, retail, catering, hospitality, transport and event management.",
-    "date": "2026-11-19T22:39:03+00:00",
-    "publisher": "The Statesman on MSN",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.zeebiz.com/india/news-india-wedding-season-2026-52-lakh-weddings-business-405790",
-    "title": "Wedding season 2026: 52 lakh weddings expected to generate Rs 7.5 lakh crore in business, says CAIT",
-    "summary": "India's upcoming wedding season could generate massive business across jewellery, apparel, catering and hospitality. CAIT estimates 52 lakh weddings between November 21 and December 15, with 1.25 ...",
-    "date": "2026-11-19T22:32:00+00:00",
-    "publisher": "Zee Business",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.msn.com/en-in/news/other/decoding-wedding-dress-codes-and-bizarre-themes/ar-AA2hPOkh",
-    "title": "Decoding wedding dress codes and bizarre themes",
-    "summary": "Dressing up for an upscale Delhi wedding has turned into an exercise that requires a fair understanding of fashion terms, Bollywood wedding trends and, of course, a certain budget for your ‘wedding ...",
-    "date": "2026-11-19T22:00:00+00:00",
-    "publisher": "The Times of India on MSN",
-    "kind": "news",
-    "query": "wedding trends"
-   },
-   {
-    "url": "https://www.msn.com/en-xl/money/economy/64-of-wedding-venues-can-t-reduce-guests-sparking-extra-fees/ar-AA2hPh2v",
-    "title": "64% of wedding venues can't reduce guests, sparking extra fees",
-    "summary": "Some 64% of domestic wedding venues were found to be unable to reduce the minimum guaranteed number of guests after a contract is signed. According to a survey on wedding venue conditions released by ...",
-    "date": "2026-11-19T20:34:02+00:00",
-    "publisher": "The Chosun Ilbo on MSN",
-    "kind": "news",
-    "query": "wedding guests cost"
-   },
-   {
-    "url": "https://uk.news.yahoo.com/celebrant-wins-regional-wedding-industry-123000637.html",
-    "title": "Celebrant wins regional Wedding Industry Award for third year running",
-    "summary": "Berkshire wedding celebrant Suzi van der Mark wins The Wedding Industry Awards’ South Central Best Celebrant title for a third year, reaching the Liverpool final.",
-    "date": "2026-11-19T20:30:00+00:00",
-    "publisher": "Yahoo News UK",
-    "kind": "news",
-    "query": "wedding industry UK"
-   },
-   {
-    "url": "https://www.lokmattimes.com/national/wedding-season-kicks-off-rs-6-lakh-crore-business-expected-nationwide-delhi-ncr-eyes-rs-1-lakh-crore-a001-w02/",
-    "title": "Wedding Season Kicks Off: Rs 6 Lakh Crore Business Expected Nationwide, Delhi-NCR Eyes Rs 1 Lakh Crore",
-    "summary": "Rs 6 Lakh Crore Business Expected Nationwide, Delhi-NCR Eyes Rs 1 Lakh Crore - After a bustling Diwali, India's traders are now set for the wedding season, anticipating a massive Rs 6 lakh ... Get ...",
-    "date": "2026-11-19T20:00:00+00:00",
-    "publisher": "Lokmat Times",
-    "kind": "news",
-    "query": "wedding season India"
    }
   ],
   "headlines": [
@@ -8295,9 +8291,9 @@
    },
    {
     "query": "wedding trends",
-    "headline": "35 Things About American Weddings That Non-Americans Find Baffling, Cringeworthy, Or Straight-Up Ridiculous",
-    "publisher": "BuzzFeed",
-    "date": "2026-11-11T08:00:00+00:00"
+    "headline": "A perfect destination is no longer enough. Here’s what makes a wedding stand out today",
+    "publisher": "Vogue Adria",
+    "date": "2026-11-21T11:00:56+00:00"
    },
    {
     "query": "wedding trends",
@@ -8338,7 +8334,7 @@
    {
     "query": "wedding industry",
     "headline": "Wedding industry representatives raise funds for children's hospital at annual gala",
-    "publisher": "Euronews",
+    "publisher": "Euronews.com",
     "date": "2026-11-15T21:09:29+00:00"
    },
    {
@@ -8352,6 +8348,12 @@
     "headline": "Carrickfergus husband and wife team celebrate success at National Wedding Industry Awards of Northern Ireland",
     "publisher": "NorthernIrelandWorld",
     "date": "2026-11-17T15:04:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Norfolk DJ business honoured at awards after nomination from clients",
+    "publisher": "EDP24",
+    "date": "2026-11-20T08:19:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -8373,12 +8375,6 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Norfolk DJ business honoured at awards after nomination from clients",
-    "publisher": "Great Yarmouth Mercury",
-    "date": "2026-11-20T08:19:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Prudhoe magician wins regional wedding entertainer award for third year running",
     "publisher": "Hexham Courant",
     "date": "2026-11-17T05:00:00+00:00"
@@ -8394,6 +8390,12 @@
     "headline": "Ashe's 'Stop the Wedding!' is TikTok's favorite breakup anthem. It was inspired by her own divorce.",
     "publisher": "Yahoo",
     "date": "2026-11-09T08:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Bride reportedly asks bridesmaid to gain 120 pounds TikTok video, explained",
+    "publisher": "The Mary Sue",
+    "date": "2026-11-04T08:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -8415,18 +8417,6 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Bride Allegedly Asked Her Bridesmaid to Gain 120 Pounds So She'd Look Skinnier at Her Wedding",
-    "publisher": "VICE",
-    "date": "2026-11-07T08:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "‘Distasteful’: Sexual wedding act shocks",
-    "publisher": "The Daily Telegraph",
-    "date": "2026-10-31T07:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "Groom slammed for pulling ‘highly inappropriate’ stunt at the altar",
     "publisher": "New York Post",
     "date": "2026-11-02T08:00:00+00:00"
@@ -8445,15 +8435,27 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Cross-cultural joy: Newlyweds' traditional welcome celebration goes viral",
-    "publisher": "Jacaranda FM",
-    "date": "2026-11-13T07:44:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
     "publisher": "VnExpress International",
     "date": "2026-11-02T08:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "The Woman Who Went Viral For Breaking Miley Cyrus’s Strict Dress Code At Her Wedding Has Been Identified — And Now Everybody Feels Bad",
+    "publisher": "BuzzFeed",
+    "date": "2026-11-23T11:22:20+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "Ashe's 'Stop the Wedding': The Viral Trend Raising Marriage Awareness",
+    "publisher": "Tempo.co English",
+    "date": "2026-11-07T05:04:55+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
+    "publisher": "ELLE",
+    "date": "2026-10-29T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -8463,27 +8465,9 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Distraction free weddings are a big trend right now. 'Hilarious' SNL sketch reveals the big downside",
-    "publisher": "Amateur Photographer",
-    "date": "2026-11-14T10:45:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "Is This the End of the Wedding Overshare?",
     "publisher": "The New York Times",
     "date": "2026-11-08T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Your guide through October social media trends",
-    "publisher": "Vogue Adria",
-    "date": "2026-11-02T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Jennifer Lopez’s ‘Frosted Pearl’ Nails Are This Season’s Dreamiest Manicure Trend: 7 Ways To Wear Them Now",
-    "publisher": "ELLE",
-    "date": "2026-11-01T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -8493,21 +8477,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "13 of the Most Secretive Celebrity Weddings",
-    "publisher": "People.com",
-    "date": "2026-10-28T07:00:00+00:00"
+    "headline": "Richmonders are paying to crash strangers' weddings",
+    "publisher": "Axios",
+    "date": "2026-11-13T08:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Designers dreaming up Taylor Swift-inspired wedding gowns",
-    "publisher": "Arizona Daily Star",
-    "date": "2026-11-19T03:08:45+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Selena Gomez calls out Martin Short's major wedding faux pas that nearly ruined Benny Blanco nuptials",
-    "publisher": "Page Six",
-    "date": "2026-11-20T17:03:00+00:00"
+    "headline": "The 7 Best Nail Trends to Try Right Now",
+    "publisher": "Harper's BAZAAR",
+    "date": "2026-11-03T08:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -8517,15 +8495,33 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Naomie Olindo Reveals She’s Pregnant with Her & Billy Haire's First Baby (PHOTO)",
-    "publisher": "Bravo",
-    "date": "2026-10-26T07:00:00+00:00"
+    "headline": "Mumbai couple skips big fat wedding, ties the knot with just 8 guests by the seaside",
+    "publisher": "India Today",
+    "date": "2026-11-21T05:53:24+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "A Guide to Trending Hashtags on TikTok, Instagram, and All Major Platforms (2026)",
-    "publisher": "Influencer Marketing Hub",
-    "date": "2026-10-31T07:00:00+00:00"
+    "headline": "Anirudh-Kavya Wedding: From Star-Studded Guests To A Traditional Tamil Vegetarian Feast",
+    "publisher": "Curly Tales",
+    "date": "2026-11-12T08:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Miley Cyrus and Maxx Morando’s wedding rehearsal dinner menu revealed ahead of weekend nuptials",
+    "publisher": "Page Six",
+    "date": "2026-11-21T19:53:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Ashe's 'Stop the Wedding': The Viral Trend Raising Marriage Awareness",
+    "publisher": "Tempo.co English",
+    "date": "2026-11-07T05:04:55+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "'My closest friend': Rimi Tomy introduces fiance, reveals wedding date",
+    "publisher": "Onmanorama",
+    "date": "2026-11-02T08:00:00+00:00"
    },
    {
     "query": "Pinterest wedding trends",
