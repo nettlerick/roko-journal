@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:23:28+00:00",
+ "generated": "2026-11-24T15:47:24+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -5194,7 +5194,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-24T12:23+00:00",
+  "generated": "2026-11-24T15:47+00:00",
   "rising_searches": {
    "date": "2026-11-23",
    "compared_with": "2026-11-16",
@@ -7864,6 +7864,22 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.vogue.com/slideshow/lily-monbouquette-and-eric-bach-wedding",
+    "title": "This Creative Couple Hosted a New Orleans Wedding Complete With a Crawfish Boil and a Masquerade After-Party",
+    "summary": "Jewelry designer Lily Monbouquette wore her own bridal jewelry line and designs by Wed Studio and Wiederhoeft for her wedding to Eric Bach, which featured a sculpture garden ceremony, a candlelit reception, and a second-line parade through the New Orleans streets.",
+    "date": "2026-11-24T13:00:00+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
+    "url": "https://www.townandcountrymag.com/the-scene/weddings/a74484078/patrick-hunt-marco-sebastian-wedding-photos/",
+    "title": "Patrick Hunt and Marco Sebastian’s Classic Uptown Wedding",
+    "summary": "The couple’s Upper East Side celebration made use of all that the city has to offer.",
+    "date": "2026-11-24T13:00:00+00:00",
+    "publisher": "Town & Country",
+    "kind": "luxury"
+   },
+   {
     "url": "https://www.tatler.com/article/rajwa-jordan-wedding-engagement-princess",
     "title": "A dazzling debut! Princess Rajwa of Jordan carries out her first solo engagement since her wedding",
     "summary": "The royal married Crown Prince Hussein in June 2023",
@@ -8261,6 +8277,15 @@
     "query": "hospitality weddings"
    },
    {
+    "url": "https://in.eventfaqs.com/2026/11/23/9th-international-mice-wedding-forum-opens-in-didim-sets-stage-for-2027-global-mice-and-wedding-projects/",
+    "title": "9th International MICE & Wedding Forum Opens in Didim, Sets Stage for 2027 Global MICE and Wedding Projects",
+    "summary": "The opening conference and panel discussions, held under the theme ‘From Classics to New Discoveries’, are scheduled for October 29, followed by a full day of one-to-one B2B meetings on October 30.",
+    "date": "2026-11-22T16:00:00+00:00",
+    "publisher": "in.eventfaqs",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
     "url": "https://www.gulftoday.ae/news/2026/11/22/sheikh-mohammed-sheikh-hamdan-and-sheikh-maktoum-attend-wedding-reception",
     "title": "Sheikh Mohammed, Sheikh Hamdan and Sheikh Maktoum attend wedding reception",
     "summary": "His Highness Sheikh Mohammed Bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, attended a wedding reception hosted ...",
@@ -8357,32 +8382,6 @@
     "publisher": "Asia Economy",
     "kind": "news",
     "query": "wedding guests cost"
-   },
-   {
-    "url": "https://www.msn.com/en-in/news/India/in-wedding-season-dip-in-gold-price-strikes-a-welcome-note-for-buyers-in-lucknow/ar-AA2hWca6",
-    "title": "In wedding season, dip in gold price strikes a welcome note for buyers in Lucknow",
-    "summary": "Gold has plunged about 32% from its January 2026 peak, said Kailash Chandra Jain, president of the Sarafa Association.",
-    "date": "2026-11-21T11:35:49+00:00",
-    "publisher": "Hindustan Times on MSN",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.vogue.com/article/fall-winter-2026-wedding-guest-dresses",
-    "title": "5 Fall/Winter 2026 Wedding Guest Dress Trends You Can Still Shop",
-    "summary": "There's still time to shop some of fall/winter 2026's biggest trends—and these five work particularly well for wedding guests, too.",
-    "date": "2026-11-21T11:00:00+00:00",
-    "publisher": "Vogue",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://theprint.in/india/as-wedding-season-begins-traffic-snarls-bring-delhi-roads-to-a-crawl/3105425/",
-    "title": "As wedding season begins, traffic snarls bring Delhi roads to a crawl",
-    "summary": "Preferred Source Google Discover New Delhi, Nov 21 (PTI) As the wedding season begins in the national capital, a combination of wedding processions, heavy vehicular movement and evening rush-hour ...",
-    "date": "2026-11-21T09:18:00+00:00",
-    "publisher": "The Print",
-    "kind": "news",
-    "query": "wedding season India"
    }
   ],
   "headlines": [
@@ -8406,27 +8405,21 @@
    },
    {
     "query": "wedding trends",
-    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
-    "publisher": "Country and Town House",
-    "date": "2026-10-28T17:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
     "headline": "The best wedding guest suits for winter 2026, and how to wear them",
     "publisher": "British GQ",
     "date": "2026-11-06T08:00:00+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "The Direct-from-Runway Winter Wedding Guest Dresses You Can Shop Now",
-    "publisher": "Vogue",
-    "date": "2026-11-21T11:00:00+00:00"
+    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
+    "publisher": "Country and Town House",
+    "date": "2026-10-28T17:00:00+00:00"
    },
    {
     "query": "wedding trends",
-    "headline": "Bickleigh wedding barn makes it three years of awards recognition in a row",
-    "publisher": "Midweek Herald",
-    "date": "2026-11-21T00:30:00+00:00"
+    "headline": "The Direct-from-Runway Winter Wedding Guest Dresses You Can Shop Now",
+    "publisher": "Vogue",
+    "date": "2026-11-21T11:00:00+00:00"
    },
    {
     "query": "wedding trends",
@@ -8457,6 +8450,12 @@
     "headline": "Designers dreaming up Taylor Swift-inspired wedding gowns",
     "publisher": "Arizona Daily Star",
     "date": "2026-11-19T03:08:45+00:00"
+   },
+   {
+    "query": "wedding trends",
+    "headline": "Europe Destination Wedding Market Size, Share, Trends 2036",
+    "publisher": "Future Market Insights",
+    "date": "2026-10-29T07:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -8502,6 +8501,12 @@
    },
    {
     "query": "wedding industry",
+    "headline": "Norfolk DJ business honoured at awards after nomination from clients",
+    "publisher": "EDP24",
+    "date": "2026-11-20T08:19:00+00:00"
+   },
+   {
+    "query": "wedding industry",
     "headline": "Kilmarnock wedding magician and host Steven Blair has been highly commended at The Wedding Industry Awards",
     "publisher": "https://www.ayrshiredailynews.co.uk/",
     "date": "2026-11-09T08:00:00+00:00"
@@ -8511,12 +8516,6 @@
     "headline": "Isle of Wight wedding company named finalist in industry awards",
     "publisher": "Isle of Wight County Press",
     "date": "2026-11-18T11:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Norfolk DJ business honoured at awards after nomination from clients",
-    "publisher": "Great Yarmouth Mercury",
-    "date": "2026-11-20T08:19:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -8550,6 +8549,12 @@
    },
    {
     "query": "viral wedding TikTok",
+    "headline": "Bride reportedly asks bridesmaid to gain 120 pounds TikTok video, explained",
+    "publisher": "The Mary Sue",
+    "date": "2026-11-04T08:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
     "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
     "publisher": "IMDb",
     "date": "2026-11-05T19:27:57+00:00"
@@ -8559,12 +8564,6 @@
     "headline": "Kim Kardashian Promises Bride Custom Bottle of Discontinued KKW Gardenia Perfume for Wedding",
     "publisher": "Complex",
     "date": "2026-11-20T22:36:18+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Bride Allegedly Asked Her Bridesmaid to Gain 120 Pounds So She'd Look Skinnier at Her Wedding",
-    "publisher": "VICE",
-    "date": "2026-11-07T08:00:00+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -8586,9 +8585,9 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Cross-cultural joy: Newlyweds' traditional welcome celebration goes viral",
-    "publisher": "Jacaranda FM",
-    "date": "2026-11-13T07:44:00+00:00"
+    "headline": "The Woman Who Went Viral For Breaking Miley Cyrus’s Strict Dress Code At Her Wedding Has Been Identified — And Now Everybody Feels Bad",
+    "publisher": "BuzzFeed",
+    "date": "2026-11-23T11:22:20+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -8604,12 +8603,6 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "publisher": "ELLE",
-    "date": "2026-10-29T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
     "publisher": "Who What Wear",
     "date": "2026-10-29T07:00:00+00:00"
@@ -8622,15 +8615,33 @@
    },
    {
     "query": "wedding Instagram trend",
+    "headline": "Distraction free weddings are a big trend right now. 'Hilarious' SNL sketch reveals the big downside",
+    "publisher": "Amateur Photographer",
+    "date": "2026-11-14T08:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
     "headline": "Is This the End of the Wedding Overshare?",
     "publisher": "The New York Times",
     "date": "2026-11-08T08:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
+    "headline": "Your guide through October social media trends",
+    "publisher": "Vogue Adria",
+    "date": "2026-11-02T08:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
     "headline": "3 Wedding invitation in Mobile alight motion trending Reels reels trending rs guruji",
     "publisher": "YouTube",
     "date": "2026-11-13T08:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Jennifer Lopez’s ‘Frosted Pearl’ Nails Are This Season’s Dreamiest Manicure Trend: 7 Ways To Wear Them Now",
+    "publisher": "ELLE",
+    "date": "2026-11-01T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -8646,33 +8657,21 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Richmonders are paying to crash strangers' weddings",
-    "publisher": "Axios",
-    "date": "2026-11-13T08:00:00+00:00"
+    "headline": "Everything You Need to Know About Miley Cyrus’s New Husband, Maxx Morando",
+    "publisher": "Harper's BAZAAR",
+    "date": "2026-11-23T20:03:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Bianca Remembers Late Husband Odumegwu-Ojukwu On 32nd Wedding Anniversary",
-    "publisher": "TVC News",
-    "date": "2026-11-12T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Mumbai couple skips big fat wedding, ties the knot with just 8 guests by the seaside",
-    "publisher": "India Today",
-    "date": "2026-11-21T05:53:24+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "These Are The Biggest 2027 Wedding Dress Trends",
-    "publisher": "The Kit",
+    "headline": "13 of the Most Secretive Celebrity Weddings",
+    "publisher": "People.com",
     "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Anirudh-Kavya Wedding: From Star-Studded Guests To A Traditional Tamil Vegetarian Feast",
-    "publisher": "Curly Tales",
-    "date": "2026-11-12T08:00:00+00:00"
+    "headline": "Miley Cyrus Reveals First Images From Her Wedding To Fellow Musician",
+    "publisher": "HuffPost",
+    "date": "2026-11-23T01:03:35+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -8712,39 +8711,39 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
-    "publisher": "Business Eye Magazine",
-    "date": "2026-10-30T07:00:00+00:00"
-   },
-   {
-    "query": "luxury wedding venue opening",
     "headline": "The Best Wedding Venues In London: 21 Places To Say ‘I Do’",
     "publisher": "Country and Town House",
     "date": "2026-11-17T07:27:52+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Winter wedding venues: The cosiest places to say 'I do' in the UK",
-    "publisher": "SquareMeal",
-    "date": "2026-11-03T08:00:00+00:00"
+    "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
+    "publisher": "Business Eye Magazine",
+    "date": "2026-10-30T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Rahul Arora On Bringing A Destination Wedding Experience To South Delhi With Watercrest",
-    "publisher": "Everything Experiential",
-    "date": "2026-11-17T09:08:56+00:00"
+    "headline": "GOWER: King Arthur Hotel named best wedding venue in Wales",
+    "publisher": "Swansea Bay News",
+    "date": "2026-11-14T12:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "How Urvashi Mishra is Reinventing Entrepreneurship, Hospitality, and the Future of Luxury Wedding Planning",
-    "publisher": "USA Today",
-    "date": "2026-11-06T08:00:00+00:00"
+    "headline": "Killyhevlin unveils £1.5m lakeside wedding venue opening in Spring 2027",
+    "publisher": "The Impartial Reporter",
+    "date": "2026-10-27T07:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "The Best Wedding & Event Venues in the Capital Region, According to Locals",
-    "publisher": "Times Union",
-    "date": "2026-11-10T08:00:00+00:00"
+    "headline": "Lake District venue crowned North West’s best wedding hotel",
+    "publisher": "Cumbria Crack",
+    "date": "2026-11-13T08:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Lake District hotel 'could not be prouder' after being named best for weddings",
+    "publisher": "Westmorland Gazette",
+    "date": "2026-11-14T08:00:00+00:00"
    }
   ],
   "pages": {
