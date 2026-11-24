@@ -61,7 +61,68 @@
  "series": "Journal",
  "date": "2026-11-24T02:05",
  "updated": "2026-11-24T02:05",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Kor!An (Андрей Корзун), CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Bouquet_of_peonies_11.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/wedding-colour-palettes-that-work-in-every-season/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Roses and peonies for wedding flowers",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@cbb411f1a71824df8339a93c8a175522cab60f7b/media/wedding-colour-palettes-that-work-in-every-season/cover.webp"
+  },
+  {
+   "credit": "Photo: Joel Aguilar antonioflores89, CC0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Table_of_wine_and_snacks_(Unsplash).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "media/wedding-colour-palettes-that-work-in-every-season/1.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Drinks served at a table",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@cbb411f1a71824df8339a93c8a175522cab60f7b/media/wedding-colour-palettes-that-work-in-every-season/1.webp"
+  },
+  {
+   "credit": "Photo: AlexBoston1, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Rose_Foil_Invitation.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-colour-palettes-that-work-in-every-season/2.webp",
+   "width": 1600,
+   "height": 1110,
+   "alt": "Wedding invitations and stationery",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@cbb411f1a71824df8339a93c8a175522cab60f7b/media/wedding-colour-palettes-that-work-in-every-season/2.webp"
+  },
+  {
+   "credit": "Photo: Shixart1985, CC BY 2.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:A_beautifully_crafted_cake_featuring_floral_decorations_and_pastel_candles_sits_on_a_table.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "file": "media/wedding-colour-palettes-that-work-in-every-season/3.webp",
+   "width": 1600,
+   "height": 2000,
+   "alt": "Tiered wedding cake",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@cbb411f1a71824df8339a93c8a175522cab60f7b/media/wedding-colour-palettes-that-work-in-every-season/3.webp"
+  },
+  {
+   "credit": "Photo: Pravito, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Chandeliers_at_a_wedding_reception_hall,_Jakarta,_Indonesia.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-colour-palettes-that-work-in-every-season/4.webp",
+   "width": 1600,
+   "height": 2133,
+   "alt": "Decorated event hall set for a reception",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@cbb411f1a71824df8339a93c8a175522cab60f7b/media/wedding-colour-palettes-that-work-in-every-season/4.webp"
+  }
+ ],
  "categories": [
   "wedding-flowers-and-decor",
   "wedding-stationery"
