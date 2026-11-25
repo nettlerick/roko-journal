@@ -60,7 +60,56 @@
  "series": "Journal",
  "date": "2026-11-25T02:08",
  "updated": "2026-11-25T02:08",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Friedrich Haag, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:2015_04_07_006_Adox_Roll-film_box-camera.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-photographer-costs/cover.webp",
+   "width": 1802,
+   "height": 1013,
+   "alt": "Camera on a plain background",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@857c4d9d0d17748d34a526bdbe00ec7fe324a129/media/wedding-photographer-costs/cover.webp"
+  },
+  {
+   "credit": "Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:1st_courtyard_of_%C4%8Cesk%C3%BD_Krumlov_Castle,_20250504_1300_8873.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "file": "media/wedding-photographer-costs/1.webp",
+   "width": 1600,
+   "height": 1068,
+   "alt": "Country manor house and courtyard",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@857c4d9d0d17748d34a526bdbe00ec7fe324a129/media/wedding-photographer-costs/1.webp"
+  },
+  {
+   "credit": "Photo: This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Villa_Igiea_a_Palermo_salone.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/wedding-photographer-costs/2.webp",
+   "width": 1600,
+   "height": 985,
+   "alt": "Palace ballroom interior",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@857c4d9d0d17748d34a526bdbe00ec7fe324a129/media/wedding-photographer-costs/2.webp"
+  },
+  {
+   "credit": "Photo: vallgall, CC BY-SA 2.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:The_wine_glasses_-_Flickr_-_vallgall.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "media/wedding-photographer-costs/3.webp",
+   "width": 1600,
+   "height": 1297,
+   "alt": "Drinks served at a table",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@857c4d9d0d17748d34a526bdbe00ec7fe324a129/media/wedding-photographer-costs/3.webp"
+  }
+ ],
  "categories": [
   "wedding-photographers"
  ]
