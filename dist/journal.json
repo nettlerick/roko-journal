@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T10:46:53+00:00",
+ "generated": "2026-11-26T15:05:09+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -5518,7 +5518,7 @@
   }
  },
  "research": {
-  "generated": "2026-11-26T10:46+00:00",
+  "generated": "2026-11-26T15:05+00:00",
   "rising_searches": {
    "date": "2026-11-23",
    "compared_with": "2026-11-16",
@@ -8194,6 +8194,56 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.hospitalitynet.org/news/4135718/alila-kothaifaru-maldives-presents-tides-of-wonder-for-christmas-and-new-year-2026",
+    "title": "Alila Kothaifaru Maldives Presents Tides of Wonder for Christmas and New Year 2026",
+    "summary": "Alila Kothaifaru Maldives unveils its Christmas and New Year 2026 festive programme, running 21 December to 7 January, with curated dining, marine events, and a stay-longer offer for 7+ night bookings.",
+    "date": "2026-11-26T13:07:19+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/news/4135716/radisson-hotel-group-wins-2026-hotel-visionary-award-for-ai-powered-revenue-management-innovation",
+    "title": "Radisson Hotel Group wins 2026 Hotel Visionary Award for AI-powered revenue management innovation",
+    "summary": "Radisson's AI-powered Price Match tool automatically monitors OTA rates and matches lower prices in real time, delivering a 30% conversion uplift since launch and a 130% higher conversion rate on triggered properties.",
+    "date": "2026-11-26T12:55:23+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.hospitalitynet.org/opinion/4135715/the-booking-is-a-promise-the-experience-is-the-proof",
+    "title": "The Booking Is a Promise. The Experience Is the Proof.",
+    "summary": "A panel discussion in Cancún highlights how hotels overinvest in AI-driven booking tools while under-investing in post-check-in systems that drive loyalty, reviews, and ancillary revenue.",
+    "date": "2026-11-26T12:28:23+00:00",
+    "publisher": "Hospitality Net",
+    "kind": "travel"
+   },
+   {
+    "url": "https://skift.com/2026/11/26/houthi-attacks-gut-riyadhs-peak-season/",
+    "title": "Houthi Attacks Gut Riyadh’s Peak Season",
+    "summary": "Riyadh’s fourth quarter runs on international corporate and event demand that flies in, and the missile strikes hit that badly. Domestic demand can’t fill the gap, so hotels will trade rate for occupancy in the quarter that in normal times supports their strongest pricing.",
+    "date": "2026-11-26T12:14:10+00:00",
+    "publisher": "Skift",
+    "kind": "travel"
+   },
+   {
+    "url": "https://www.freepressjournal.in/sports/who-is-bilal-asif-pakistan-cricketer-marries-entrepreneur-abidha-chaudhary-honey-singh-atif-aslam-attend-wedding-in-dubai",
+    "title": "Who Is Bilal Asif? Pakistan Cricketer Marries Entrepreneur Abidha Chaudhary; Honey Singh, Atif Aslam Attend Wedding In Dubai",
+    "summary": "Pakistan cricketer Bilal Asif married Abidha Chaudhary in Dubai. The wedding was attended by several high-profile guests, including Indian rapper Yo Yo Honey Singh and Pakistani singer Atif Aslam.",
+    "date": "2026-11-26T04:36:00+00:00",
+    "publisher": "Free Press Journal",
+    "kind": "news",
+    "query": "Dubai wedding"
+   },
+   {
+    "url": "https://www.eadt.co.uk/news/26764051.leiston-cake-designer-wins-wedding-industry-award-2027/",
+    "title": "Leiston cake designer wins Wedding Industry Award for 2027",
+    "summary": "Leiston cake designer Perfect Moment Cake Design has won the East of England wedding cake title for the second year running.",
+    "date": "2026-11-26T03:00:00+00:00",
+    "publisher": "East Anglian Daily Times",
+    "kind": "news",
+    "query": "wedding industry UK"
+   },
+   {
     "url": "https://www.hospitalitynet.org/news/4135707/sustainable-ideas-for-hotels-to-create-a-more-thoughtful-christmas-in-2026",
     "title": "Sustainable Ideas for Hotels to Create a More Thoughtful Christmas in 2026",
     "summary": "Practical guide for hotels on running more sustainable Christmas events, covering waste reduction, local talent, community giving, and responsible resource management.",
@@ -8581,6 +8631,15 @@
     "query": "destination wedding"
    },
    {
+    "url": "https://note.com/tsudoi_wedding/n/n7b0a985ba3a2?hl=en",
+    "title": "To Couples Planning a Wedding in Iwate! Items to Check in Small-Scale Wedding Estimates | Watch Out for Costs That Increase Later",
+    "summary": "\"We received an estimate for an intimate wedding, but will this amount really be enough?\"\"How much does it usually increase from the initial estimate?\"These are common concerns that couples planning ...",
+    "date": "2026-11-25T00:30:00+00:00",
+    "publisher": "note",
+    "kind": "news",
+    "query": "wedding guests cost"
+   },
+   {
     "url": "https://www.socialsamosa.com/experts-speak/indian-weddings-bigger-hotels-selling-more-than-venues-12819809",
     "title": "As Indian weddings get bigger, hotels are selling more than just venues",
     "summary": "The changing wedding consumer is prompting hotels to rethink how they showcase properties, use digital channels and evaluate the business impact of their marketing efforts.",
@@ -8658,63 +8717,6 @@
     "publisher": "CairoScene",
     "kind": "news",
     "query": "Dubai wedding"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/news/4135677/cloudbeds-ranked-among-the-fastest-growing-companies-in-north-america-on-the-2026-deloitte-technology-fast-500",
-    "title": "Cloudbeds ranked among the fastest-growing companies in North America on the 2026 Deloitte Technology Fast 500™",
-    "summary": "Cloudbeds has made the Deloitte Technology Fast 500 for the fourth consecutive year, posting 215% revenue growth over three years while expanding its AI and enterprise capabilities.",
-    "date": "2026-11-24T15:55:55+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/editorial/4135676/only-a-third-of-revenue-gains-come-from-price-a-new-ai-council-faces-the-neutrality-question-lifestyle-brands-learn-to-run-owners-hotels",
-    "title": "Only a Third of Revenue Gains Come From Price, a New AI Council Faces the Neutrality Question, Lifestyle Brands Learn to Run Owners' Hotels",
-    "summary": "Tuesday brought an argument that only a third of revenue management gains come from pricing, and a World Panel question on whether lifestyle brands can run hotels for third-party owners.",
-    "date": "2026-11-24T15:40:00+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://sharjah24.ae/en/Articles/2026/11/24/Ma9",
-    "title": "Afrah Al Emarat: UAE mass weddings to bring together 2,000 grooms",
-    "summary": "Afrah Al Emarat, a national initiative held under the patronage of President His Highness Sheikh Mohamed bin Zayed Al Nahyan, will organise mass weddings across all seven emirates, targeting more ...",
-    "date": "2026-11-24T14:17:00+00:00",
-    "publisher": "Sharjah24",
-    "kind": "news",
-    "query": "Dubai wedding"
-   },
-   {
-    "url": "https://www.vogue.com/slideshow/lily-monbouquette-and-eric-bach-wedding",
-    "title": "This Creative Couple Hosted a New Orleans Wedding Complete With a Crawfish Boil and a Masquerade After-Party",
-    "summary": "Jewelry designer Lily Monbouquette wore her own bridal jewelry line and designs by Wed Studio and Wiederhoeft for her wedding to Eric Bach, which featured a sculpture garden ceremony, a candlelit reception, and a second-line parade through the New Orleans streets.",
-    "date": "2026-11-24T13:00:00+00:00",
-    "publisher": "Vogue",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.townandcountrymag.com/the-scene/weddings/a74484078/patrick-hunt-marco-sebastian-wedding-photos/",
-    "title": "Patrick Hunt and Marco Sebastian’s Classic Uptown Wedding",
-    "summary": "The couple’s Upper East Side celebration made use of all that the city has to offer.",
-    "date": "2026-11-24T13:00:00+00:00",
-    "publisher": "Town & Country",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.tatler.com/article/rajwa-jordan-wedding-engagement-princess",
-    "title": "A dazzling debut! Princess Rajwa of Jordan carries out her first solo engagement since her wedding",
-    "summary": "The royal married Crown Prince Hussein in June 2023",
-    "date": "2026-11-24T11:41:19+00:00",
-    "publisher": "Tatler",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.vogue.com/slideshow/wedding-after-party-dresses",
-    "title": "52 Best Wedding After-Party Dresses for a Night to Remember 2026",
-    "summary": "From sparkling to embellished to feathered, the best wedding after-party dresses will have you looking and feeling your best all night long.",
-    "date": "2026-11-24T11:00:00+00:00",
-    "publisher": "Vogue",
-    "kind": "luxury"
    }
   ],
   "headlines": [
@@ -8828,27 +8830,9 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Carrickfergus husband and wife team celebrate success at National Wedding Industry Awards of Northern Ireland",
-    "publisher": "NorthernIrelandWorld",
-    "date": "2026-11-17T08:00:00+00:00"
-   },
-   {
-    "query": "wedding industry",
     "headline": "Celebrant wins regional Wedding Industry Award for third year running",
     "publisher": "Reading Chronicle",
     "date": "2026-11-20T12:30:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Norfolk DJ business honoured at awards after nomination from clients",
-    "publisher": "EDP24",
-    "date": "2026-11-20T08:19:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "WedPage launches to bring the whole wedding together",
-    "publisher": "Event Industry News",
-    "date": "2026-11-10T09:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -8858,9 +8842,27 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Prudhoe magician wins regional wedding entertainer award for third year running",
-    "publisher": "Hexham Courant",
+    "headline": "Carrickfergus husband and wife team celebrate success at National Wedding Industry Awards of Northern Ireland",
+    "publisher": "NorthernIrelandWorld",
     "date": "2026-11-17T08:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Norfolk DJ business honoured at awards after nomination from clients",
+    "publisher": "EDP24",
+    "date": "2026-11-20T08:19:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Geilsland Estate in Beith wins top honour at Wedding Industry Awards",
+    "publisher": "Ardrossan and Saltcoats Herald",
+    "date": "2026-11-07T08:00:00+00:00"
+   },
+   {
+    "query": "wedding industry",
+    "headline": "Datchworth wedding venue highly commended at regional Wedding Industry Awards",
+    "publisher": "The Comet",
+    "date": "2026-11-16T12:17:31+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -8888,15 +8890,15 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
-    "publisher": "IMDb",
-    "date": "2026-11-05T19:27:57+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "Kim Kardashian Promises Bride Custom Bottle of Discontinued KKW Gardenia Perfume for Wedding",
     "publisher": "Complex",
     "date": "2026-11-20T22:36:18+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "‘Stop the Wedding!’ Lyrics & Meaning: Ashe Reveals the Real-Life Story Behind Her Viral Hit",
+    "publisher": "IMDb",
+    "date": "2026-11-05T19:27:57+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -8948,39 +8950,15 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "The Viral “Stop the Wedding” Trend Is a Reminder That It’s Never Too Late to Walk Away",
-    "publisher": "Cosmopolitan",
-    "date": "2026-11-05T08:00:00+00:00"
+    "headline": "Everything that’s wrong with the world or the best decision you could make for your wedding? Content creator’s award success",
+    "publisher": "St Albans Times",
+    "date": "2026-11-25T16:38:55+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Distraction free weddings are a big trend right now. 'Hilarious' SNL sketch reveals the big downside",
-    "publisher": "Amateur Photographer",
-    "date": "2026-11-14T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Your guide through October social media trends",
-    "publisher": "Vogue Adria",
-    "date": "2026-11-02T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Is This the End of the Wedding Overshare?",
-    "publisher": "The New York Times",
-    "date": "2026-11-08T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "3 Wedding invitation in Mobile alight motion trending Reels reels trending rs guruji",
-    "publisher": "YouTube",
-    "date": "2026-11-13T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Chinese man invites internet strangers to his wedding. Watch as hundreds show up",
-    "publisher": "The Indian Express",
-    "date": "2026-10-31T07:00:00+00:00"
+    "headline": "Miley Cyrus Chooses Chopard for Her Wedding Jewels",
+    "publisher": "nationaljeweler.com",
+    "date": "2026-11-24T19:03:10+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -8990,21 +8968,45 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Bianca Remembers Late Husband Odumegwu-Ojukwu On 32nd Wedding Anniversary",
-    "publisher": "TVC News",
-    "date": "2026-11-12T08:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
     "headline": "13 of the Most Secretive Celebrity Weddings",
     "publisher": "People.com",
     "date": "2026-10-28T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Designers dreaming up Taylor Swift-inspired wedding gowns",
-    "publisher": "Arizona Daily Star",
-    "date": "2026-11-19T03:08:45+00:00"
+    "headline": "Celebrity weddings 2026: All the stars who got married this year",
+    "publisher": "Page Six",
+    "date": "2026-11-22T13:37:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Wyndham Clark's wedding proposal wasn't your typical staged Instagram nonsense, Sexy Dexy dances & Jerry's mad",
+    "publisher": "Fox News",
+    "date": "2026-11-16T08:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "25 Best Dress Brands To Know For Every Occasion in 2026",
+    "publisher": "ELLE",
+    "date": "2026-11-23T08:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Miley Cyrus, Maxx Morando marry in Palm Springs wedding",
+    "publisher": "Boston 25 News",
+    "date": "2026-11-23T18:55:03+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Meet the Only 12 Jewelry Brands You Need to Know in 2026",
+    "publisher": "Glamour",
+    "date": "2026-10-28T07:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Newlywed Bride Makes Matcha For Pehli Rasoi, Netizens Call Her The “Coolest Bride” Ever",
+    "publisher": "Curly Tales",
+    "date": "2026-11-25T10:48:56+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -9032,33 +9034,9 @@
    },
    {
     "query": "Pinterest wedding trends",
-    "headline": "The Blouse Is The Star: Saree Blouse Trends For 2026",
-    "publisher": "ELLE India",
-    "date": "2026-11-16T08:25:42+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "5 Stylish Engagement Ring Trends for 2026: The Expert Guide",
-    "publisher": "Natural Diamond Council",
-    "date": "2026-11-18T08:00:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "5 Nail Colours That Are The Ultimate Low Maintenance Summer Accessory",
-    "publisher": "Marie Claire",
-    "date": "2026-11-12T08:00:00+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
     "headline": "From Layered Pearls To Chandbali: Jewellery Trends Ruling This Wedding Season 2026",
     "publisher": "Herzindagi",
     "date": "2026-11-25T06:08:59+00:00"
-   },
-   {
-    "query": "Pinterest wedding trends",
-    "headline": "\"This was healing to see\": South African newlyweds wear matching afros",
-    "publisher": "Briefly News",
-    "date": "2026-11-14T08:00:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -9077,6 +9055,30 @@
     "headline": "The Best Wedding Venues In London: 21 Places To Say ‘I Do’",
     "publisher": "Country and Town House",
     "date": "2026-11-17T07:27:52+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Northamptonshire luxury hotel crowned best wedding venue in the East Midlands",
+    "publisher": "Northamptonshire Telegraph",
+    "date": "2026-11-24T17:26:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Killyhevlin Invests £1.5 Million In New Wedding Venue",
+    "publisher": "Business Eye Magazine",
+    "date": "2026-10-30T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "GOWER: King Arthur Hotel named best wedding venue in Wales",
+    "publisher": "Swansea Bay News",
+    "date": "2026-11-14T08:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Lake District venue crowned North West’s best wedding hotel",
+    "publisher": "Cumbria Crack",
+    "date": "2026-11-13T08:00:00+00:00"
    }
   ],
   "pages": {
