@@ -68,7 +68,67 @@
  "series": "Journal",
  "date": "2026-11-26T02:06",
  "updated": "2026-11-26T02:06",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Vogue",
+   "credit_url": "https://www.vogue.com/slideshow/wedding-after-party-dresses",
+   "license": "Image from the cited website",
+   "file": "media/luxury-birthday-party-ideas/cover.webp",
+   "width": 1280,
+   "height": 720,
+   "alt": "Black and white photo of a smiling bride dancing happily at a wedding reception with guests around her.",
+   "source": "website",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@7608261c119aa0b51b0d5662c7582b299beb8616/media/luxury-birthday-party-ideas/cover.webp"
+  },
+  {
+   "credit": "Photo: Natalia Fernandez, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Guerilla_Toss_Live,_November_16,_2022.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/luxury-birthday-party-ideas/1.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "A live band performing on a stage under dramatic amber and blue spotlight beams.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@7608261c119aa0b51b0d5662c7582b299beb8616/media/luxury-birthday-party-ideas/1.webp"
+  },
+  {
+   "credit": "Photo: Lanisha Cole, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Club_Tigerheat_on_the_Dance_Floor_with_Laser_Lights.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/luxury-birthday-party-ideas/2.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Stage lights over a dance floor",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@7608261c119aa0b51b0d5662c7582b299beb8616/media/luxury-birthday-party-ideas/2.webp"
+  },
+  {
+   "credit": "Photo: ermell, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Boesendorfer-5075415.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/luxury-birthday-party-ideas/3.webp",
+   "width": 1600,
+   "height": 1149,
+   "alt": "Musical instrument ready for a performance",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@7608261c119aa0b51b0d5662c7582b299beb8616/media/luxury-birthday-party-ideas/3.webp"
+  },
+  {
+   "credit": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/luxury-birthday-party-ideas/4.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Lobby of a luxury hotel",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@7608261c119aa0b51b0d5662c7582b299beb8616/media/luxury-birthday-party-ideas/4.webp"
+  }
+ ],
  "categories": [
   "wedding-parties-and-experiences",
   "wedding-party-venues"
