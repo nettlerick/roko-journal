@@ -65,7 +65,56 @@
  "series": "Journal",
  "date": "2026-11-27T10:50",
  "updated": "2026-11-27T10:50",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Drensteinfurt,_Rinkerode,_Haus_Borg_--_2014_--_3913_--_Ausschnitt.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/country-house-wedding-venues/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Aerial view of a historic moated country house with red roofs and surrounding autumn trees.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@21aaff7556eaab0ef2ca0314a594037bb0681c73/media/country-house-wedding-venues/cover.webp"
+  },
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Appelh%C3%BClsen,_Haus_Giesking_--_2014_--_9931_--_Ausschnitt.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/country-house-wedding-venues/1.webp",
+   "width": 1600,
+   "height": 1462,
+   "alt": "Aerial view of a historic country house with a courtyard, surrounded by moat and lush green trees.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@21aaff7556eaab0ef2ca0314a594037bb0681c73/media/country-house-wedding-venues/1.webp"
+  },
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Havixbeck,_Haus_Stapel_--_2014_--_9365_--_Ausschnitt.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/country-house-wedding-venues/2.webp",
+   "width": 1600,
+   "height": 957,
+   "alt": "Aerial view of a historic country house with a large courtyard, moat, and surrounding green fields.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@21aaff7556eaab0ef2ca0314a594037bb0681c73/media/country-house-wedding-venues/2.webp"
+  },
+  {
+   "credit": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Horstmar,_Haus_Alst_--_2014_--_2499_--_Ausschnitt.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/country-house-wedding-venues/3.webp",
+   "width": 1600,
+   "height": 901,
+   "alt": "Aerial view of a historic moated country house with red roofs surrounded by lush green trees.",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@21aaff7556eaab0ef2ca0314a594037bb0681c73/media/country-house-wedding-venues/3.webp"
+  }
+ ],
  "categories": [
   "wedding-castles-and-estates"
  ]
