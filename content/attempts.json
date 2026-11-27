@@ -27,5 +27,12 @@
    "banned phrase: 'navigating the'"
   ],
   "count": 1
+ },
+ "country-house-wedding-venues": {
+  "date": "2026-11-27T02:03+00:00",
+  "errors": [
+   "plan had only 0 sections"
+  ],
+  "count": 1
  }
 }
