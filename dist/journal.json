@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T15:05:09+00:00",
+ "generated": "2026-11-27T02:03:29+00:00",
  "repo": "nettlerick/roko-journal",
  "clusters": {
   "planning": {
@@ -280,7 +280,7 @@
     "url": "/wedding-castles-and-estates",
     "label": "Discover country house venues on Roko"
    },
-   "status": "planned"
+   "status": "failed 1x"
   },
   {
    "n": 15,
@@ -5515,10 +5515,17 @@
     "banned phrase: 'navigating the'"
    ],
    "count": 1
+  },
+  "country-house-wedding-venues": {
+   "date": "2026-11-27T02:03+00:00",
+   "errors": [
+    "plan had only 0 sections"
+   ],
+   "count": 1
   }
  },
  "research": {
-  "generated": "2026-11-26T15:05+00:00",
+  "generated": "2026-11-27T02:01+00:00",
   "rising_searches": {
    "date": "2026-11-23",
    "compared_with": "2026-11-16",
@@ -8155,6 +8162,12 @@
   },
   "trending": [
    {
+    "geo": "IN",
+    "search": "anant singh daughter wedding",
+    "date": "2026-11-26T17:20:00-08:00",
+    "context": ""
+   },
+   {
     "geo": "IE",
     "search": "wedding",
     "date": "2026-11-25T00:30:00-08:00",
@@ -8194,6 +8207,14 @@
   "page_changes": [],
   "feed_items": [
    {
+    "url": "https://www.vogue.com/article/natalia-kopiszka-something-bold-something-new",
+    "title": "This Jewelry Designer Bride Created Her Own Vintage-Inspired Dress for Her Polish Countryside Wedding",
+    "summary": "Natalia Kopiszka, a Polish jewelry designer, couldn’t find her dream wedding dress—so she made one.",
+    "date": "2026-11-26T16:24:22+00:00",
+    "publisher": "Vogue",
+    "kind": "luxury"
+   },
+   {
     "url": "https://www.hospitalitynet.org/news/4135718/alila-kothaifaru-maldives-presents-tides-of-wonder-for-christmas-and-new-year-2026",
     "title": "Alila Kothaifaru Maldives Presents Tides of Wonder for Christmas and New Year 2026",
     "summary": "Alila Kothaifaru Maldives unveils its Christmas and New Year 2026 festive programme, running 21 December to 7 January, with curated dining, marine events, and a stay-longer offer for 7+ night bookings.",
@@ -8224,6 +8245,33 @@
     "date": "2026-11-26T12:14:10+00:00",
     "publisher": "Skift",
     "kind": "travel"
+   },
+   {
+    "url": "https://www.ahmedabadmirror.com/destination-weddings-to-boost-gujs-economy-by-rs-40000-crore/81926890.html",
+    "title": "Destination weddings to boost Guj’s economy by Rs 40,000 crore",
+    "summary": "SoU, Varanasi, Udaipur and Jaisalmer among top choices for state’s Rs 40,000-crore destination wedding economy; national market could be 3X larger for Gujarati weddings in other states ...",
+    "date": "2026-11-26T08:01:00+00:00",
+    "publisher": "Ahmedabad Mirror",
+    "kind": "news",
+    "query": "destination wedding"
+   },
+   {
+    "url": "https://theisleofthanetnews.com/2026/11/26/margate-wedding-cake-designer-takes-top-regional-title-at-industry-awards/",
+    "title": "Margate wedding cake designer takes top regional title at industry awards",
+    "summary": "A Margate wedding cake designer has scooped a top regional award and is now heading for the national finals. Miranda Vernon, owner of Pretty Petal Cake Co, was named South East regional winner at ...",
+    "date": "2026-11-26T07:54:00+00:00",
+    "publisher": "The Isle Of Thanet News",
+    "kind": "news",
+    "query": "wedding industry UK"
+   },
+   {
+    "url": "https://www.yahoo.com/lifestyle/articles/people-name-wedding-trends-think-142000906.html",
+    "title": "People Name the Wedding Trends They Think Miss the Point, From Black-Tie Farm Weddings to Weeklong Bachelorettes",
+    "summary": "Reddit loves a hot take, and one user’s question on r/wedding prompted plenty of them. u/TanandaL posted on the subreddit on November 26, which had 86 upvotes and 546 comments at the time of writing.",
+    "date": "2026-11-26T06:20:00+00:00",
+    "publisher": "Yahoo",
+    "kind": "news",
+    "query": "wedding trends"
    },
    {
     "url": "https://www.freepressjournal.in/sports/who-is-bilal-asif-pakistan-cricketer-marries-entrepreneur-abidha-chaudhary-honey-singh-atif-aslam-attend-wedding-in-dubai",
@@ -8487,6 +8535,15 @@
     "query": "Dubai wedding"
    },
    {
+    "url": "https://www.msn.com/en-in/news/other/what-happened-when-honey-singh-and-atif-aslam-danced-together-at-a-dubai-wedding/ar-AA2idBFn",
+    "title": "What happened when Honey Singh and Atif Aslam danced together at a Dubai wedding?",
+    "summary": "A Star-Studded Celebration in Dubai Famous singers Honey Singh and Atif Aslam were recently spotted enjoying a wedding celebration in Dubai, a moment that quickly went viral on social media. The duo ...",
+    "date": "2026-11-25T06:48:43+00:00",
+    "publisher": "Newspoint on MSN",
+    "kind": "news",
+    "query": "Dubai wedding"
+   },
+   {
     "url": "https://www.msn.com/en-in/news/other/honey-singh-and-atif-aslam-dance-at-dubai-wedding-amidst-growing-calls-to-ban-pakistani-entertainment-content-in-india/ar-AA2icI5E",
     "title": "Honey Singh and Atif Aslam dance at Dubai wedding amidst growing calls to ban Pakistani entertainment content in India",
     "summary": "Singers Honey Singh and Atif Aslam were filmed dancing together at a Dubai wedding, drawing significant online attention as calls intensify in India to ban the Pakistani OTT series Jo Bachay Hain Sang ...",
@@ -8586,6 +8643,15 @@
     "query": "destination wedding"
    },
    {
+    "url": "https://note.com/dear_edit_studio/n/n4d1ae978faff?hl=en",
+    "title": "How Much Does a Wedding Cost? Pricing Examples and How to Read Estimates for Family Weddings and Photo Weddings",
+    "summary": "When looking into wedding costs, you will find plans ranging from \"a few hundred thousand yen for 6 guests\" all the way to figures like \"around 3 million yen for a ceremony and reception.\"Looking only ...",
+    "date": "2026-11-25T04:39:00+00:00",
+    "publisher": "note",
+    "kind": "news",
+    "query": "wedding guests cost"
+   },
+   {
     "url": "https://www.msn.com/en-in/news/other/amid-ban-calls-on-pak-series-honey-singh-atif-aslam-dance-to-abrar-ul-haqs-songs-at-dubai-wedding/ar-AA2icu9q",
     "title": "Amid Ban Calls On Pak Series, Honey Singh-Atif Aslam Dance To Abrar-ul-Haq's Songs At Dubai Wedding",
     "summary": "Honey Singh and Atif Aslam attended Abidha Chaudhary and Bilal Asif's wedding in Dubai ...",
@@ -8665,133 +8731,9 @@
     "publisher": "HerZindagi",
     "kind": "news",
     "query": "wedding trends"
-   },
-   {
-    "url": "https://www.msn.com/en-gb/money/general/mps-warn-uk-events-industry-risks-losing-world-status-unless-red-tape-is-cut/ar-AA2ib0mR",
-    "title": "MPs warn UK events industry risks losing world status unless red tape is cut",
-    "summary": "A report by the DCMS Committee has outlined the challenges facing the UK's huge events industry ...",
-    "date": "2026-11-24T21:00:00+00:00",
-    "publisher": "Business Live on MSN",
-    "kind": "news",
-    "query": "events industry UK"
-   },
-   {
-    "url": "https://www.livemint.com/industry/gold-price-correction-wedding-season-jewellery-demand-revival-11795497827839.html",
-    "title": "Gold price correction draws wedding shoppers back to jewellery stores in peak wedding season",
-    "summary": "A sharp fall in gold prices has brought wedding shoppers back to jewellery stores, lifting footfall and sales. Retailers report more fresh purchases and fewer old-gold exchanges as the wedding season ...",
-    "date": "2026-11-24T20:15:00+00:00",
-    "publisher": "Mint",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://www.vogue.com/slideshow/cameron-brink-and-ben-felter-wedding",
-    "title": "Inside WNBA Star Cameron Brink and Ben Felter’s Stanford Wedding—and Her Four Bridal Looks",
-    "summary": "Six years after an “athlete mingle survey” brought them together during Covid, the WNBA star Cameron Brink and the robotics founder Ben Felter tied the knot at Stanford’s Memorial Church before celebrating along the California coast in Half Moon Bay.",
-    "date": "2026-11-24T19:00:00+00:00",
-    "publisher": "Vogue",
-    "kind": "luxury"
-   },
-   {
-    "url": "https://www.hospitalitynet.org/opinion/4135678/how-a-unified-mobile-ordering-experience-is-a-hotel-groups-secret-weapon",
-    "title": "How a unified mobile ordering experience is a hotel group’s secret weapon",
-    "summary": "IRIS outlines how a unified mobile ordering platform can help hotel groups increase ticket value by 20-30%, streamline staff training, and reclaim F&B revenue lost to third-party delivery apps.",
-    "date": "2026-11-24T16:08:18+00:00",
-    "publisher": "Hospitality Net",
-    "kind": "travel"
-   },
-   {
-    "url": "https://www.medindia.net/health/lifestyle/wedding-wellness-trends-10-health-risks-to-watch-before-the-big-day.htm",
-    "title": "Wedding Wellness Trends: 10 Health Risks To Watch Before The Big Day",
-    "summary": "From Mounjaro and glutathione drips to detox teas and crash diets, discover 10 popular wedding wellness trends that may carry health risks.",
-    "date": "2026-11-24T15:59:00+00:00",
-    "publisher": "Medindia",
-    "kind": "news",
-    "query": "wedding season India"
-   },
-   {
-    "url": "https://cairoscene.com/News/300-Emiratis-to-Celebrate-Mass-Wedding-in-Dubai-for-Eid-Al-Etihad",
-    "title": "300 Emiratis to Celebrate Mass Wedding in Dubai for Eid Al Etihad",
-    "summary": "The November 25th ceremony launches a nationwide wedding initiative, with celebrations continuing until January 7th.",
-    "date": "2026-11-24T15:59:00+00:00",
-    "publisher": "CairoScene",
-    "kind": "news",
-    "query": "Dubai wedding"
    }
   ],
   "headlines": [
-   {
-    "query": "wedding trends",
-    "headline": "2027 wedding trends revealed: From noughties' nostalgia to the groom brooch",
-    "publisher": "Metro.co.uk",
-    "date": "2026-11-05T08:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Fall 2027",
-    "publisher": "Who What Wear",
-    "date": "2026-10-29T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Getting Married? These Are The 5 Wedding Flower Trends Set To Take Over In 2027",
-    "publisher": "ELLE",
-    "date": "2026-10-29T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "The best wedding guest suits for winter 2026, and how to wear them",
-    "publisher": "British GQ",
-    "date": "2026-11-06T08:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "The Chicest Wedding Dress Trends For 2027, As Told By Designers",
-    "publisher": "Country and Town House",
-    "date": "2026-10-28T17:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "The Direct-from-Runway Winter Wedding Guest Dresses You Can Shop Now",
-    "publisher": "Vogue",
-    "date": "2026-11-21T11:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "These Are The Biggest 2027 Wedding Dress Trends",
-    "publisher": "The Kit",
-    "date": "2026-10-28T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Designers dreaming up Taylor Swift-inspired wedding gowns",
-    "publisher": "Arizona Daily Star",
-    "date": "2026-11-19T03:08:45+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Europe Destination Wedding Market Size, Share, Trends 2036",
-    "publisher": "Future Market Insights",
-    "date": "2026-10-29T07:00:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Top 10 Wedding Season Wellness Trends That Could Put Your Health At Risk",
-    "publisher": "NDTV",
-    "date": "2026-11-21T03:24:51+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Celebrity Bride Beauty Trends 2026: The Makeup Looks And Skincare Rituals To Know",
-    "publisher": "Outlook Luxe",
-    "date": "2026-11-25T05:30:00+00:00"
-   },
-   {
-    "query": "wedding trends",
-    "headline": "Is Nail Jewellery the New Bridal Favourite in 2026? Check Out Trending Pieces from Homegrown Brands!",
-    "publisher": "Local Samosa",
-    "date": "2026-11-25T05:00:37+00:00"
-   },
    {
     "query": "wedding industry",
     "headline": "Cumberland's ceremonies team nominated for top regional wedding award",
@@ -8830,15 +8772,9 @@
    },
    {
     "query": "wedding industry",
-    "headline": "Celebrant wins regional Wedding Industry Award for third year running",
-    "publisher": "Reading Chronicle",
-    "date": "2026-11-20T12:30:00+00:00"
-   },
-   {
-    "query": "wedding industry",
-    "headline": "Isle of Wight wedding company named finalist in industry awards",
-    "publisher": "Isle of Wight County Press",
-    "date": "2026-11-18T11:00:00+00:00"
+    "headline": "Margate wedding cake designer takes top regional title at industry awards",
+    "publisher": "The Isle of Thanet News",
+    "date": "2026-11-26T16:05:45+00:00"
    },
    {
     "query": "wedding industry",
@@ -8848,15 +8784,21 @@
    },
    {
     "query": "wedding industry",
+    "headline": "Celebrant wins regional Wedding Industry Award for third year running",
+    "publisher": "Reading Chronicle",
+    "date": "2026-11-20T12:30:00+00:00"
+   },
+   {
+    "query": "wedding industry",
     "headline": "Norfolk DJ business honoured at awards after nomination from clients",
     "publisher": "EDP24",
     "date": "2026-11-20T08:19:00+00:00"
    },
    {
     "query": "wedding industry",
-    "headline": "Geilsland Estate in Beith wins top honour at Wedding Industry Awards",
-    "publisher": "Ardrossan and Saltcoats Herald",
-    "date": "2026-11-07T08:00:00+00:00"
+    "headline": "Isle of Wight wedding company named finalist in industry awards",
+    "publisher": "Isle of Wight County Press",
+    "date": "2026-11-18T08:00:00+00:00"
    },
    {
     "query": "wedding industry",
@@ -8890,6 +8832,12 @@
    },
    {
     "query": "viral wedding TikTok",
+    "headline": "Bride reportedly asks bridesmaid to gain 120 pounds TikTok video, explained",
+    "publisher": "The Mary Sue",
+    "date": "2026-11-04T08:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
     "headline": "Kim Kardashian Promises Bride Custom Bottle of Discontinued KKW Gardenia Perfume for Wedding",
     "publisher": "Complex",
     "date": "2026-11-20T22:36:18+00:00"
@@ -8902,15 +8850,15 @@
    },
    {
     "query": "viral wedding TikTok",
-    "headline": "Bride Allegedly Asked Her Bridesmaid to Gain 120 Pounds So She'd Look Skinnier at Her Wedding",
-    "publisher": "VICE",
-    "date": "2026-11-07T08:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
     "headline": "Groom slammed for pulling ‘highly inappropriate’ stunt at the altar",
     "publisher": "New York Post",
     "date": "2026-11-02T08:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
+    "headline": "The Woman Who Went Viral For Breaking Miley Cyrus’s Strict Dress Code At Her Wedding Has Been Identified — And Now Everybody Feels Bad",
+    "publisher": "BuzzFeed",
+    "date": "2026-11-23T11:22:20+00:00"
    },
    {
     "query": "viral wedding TikTok",
@@ -8920,21 +8868,15 @@
    },
    {
     "query": "viral wedding TikTok",
+    "headline": "Orphan Chinese man invites strangers to his wedding after fearing few people would attend; more than 10,0",
+    "publisher": "The Times of India",
+    "date": "2026-11-03T08:00:00+00:00"
+   },
+   {
+    "query": "viral wedding TikTok",
     "headline": "Cross-cultural joy: Newlyweds' traditional welcome celebration goes viral",
     "publisher": "Jacaranda FM",
     "date": "2026-11-13T08:00:00+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "Miley Cyrus’ viral wedding guest sparks a family response after her yellow-dress mishap: Who is Belgica Vargas?",
-    "publisher": "MARCA",
-    "date": "2026-11-24T20:56:16+00:00"
-   },
-   {
-    "query": "viral wedding TikTok",
-    "headline": "20,000 strangers flock to Chinese man's wedding, turning small town into tourist hotspot",
-    "publisher": "VnExpress International",
-    "date": "2026-11-02T08:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -8950,21 +8892,21 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Everything that’s wrong with the world or the best decision you could make for your wedding? Content creator’s award success",
-    "publisher": "St Albans Times",
-    "date": "2026-11-25T16:38:55+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Miley Cyrus Chooses Chopard for Her Wedding Jewels",
-    "publisher": "nationaljeweler.com",
-    "date": "2026-11-24T19:03:10+00:00"
+    "headline": "The Viral “Stop the Wedding” Trend Is a Reminder That It’s Never Too Late to Walk Away",
+    "publisher": "Cosmopolitan",
+    "date": "2026-11-05T08:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
     "headline": "Everything You Need to Know About Miley Cyrus’s New Husband, Maxx Morando",
     "publisher": "Harper's BAZAAR",
     "date": "2026-11-23T20:03:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "Miley Cyrus Chooses Chopard for Her Wedding Jewels",
+    "publisher": "nationaljeweler.com",
+    "date": "2026-11-24T19:03:10+00:00"
    },
    {
     "query": "wedding Instagram trend",
@@ -8980,33 +8922,33 @@
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Wyndham Clark's wedding proposal wasn't your typical staged Instagram nonsense, Sexy Dexy dances & Jerry's mad",
-    "publisher": "Fox News",
-    "date": "2026-11-16T08:00:00+00:00"
+    "headline": "People Name the Wedding Trends They Think Miss the Point, From Black-Tie Farm Weddings to Weeklong Bachelorettes",
+    "publisher": "Yahoo",
+    "date": "2026-11-26T14:20:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "25 Best Dress Brands To Know For Every Occasion in 2026",
+    "headline": "The Best British Jewellery Brands To Have On Your Radar, From Missoma To Completedworks",
     "publisher": "ELLE",
-    "date": "2026-11-23T08:00:00+00:00"
+    "date": "2026-10-30T07:00:00+00:00"
    },
    {
     "query": "wedding Instagram trend",
-    "headline": "Miley Cyrus, Maxx Morando marry in Palm Springs wedding",
-    "publisher": "Boston 25 News",
-    "date": "2026-11-23T18:55:03+00:00"
+    "headline": "Anirudh-Kavya Wedding: From Star-Studded Guests To A Traditional Tamil Vegetarian Feast",
+    "publisher": "Curly Tales",
+    "date": "2026-11-12T08:00:00+00:00"
+   },
+   {
+    "query": "wedding Instagram trend",
+    "headline": "At wedding of Bihar MLA’s daughter: 50 lakh gulab jamuns, helipads, 4 lakh guests",
+    "publisher": "The Indian Express",
+    "date": "2026-11-24T08:00:18+00:00"
    },
    {
     "query": "wedding Instagram trend",
     "headline": "Meet the Only 12 Jewelry Brands You Need to Know in 2026",
     "publisher": "Glamour",
     "date": "2026-10-28T07:00:00+00:00"
-   },
-   {
-    "query": "wedding Instagram trend",
-    "headline": "Newlywed Bride Makes Matcha For Pehli Rasoi, Netizens Call Her The “Coolest Bride” Ever",
-    "publisher": "Curly Tales",
-    "date": "2026-11-25T10:48:56+00:00"
    },
    {
     "query": "Pinterest wedding trends",
@@ -9052,9 +8994,9 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "The Best Wedding Venues In London: 21 Places To Say ‘I Do’",
-    "publisher": "Country and Town House",
-    "date": "2026-11-17T07:27:52+00:00"
+    "headline": "‘Grand re-opening’ of historic manor in Warwick as exclusive-use wedding venue",
+    "publisher": "Warwick Nub News",
+    "date": "2026-11-26T12:36:17+00:00"
    },
    {
     "query": "luxury wedding venue opening",
@@ -9070,14 +9012,86 @@
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "GOWER: King Arthur Hotel named best wedding venue in Wales",
-    "publisher": "Swansea Bay News",
-    "date": "2026-11-14T08:00:00+00:00"
+    "headline": "Wedding venue celebrates team being named award-winning during 20th anniversary year",
+    "publisher": "Northampton Chronicle and Echo",
+    "date": "2026-11-26T13:09:00+00:00"
    },
    {
     "query": "luxury wedding venue opening",
-    "headline": "Lake District venue crowned North West’s best wedding hotel",
-    "publisher": "Cumbria Crack",
+    "headline": "Winter wedding venues: The cosiest places to say 'I do' in the UK",
+    "publisher": "SquareMeal",
+    "date": "2026-11-03T08:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Ceredigion hotel wins wedding venue award",
+    "publisher": "Cambrian News",
+    "date": "2026-11-26T13:33:50+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "The best wedding guest suits for winter 2026, and how to wear them",
+    "publisher": "British GQ",
+    "date": "2026-11-06T08:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "One Marylebone Launches Brand New ‘Regency’ Wedding Package",
+    "publisher": "Luxury Hospitality Magazine",
+    "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Mandy Marie Events Shares Expert Insights on Luxury Destination Weddings for 2027-2028",
+    "publisher": "Yahoo Finance",
+    "date": "2026-11-24T19:00:00+00:00"
+   },
+   {
+    "query": "luxury wedding venue opening",
+    "headline": "Vogue Retail: Bridal. 22 Wedding Must-Haves For All Brides-to-Be",
+    "publisher": "Vogue",
+    "date": "2026-11-17T08:00:00+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "Europe Destination Wedding Market Size, Share, Trends 2036",
+    "publisher": "Future Market Insights",
+    "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "A perfect destination is no longer enough. Here’s what makes a wedding stand out today",
+    "publisher": "Vogue Adria",
+    "date": "2026-11-21T11:00:56+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "2027 wedding trends revealed: From noughties' nostalgia to the groom brooch",
+    "publisher": "Metro.co.uk",
+    "date": "2026-11-05T08:00:00+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "The Ballgown Wedding Dress Is Back – And Bigger Than Ever",
+    "publisher": "British Vogue",
+    "date": "2026-10-29T07:00:00+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "The best wedding guest suits for winter 2026, and how to wear them",
+    "publisher": "British GQ",
+    "date": "2026-11-06T08:00:00+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "Miley Cyrus Debuts Her Sculptural Wedding Band, A Bold Twist On The Classic Bridal Jewellery Trend",
+    "publisher": "ELLE",
+    "date": "2026-11-25T16:06:08+00:00"
+   },
+   {
+    "query": "destination wedding trend",
+    "headline": "Wedding Dress Shopping Online Is the New Way—Here’s Where to Find the Chicest Looks",
+    "publisher": "Brides",
     "date": "2026-11-13T08:00:00+00:00"
    }
   ],
