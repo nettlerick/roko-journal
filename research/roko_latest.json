@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T10:47:18+00:00",
+ "generated": "2026-11-27T14:58:41+00:00",
  "stats": {
   "period": "October 2026",
   "searches": 101,
@@ -52,7 +52,7 @@
  },
  "current_month": {
   "period": "November 2026",
-  "searches": 2,
+  "searches": 5,
   "searches_by_category": [],
   "searches_by_place": [],
   "searches_by_guest_count": [],

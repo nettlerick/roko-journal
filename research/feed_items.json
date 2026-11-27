@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.vogue.com/article/holiday-wedding-guest-dresses",
+  "title": "30 Sparkling, Fringed, and Pleated Holiday Wedding Guest Dresses for Every Festive Fête",
+  "summary": "Do you have a holiday wedding coming up? From gold lamé to swishy fringe, these festive gowns cover every dress code, from brands like Kallmeyer, J. Crew, and Tory Burch.",
+  "date": "2026-11-27T11:00:00+00:00",
+  "publisher": "Vogue",
+  "kind": "luxury"
+ },
+ {
+  "url": "https://www.hospitalitynet.org/explainer/4135642/what-actually-moves-direct-bookings-for-independent-hotels",
+  "title": "What actually moves direct bookings for independent hotels",
+  "summary": "A practical guide for independent hoteliers covering distribution strategy, dynamic pricing, booking engine optimisation, and demand generation to reduce OTA dependency and grow direct revenue.",
+  "date": "2026-11-27T11:00:00+00:00",
+  "publisher": "Hospitality Net",
+  "kind": "travel"
+ },
+ {
   "url": "https://skift.com/2026/11/27/agodas-coo-on-ai-booking-nobody-knows-the-business-model-yet/",
   "title": "Agoda’s COO on AI Booking: ‘Nobody Knows’ the Business Model Yet",
   "summary": "Agoda wants to win AI agents' business the way it wins travelers': on price, speed and reliability. What it can't say yet is what those agents will eventually cost it, and that answer will matter more to its margins than any integration.",
@@ -22,6 +38,42 @@
   "date": "2026-11-27T09:00:00+00:00",
   "publisher": "Hospitality Net",
   "kind": "travel"
+ },
+ {
+  "url": "https://www.bustle.com/style/2027-wedding-dress-trends",
+  "title": "6 Dramatic Wedding Dress Trends Worth Making A Scene For In 2027",
+  "summary": "From Carrie Bradshaw-worthy rosettes to edgy cat-eye necklines, here are the six biggest maximalist 2027 wedding dress trends to know.",
+  "date": "2026-11-27T05:02:00+00:00",
+  "publisher": "Bustle",
+  "kind": "news",
+  "query": "wedding trends"
+ },
+ {
+  "url": "https://www.conference-news.co.uk/news/ukevents-welcomes-dcms-committee-report-on-major-events/",
+  "title": "UKEVENTS welcomes DCMS Committee report on major events",
+  "summary": "UKEVENTS has welcomed the publication of The House of Commons Digital, Culture, Media and Sport Committee's report on major events further strengthens the case for greater recognition of the UK events ...",
+  "date": "2026-11-27T04:23:00+00:00",
+  "publisher": "Conference News",
+  "kind": "news",
+  "query": "events industry UK"
+ },
+ {
+  "url": "https://www.theweek.in/news/tourism/2026/11/27/oman-eyes-a-bigger-slice-of-indias-destination-wedding-market.html",
+  "title": "Oman eyes a bigger slice of India's destination wedding market",
+  "summary": "Indian weddings in Oman are rapidly gaining traction as the Sultanate positions itself as an accessible, picturesque alternative to traditional luxury destinations across the Middle East and Southeast ...",
+  "date": "2026-11-27T03:46:00+00:00",
+  "publisher": "The Week",
+  "kind": "news",
+  "query": "destination wedding"
+ },
+ {
+  "url": "https://www.inventiva.co.in/trends/top-10-best-destination-management-companies-in-india-in-2027/",
+  "title": "Top 10 Best Destination Management Companies in India in 2027",
+  "summary": "India's tourism and hospitality industry has witnessed considerable transformation, supported by growing international tourist interest, improved ...",
+  "date": "2026-11-27T02:46:00+00:00",
+  "publisher": "Inventiva",
+  "kind": "news",
+  "query": "destination wedding"
  },
  {
   "url": "https://www.msn.com/en-in/news/other/wedding-kangana-ritual-meaning-sacred-items-state-wise-names/ar-AA2ilSmm",
@@ -58,6 +110,15 @@
   "publisher": "Times Now on MSN",
   "kind": "news",
   "query": "wedding trends"
+ },
+ {
+  "url": "https://www.msn.com/en-in/money/general/indore-s-wedding-industry-eyes-rs-1-000-crore-business-this-season/vi-AA2ilYAG",
+  "title": "Indore's wedding industry eyes Rs 1,000 crore business this season",
+  "summary": "VO: The sounds of the shehnai, DJ beats and bustling banquet halls with lavish food spreads... The Great Indian wedding season is underway, and it's boom time for the wedding industry in Indore...",
+  "date": "2026-11-26T18:38:00+00:00",
+  "publisher": "Press Trust of India on MSN",
+  "kind": "news",
+  "query": "wedding season India"
  },
  {
   "url": "https://www.msn.com/en-gb/travel/general/landmark-north-east-hotel-applies-for-licence-to-bring-weddings-back-to-venue/ar-AA2ijsYe",
@@ -488,6 +549,15 @@
  },
  {
   "url": "https://www.msn.com/en-gb/news/other/meet-the-houghton-wedding-cake-designer-named-best-in-north-east-and-yorkshire/ar-AA2icxKl",
+  "title": "Meet the Houghton wedding cake designer named best in North East and Yorkshire",
+  "summary": "The award was the icing on the cake after a busy wedding season.",
+  "date": "2026-11-25T05:33:11+00:00",
+  "publisher": "Sunderland Echo on MSN",
+  "kind": "news",
+  "query": "wedding industry UK"
+ },
+ {
+  "url": "https://www.msn.com/en-gb/food-and-drink/general/meet-the-houghton-wedding-cake-designer-named-best-in-north-east-and-yorkshire/ar-AA2icxKl",
   "title": "Meet the Houghton wedding cake designer named best in North East and Yorkshire",
   "summary": "The award was the icing on the cake after a busy wedding season.",
   "date": "2026-11-25T05:33:11+00:00",
