@@ -64,7 +64,56 @@
  "series": "Journal",
  "date": "2026-11-28T02:08",
  "updated": "2026-11-28T02:08",
- "images": [],
+ "images": [
+  {
+   "credit": "Photo: Uberprutser, CC BY-SA 3.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Charron_Freres_Accordion.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "media/wedding-band-or-dj-how-to-decide/cover.webp",
+   "width": 2000,
+   "height": 1125,
+   "alt": "Musical instrument ready for a performance",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3804c9f1a37e52dce0af21039a6a4a04b19aba9d/media/wedding-band-or-dj-how-to-decide/cover.webp"
+  },
+  {
+   "credit": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-band-or-dj-how-to-decide/1.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Lobby of a luxury hotel",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3804c9f1a37e52dce0af21039a6a4a04b19aba9d/media/wedding-band-or-dj-how-to-decide/1.webp"
+  },
+  {
+   "credit": "Photo: Lanisha Cole, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Club_Tigerheat_on_the_Dance_Floor_with_Laser_Lights.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "media/wedding-band-or-dj-how-to-decide/2.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Stage lights over a dance floor",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3804c9f1a37e52dce0af21039a6a4a04b19aba9d/media/wedding-band-or-dj-how-to-decide/2.webp"
+  },
+  {
+   "credit": "Photo: Shixart1985, CC BY 2.0, via Wikimedia Commons",
+   "credit_url": "https://commons.wikimedia.org/wiki/File:Desk_with_notebook_pens_and_glasses.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "file": "media/wedding-band-or-dj-how-to-decide/3.webp",
+   "width": 1600,
+   "height": 1067,
+   "alt": "Notebook and pen on a planning desk",
+   "source": "commons",
+   "url": "https://cdn.jsdelivr.net/gh/nettlerick/roko-journal@3804c9f1a37e52dce0af21039a6a4a04b19aba9d/media/wedding-band-or-dj-how-to-decide/3.webp"
+  }
+ ],
  "categories": [
   "wedding-bands",
   "wedding-djs"
